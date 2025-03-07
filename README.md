@@ -30,10 +30,5 @@ The generated revision questions and answers as JSON are in the `outputs` direct
 ## Slide Deck
 The slide deck with the presentation is available at [Health Hackers Presentation](Health%20Hackers%20Presentation.pdf).
 
-## Other TO DOs
-
-- [x] Submission is in the `main` branch
-- [x] invite @matteohorvath - <https://github.com/matteohorvath>
-
 ## Problem description
 <https://voovo.craft.me/Z3TCJ7hxzd7p6r>
