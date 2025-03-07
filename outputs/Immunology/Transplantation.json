@@ -1,0 +1,455 @@
+{
+  "mainTopic": {
+    "title": "Transplantation",
+    "content_info": "",
+    "subTopics": [
+      {
+        "title": "ABO Matching",
+        "quizzes": [
+          {
+            "question": "What are the most common clinical manifestations of acute GVHD, and what organs are typically affected?",
+            "goodAnswer": "Acute GVHD typically presents with fever, macular erythroderma, and diarrhea due to T cell-mediated damage in the skin, liver, and intestines.",
+            "wrongAnswer_1": "Acute GVHD presents with fatigue, weight loss, and pancytopenia, primarily affecting the bone marrow, lymph nodes, and heart.",
+            "wrongAnswer_2": "It manifests as dyspnea, chest pain, and hemoptysis, with acute GVHD causing direct damage to the lungs, leading to inflammation and fibrosis.",
+            "wrongAnswer_3": "It usually presents with headache, blurred vision, and dizziness, as it primarily affects the central nervous system by attacking glial cells and neurons.",
+            "wrongAnswer_4": "Acute GVHD causes generalized weakness, abdominal pain, and vomiting due to widespread damage in the stomach, pancreas, and kidneys."
+          },
+          {
+            "question": "What is the fundamental basis of graft-versus-host disease (GVHD), and what are the primary target organs affected by this immune reaction?",
+            "goodAnswer": "Graft-versus-host disease (GVHD) arises from mature T cells within the graft recognizing host MHC molecules, leading to an inflammatory response in the skin, liver, and intestines. It is caused by donor-derived immunocompetent cells attacking the recipient's tissues.",
+            "wrongAnswer_1": "GVHD is triggered by the host's immune system attacking foreign MHC molecules in the transplanted graft, primarily affecting the heart, lungs, and kidneys. It occurs when the recipient's T cells recognize and destroy antigens from the donor tissue.",
+            "wrongAnswer_2": "Graft-versus-host disease develops when B cells within the graft differentiate into plasma cells that produce antibodies against the host's vascular endothelium, leading to widespread thrombosis and organ damage. The primary targets are the blood vessels of the transplanted organ.",
+            "wrongAnswer_3": "GVHD occurs due to a mismatch in minor histocompatibility antigens, causing a direct cytolysis of host cells by natural killer (NK) cells. It predominantly affects the nervous system, leading to neurological symptoms such as headache, dizziness, and weakness.",
+            "wrongAnswer_4": "It is a form of autoimmune disease triggered by environmental factors rather than immune cells from the donor. The affected organs are typically those with high metabolic activity, such as the brain, spinal cord, and pancreas."
+          },
+          {
+            "question": "How does HLA matching reduce the risk of acute rejection in transplantation, and what is the role of minor histocompatibility antigens in this process?",
+            "goodAnswer": "HLA matching reduces the chance of T cell recognition between the donor and recipient, decreasing acute rejection. Minor histocompatibility antigens can still trigger immune responses even with identical HLA types, leading to rejection in some cases.",
+            "wrongAnswer_1": "HLA matching ensures complete immune tolerance between donor and recipient, eliminating the need for immunosuppression in all cases. Minor histocompatibility antigens play no role in rejection, as T cells only recognize major HLA molecules.",
+            "wrongAnswer_2": "HLA matching increases the risk of acute rejection by presenting more targets for T cell activation. Minor histocompatibility antigens are not self-proteins but rather exogenous antigens that do not contribute to immune responses in transplantation.",
+            "wrongAnswer_3": "HLA matching is only effective when all HLA molecules are identical, and it completely prevents rejection. Minor histocompatibility antigens are not expressed on immune cells and therefore do not influence T cell activation or lead to rejection.",
+            "wrongAnswer_4": "HLA matching involves identifying compatible blood groups rather than MHC molecules. Minor histocompatibility antigens are only relevant in antibody-mediated rejection, not T cell-mediated rejection."
+          },
+          {
+            "question": "Why is immunosuppression generally still required even with HLA-identical sibling donors, and what is the rationale behind this decision?",
+            "goodAnswer": "Immunosuppression is required because of the potential for T cell sensitization to minor histocompatibility antigens, which can lead to chronic rejection. HLA-identical siblings still need immunosuppression to prevent this sensitization.",
+            "wrongAnswer_1": "Immunosuppression is needed because HLA-identical siblings often have different blood types, increasing the risk of hyperacute rejection from preformed antibodies. It is essential to ensure ABO compatibility before proceeding with transplantation.",
+            "wrongAnswer_2": "Even with HLA-identical siblings, immunosuppression is required to prevent autoimmune disease in the recipient. HLA matching alone does not guarantee immune tolerance, so routine immunosuppression is mandatory to avoid complications.",
+            "wrongAnswer_3": "HLA-identical siblings still need immunosuppression because the donor bone marrow contains mature T cells that can recognize and attack the recipient's tissues, leading to severe graft-versus-host disease. This necessitates routine immunosuppression to prevent such immune reactions.",
+            "wrongAnswer_4": "Immunosuppression is required due to the high likelihood of bacterial contamination during bone marrow harvesting and processing, making it essential to suppress the immune system to prevent infections rather than just rejection."
+          },
+          {
+            "question": "What makes bone marrow transplantation particularly susceptible to both host-versus-graft and graft-versus-host immune reactions?",
+            "goodAnswer": "Unlike solid organ transplantation, bone marrow transplantation involves the engraftment of hematopoietic stem cells, which differentiate into mature immune cells that can mount immune responses against the host tissues. This leads to both GVH and HVG reactions.",
+            "wrongAnswer_1": "Bone marrow transplantation does not involve immune cells, so it is not susceptible to GVH or HVG reactions. Instead, it only requires immunosuppression to prevent rejection of marrow-derived cells by the host immune system.",
+            "wrongAnswer_2": "The immunosuppressive drugs used in bone marrow transplantation completely eliminate both GVH and HVG reactions by suppressing all immune activity in the body, making it safe for any donor-recipient combination.",
+            "wrongAnswer_3": "Bone marrow transplantation only induces GVH disease, not HVG, because the implanted bone marrow cells are incapable of recognizing and attacking host tissues. This is due to the lack of T cell receptors on hematopoietic stem cells.",
+            "wrongAnswer_4": "The occurrence of both GVH and HVG reactions in bone marrow transplantation is independent of the donor's immune status, as the implanted marrow is always fully compatible with the recipient's immune system."
+          },
+          {
+            "question": "Why is it essential to select HLA-matched donors for allogeneic hematopoietic stem cell transplantation, and how does this impact the risk of GVHD?",
+            "goodAnswer": "HLA-matched donors reduce the likelihood of graft-versus-host disease (GVHD) because the immune cells in the graft are less likely to recognize the recipient's tissues as foreign. HLA-mismatched donors pose a higher risk of GVHD since their immune cells can react with the recipient's MHC molecules, leading to an inflammatory response against the host.",
+            "wrongAnswer_1": "HLA-matched donors are only required for vascularized organ transplants, not hematopoietic stem cell transplantation, as the immune response in bone marrow transplantation is minimal. HLA-mismatched donors can safely donate as long as they are ABO blood group compatible.",
+            "wrongAnswer_2": "HLA matching is irrelevant in stem cell transplantation because the procedure itself fully suppresses the host immune system, preventing any rejection. GVHD only occurs with bacterial infections, not immune reactions against the donor graft.",
+            "wrongAnswer_3": "Donors should always be HLA-mismatched to induce a graft-versus-tumor effect, which helps eliminate residual leukemia cells while reducing the risk of bacterial infections by boosting the recipient's immune system. HLA-matched donors increase the chances of acute rejection and make immunosuppression ineffective.",
+            "wrongAnswer_4": "HLA matching is crucial to prevent antibody-mediated hyperacute rejection, which occurs within hours of transplantation. In hematopoietic stem cell transplantation, HLA compatibility has no bearing on T cell-mediated rejection, as only B cells are involved in bone marrow transplantation."
+          },
+          {
+            "question": "Why is immunosuppression generally still required even with HLA-identical sibling donors, though the risk of rejection is lower compared to other donors?",
+            "goodAnswer": "Immunosuppression is required because minor histocompatibility antigens can still induce a T cell-mediated immune response, leading to rejection.",
+            "wrongAnswer_1": "HLA-identical siblings have different blood types, requiring immunosuppression to prevent antibody-mediated hyperacute rejection.",
+            "wrongAnswer_2": "Immunosuppression is needed because HLA genes are only 95% similar between siblings, making them completely HLA-matched.",
+            "wrongAnswer_3": "Even HLA-identical siblings will have different levels of cytokines, requiring immunosuppression to regulate immune function.",
+            "wrongAnswer_4": "HLA-identical siblings are at higher risk of developing opportunistic infections, necessitating routine immunosuppression after transplantation."
+          }
+        ]
+      },
+      {
+        "title": "Histocompatibility",
+        "quizzes": [
+          {
+            "question": "What are the primary targets of T cell-mediated graft rejection, and how do they influence immune recognition in transplantation?",
+            "goodAnswer": "Graft rejection is primarily mediated by T cells targeting HLA molecules, which display peptides from the donor. HLA-A and HLA-B molecules present antigens to CD8+ T cells, while HLA-DR, -DQ, and -DP present antigens to CD4+ T cells. This interaction between T cells and HLA molecules determines immune recognition in transplantation.",
+            "wrongAnswer_1": "T cell-mediated graft rejection targets only minor histocompatibility antigens, which are self-proteins loaded into HLA peptide grooves. HLA molecules play no role in this process, as T cells recognize these antigens directly without HLA involvement.",
+            "wrongAnswer_2": "Graft rejection is entirely antibody-mediated, with antibodies produced by B cells targeting HLA molecules. T cells are not involved in this process, as HLA molecules only present antigens to B cells, not T cells. This antibody-dependent recognition occurs within hours of transplantation.",
+            "wrongAnswer_3": "HLA molecules are not critical for immune recognition in transplantation. Instead, natural killer (NK) cells recognize allogeneic MHC molecules, leading to graft rejection. HLA molecules simply serve as structural components with no direct role in T cell activation or antigen presentation.",
+            "wrongAnswer_4": "T cells only recognize alloantigens presented by macrophages and dendritic cells, making HLA molecules irrelevant in this process. HLA molecules function solely as markers of self and do not participate in T cell activation. This direct interaction between T cells and alloantigens leads to graft rejection."
+          },
+          {
+            "question": "How does the toxicity of the conditioning regimen in bone marrow transplantation affect the outcome of the procedure?",
+            "goodAnswer": "It can damage the bone marrow, increasing the risk of infection and complications.",
+            "wrongAnswer_1": "Toxicity from the conditioning regimen does not affect bone marrow function and only targets immune cells.",
+            "wrongAnswer_2": "A toxic conditioning regimen makes the patient immune to infection and improves graft survival.",
+            "wrongAnswer_3": "It stimulates T cell activation, which prevents rejection and promotes immune tolerance.",
+            "wrongAnswer_4": "Toxic conditioning regimens are designed to enhance immune function and reduce the need for immunosuppression."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of acute versus chronic GVHD after bone marrow transplantation?",
+            "goodAnswer": "Chronic GVHD is characterized by hypergammaglobulinemia with elevated levels of IgG and IgM",
+            "wrongAnswer_1": "Acute GVHD presents within the first 100 days, while chronic GVHD develops after day 100",
+            "wrongAnswer_2": "T lymphocytes in the donor marrow initiate immune responses in graft versus host disease (GVHD)",
+            "wrongAnswer_3": "Acute GVHD primarily affects the skin, liver, and intestines, while chronic GVHD can involve multiple organs like the eyes, mouth, and lungs",
+            "wrongAnswer_4": "Corticosteroids are used to treat both acute and chronic GVHD by suppressing immune responses"
+          },
+          {
+            "question": "Why is it necessary to perform HLA typing, PCR amplification and sequencing of MHC genes, and mixed lymphocyte reaction (MLR) in histocompatibility testing?",
+            "goodAnswer": "HLA typing identifies the specific alleles of HLA antigens, PCR amplification and sequencing provide detailed information about the specific HLA genes, and MLR assesses T cell reactivity against donor antigens.",
+            "wrongAnswer_1": "HLA typing determines antibody production, PCR amplification identifies allogeneic differences, and MLR measures cytokine levels to detect immune suppression.",
+            "wrongAnswer_2": "HLA typing evaluates immune cell differentiation, amplification identifies genetic mutations, and MLR assesses B cell proliferation in response to foreign antigens.",
+            "wrongAnswer_3": "HLA typing measures thymus activity, PCR sequencing detects autoimmune reactions, and MLR determines the stability of immunosuppressive drugs over time.",
+            "wrongAnswer_4": "HLA typing identifies the size of the thymus, amplification measures T cell proliferation, and MLR assesses the function of neutrophils in recognizing pathogens."
+          },
+          {
+            "question": "Which statement accurately describes the role of minor histocompatibility antigens in transplant immunology?",
+            "goodAnswer": "Minor histocompatibility antigens are self-proteins loaded into HLA peptide grooves that can trigger immune responses even with identical HLA antigens.",
+            "wrongAnswer_1": "Minor histocompatibility antigens are only relevant in cases of T cell anergy and do not contribute to immune activation.",
+            "wrongAnswer_2": "They represent foreign antigens that cannot be recognized by the host immune system, making them irrelevant in transplantation.",
+            "wrongAnswer_3": "Minor histocompatibility antigens induce hyperacute rejection by activating B cells to produce antibodies against HLA-A and HLA-B antigens within hours of transplantation.",
+            "wrongAnswer_4": "They are a group of antigens that are always recognized as self, preventing immune activation and ensuring graft survival."
+          },
+          {
+            "question": "How can we distinguish between acute and chronic graft versus host disease (GVHD)?",
+            "goodAnswer": "Acute GVHD occurs within the first 100 days, primarily affecting the skin, liver, and intestines, while chronic GVHD typically develops after day 100 and resembles autoimmune diseases, affecting organs like the skin, eyes, mouth, liver, GI tract, and lungs.",
+            "wrongAnswer_1": "Acute GVHD presents with systemic lupus erythematosus (SLE)-like symptoms, while chronic GVHD manifests as localized skin rash without affecting internal organs.",
+            "wrongAnswer_2": "Both acute and chronic GVHD occur within the first 30 days, but acute GVHD primarily affects the lungs and kidneys, while chronic GVHD targets the liver and intestines.",
+            "wrongAnswer_3": "Acute GVHD is characterized by weight gain, smooth muscle hypertrophy, and a lack of immune cell infiltration in affected tissues, while chronic GVHD presents with severe immune deficiency due to prolonged immunosuppression.",
+            "wrongAnswer_4": "We cannot distinguish between acute and chronic GVHD based on symptoms alone, as both involve widespread inflammation in multiple organ systems, including the brain, heart, and pancreas."
+          },
+          {
+            "question": "What are the most common clinical manifestations of acute versus chronic GVHD after bone marrow transplantation?",
+            "goodAnswer": "Acute GVHD presents within the first 100 days, primarily affecting the skin, liver, and intestines, while chronic GVHD develops after day 100 and resembles autoimmune diseases, affecting organs like the skin, eyes, mouth, liver, GI tract, and lungs.",
+            "wrongAnswer_1": "Acute GVHD presents within the first 100 days, primarily affecting the lungs, heart, and kidneys, while chronic GVHD develops after day 100 and resembles autoimmune diseases, affecting organs like the skin, eyes, mouth, liver, GI tract, and lungs.",
+            "wrongAnswer_2": "Acute GVHD presents within the first 100 days, primarily affecting the brain, spinal cord, and peripheral nerves, while chronic GVHD develops after day 100 and affects only the immune system, leading to widespread immunosuppression.",
+            "wrongAnswer_3": "Acute GVHD presents within the first 100 days, primarily affecting the skin, liver, and intestines, while chronic GVHD develops after day 100 and causes severe bone marrow aplasia, leading to life-threatening infections.",
+            "wrongAnswer_4": "Acute GVHD presents within the first 100 days, primarily affecting the eyes, ears, and nose, while chronic GVHD develops after day 100 and leads to widespread thrombosis and organ damage."
+          },
+          {
+            "question": "Which of the following statements correctly describes a key characteristic of non-steroidal anti-inflammatory drugs (NSAIDs) in transplant immunosuppression?",
+            "goodAnswer": "NSAIDs reduce inflammation by inhibiting prostaglandin and leukotriene synthesis, which decreases vasodilation and vascular permeability.",
+            "wrongAnswer_1": "NSAIDs directly inhibit T cell activation and cytokine production, leading to immunosuppression.",
+            "wrongAnswer_2": "NSAIDs work by blocking DNA synthesis, which prevents immune cells from proliferating.",
+            "wrongAnswer_3": "NSAIDs increase the production of pro-inflammatory mediators, enhancing the immune response.",
+            "wrongAnswer_4": "NSAIDs neutralize antibodies produced by B cells, thereby suppressing the immune system."
+          },
+          {
+            "question": "What are the consequences of failing to achieve HLA-matched bone marrow transplantation?",
+            "goodAnswer": "Increased risk of GVHD due to T cell alloreactivity against host MHC molecules, leading to potential organ damage and immune dysregulation.",
+            "wrongAnswer_1": "Recipients will always experience hyperacute rejection within hours of transplantation, resulting in immediate graft loss.",
+            "wrongAnswer_2": "Failing HLA-matched bone marrow transplantation guarantees a successful outcome as long as the donor is ABO blood group O.",
+            "wrongAnswer_3": "It leads to the direct activation of B cells by allogeneic MHC molecules, causing widespread antibody production and systemic inflammation.",
+            "wrongAnswer_4": "It means that post-transplant immunosuppression is no longer necessary, as the body will naturally tolerate the foreign bone marrow without treatment."
+          }
+        ]
+      },
+      {
+        "title": "Immunosuppression",
+        "quizzes": [
+          {
+            "question": "What are the most common clinical manifestations of acute, as opposed to chronic, graft-versus-host disease (GVHD)?",
+            "goodAnswer": "Acute GVHD typically presents with skin, liver, and intestinal involvement.",
+            "wrongAnswer_1": "Acute GVHD primarily affects the lungs, kidneys, and central nervous system.",
+            "wrongAnswer_2": "It manifests as weight gain, hyperlipidemia, and hypercalcemia.",
+            "wrongAnswer_3": "It causes widespread muscle weakness, fatigue, and headaches.",
+            "wrongAnswer_4": "It induces severe anemia, thrombocytopenia, and neurological dysfunction."
+          },
+          {
+            "question": "Why is it that even with well-matched donors, post-transplant immunosuppression is generally needed in organ transplantation?",
+            "goodAnswer": "Because of the inevitable minor histocompatibility differences between any two individuals, which can trigger immune responses.",
+            "wrongAnswer_1": "Because allogeneic MHC molecules are highly conserved between individuals, leading to consistent immune activation.",
+            "wrongAnswer_2": "Because T cells are naturally hyperreactive to all donor HLA antigens, requiring high immunosuppression in all cases.",
+            "wrongAnswer_3": "Because HLA-identical donors are rare, and most transplants involve only partially matched donors.",
+            "wrongAnswer_4": "Because immunosuppression is always needed to prevent hyperacute rejection mediated by pre-existing antibodies."
+          },
+          {
+            "question": "Which of the following statements correctly describes a key difference between acute and chronic graft-versus-host disease (GVHD)?",
+            "goodAnswer": "Acute GVHD typically presents within the first 100 days and primarily affects skin, liver, and intestines, while chronic GVHD presents later and can involve multiple organs, including the lungs, eyes, and GI tract.",
+            "wrongAnswer_1": "Acute GVHD is always fatal, while chronic GVHD can be effectively treated with supportive therapy alone.",
+            "wrongAnswer_2": "Chronic GVHD is a systemic immune response that occurs only after a successful bone marrow transplant, while acute GVHD is an immune reaction to routine blood transfusions.",
+            "wrongAnswer_3": "Acute GVHD is caused by pre-existing antibodies in the host, while chronic GVHD is caused by T cell activation against minor histocompatibility antigens.",
+            "wrongAnswer_4": "Acute GVHD primarily affects internal organs such as the heart and brain, while chronic GVHD mainly targets the skin and lymph nodes."
+          },
+          {
+            "question": "What are the most common clinical manifestations of acute, as opposed to chronic, graft-versus-host disease (GVHD)?",
+            "goodAnswer": "Acute GVHD typically presents with skin rashes, diarrhea, and liver injury.",
+            "wrongAnswer_1": "Acute GVHD is characterized by dry eyes, mouth, and vaginal symptoms, leading to sicca-like syndrome.",
+            "wrongAnswer_2": "Common manifestations of acute GVHD include scleroderma, bronchiolitis obliterans, and fasciitis.",
+            "wrongAnswer_3": "Acute GVHD presents with only skin rashes, without significant liver or intestinal involvement.",
+            "wrongAnswer_4": "The diagnosis of acute GVHD relies solely on blood tests, as clinical symptoms are non-specific."
+          },
+          {
+            "question": "How do non-steroidal anti-inflammatory drugs (NSAIDs) and corticosteroids work in immunosuppression, and what are the primary differences in their mechanisms and applications in transplantation?",
+            "goodAnswer": "NSAIDs, while they suppress inflammation, do not directly inhibit immune cell function like corticosteroids. Corticosteroids work by blocking cytokine production and lymphocyte activation, making them more potent in immunosuppression. NSAIDs are primarily used for pain relief, while corticosteroids are used in organ transplantation to reduce immune responses and prevent rejection.",
+            "wrongAnswer_1": "Both NSAIDs and corticosteroids work by directly inhibiting T cell activation, making them equally effective in transplantation immunosuppression.",
+            "wrongAnswer_2": "NSAIDs block cytokine production, while corticosteroids suppress macrophage activity, leading to reduced inflammation and immune regulation in organ transplantation.",
+            "wrongAnswer_3": "Corticosteroids are more effective than NSAIDs in blocking B cell differentiation, making them superior in preventing antibody-mediated rejection.",
+            "wrongAnswer_4": "While NSAIDs reduce pain, they also effectively inhibit T cell proliferation, making them the preferred drug over corticosteroids in transplant therapy."
+          },
+          {
+            "question": "Which of the following is NOT true about the role of T cells in graft rejection and graft-versus-host disease (GVHD)?",
+            "goodAnswer": "T cells are responsible for both cellular and humoral immunity in transplantation, as they can directly kill target cells and produce antibodies against foreign HLA antigens\u200b",
+            "wrongAnswer_1": "Graft rejection and GVHD are primarily mediated by B cell-induced antibody production against host or donor antigens, while T cells play a minimal role\u200b",
+            "wrongAnswer_2": "T cells only recognize major histocompatibility complex (MHC) antigens and do not respond to minor histocompatibility antigens in transplantation\u200b",
+            "wrongAnswer_3": "Donor T cells in bone marrow grafts cannot cause GVHD, as they are fully suppressed before transplantation\u200b",
+            "wrongAnswer_4": "Acute GVHD is mediated by macrophages rather than T cells, as T cells only become active in chronic GVHD after repeated exposures to foreign antigens\u200b"
+          },
+          {
+            "question": "What is the rationale behind using a combination of immunosuppressive agents in organ transplantation, and what are the potential consequences of over-immunosuppression?",
+            "goodAnswer": "Combining drugs allows for lower individual doses, reducing toxicity. By targeting different immune pathways, it broadens the immunosuppressive effect. However, over-immunosuppression increases susceptibility to infections, especially opportunistic pathogens.",
+            "wrongAnswer_1": "Using multiple drugs always results in complete immune suppression, eliminating the need for other therapies like surgery. It also reduces the risk of side effects by distributing the toxicity evenly across different systems.",
+            "wrongAnswer_2": "Combining immunosuppressive agents is only necessary when dealing with high-risk patients who have pre-existing autoimmune disorders. In most cases, monotherapy is sufficient to prevent rejection.",
+            "wrongAnswer_3": "The rationale behind using a combination of immunosuppressive drugs is to reduce the overall cost of treatment. Each drug individually has the same effect, so combining them does not provide any additional benefit but rather lowers expenses.",
+            "wrongAnswer_4": "Over-immunosuppression only affects the skin and does not increase susceptibility to systemic infections. It primarily causes dryness, redness, and minor rashes without affecting internal organs or the immune system's ability to fight off pathogens."
+          },
+          {
+            "question": "Which of the following statements correctly describes the relationship between HLA matching and post-transplant immunosuppression?",
+            "goodAnswer": "HLA-identical siblings do not require immunosuppression, while other well-matched donors still need it to prevent rejection.",
+            "wrongAnswer_1": "HLA-identical siblings require higher doses of immunosuppressants compared to unrelated donors because of potential immune dysregulation.",
+            "wrongAnswer_2": "Post-transplant immunosuppression is only needed for unrelated donors, as siblings always have compatible HLA antigens.",
+            "wrongAnswer_3": "Immunosuppression is not needed in any case as long as the donor and recipient are HLA-matched, regardless of their relationship.",
+            "wrongAnswer_4": "HLA matching completely eliminates the risk of rejection, so all patients, including those with unrelated donors, can forgo immunosuppression."
+          }
+        ]
+      },
+      {
+        "title": "Bone Marrow Transplantation",
+        "quizzes": [
+          {
+            "question": "What is the most common clinical presentation of acute GVHD, and what are the primary target organs?",
+            "goodAnswer": "Acute GVHD typically presents within the first 100 days after transplantation and primarily targets the skin, liver, and intestines.",
+            "wrongAnswer_1": "Acute GVHD presents within the first 30 days, mainly affecting the lungs, kidneys, and brain.",
+            "wrongAnswer_2": "It usually occurs between days 100 and 200, with the heart, lungs, and pancreas as primary targets.",
+            "wrongAnswer_3": "It takes 6 months to a year after transplantation, and the symptoms rotate between the skin, muscles, and central nervous system.",
+            "wrongAnswer_4": "It is characterized by immediate onset within 24 hours, causing widespread damage to the liver, spleen, and bone marrow."
+          },
+          {
+            "question": "What is the only way to prevent antibody-mediated hyperacute rejection, and why does it guarantee compatibility?",
+            "goodAnswer": "Blood group O individuals can donate to any other blood group, and since they lack preformed antibodies, there is no risk of hyperacute rejection.",
+            "wrongAnswer_1": "Crossmatching all blood groups before transplantation eliminates the possibility of hyperacute rejection in all cases.",
+            "wrongAnswer_2": "Only individuals with blood group AB can receive organs from all other blood groups because they do not produce antibodies against A or B antigens.",
+            "wrongAnswer_3": "HLA typing, rather than ABO matching, is the only method to prevent hyperacute rejection, as it assesses T cell reactivity against foreign MHC molecules.",
+            "wrongAnswer_4": "Hyperacute rejection is caused by cytotoxic T lymphocytes, so ensuring ABO compatibility does not guarantee the absence of rejection."
+          },
+          {
+            "question": "What are the primary targets of acute GVHD, and what makes it clinically distinct from chronic GVHD?",
+            "goodAnswer": "Acute GVHD typically presents within the first 100 days post-transplant and primarily targets the skin, liver, and intestines. Unlike chronic GVHD, which develops after day 100 and resembles autoimmune diseases, acute GVHD is characterized by direct immune cell-mediated cytotoxicity.",
+            "wrongAnswer_1": "Acute GVHD targets the lungs, kidneys, and central nervous system, while chronic GVHD affects the musculoskeletal system, causing widespread pain and stiffness. It develops within the first 30 days and is immune to conventional immunosuppressive therapies.",
+            "wrongAnswer_2": "Acute GVHD primarily affects the heart and blood vessels, leading to chest pain, dizziness, and irregular heartbeat. Chronic GVHD, on the other hand, targets the liver and spleen, causing fatigue, weight loss, and recurrent infections. It typically occurs within the first 60 days and is diagnosed by measuring cytokine levels in the blood.",
+            "wrongAnswer_3": "Acute GVHD is characterized by a rapid onset (within 72 hours) and causes widespread organ damage, including the brain, spinal cord, and peripheral nerves. Chronic GVHD, which affects only the skin and mucous membranes, presents with mild symptoms such as redness and itching. It is diagnosed by examining blood cell counts and measuring antibody titers.",
+            "wrongAnswer_4": "Acute GVHD targets the lymphatic system, causing severe pain in lymph nodes and leading to a weakened immune response. Chronic GVHD, which affects the endocrine system, leads to hormonal imbalances and autoimmune disorders such as thyroiditis and diabetes. It typically occurs within the first 90 days and is associated with a higher risk of opportunistic infections."
+          },
+          {
+            "question": "How does corticosteroid therapy act in immunosuppression, and what are its potential side effects?",
+            "goodAnswer": "Corticosteroids inhibit antigen-driven differentiation of T cells and other immune cells by altering gene expression, leading to apoptosis of activated T cells. They suppress inflammatory cells and inhibit leukocyte emigration. However, prolonged use can cause fluid retention, weight gain, and bone mineral loss.",
+            "wrongAnswer_1": "Corticosteroids act by directly killing all dividing cells, including T and B cells, without affecting other cell types. They are used to eliminate antigen-specific clones and prevent immune responses but cause widespread tissue damage in the process.",
+            "wrongAnswer_2": "Corticosteroids only reduce inflammation by inhibiting the synthesis of cytokines such as IL-2 and TNF-alpha, with no effect on T cell differentiation or leukocyte migration. They do not alter gene expression or induce apoptosis of immune cells.",
+            "wrongAnswer_3": "While corticosteroids suppress inflammatory cells and inhibit leukocyte emigration, they do so by blocking the production of prostaglandins and leukotrienes, rather than acting on T cell differentiation or gene expression.",
+            "wrongAnswer_4": "Corticosteroids are designed to specifically target B cells, causing their apoptosis and leading to a deficiency in antibody production. This, in turn, weakens the immune system and increases susceptibility to infections."
+          },
+          {
+            "question": "What are the key characteristics of minor histocompatibility antigens in transplant rejection, and how do they impact immune responses?",
+            "goodAnswer": "Minor histocompatibility antigens are self-proteins presented in the HLA peptide groove; they induce immune responses when there is a genetic difference between the donor and recipient, leading to T cell activation against foreign HLA molecules. This can occur even when HLA antigens are identical.",
+            "wrongAnswer_1": "Minor histocompatibility antigens are alloantibodies produced by the host against the donor's blood group antigens; they cause hyperacute rejection by directly attacking vascular endothelium, leading to widespread thrombosis and graft loss. This occurs only when there is a mismatch in ABO blood groups between the donor and recipient.",
+            "wrongAnswer_2": "Minor histocompatibility antigens are T cells that recognize only the major histocompatibility complex (MHC) of the recipient; they do not react with donor HLA molecules and therefore play no role in transplant rejection. Instead, they remain dormant within the host and do not contribute to immune responses against the graft.",
+            "wrongAnswer_3": "Minor histocompatibility antigens are responsible for activating B cells against non-HLA antigens on the surface of graft cells; this leads to the production of antibodies that cause chronic rejection over time. HLA matching alone is sufficient to prevent acute rejection, as only T cells are involved in the initial immune response.",
+            "wrongAnswer_4": "Minor histocompatibility antigens consist of alloantigens presented by macrophages; they directly induce natural killer (NK) cell activation, leading to rapid lysis of the transplanted organ. This process happens within hours of transplantation and cannot be prevented by immunosuppressive therapy."
+          },
+          {
+            "question": "Why is it necessary to perform immunosuppressive therapy in all transplant pairs except identical twins, and what makes this therapy lifelong in most cases?",
+            "goodAnswer": "Immunosuppression is necessary because allogeneic individuals have different HLA antigens, leading to T cell activation against foreign HLA molecules. It is lifelong because HLA antigens cannot be completely matched, and even minor histocompatibility antigens can cause immune responses over time.",
+            "wrongAnswer_1": "Immunosuppression is only needed when HLA antigens are completely mismatched, as long as the donor and recipient are related. It is lifelong because HLA molecules are constantly changing, requiring ongoing therapy to maintain tolerance.",
+            "wrongAnswer_2": "Allogeneic individuals have the same HLA antigens, so immunosuppression is not required. However, since genetic backgrounds are never identical, minor histocompatibility antigens always lead to T cell activation, making lifelong therapy necessary in all cases.",
+            "wrongAnswer_3": "Immunosuppression is needed because HLA antigens are expressed differently in everyone. It is lifelong because HLA matching is impossible in unrelated individuals, and T cells will always recognize foreign antigens over time, requiring continuous therapy.",
+            "wrongAnswer_4": "While identical twins have the same HLA antigens, they still need immunosuppression because their immune systems are completely mismatched. This therapy remains lifelong as the body continuously produces antibodies against the donor tissue, requiring ongoing treatment."
+          },
+          {
+            "question": "What is the rationale behind using a combination of two or three different immunosuppressive drugs after organ transplantation, and what are the key considerations when selecting this drug combination?",
+            "goodAnswer": "Combining drugs allows for lower individual doses, reducing side effects while maintaining efficacy. Drugs with different mechanisms of action are chosen to target various immune pathways and prevent resistance. This approach also helps manage toxicity and tailor treatment to individual patients.",
+            "wrongAnswer_1": "Drug combinations are used to increase the overall immunosuppressive effect without considering side effects, as the goal is to completely suppress the immune system. Drugs are randomly selected as long as they act on T cells, and toxicity is assessed after therapy initiation.",
+            "wrongAnswer_2": "Combining immunosuppressants eliminates the need for HLA matching, as the cocktail induces generalized immune suppression. All patients receive the same drug combination, and side effects are managed by increasing corticosteroid doses.",
+            "wrongAnswer_3": "The rationale is to simplify treatment by using only one highly effective drug instead of multiple agents. Side effects are considered negligible when using a single drug, and treatment plans remain standardized for all transplant recipients.",
+            "wrongAnswer_4": "Immunosuppressive drug combinations are chosen only for economic reasons, as they reduce the overall cost of therapy by minimizing the need for different medications. All drugs are equally effective in suppressing immune responses, and side effects are similar across different combinations."
+          },
+          {
+            "question": "What makes non-steroidal anti-inflammatory drugs (NSAIDs) effective in reducing inflammation, and how does it affect immune cells?",
+            "goodAnswer": "NSAIDs reduce inflammation by inhibiting the synthesis of prostaglandins and leukotrienes, which are mediators of immune cell activation and vascular permeability. They do not directly kill immune cells like anti-metabolic drugs and do not act by altering gene expression like corticosteroids.",
+            "wrongAnswer_1": "NSAIDs directly kill all dividing cells, including T cells and B cells, by inhibiting nucleotide synthesis or alkylating DNA, which eliminates antigen-specific clones and prevents immune responses.",
+            "wrongAnswer_2": "NSAIDs act by suppressing inflammatory cell migration and inhibiting leukocyte emigration, while corticosteroids inhibit antigen-driven differentiation of T cells and other immune cells by altering gene expression, leading to apoptosis of activated T cells.",
+            "wrongAnswer_3": "NSAIDs enhance T cell activation and cytokine production, promoting immune cell proliferation and leading to increased inflammation in response to foreign antigens.",
+            "wrongAnswer_4": "NSAIDs act by blocking the release of histamine and serotonin from mast cells, reducing allergic reactions but having no effect on immune cell differentiation or cytokine production."
+          },
+          {
+            "question": "Why is it necessary to perform immunosuppressive therapy in all transplant pairs except identical twins, and what makes this therapy lifelong in most cases?",
+            "goodAnswer": "Immunosuppressive therapy is needed in all transplant pairs except identical twins because HLA antigens rarely match perfectly between individuals, leading to T cell activation against foreign HLA molecules. It is lifelong because of the constant threat of rejection from the recipient's immune system against the donor graft.",
+            "wrongAnswer_1": "Immunosuppressive therapy is only necessary when there is a significant mismatch in HLA antigens between the donor and the recipient, and it can be discontinued once the recipient's immune system has stabilized.",
+            "wrongAnswer_2": "It is used to prevent hyperacute rejection, which occurs when antibodies against A and B blood group antigens are formed in individuals with blood group O. Since HLA identical twins have the same genetic makeup, they do not require immunosuppression.",
+            "wrongAnswer_3": "Immunosuppression is essential in all cases because allogeneic bone marrow engraftment induces vigorous immune responses that cannot be controlled by the body's natural mechanisms. Even in identical twins, there is a risk of developing autoimmune diseases, necessitating lifelong therapy.",
+            "wrongAnswer_4": "It depends on the type of organ transplanted and the overall immune status of the recipient. For example, skin grafts do not require systemic immunosuppression, and individuals with severe immunodeficiency can tolerate allografts without treatment. In most cases, however, immunosuppression is needed to prevent rejection, but it can be discontinued once the graft has fully integrated into the recipient's body."
+          },
+          {
+            "question": "Which of the following is a non-steroidal anti-inflammatory drug (NSAID) used in immunosuppression, and what is its mechanism of action?",
+            "goodAnswer": "Indomethacin, it inhibits prostaglandin and leukotriene synthesis, reducing inflammation\u200b",
+            "wrongAnswer_1": "Prednisone, it suppresses T cell activation and cytokine production by blocking calcium channels\u200b",
+            "wrongAnswer_2": "Cyclosporine A, it acts by inhibiting DNA synthesis, leading to apoptosis of immune cells\u200b",
+            "wrongAnswer_3": "Tacrolimus, it binds to calcineurin and blocks T cell activation, but only in the presence of IL-2\u200b",
+            "wrongAnswer_4": "Adalimumab, it is a monoclonal antibody that directly targets and neutralizes TNF-\u03b1\u200b"
+          },
+          {
+            "question": "What are the primary targets of acute GVHD, and what makes it clinically distinct from chronic GVHD?",
+            "goodAnswer": "Acute GVHD typically develops within the first 100 days post-transplant, primarily targeting the skin, liver, and intestines. Chronic GVHD develops after day 100 and clinically resembles autoimmune diseases, affecting organs such as the skin (scleroderma), eyes, mouth, liver, GI tract, and lungs.",
+            "wrongAnswer_1": "Acute GVHD primarily targets internal organs such as the lungs, kidneys, and brain, while chronic GVHD affects the skin, liver, and intestines. It develops within the first 30 days post-transplant and resembles a systemic autoimmune disease.",
+            "wrongAnswer_2": "Chronic GVHD, which occurs within the first 72 hours after transplantation, primarily targets the bone marrow, leading to widespread inflammation. Acute GVHD, on the other hand, develops weeks to months later and affects only the liver and spleen.",
+            "wrongAnswer_3": "Acute GVHD mainly targets the lymph nodes and spleen, causing severe pain and swelling. Chronic GVHD, which occurs months to years after transplantation, is characterized by neurological symptoms such as headache, dizziness, and vision problems.",
+            "wrongAnswer_4": "Both acute and chronic GVHD primarily affect the skin, but acute GVHD causes widespread blistering and ulceration, while chronic GVHD leads to dryness, thickening, and hyperpigmentation. They both typically develop within the first 6 months post-transplant."
+          }
+        ]
+      },
+      {
+        "title": "Hematopoietic Stem Cell Transplantation",
+        "quizzes": [
+          {
+            "question": "What is the primary target of acute and chronic T cell mediated graft rejection?",
+            "goodAnswer": "HLA antigens on the donor organ",
+            "wrongAnswer_1": "Cytokines released from the host immune system",
+            "wrongAnswer_2": "Antibodies produced by the recipient against minor histocompatibility antigens",
+            "wrongAnswer_3": "Vascular endothelium of the recipient",
+            "wrongAnswer_4": "Graft versus host disease caused by mature T cells in the bone marrow"
+          },
+          {
+            "question": "Which of the following is NOT a routine immunosuppressive therapy in organ transplantation?",
+            "goodAnswer": "Non-steroidal anti-inflammatory drugs",
+            "wrongAnswer_1": "Corticosteroids, which impair the differentiation of T cells and inflammatory cells",
+            "wrongAnswer_2": "Anti-metabolic drugs such as cyclophosphamide, azathioprine, and mycophenolate mofetil, which kill all dividing cells",
+            "wrongAnswer_3": "Signaling inhibitors like cyclosporine and tacrolimus, which prevent T cell and B cell differentiation",
+            "wrongAnswer_4": "A combination of two or three drugs to provide broader coverage and reduce side effects"
+          },
+          {
+            "question": "What is a fundamental difference between acute and chronic GVHD after hematopoietic stem cell transplantation?",
+            "goodAnswer": "Acute GVHD is caused by mature T cells contaminating the marrow/stem cell preparation, while chronic GVHD resembles autoimmune diseases and develops after day 100",
+            "wrongAnswer_1": "Acute GVHD targets only the liver, while chronic GVHD affects multiple organs, including the skin, eyes, and lungs",
+            "wrongAnswer_2": "Acute GVHD is autoimmune in nature, while chronic GVHD is caused by a lack of immunosuppression",
+            "wrongAnswer_3": "Acute GVHD occurs after day 100, while chronic GVHD develops within the first 100 days",
+            "wrongAnswer_4": "Acute GVHD primarily affects the lungs and kidneys, while chronic GVHD only affects the liver and spleen"
+          },
+          {
+            "question": "Which of the following is NOT a routine immunosuppressive therapy in organ transplantation?",
+            "goodAnswer": "Non-steroidal anti-inflammatory drugs (NSAIDs), while used for pain management, are not routinely used to prevent rejection and would not be considered a standard immunosuppressive therapy.",
+            "wrongAnswer_1": "Corticosteroids, such as prednisone, are routinely used in transplant immunosuppression to impair T cell and inflammatory cell differentiation.",
+            "wrongAnswer_2": "Anti-metabolic drugs like cyclophosphamide and azathioprine act by killing all dividing cells, making them effective in preventing immune responses but with significant toxicity.",
+            "wrongAnswer_3": "Signaling inhibitors like belatacept block T cell and B cell differentiation by targeting specific receptors, reducing immune activation while sparing normal immune function.",
+            "wrongAnswer_4": "Tacrolimus and sirolimus are commonly used immunosuppressants that act by inhibiting calcineurin, thereby reducing cytokine production and lymphocyte proliferation."
+          },
+          {
+            "question": "What is the effect of HLA mismatch on T cell immune responses in organ transplantation?",
+            "goodAnswer": "HLA mismatches can cause T cell reactions against foreign HLA molecules, leading to graft rejection.",
+            "wrongAnswer_1": "HLA mismatch ensures acceptance of the graft by inducing tolerance.",
+            "wrongAnswer_2": "HLA matching is irrelevant, as only B cell immune responses determine graft rejection.",
+            "wrongAnswer_3": "A single HLA mismatch is sufficient to guarantee lifelong immunity against all future organ transplants.",
+            "wrongAnswer_4": "HLA mismatches only occur in unrelated donors and not in family members."
+          },
+          {
+            "question": "Why is ABO blood group matching necessary before vascularized organ transplantation, and what happens if it is disregarded?",
+            "goodAnswer": "ABO matching ensures that preformed antibodies do not attack the graft, preventing endothelial damage, thrombosis, and ultimately, graft loss. It is essential to select a graft from an ABO-compatible donor. For example, a blood group O individual, who has antibodies against A and B antigens, cannot receive organs from A, B, or AB blood group donors.",
+            "wrongAnswer_1": "ABO blood group is irrelevant in vascularized organ transplantation as long as the donor and recipient are HLA-identical, which guarantees immune tolerance. Only in cases of HLA mismatch does ABO compatibility become a factor.",
+            "wrongAnswer_2": "ABO matching is necessary to determine the appropriate immunosuppressive regimen for each patient, as different blood groups require tailored combinations of drugs to prevent rejection. It is not directly related to endothelial damage or thrombosis.",
+            "wrongAnswer_3": "While ABO compatibility is generally recommended, it is not a strict requirement for all organ transplants. Small amounts of preformed antibodies can be safely neutralized with additional immunosuppression, making it unnecessary to find a perfectly matched donor in all cases.",
+            "wrongAnswer_4": "ABO antigens are only expressed on white blood cells and do not play a significant role in vascularized organ transplantation. Therefore, ABO matching is not essential for preventing rejection in most cases. HLA compatibility is the primary factor determining graft survival."
+          },
+          {
+            "question": "How do corticosteroids exert their immunosuppressive effect in transplant recipients?",
+            "goodAnswer": "Corticosteroids inhibit the differentiation of both T cells and inflammatory cells, reducing immune activation and controlling inflammation.",
+            "wrongAnswer_1": "Corticosteroids stimulate B cell proliferation, leading to increased production of antibodies and enhanced immune surveillance.",
+            "wrongAnswer_2": "They prevent T cell differentiation but have no effect on inflammatory cell differentiation, making them only partially effective in controlling inflammation.",
+            "wrongAnswer_3": "Corticosteroids enhance the activity of mast cells and macrophages, resulting in heightened immune responses and increased rejection.",
+            "wrongAnswer_4": "They directly kill all dividing cells in the bone marrow, effectively eliminating both normal and immune cells and putting patients at high risk for infections."
+          },
+          {
+            "question": "Which of the following statements correctly describes a key characteristic or consequence of allogeneic (HLA-mismatched) bone marrow transplantation in comparison to syngeneic transplantation?",
+            "goodAnswer": "Allogeneic transplantation requires rigorous HLA matching to minimize graft-versus-host disease (GVHD), while syngeneic transplantation does not, as the donor and recipient are genetically identical.",
+            "wrongAnswer_1": "Allogeneic transplantation does not necessitate immune suppression after transplantation, while syngeneic transplantation requires long-term immunosuppression to prevent rejection.",
+            "wrongAnswer_2": "Graft-versus-host disease (GVHD) is only observed in syngeneic transplantation, as the immune system is fully tolerant to allogeneic marrow.",
+            "wrongAnswer_3": "Allogeneic transplantation requires lower doses of immunosuppressive agents compared to syngeneic transplantation.",
+            "wrongAnswer_4": "HLA matching is not relevant in allogeneic transplantation, as the immune system automatically accepts foreign bone marrow."
+          },
+          {
+            "question": "What are the consequences of failing to achieve ABO compatibility before a vascularized organ transplant?",
+            "goodAnswer": "Failing to achieve ABO compatibility can lead to endothelial damage from preformed ABO antibodies, resulting in thrombosis and graft loss.",
+            "wrongAnswer_1": "ABO compatibility is not relevant in vascularized organ transplantation, as immune responses in this context are primarily mediated by T cells, not antibodies.",
+            "wrongAnswer_2": "A mismatch in ABO blood groups will always result in immediate rejection, regardless of immunosuppression, because the body will immediately recognize and destroy foreign tissue.",
+            "wrongAnswer_3": "ABO compatibility is only necessary for heart and lung transplants, not for other organs such as kidneys or livers.",
+            "wrongAnswer_4": "While ABO compatibility is important, it is less significant than HLA compatibility in determining the outcome of a transplant."
+          },
+          {
+            "question": "Why is it necessary to select HLA-matched donors for allogeneic bone marrow transplantation, and what happens if there is a significant HLA mismatch?",
+            "goodAnswer": "HLA-matched donors are necessary to minimize the risk of graft-versus-host disease (GVHD) and ensure immune tolerance. If there is a significant HLA mismatch, the chance of developing severe GVHD increases. This is because mature T cells within the donor bone marrow will recognize recipient tissues as foreign and mount an immune attack.",
+            "wrongAnswer_1": "HLA-matched donors are necessary to prevent acute rejection of the bone marrow by the recipient's immune system, leading to immediate graft loss. A significant HLA mismatch will result in the immediate destruction of the transplanted bone marrow without engraftment.",
+            "wrongAnswer_2": "HLA matching is only relevant for solid organ transplantation, not bone marrow transplantation. In bone marrow transplantation, the immune response is always suppressed, regardless of HLA compatibility, ensuring that the donor cells will readily engraft without causing GVHD.",
+            "wrongAnswer_3": "HLA-matched donors are necessary to ensure that the recipient's immune system can readily accept the foreign bone marrow without requiring immunosuppression. A significant HLA mismatch will still result in successful engraftment, but the patient will need higher doses of immunosuppressive therapy.",
+            "wrongAnswer_4": "HLA compatibility has no bearing on the outcome of bone marrow transplantation, as all donors are treated with the same standard immunosuppressive regimens. Graft-versus-host disease occurs randomly, regardless of HLA matching."
+          },
+          {
+            "question": "What are the consequences of failing to achieve ABO compatibility before a vascularized organ transplant?",
+            "goodAnswer": "ABO incompatibility leads to pre-formed antibodies that attack endothelial cells, causing microvascular thrombosis and rejection of the graft.",
+            "wrongAnswer_1": "ABO compatibility is not relevant in organ transplantation, as immune responses are only directed at HLA antigens.",
+            "wrongAnswer_2": "Failing to achieve ABO compatibility will result in the immediate detection of bacteria in the blood, leading to systemic infection.",
+            "wrongAnswer_3": "ABO blood group matching is only necessary for kidney transplants, not other organs.",
+            "wrongAnswer_4": "A mismatch in ABO groups leads to the suppression of T cell activity, resulting in delayed graft rejection."
+          },
+          {
+            "question": "Which of the following statements correctly describes a key characteristic or consequence of allogeneic (HLA-mismatched) bone marrow transplantation in comparison to syngeneic transplantation?",
+            "goodAnswer": "Allogeneic transplantation requires rigorous HLA matching to minimize the risk of GVHD, while syngeneic transplantation eliminates this risk due to identical HLA profiles.",
+            "wrongAnswer_1": "Allogeneic transplantation is always superior to syngeneic transplantation because it provides a wider range of donor availability.",
+            "wrongAnswer_2": "Syngeneic transplantation requires immunosuppression to prevent graft rejection, while allogeneic transplantation does not.",
+            "wrongAnswer_3": "Graft-versus-host disease (GVHD) is only possible after allogeneic transplantation and never occurs in syngeneic transplantation.",
+            "wrongAnswer_4": "Allogeneic transplantation has a lower risk of bacterial infections compared to syngeneic transplantation."
+          }
+        ]
+      },
+      {
+        "title": "Transplant Complications",
+        "quizzes": [
+          {
+            "question": "What is the primary reason why bone marrow transplantation often requires immunosuppressive therapy after the procedure?",
+            "goodAnswer": "To prevent graft-versus-host disease (GVHD), which occurs when donor T cells attack the recipient's tissues.",
+            "wrongAnswer_1": "To enhance the engraftment of transplanted bone marrow by suppressing the immune system.",
+            "wrongAnswer_2": "To treat bacterial infections that are common after bone marrow transplantation.",
+            "wrongAnswer_3": "To stimulate T cell activation and induce immune tolerance to the new marrow.",
+            "wrongAnswer_4": "To reduce inflammation and prevent acute rejection of the transplanted bone marrow."
+          },
+          {
+            "question": "What is the primary function of non-steroidal anti-inflammatory drugs (NSAIDs) in immunosuppressive therapy after transplantation?",
+            "goodAnswer": "NSAIDs reduce inflammation by inhibiting cyclooxygenase (COX) enzymes, which prevents the conversion of arachidonic acid into prostaglandins and thromboxanes, reducing vasodilation and platelet activation.",
+            "wrongAnswer_1": "NSAIDs act by suppressing T cell activation and cytokine production, reducing the immune response against the transplanted organ.",
+            "wrongAnswer_2": "NSAIDs primarily function by blocking the synthesis of antibodies, making them effective in preventing hyperacute rejection after transplantation.",
+            "wrongAnswer_3": "NSAIDs work by directly killing immune cells, such as macrophages and neutrophils, to reduce inflammation in the graft.",
+            "wrongAnswer_4": "NSAIDs inhibit mast cell degranulation, preventing the release of histamine and other pro-inflammatory mediators, which controls allergic reactions rather than immune suppression."
+          },
+          {
+            "question": "Which of the following is a non-steroidal anti-inflammatory drug (NSAID) used in immunosuppressive therapy after transplantation?",
+            "goodAnswer": "Non-steroidal anti-inflammatory drugs (NSAIDs) are not used routinely in immunosuppressive therapy. NSAIDs are used to reduce inflammation by blocking the synthesis of prostaglandins and leukotrienes.",
+            "wrongAnswer_1": "Corticosteroids, such as prednisone, act by suppressing T cell activation and cytokine production.",
+            "wrongAnswer_2": "Cyclosporine and tacrolimus inhibit immune signaling pathways, reducing T cell activation and cytokine release.",
+            "wrongAnswer_3": "Azathioprine and mycophenolate mofetil prevent immune cell proliferation by interfering with DNA synthesis.",
+            "wrongAnswer_4": "Sirolimus blocks interleukin-2 (IL-2) production, thereby suppressing T cell activation and immune responses."
+          },
+          {
+            "question": "How do corticosteroids function in the immunosuppressive regimen after transplantation?",
+            "goodAnswer": "Corticosteroids inhibit antigen-driven differentiation of T cells and other immune cells, reducing immune activation in the post-transplant period.",
+            "wrongAnswer_1": "Corticosteroids act by directly killing all immune cells, including T cells, B cells, and macrophages, to prevent rejection.",
+            "wrongAnswer_2": "They stimulate antibody production against donor HLA antigens, leading to faster graft acceptance.",
+            "wrongAnswer_3": "Corticosteroids enhance antigen presentation by dendritic cells, resulting in increased T cell activation and a stronger immune response.",
+            "wrongAnswer_4": "Corticosteroids only work by suppressing B cell differentiation, while leaving T cell function intact."
+          },
+          {
+            "question": "Why is it necessary to use immunosuppressive drugs in most cases of organ transplantation?",
+            "goodAnswer": "Immunosuppressive therapy is necessary to prevent both acute and chronic rejection of the transplanted organ.",
+            "wrongAnswer_1": "Immunosuppressive drugs are used to stimulate the immune system and enhance graft survival.",
+            "wrongAnswer_2": "It is only necessary for patients who have undergone bone marrow transplantation, not solid organ transplantation.",
+            "wrongAnswer_3": "It is used to treat autoimmune diseases but not to prevent organ rejection.",
+            "wrongAnswer_4": "It is designed to completely eliminate allogeneic immune responses without any side effects."
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

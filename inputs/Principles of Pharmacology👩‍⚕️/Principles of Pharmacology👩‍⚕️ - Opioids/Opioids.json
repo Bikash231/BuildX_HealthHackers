@@ -1,0 +1,23 @@
+{
+  "mainTopic": {
+    "title": "Opioids",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Definitions and structure-activity relationship"
+      },
+      {
+        "title": "Classification of Opioids"
+      },
+      {
+        "title": "Endogenous Opioid Peptides"
+      },
+      {
+        "title": "Pharmacodynamics and pharmacokinetics of opioid agonists"
+      },
+      {
+        "title": "Opioid Antagonists and Agonist-Antagonists"
+      }
+    ]
+  }
+}

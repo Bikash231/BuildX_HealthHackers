@@ -1,0 +1,26 @@
+{
+  "mainTopic": {
+    "title": "Histology of the peripheral nervous system",
+    "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+    "subTopics": [
+      {
+        "title": "Structural and functional organization of the nervous system"
+      },
+      {
+        "title": "Cellular components of the nervous system"
+      },
+      {
+        "title": "Synaptic connections and neuromuscular junction"
+      },
+      {
+        "title": "Nerve fibers and myelination"
+      },
+      {
+        "title": "Types of ganglia - autonomic and sensory"
+      },
+      {
+        "title": "Mechanosensory receptors and neuromuscular spindles"
+      }
+    ]
+  }
+}

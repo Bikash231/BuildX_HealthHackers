@@ -1,0 +1,29 @@
+{
+  "mainTopic": {
+    "title": "Vasoactive Drugs for Congestive Heart Failure",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Physiology and definition of congestive heart failure"
+      },
+      {
+        "title": "Definition of congestive heart failure and mortality"
+      },
+      {
+        "title": "5 main physiologic ways to get heart failure"
+      },
+      {
+        "title": "Treatment of congestive heart failure according to its mechanism"
+      },
+      {
+        "title": "Management of secondary neuroendocrine effects"
+      },
+      {
+        "title": "Beta Blockers in the management of congestive heart failure"
+      },
+      {
+        "title": "Severe congestive heart failure"
+      }
+    ]
+  }
+}

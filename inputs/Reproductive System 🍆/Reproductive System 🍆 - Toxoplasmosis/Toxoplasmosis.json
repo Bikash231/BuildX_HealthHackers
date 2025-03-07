@@ -1,0 +1,23 @@
+{
+  "mainTopic": {
+    "title": "Toxoplasmosis",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "Types of Hosts, Major “Groups” of Apicomplexa, Apicomplexa Protista, Typical Apicomplexan Zoite"
+      },
+      {
+        "title": "Factors Determining Expression of Disease, Prevalence, Life cycle of the parasite"
+      },
+      {
+        "title": "Basic Facts, Presenting History, Physical Findings, Laboratory Studies, Imaging Studies, Other Tests, Histologic Diagnosis,"
+      },
+      {
+        "title": "Ocular Toxoplasmosis, Sabin-Feldman Dye Test, IgG antibodies, Differential Agglutination Test, Avidity Testing , IgM Antibodies, Polymerase Chain Reaction,"
+      },
+      {
+        "title": "Treatment"
+      }
+    ]
+  }
+}

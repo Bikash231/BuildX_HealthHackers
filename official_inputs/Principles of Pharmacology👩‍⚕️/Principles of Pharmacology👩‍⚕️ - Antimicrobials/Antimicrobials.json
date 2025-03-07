@@ -1,0 +1,23 @@
+{
+  "mainTopic": {
+    "title": "Antimicrobials",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Introduction to antimicrobial therapy"
+      },
+      {
+        "title": "Penicillins, Cephalosporins, and other beta-lactam drugs"
+      },
+      {
+        "title": "Aminoglycosides and Tetracycline"
+      },
+      {
+        "title": "Fluoroquinolones"
+      },
+      {
+        "title": "General principles of antimicrobial use and antimicrobial resistance"
+      }
+    ]
+  }
+}

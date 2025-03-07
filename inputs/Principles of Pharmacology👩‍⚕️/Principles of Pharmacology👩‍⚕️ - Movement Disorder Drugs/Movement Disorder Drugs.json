@@ -1,0 +1,20 @@
+{
+  "mainTopic": {
+    "title": "Movement Disorder Drugs",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Overview of movement disorders and Parkinson's disease"
+      },
+      {
+        "title": "Biochemistry of dopamine"
+      },
+      {
+        "title": "Treatment of Parkinson's disease"
+      },
+      {
+        "title": "Dopamine receptor antagonists"
+      }
+    ]
+  }
+}

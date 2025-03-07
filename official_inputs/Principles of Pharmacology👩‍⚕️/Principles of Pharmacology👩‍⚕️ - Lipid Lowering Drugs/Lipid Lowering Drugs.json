@@ -1,0 +1,20 @@
+{
+  "mainTopic": {
+    "title": "Lipid Lowering Drugs",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Overview of atherosclerosis"
+      },
+      {
+        "title": "Transmembrane receptors on mammalian cells, Apolipoproteins, sterols and lipoprotein cycles"
+      },
+      {
+        "title": "Lipid lowering drugs"
+      },
+      {
+        "title": "Investigational treatments of atherosclerosis and non-drug treatment: LDL apheresis"
+      }
+    ]
+  }
+}

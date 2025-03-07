@@ -1,0 +1,428 @@
+{
+  "mainTopic": {
+    "title": "Trophoblastic neoplasia",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "Types of trophoblast neoplasia",
+        "quizzes": [
+          {
+            "question": "What is the most common clinical presentation of choriocarcinoma?",
+            "goodAnswer": "Bleeding and toxemia",
+            "wrongAnswer_1": "Hypertension and fatigue",
+            "wrongAnswer_2": "Weight gain and hair loss",
+            "wrongAnswer_3": "Chest pain and dizziness",
+            "wrongAnswer_4": "Nausea and vomiting"
+          },
+          {
+            "question": "How is gestational choriocarcinoma typically treated, and what is the rationale behind this approach?",
+            "goodAnswer": "Gestational choriocarcinoma is chemosensitive and is followed with bHCG levels and imaging.",
+            "wrongAnswer_1": "It is usually treated with surgery alone, as chemotherapy is too risky in pregnant women.",
+            "wrongAnswer_2": "Radiation therapy is the mainstay of treatment for gestational choriocarcinoma.",
+            "wrongAnswer_3": "We typically just monitor patients with regular blood tests and imaging without active treatment.",
+            "wrongAnswer_4": "The recommended treatment is a combination of chemotherapy, surgery, and immunotherapy."
+          },
+          {
+            "question": "Which of the following statements correctly describes the clinical presentation and treatment of choriocarcinoma?",
+            "goodAnswer": "Choriocarcinoma presents with vaginal bleeding and often occurs after a prior molar pregnancy. It is treated with chemotherapy, as surgical removal is usually not feasible due to widespread metastases.",
+            "wrongAnswer_1": "Choriocarcinoma is a benign trophoblastic disease that presents with amenorrhea and infertility. It is treated with hormonal therapy to regulate estrogen levels and promote normal tissue growth.",
+            "wrongAnswer_2": "Vaginal bleeding and pelvic pain are common symptoms of a placental site trophoblastic tumor, but not of choriocarcinoma, which typically presents with abdominal distention and back pain. Treatment involves embolization of the uterine arteries to cut off blood supply to the tumor.",
+            "wrongAnswer_3": "While most gynecologic malignancies require surgery, choriocarcinoma is treated with radiation therapy because it is often resistant to chemotherapy. It typically occurs after a normal pregnancy and rarely spreads beyond the uterus.",
+            "wrongAnswer_4": "Symptoms of choriocarcinoma include fatigue, weight loss, and hyperthyroidism. It is treated by selectively removing tumor tissue through multiple surgical procedures instead of chemotherapy, as it rarely metastasizes beyond the uterine cavity."
+          },
+          {
+            "question": "Why are the vast majority of trophoblastic tumors chemosensitive?",
+            "goodAnswer": "Trophoblastic tumors are highly vascular, making them susceptible to chemotherapy.",
+            "wrongAnswer_1": "They are chemosensitive because they are typically diagnosed at an early stage, before widespread metastasis.",
+            "wrongAnswer_2": "Trophoblastic tumors are genetically stable, which makes them respond better to chemotherapy.",
+            "wrongAnswer_3": "They are characterized by slow growth, allowing for complete tumor eradication with minimal treatment.",
+            "wrongAnswer_4": "Chemotherapy is only effective in specific subtypes of trophoblastic tumors, such as placental site trophoblastic tumors, while other subtypes remain resistant."
+          },
+          {
+            "question": "Which type of trophoblast neoplasia has a locally invasive but rarely metastatic course, typically presents with mild symptoms of persistent pregnancy, and lacks good serum markers for diagnosis?",
+            "goodAnswer": "Placental site trophoblastic tumor",
+            "wrongAnswer_1": "Complete hydatidiform mole",
+            "wrongAnswer_2": "Choriocarcinoma",
+            "wrongAnswer_3": "Partial hydatidiform mole",
+            "wrongAnswer_4": "Trophoblastic disease"
+          },
+          {
+            "question": "What is the most common clinical finding associated with a trophoblastic neoplasia that has metastasized to the lungs?",
+            "goodAnswer": "The patient will present with hemoptysis due to the friable nature of the tumor.",
+            "wrongAnswer_1": "A pleural effusion, which is caused by the direct compression of tumor cells on the pleural membrane.",
+            "wrongAnswer_2": "Shortness of breath due to the mechanical obstruction of the airways by tumor growth.",
+            "wrongAnswer_3": "Pain in the chest due to the irritation of the intercostal nerves by the tumor mass.",
+            "wrongAnswer_4": "Wheezing caused by the narrowing of the bronchioles in response to tumor growth."
+          },
+          {
+            "question": "What are the characteristic features of a complete, but not a partial, hydatidiform mole?",
+            "goodAnswer": "Villi are grossly identifiable, often larger than 1 cm in greatest dimension, with no fetal development; key features include excess tissue, villous hydrops, trophoblast hyperplasia, cistern formation, and a lack of blood vessels.",
+            "wrongAnswer_1": "Villi are only occasionally grossly identifiable, and they are always smaller than 1 cm in diameter, with evidence of fetal development; key features include normal tissue growth, absence of villous hydrops, no trophoblast hyperplasia, and the presence of blood vessels.",
+            "wrongAnswer_2": "A complete mole involves necrotic tissue, causing significant pain and rapid expansion; it features decreased vascularity, reduced trophoblast hyperplasia, and the development of multiple fetuses.",
+            "wrongAnswer_3": "Grossly, a complete mole appears normal, with only microscopic changes detectable. These changes include minimal villous hydrops, normal trophoblast activity, and the presence of a viable fetus.",
+            "wrongAnswer_4": "A complete mole is characterized by regular-sized villi, abundant blood supply, and the absence of trophoblast hyperplasia; fetal development is always present, and there is no evidence of villous hydrops or cistern formation."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic feature of a partial, but rather, a complete hydatidiform mole?",
+            "goodAnswer": "Grossly identifiable villi that are often larger than 1 cm in greatest dimension",
+            "wrongAnswer_1": "Occasionally large villi that are identifiable but generally smaller than 1 cm",
+            "wrongAnswer_2": "Scalloped villous outlines and tangential sectioning resulting in stromal trophoblastic inclusions",
+            "wrongAnswer_3": "Two populations of villi (large with cisterns and small) and irregular villi outlines",
+            "wrongAnswer_4": "Villous syncytiotrophoblastic inclusions and excess, atypical villous syncytiotrophoblast"
+          },
+          {
+            "question": "Which of the following is a characteristic feature of a complete, but not a partial, hydatidiform mole?",
+            "goodAnswer": "Absence of fetal development",
+            "wrongAnswer_1": "Presence of two distinct villus populations",
+            "wrongAnswer_2": "Scalloped villus outlines",
+            "wrongAnswer_3": "Focal trophoblast hyperplasia",
+            "wrongAnswer_4": "Villus vessels containing nucleated red blood cells"
+          }
+        ]
+      },
+      {
+        "title": "Partial Hydatidiform Mole",
+        "quizzes": [
+          {
+            "question": "What is the clinical presentation of patients with choriocarcinoma?",
+            "goodAnswer": "Bleeding or toxemia, often widely metastatic",
+            "wrongAnswer_1": "Fatigue, weight loss, and anemia due to chronic blood loss",
+            "wrongAnswer_2": "Severe abdominal pain, distention, and ascites without evidence of bleeding",
+            "wrongAnswer_3": "Hypertension, proteinuria, and edema, with normal bHCG levels",
+            "wrongAnswer_4": "History of multiple normal pregnancies with no known risk factors for trophoblastic disease"
+          },
+          {
+            "question": "What is the most common clinical presentation of patients with gestational choriocarcinoma?",
+            "goodAnswer": "Bleeding or toxemia",
+            "wrongAnswer_1": "Hypertension and hyperlipidemia",
+            "wrongAnswer_2": "Weight gain and fatigue",
+            "wrongAnswer_3": "Chest pain or dizziness",
+            "wrongAnswer_4": "Skin rash and swollen lymph nodes"
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of a partial hydatidiform mole?",
+            "goodAnswer": "All villi are typically greater than 1 cm in greatest dimension\u200b",
+            "wrongAnswer_1": "Two populations of villi (large with cisterns and small), irregular villous outlines, and trophoblastic hyperplasia are characteristic\u200b",
+            "wrongAnswer_2": "Focal villous hydrops and trophoblast hyperplasia are common findings\u200b",
+            "wrongAnswer_3": "It contains two distinct cell lines of trophoblast: cytotrophoblast and syncytiotrophoblast\u200b",
+            "wrongAnswer_4": "It rarely leads to persistent trophoblastic disease compared to complete moles\u200b"
+          }
+        ]
+      },
+      {
+        "title": "Complete hydatidiform mole",
+        "quizzes": [
+          {
+            "question": "What is the most common clinical presentation of choriocarcinoma?",
+            "goodAnswer": "Bleeding, toxemia, and widely metastatic disease",
+            "wrongAnswer_1": "Recurrent early pregnancy loss, infertility, and amenorrhea",
+            "wrongAnswer_2": "Hypertension, hyperlipidemia, and thrombocytosis without evidence of metastasis",
+            "wrongAnswer_3": "Fatigue, weight loss, and hypoglycemia with normal hormone levels",
+            "wrongAnswer_4": "Enlarged uterus, irregular menstruation, and abdominal pain without systemic symptoms"
+          },
+          {
+            "question": "Which of the following statements correctly describes the difference between complete and partial hydatidiform moles?",
+            "goodAnswer": "A complete mole arises from fertilization of an enucleated egg, resulting in paternal androgenic origin of all the genetic material, while a partial mole forms from the fertilization of a normal egg with an extra haploid set of paternal chromosomes.",
+            "wrongAnswer_1": "A complete mole occurs when there is fertilization of a normal egg with an extra haploid set of paternal chromosomes, while a partial mole arises from fertilization of an enucleated egg, resulting in paternal androgenic origin of all the genetic material.",
+            "wrongAnswer_2": "Both complete and partial hydatidiform moles are characterized by the presence of diploid chromosomes, indicating that they both involve the fertilization of a normal egg with an extra haploid set of paternal chromosomes.",
+            "wrongAnswer_3": "A complete mole arises from fertilization of a normal egg with a haploid set of maternal chromosomes, while a partial mole results from fertilization of an enucleated egg with a haploid set of paternal chromosomes.",
+            "wrongAnswer_4": "Both complete and partial hydatidiform moles are triploid, meaning that they both involve fertilization of an enucleated egg with an extra haploid set of paternal chromosomes."
+          },
+          {
+            "question": "How is a complete mole characterized, and what is its clinical behavior?",
+            "goodAnswer": "A complete mole is characterized by grossly identifiable villi that are often greater than 1 cm in size, the absence of fetal development, and the presence of excess tissue. It can lead to invasive disease or metastasize.",
+            "wrongAnswer_1": "A complete mole is characterized by the presence of two distinct villus populations (large with cisterns and small), irregular villus outlines, and syncytiotrophoblastic inclusions. It typically results in fetal anomalies but does not metastasize.",
+            "wrongAnswer_2": "A complete mole is characterized by focal villus hydrops and trophoblastic hyperplasia, with all villi being the same size. It rarely leads to invasive disease and has a high chance of spontaneous resolution.",
+            "wrongAnswer_3": "A complete mole is diagnosed when only a small portion of the placental tissue is examined, as opposed to a whole-mount evaluation. It is associated with normal fetal development and does not require any specific treatment.",
+            "wrongAnswer_4": "A complete mole is characterized by the presence of a clearly defined vascular network within the villi, supporting active fetal growth. It is often asymptomatic and does not require systemic therapy."
+          },
+          {
+            "question": "What is the most common clinical presentation of choriocarcinoma?",
+            "goodAnswer": "Bleeding, either vaginal or rarely uterine, is the most common presentation of choriocarcinoma.",
+            "wrongAnswer_1": "The most common presentation of choriocarcinoma is asymptomatic and diagnosed incidentally.",
+            "wrongAnswer_2": "Choriocarcinoma typically presents with severe abdominal pain but without bleeding.",
+            "wrongAnswer_3": "Weight gain and decreased b-hCG levels are characteristic findings in choriocarcinoma.",
+            "wrongAnswer_4": "Enlarged thyroid gland without any other symptoms is the most common presentation of choriocarcinoma."
+          }
+        ]
+      },
+      {
+        "title": "Molar gestations",
+        "quizzes": [
+          {
+            "question": "What is the typical cellular characteristic of a placental site trophoblastic tumor (PSTT)?",
+            "goodAnswer": "PSTTs consist of mono- or binucleate trophoblast with a pushing border, often described as having a \"Massachusetts\" appearance.",
+            "wrongAnswer_1": "PSTTs are characterized by villous hydrops, trophoblast hyperplasia, and cistern formation, but they lack blood vessels.",
+            "wrongAnswer_2": "PSTTs show mounds of mitotic cytotrophoblast and lacy proliferation of syncitiotrophoblast, as well as extravillous trophoblast and cytologic atypia.",
+            "wrongAnswer_3": "PSTTs exhibit two villi populations (large with cisterns, small), irregular villi outlines, villous syncytiotrophoblastic inclusions, excess and atypical syncytiotrophoblast, and possible embryonic/fetal development.",
+            "wrongAnswer_4": "PSTTs are only gestational, not non-gestational, and they always present with bleeding and toxemia, followed by rapid and widespread metastases."
+          },
+          {
+            "question": "What is the primary method of diagnosing gestational choriocarcinoma?",
+            "goodAnswer": "By clinical presentation with symptoms such as vaginal bleeding, abdominal pain, or weight loss, followed by confirmatory laboratory and radiographic studies.",
+            "wrongAnswer_1": "Routine prenatal screening of all pregnant women for asymptomatic trophoblastic disease.",
+            "wrongAnswer_2": "Ultrasound examination alone, as it can reliably differentiate between normal trophoblast and malignant choriocarcinoma in all cases.",
+            "wrongAnswer_3": "Measuring alpha-fetoprotein (AFP) levels, as increased AFP is diagnostic of choriocarcinoma.",
+            "wrongAnswer_4": "Finding of a morphologically normal placenta on gross examination."
+          },
+          {
+            "question": "Which of the following statements is true about non-molar trophoblastic neoplasia?",
+            "goodAnswer": "Placental site trophoblastic tumor (PSTT) is a neoplasm of intermediate trophoblast, locally invasive with rare metastases.",
+            "wrongAnswer_1": "All non-molar trophoblastic neoplasia are gestational in origin, meaning they arise from fertilization errors.",
+            "wrongAnswer_2": "Choriocarcinoma, by definition, only occurs in gestational trophoblastic disease and never arises de novo.",
+            "wrongAnswer_3": "Atypical mitotic figures and necrosis in a placental biopsy always indicate metastatic disease.",
+            "wrongAnswer_4": "Trophoblastic neoplasia in non-molar types typically presents with grossly identifiable villi, similar to hydatidiform moles."
+          },
+          {
+            "question": "How are the findings of a partial mole characterized?",
+            "goodAnswer": "Anemia, IUGR, and thrombocytopenia due to the presence of fetal-maternal hemorrhage",
+            "wrongAnswer_1": "Hypertension, preeclampsia, and proteinuria due to trophoblastic hyperplasia",
+            "wrongAnswer_2": "Increased vascularity, absent fetal development, and grossly identifiable villi",
+            "wrongAnswer_3": "Mounds of mitotic cytotrophoblast, lacy proliferation of syncytiotrophoblast, and extravillous trophoblast",
+            "wrongAnswer_4": "Only one population of villi, regular villus outlines, and absence of syncytiotrophoblastic inclusions"
+          },
+          {
+            "question": "Which of the following statements correctly compares complete and partial hydatidiform moles?",
+            "goodAnswer": "A complete mole is characterized by grossly identifiable villi, often larger than 1 cm, without fetal development but with excess tissue. Partial moles involve excess tissue, with occasionally large villi identifiable but typically less than 1 cm in greatest dimension. Fetal development is possible in partial moles, but it is often associated with anomalies such as IUGR, syndactyly in hands and feet, and renal, cardiac, or neural structural anomalies.",
+            "wrongAnswer_1": "A complete mole involves excess tissue, often with large villi identifiable but typically less than 1 cm in greatest dimension. Fetal development is possible in complete moles, but it is often associated with anomalies such as IUGR, syndactyly in hands and feet, and renal, cardiac, or neural structural anomalies. A partial hydatidiform mole is characterized by grossly identifiable villi, often larger than 1 cm, without fetal development but with excess tissue.",
+            "wrongAnswer_2": "Both complete and partial hydatidiform moles are characterized by grossly identifiable villi, often larger than 1 cm, without fetal development but with excess tissue. In both cases, fetal development is impossible, and the tissue will always be less than 1 cm in greatest dimension.",
+            "wrongAnswer_3": "A complete mole involves only a small portion of the placenta and does not affect fetal development. Partial moles, on the other hand, encompass the entire placenta and lead to severe fetal abnormalities such as IUGR, syndactyly, and organ malformations.",
+            "wrongAnswer_4": "Grossly identifiable villi in a complete mole are typically less than 1 cm, and fetal development is possible. In contrast, partial moles involve excess tissue but only occur in cases with normal fetal development and no identifiable villi."
+          },
+          {
+            "question": "How is a complete hydatidiform mole characterized?",
+            "goodAnswer": "Grossly, it is characterized by the presence of numerous small villi; histologically, by the presence of mitotic cytotrophoblast and lacy proliferation of syncitiotrophoblast, and androgenetically derived diploid nuclei.",
+            "wrongAnswer_1": "It is characterized by the presence of large villi, vascularized stroma, and evidence of fetal development with occasional anomalies such as IUGR or syndactyly.",
+            "wrongAnswer_2": "It typically occurs when there is an overabundance of maternal DNA, leading to an abnormal fertilization process.",
+            "wrongAnswer_3": "It shows focal villous hydrops, trophoblast hyperplasia, and the presence of nucleated red blood cells within villus vessels, indicating active fetal circulation.",
+            "wrongAnswer_4": "It rarely occurs and is typically associated with triploid karyotypes, unlike other trophoblastic neoplasms."
+          },
+          {
+            "question": "What is the clinical presentation of a PSTT?",
+            "goodAnswer": "It presents with mild symptoms of persistent pregnancy, often without good serum markers.",
+            "wrongAnswer_1": "It typically presents with severe abdominal pain, vaginal bleeding, and weight loss.",
+            "wrongAnswer_2": "It is asymptomatic and is only detected incidentally during routine prenatal ultrasound.",
+            "wrongAnswer_3": "It presents with signs of systemic toxicity, such as fever, fatigue, and anemia.",
+            "wrongAnswer_4": "It always presents with a palpable mass in the abdomen and abnormal uterine enlargement."
+          }
+        ]
+      },
+      {
+        "title": "Choriocarcinoma",
+        "quizzes": [
+          {
+            "question": "What is the most common clinical presentation of choriocarcinoma?",
+            "goodAnswer": "Bleeding or toxemia",
+            "wrongAnswer_1": "Recurrent seizures",
+            "wrongAnswer_2": "Fatigue and dizziness",
+            "wrongAnswer_3": "Chest pain and dyspnea",
+            "wrongAnswer_4": "Weight gain and amenorrhea"
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of a partial hydatidiform mole?",
+            "goodAnswer": "It involves only one villous population, which is always large and hydropic",
+            "wrongAnswer_1": "It may contain focal areas of trophoblast hyperplasia",
+            "wrongAnswer_2": "It can show scalloped villous outlines on microscopy",
+            "wrongAnswer_3": "It sometimes displays tangential sectioning of villi, resulting in stromal trophoblast inclusions",
+            "wrongAnswer_4": "It typically occurs in cases of triploidy due to an extra haploid set of paternal DNA"
+          },
+          {
+            "question": "What is the most common clinical finding associated with a trophoblastic neoplasia diagnosis?",
+            "goodAnswer": "Vaginal bleeding",
+            "wrongAnswer_1": "Hyperemesis gravidarum",
+            "wrongAnswer_2": "Preterm labor",
+            "wrongAnswer_3": "Anemia",
+            "wrongAnswer_4": "Weight gain"
+          },
+          {
+            "question": "What is the clinical presentation of a patient with choriocarcinoma?",
+            "goodAnswer": "Bleeding or toxemia\u200b",
+            "wrongAnswer_1": "Amenorrhea or infertility",
+            "wrongAnswer_2": "Weight gain or fatigue",
+            "wrongAnswer_3": "Hyperlipidemia or hypertension",
+            "wrongAnswer_4": "Chest pain or dizziness"
+          },
+          {
+            "question": "How are complete and partial hydatidiform moles morphologically distinguished?",
+            "goodAnswer": "A complete mole shows grossly identifiable villi, often exceeding 1 cm in size, and the absence of fetal development. There is excess tissue, villous hydrops, trophoblast hyperplasia, and cistern formation. Blood vessels are typically lacking. Mounds of mitotic cytotrophoblast and lacy proliferation of syncitiotrophoblast are also observed, along with extravillous trophoblast and cytologic atypia.",
+            "wrongAnswer_1": "A complete mole has two villous populations (large with cisterns and small), irregular villous outlines, villous syncytiotrophoblastic inclusions, excess and atypical villous syncytiotrophoblast, a \"molar\" implantation site, and possible embryonic/fetal development.",
+            "wrongAnswer_2": "A partial mole shows grossly identifiable villi, often exceeding 1 cm in size, and the absence of fetal development. There is excess tissue, villous hydrops, trophoblast hyperplasia, and cistern formation. Blood vessels are typically lacking. Mounds of mitotic cytotrophoblast and lacy proliferation of syncitiotrophoblast are also observed, along with extravillous trophoblast and cytologic atypia.",
+            "wrongAnswer_3": "A complete mole has two villous populations (large with cisterns and small), irregular villous outlines, villous syncytiotropholastic inclusions, excess and atypical villous syncytiotrophoblast, a \"molar\" implantation site, and possible embryonic/fetal development.",
+            "wrongAnswer_4": "A partial mole shows grossly identifiable villi, often exceeding 1 cm in size, and the absence of fetal development. There is excess tissue, villous hydrops, trophoblast hyperplasia, and cistern formation. Blood vessels are typically lacking. Mounds of mitotic cytotrophoblast and lacy proliferation of syncitiotrophoblast are also observed, along with extravillous trophoblast and cytologic atypia."
+          },
+          {
+            "question": "What is the most common clinical presentation of choriocarcinoma?",
+            "goodAnswer": "Bleeding or toxemia",
+            "wrongAnswer_1": "Recurrent urinary tract infections",
+            "wrongAnswer_2": "Seizures or dizziness",
+            "wrongAnswer_3": "Weight gain and fatigue",
+            "wrongAnswer_4": "Chest pain or shortness of breath"
+          },
+          {
+            "question": "What is the most common clinical presentation of choriocarcinoma?",
+            "goodAnswer": "Bleeding or toxemia",
+            "wrongAnswer_1": "Recurrent urinary tract infections",
+            "wrongAnswer_2": "Hypertension with no associated laboratory abnormalities",
+            "wrongAnswer_3": "Enlargement of abdominal lymph nodes without pain",
+            "wrongAnswer_4": "Lower extremity edema due to venous insufficiency"
+          },
+          {
+            "question": "Which of the following is a distinguishing characteristic of a complete, but not a partial, hydatidiform mole?",
+            "goodAnswer": "Complete moles are characterized by grossly identifiable villi, often exceeding 1 cm in size, and the absence of fetal development.",
+            "wrongAnswer_1": "A complete mole occurs when there is an error in fertilization resulting in an extra haploid set of paternal chromosomes.",
+            "wrongAnswer_2": "Both complete and partial hydatidiform moles involve trophoblast hyperplasia and villous hydrops.",
+            "wrongAnswer_3": "In a partial mole, fetal development is possible, though often with characteristic anomalies such as IUGR and syndactyly.",
+            "wrongAnswer_4": "A complete mole arises from a diploid fertilization with only maternal DNA being detected."
+          },
+          {
+            "question": "What is the significance of finding nucleated red blood cells (RBCs) within the vessels of a villus biopsy in the context of trophoblastic neoplasia, and what does it indicate about the nature of the villi?",
+            "goodAnswer": "Nucleated red blood cells (RBCs) within the vessels of a villus biopsy indicate the presence of fetal tissue, which is characteristic of a partial, rather than a complete, hydatidiform mole. It shows that the conceptus is developing. In contrast, complete moles lack fetal tissue and therefore will not have nucleated RBCs in villus vessels.",
+            "wrongAnswer_1": "Finding nucleated red blood cells (RBCs) within the vessels of a villus biopsy indicates that the trophoblast is actively proliferating and is characteristic of both partial and complete hydatidiform moles. It means that the tissue is vascularly active and supporting fetal development.",
+            "wrongAnswer_2": "Nucleated red blood cells (RBCs) within the vessels of a villus biopsy is only seen in normal pregnancies and does not have any diagnostic value in trophoblastic neoplasia. It is a common finding and does not distinguish between partial and complete moles.",
+            "wrongAnswer_3": "Finding nucleated red blood cells (RBCs) within the vessels of a villus biopsy indicates that the patient has recently undergone a blood transfusion, which could interfere with the interpretation of the biopsy results. It is essential to rule out extraneous factors before making a diagnosis.",
+            "wrongAnswer_4": "Nucleated red blood cells (RBCs) within the vessels of a villus biopsy means that the patient has anemia, which can lead to misinterpreting the pathology results. It emphasizes the need for further laboratory testing to assess overall hematologic status."
+          },
+          {
+            "question": "What is the key histological finding that differentiates a choriocarcinoma from other trophoblastic diseases?",
+            "goodAnswer": "Biphasic trophoblast, with both syncytio- and cytotrophoblastic layers.",
+            "wrongAnswer_1": "Absence of vascularity within the villi.",
+            "wrongAnswer_2": "Uniformly sized villi without evidence of focal hyperplasia.",
+            "wrongAnswer_3": "The presence of a well-defined basement membrane between the trophoblast and the stroma.",
+            "wrongAnswer_4": "Only necrotic debris with no identifiable trophoblast layers."
+          }
+        ]
+      },
+      {
+        "title": "Choriocarcinoma in situ",
+        "quizzes": [
+          {
+            "question": "What is the clinical presentation of choriocarcinoma?",
+            "goodAnswer": "Bleeding or toxemia, widely metastatic disease",
+            "wrongAnswer_1": "Hypertension, hyperlipidemia, and renal failure",
+            "wrongAnswer_2": "Fatigue, weight loss, and hypernatremia",
+            "wrongAnswer_3": "Dizziness, headache, and blurred vision",
+            "wrongAnswer_4": "Chest pain, shortness of breath, and abdominal distention"
+          },
+          {
+            "question": "What is the most common clinical presentation of gestational choriocarcinoma?",
+            "goodAnswer": "Bleeding or toxemia",
+            "wrongAnswer_1": "Recurrent urinary tract infections",
+            "wrongAnswer_2": "Seizures or unexplained weight loss",
+            "wrongAnswer_3": "Enlarged liver with normal labs",
+            "wrongAnswer_4": "Painless palpable mass in the abdomen"
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of a partial hydatidiform mole?",
+            "goodAnswer": "It typically occurs in women with prior history of molar pregnancy",
+            "wrongAnswer_1": "It is characterized by excess tissue, occasionally with large villi identifiable but typically <1cm",
+            "wrongAnswer_2": "Fetal development is possible but with anomalies like IUGR, 3-4 syndactyly in hands, 2-3 syndactyly in feet, and renal, cardiac, or neural structural anomalies",
+            "wrongAnswer_3": "Two villi populations are present: large villi with cisterns and small villi",
+            "wrongAnswer_4": "It features irregular outlines of villi, villous syncytiotrophoblastic inclusions, excess and atypical villous syncytiotrophoblast, an atypical \"molar\" implantation site, and possible embryonic/fetal development"
+          },
+          {
+            "question": "What is the most accurate characterization of the vascularity in complete and partial hydatidiform moles?",
+            "goodAnswer": "Complete moles lack blood vessels in the villi, while partial moles may have vessels but often contain nucleated red blood cells. ",
+            "wrongAnswer_1": "Both complete and partial moles always have abundant blood vessels in the villi, as this is a universal characteristic of molar pregnancies.",
+            "wrongAnswer_2": "A hydatidiform mole is characterized by the presence of a large central vessel within the villus, regardless of whether it is complete or partial.",
+            "wrongAnswer_3": "In complete moles, blood vessels are only absent in the center of the villus but are present at the periphery, while in partial moles, all vessels are absent throughout the villus.",
+            "wrongAnswer_4": "The vascularity in molar pregnancies is the same for both complete and partial moles: all villi will contain numerous, well-formed blood vessels with no evidence of nucleated red blood cells."
+          },
+          {
+            "question": "What is a key histological difference between a complete and partial hydatidiform mole?",
+            "goodAnswer": "A complete mole shows grossly identifiable villi, often greater than 1 cm in size, without fetal development. In contrast, a partial mole has only occasionally identifiable villi, which are typically less than 1 cm. ",
+            "wrongAnswer_1": "A complete mole has two distinct villus populations: large villi with cisterns and small villi, while a partial mole only has large villi. ",
+            "wrongAnswer_2": "A complete mole features regular villus outlines, while a partial mole has irregular outlines. ",
+            "wrongAnswer_3": "A complete mole shows an absence of trophoblast hyperplasia, while a partial mole has excessive hyperplasia. ",
+            "wrongAnswer_4": "A complete mole has abundant blood vessels, while a partial mole lacks vascularity. "
+          },
+          {
+            "question": "Which of the following is a feature of a placental site trophoblastic tumor?",
+            "goodAnswer": "It involves intermediate trophoblast and is locally invasive, with rare metastases.",
+            "wrongAnswer_1": "It is a widely metastatic trophoblastic neoplasm that often presents with bleeding or toxemia.",
+            "wrongAnswer_2": "It typically presents with gross villi, often greater than 1 cm in size, without fetal development.",
+            "wrongAnswer_3": "It is characterized by an excess of tissue, and fetal development occurs with only minor structural anomalies.",
+            "wrongAnswer_4": "It rarely persists after initial diagnosis and does not have the potential to develop into choriocarcinoma."
+          },
+          {
+            "question": "Which statement accurately describes the vascularity in complete and partial hydatidiform moles?",
+            "goodAnswer": "In complete moles, vessels are absent, while in partial moles, fetal vessels may be present.",
+            "wrongAnswer_1": "Both complete and partial moles have abundant vascularity with normal blood flow.",
+            "wrongAnswer_2": "Only partial moles have absent vessels, while complete moles show evidence of vascular thrombosis.",
+            "wrongAnswer_3": "In complete moles, vessels are always present but are non-functional.",
+            "wrongAnswer_4": "Both complete and partial moles have increased vascularity compared to normal placentas."
+          },
+          {
+            "question": "Which of the following statements correctly distinguishes between a complete and partial hydatidiform mole based on the chromosomal complement and the origin of the extra haploid DNA?",
+            "goodAnswer": "A complete mole is triploid with paternal origin of the extra haploid DNA, while a partial mole is triploid with maternal origin of the extra haploid DNA.",
+            "wrongAnswer_1": "A complete mole is diploid with maternal origin of the extra haploid DNA, while a partial mole is triploid with paternal origin of the extra haploid DNA.",
+            "wrongAnswer_2": "A complete mole is tetraploid with paternal origin of the extra haploid DNA, while a partial mole is triploid with maternal origin of the extra haploid DNA.",
+            "wrongAnswer_3": "A complete mole is triploid with maternal origin of the extra haploid DNA, while a partial mole is triploid with paternal origin of the extra haploid DNA.",
+            "wrongAnswer_4": "A complete mole is haploid with paternal origin of the extra haploid DNA, while a partial mole is triploid with maternal origin of the extra haploid DNA."
+          },
+          {
+            "question": "Which of the following statements correctly distinguishes between a complete and partial hydatidiform mole based on the chromosomal complement and the origin of the extra haploid DNA?",
+            "goodAnswer": "A complete mole is typically triploid with maternal haploid androgenetic origin, while a partial mole is triploid with paternal haploid androgenetic origin.",
+            "wrongAnswer_1": "A complete mole is typically diploid with maternal haploid androgenetic origin, while a partial mole is triploid with paternal haploid androgenetic origin.",
+            "wrongAnswer_2": "A complete mole is typically tetraploid with paternal haploid androgenetic origin, while a partial mole is triploid with maternal haploid androgenetic origin.",
+            "wrongAnswer_3": "A complete mole is typically haploid with paternal haploid androgenetic origin, while a partial mole is diploid with maternal haploid androgenetic origin.",
+            "wrongAnswer_4": "Both complete and partial moles are always tetraploid with either maternal or paternal haploid androgenetic origin."
+          },
+          {
+            "question": "How is a complete hydatidiform mole characterized, and what are the core histological findings?",
+            "goodAnswer": "Grossly, all villi are often greater than 1 cm in size without evidence of fetal development. Histologically, there is excessive tissue, villous hydrops, trophoblast hyperplasia, and cistern formation. Blood vessels are absent.",
+            "wrongAnswer_1": "A complete mole is characterized by only some villi being greater than 1 cm, with evidence of fetal development but with severe anomalies. Histologically, there is minimal villous hydrops, and trophoblast hyperplasia is absent.",
+            "wrongAnswer_2": "In a complete mole, villi are typically less than 1 cm, and fetal development is possible. Histologically, there are two distinct populations of villi: large villi with cisterns and small villi. Blood vessels are present but may contain nucleated red blood cells.",
+            "wrongAnswer_3": "Grossly, a complete mole will show only small villi, and fetal development is normal. Histologically, there is no evidence of trophoblast hyperplasia, and blood vessels are numerous and well-formed.",
+            "wrongAnswer_4": "A complete hydatidiform mole is characterized by the presence of a large central villus with surrounding smaller villi. Histologically, there is focal villous hydrops and only minimal changes in the trophoblast. Blood vessels are numerous but contain no nucleated red blood cells."
+          },
+          {
+            "question": "What are the core histological features of a partial hydatidiform mole?",
+            "goodAnswer": "Villi are grossly identifiable, often >1cm in size, without fetal development. There is excess tissue, villous hydrops, trophoblast hyperplasia, and cistern formation, and the blood vessels are lacking.",
+            "wrongAnswer_1": "Villi are typically <1cm, and fetal development is possible but with anomalies. Two villi populations are present: large villi with cisterns and small villi. Features also include irregular outlines of villi, villous syncytiotrophoblastic inclusions, excess and atypical villous syncytiotrophoblast, an atypical \"molar\" implantation site, and possible embryonic/fetal development.",
+            "wrongAnswer_2": "Trophoblast hyperplasia is absent, and all villi are <1cm in size. Fetal development is always normal, and blood vessels are present in all villi. Syncytiotrophoblast inclusions are not found, and the villous architecture is regularly spaced.",
+            "wrongAnswer_3": "Villi are only occasionally identifiable, and their size is inconsistent. Fetal development is always present without any anomalies. Blood vessels are abundant in all villi, and there is no evidence of trophoblast hyperplasia or cistern formation.",
+            "wrongAnswer_4": "Villi are <1cm, and fetal development is possible but with anomalies. Two villi populations are present: large villi without cisterns and small villi. Features also include regular outlines of villi, villous syncytiotrophoblastic inclusions, normal villous syncytiotrophoblast, a typical implantation site, and no embryonic/fetal development."
+          },
+          {
+            "question": "What is the difference between the clinical presentation of gestational and non-gestational choriocarcinoma?",
+            "goodAnswer": "Gestational choriocarcinoma often presents with vaginal bleeding, weight loss, and abdominal pain due to the rapid growth of the tumor. In contrast, non-gestational choriocarcinoma can arise in the male reproductive tract and may present with symptoms like a painless mass, hematuria, or lower back pain.",
+            "wrongAnswer_1": "Gestational choriocarcinoma typically presents with asymptomatic slow-growing tumors, while non-gestational choriocarcinoma presents with aggressive tumors causing significant abdominal distension and severe pain.",
+            "wrongAnswer_2": "Both gestational and non-gestational choriocarcinoma present with similar symptoms, including fatigue, dizziness, and chest pain, making it difficult to differentiate them clinically.",
+            "wrongAnswer_3": "Gestational choriocarcinoma is always diagnosed by routine prenatal screening and does not cause any clinical symptoms. Non-gestational choriocarcinoma presents with unexplained infertility and pelvic pain.",
+            "wrongAnswer_4": "Choriocarcinoma arising from molar pregnancies (gestational) is typically indolent and asymptomatic, while non-gestational choriocarcinoma is highly aggressive and often diagnosed due to metastasis to distant organs before local symptoms develop."
+          }
+        ]
+      },
+      {
+        "title": "Placental site trophoblastic tumor",
+        "quizzes": [
+          {
+            "question": "What is the most common clinical presentation of choriocarcinoma?",
+            "goodAnswer": "Bleeding or toxemia",
+            "wrongAnswer_1": "Severe abdominal pain and shock",
+            "wrongAnswer_2": "Seizures and neurological deficits",
+            "wrongAnswer_3": "Weight gain and fatigue",
+            "wrongAnswer_4": "Amenorrhea and infertility"
+          },
+          {
+            "question": "Which of the following is NOT a characteristic feature of a partial hydatidiform mole?",
+            "goodAnswer": "It is always triploid, and extra haploid DNA is androgenically derived",
+            "wrongAnswer_1": "It contains two distinct villi populations: large, hydropic villi and small, sclerotic villi",
+            "wrongAnswer_2": "It typically occurs in older women with a history of multiple prior pregnancies",
+            "wrongAnswer_3": "It involves focal trophoblast hyperplasia and mounds of syncytiotrophoblast",
+            "wrongAnswer_4": "It rarely persists, and most cases resolve spontaneously"
+          },
+          {
+            "question": "How are complete and partial hydatidiform moles morphologically distinguished?",
+            "goodAnswer": "A complete mole is characterized by grossly identifiable villi, often larger than 1 cm in greatest dimension, while a partial mole has an excess amount of tissue with villi occasionally large enough to identify but generally less than 1 cm in greatest dimension.",
+            "wrongAnswer_1": "A complete mole has focal villous hydrops, focal trophoblastic hyperplasia, and two distinct villi populations (large & hydropic and small, sclerotic & normal-sized villi), while a partial mole does not.",
+            "wrongAnswer_2": "A complete mole arises from a fertilization event with two haploid sperm and one haploid egg, while a partial mole results from the fertilization of a normal egg by two haploid sperm.",
+            "wrongAnswer_3": "A complete mole shows trophoblast proliferation with nuclear inclusions and irregular villus outlines, while a partial mole has only a single population of villi that are all small and sclerotic.",
+            "wrongAnswer_4": "A complete mole is diagnosed when there is evidence of fetal growth and development, while a partial mole is characterized by the absence of fetal development."
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

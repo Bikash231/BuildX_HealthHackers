@@ -1,0 +1,23 @@
+{
+  "mainTopic": {
+    "title": "Anticonvulsants",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Seizures and their classification"
+      },
+      {
+        "title": "Drugs for treatment of partial seizures, generalized tonic clonic seizures and primary generalized epilepsy"
+      },
+      {
+        "title": "New anticonvulsants"
+      },
+      {
+        "title": "Principles for the management of epilepsy and management during pregnancy"
+      },
+      {
+        "title": "Treatment of status epilepticus in emergency medicine"
+      }
+    ]
+  }
+}

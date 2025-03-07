@@ -1,0 +1,29 @@
+{
+  "mainTopic": {
+    "title": "Anti Inflammatory Drugs",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Prostaglandins: physiologic and pathological functions"
+      },
+      {
+        "title": "Overview of NSAIDs: General pharmacodynamics and pharmacokinetics of NSAIDS"
+      },
+      {
+        "title": "Toxic side effects of NSAIDs"
+      },
+      {
+        "title": "COX-2 Selective Inhibitors"
+      },
+      {
+        "title": "Overview, therapeutic effects, and toxic side effects of Glucocorticoids"
+      },
+      {
+        "title": "Steroid withdrawal and glucocorticoid replacement"
+      },
+      {
+        "title": "Anti-cytokine agents"
+      }
+    ]
+  }
+}

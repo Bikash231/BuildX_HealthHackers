@@ -1,0 +1,20 @@
+{
+  "mainTopic": {
+    "title": "Prenatal genetic diagnosis",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "Indications, AFP"
+      },
+      {
+        "title": "Sonography, Triple Screen, First Trimester Screening,"
+      },
+      {
+        "title": "Inhibin, Nuchal Translucency, PAPP"
+      },
+      {
+        "title": "Screening Strategies, Chorionic Villus Sampling"
+      }
+    ]
+  }
+}

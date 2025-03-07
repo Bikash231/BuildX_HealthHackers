@@ -1,0 +1,256 @@
+{
+  "mainTopic": {
+    "title": "Female pelvic anatomy",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "Uterus",
+        "quizzes": [
+          {
+            "question": "What is the significance of the relationship between the ureters and uterine vessels, and what is the consequence of failing to recognize this relationship during surgery?",
+            "goodAnswer": "The ureters run under the uterine vessels, sometimes remembered as \"water runs under the bridge\". Failing to recognize this relationship could lead to accidental ligation of the ureters during hysterectomy.",
+            "wrongAnswer_1": "The uterine vessels run under the ureters, which could result in inadvertent damage to the ureters during surgery.",
+            "wrongAnswer_2": "The ureters cross over the uterine vessels at the level of the cervix, making them equally likely to be injured during hysterectomy.",
+            "wrongAnswer_3": "The lymphatic drainage from the cervix follows the course of the uterine vessels to reach the ovarian plexus.",
+            "wrongAnswer_4": "The uterine arteries provide blood supply to both the uterus and the ureters, so ligating them does not affect ureter function."
+          },
+          {
+            "question": "How does the lymphatic drainage of the cervix differ from that of the rest of the uterus, and what are the practical implications of this difference?",
+            "goodAnswer": "Lymphatic drainage from the cervix leads to the base of the broad ligament, while the upper uterus drains to the ovarian plexus. Misdiagnosis of a primary cancer site can occur due to this difference.",
+            "wrongAnswer_1": "The cervix drains directly into the internal iliac nodes, while the rest of the uterus drains to the para-aortic nodes. This distinction helps in staging tumors and predicting the spread of disease.",
+            "wrongAnswer_2": "Lymphatics from the cervix empty into the inguinal nodes, while the upper uterus drains to the lumbar nodes. Therefore, routine screening of inguinal lymph nodes is necessary for uterine cancer detection.",
+            "wrongAnswer_3": "The entire uterus, including the cervix, drains directly into the pelvic node groups. All parts of the uterus have similar lymphatic pathways, making it difficult to differentiate the primary site of a tumor based on lymphatic involvement alone.",
+            "wrongAnswer_4": "Lymphatic drainage from the cervix leads to the sacral nodes, while the rest of the uterus drains to the renal hilum. This anatomical variation highlights the need for individualized surgical planning and individualized staging of uterine cancers."
+          },
+          {
+            "question": "Which of the following statements correctly describes an aspect of the anatomy or function of the broad ligament in the female pelvis?",
+            "goodAnswer": "The broad ligament is formed by two layers of peritoneum that enclose the uterus, fallopian tubes, and ovaries while providing structural support for these organs.",
+            "wrongAnswer_1": "The broad ligament consists of a single layer of peritoneum that covers the front of the uterus, providing direct protection against infection.",
+            "wrongAnswer_2": "The broad ligament is a thick band of fibrous tissue that separates the uterus from the ovaries and fallopian tubes, preventing their movement.",
+            "wrongAnswer_3": "The broad ligament is made up of folded mucosa that creates a protective barrier between the uterus and the bladder, ensuring complete separation of these organs.",
+            "wrongAnswer_4": "The broad ligament is a vascular structure that primarily serves as a conduit for lymphatic drainage without providing any structural support for pelvic organs."
+          },
+          {
+            "question": "Why is it crucial to recognize the position of the ureters in relation to the uterine arteries, and what is the potential consequence of failing to do so during surgery?",
+            "goodAnswer": "The ureters cross under the uterine arteries near the cervix, and surgical misidentification can lead to ureteral injury.",
+            "wrongAnswer_1": "The ureters run above the uterine arteries near the fundus, so there is no risk of injury during routine procedures.",
+            "wrongAnswer_2": "Uterine arteries cross over the ureters at the level of the isthmus, making them immune to injury.",
+            "wrongAnswer_3": "The position of the ureters is consistent and does not change between individuals, eliminating the need for careful identification during surgery.",
+            "wrongAnswer_4": "Failing to recognize the ureteral position will only result in minor blood loss and does not significantly impact the outcome of the surgery."
+          },
+          {
+            "question": "What are the consequences of failing to recognize the relationship between the ureters and uterine arteries during surgery?",
+            "goodAnswer": "The ureter, which runs under the uterine vessels, may be injured if its position is not recognized. This can lead to urine leakage into the peritoneal cavity.",
+            "wrongAnswer_1": "Failing to recognize the ureter may result in ligating the uterine artery, causing uncontrolled venous drainage and leading to a surgical emergency.",
+            "wrongAnswer_2": "It will lead to the misidentification of the bladder, causing the surgeon to inadvertently injure the bladder during hysterectomy.",
+            "wrongAnswer_3": "The uterine artery, which runs over the ureter, may be injured, causing pain and inflammation but without affecting urine flow.",
+            "wrongAnswer_4": "It will result in the incorrect placement of sutures, leading to increased blood loss but without causing any long-term damage to the ureters."
+          },
+          {
+            "question": "What are the diagnostic and therapeutic applications of hysteroscopy in gynecologic practice?",
+            "goodAnswer": "Hysteroscopy can be used to diagnose endometrial polyps or cancer, assess unexplained infertility, evaluate abnormal uterine bleeding, and to remove leiomyomas, contol menorrhagia, and perform endometrial ablation.",
+            "wrongAnswer_1": "Hysteroscopy is primarily used to visualize the ovaries and fallopian tubes, with limited application in uterine assessment.",
+            "wrongAnswer_2": "It is only used to remove uterine fibroids, with no application in diagnosing endometrial abnormalities or controlling menorrhagia.",
+            "wrongAnswer_3": "Hysteroscopy is a routine screening procedure that does not require specific clinical indications.",
+            "wrongAnswer_4": "It is a minimally invasive technique used exclusively for tubal ligation and does not involve uterine evaluation."
+          },
+          {
+            "question": "What is the anatomical relationship between the ureters and the uterine vessels, and what is the clinical significance of understanding this relationship during surgery?",
+            "goodAnswer": "The ureters pass under the uterine vessels, sometimes remembered as \"water runs under the bridge\". Failing to recognize this relationship could lead to ureteral injury during hysterectomy.",
+            "wrongAnswer_1": "The uterine vessels pass under the ureters, requiring careful attention before surgical intervention. Uterine artery injury is a major concern during hysterectomy, so identifying the ureter is crucial to prevent complications.",
+            "wrongAnswer_2": "The ureters and uterine vessels run parallel to each other, making it difficult to distinguish them during surgery. This lack of clear separation increases the risk of accidentally injuring either one, especially during hysterectomy.",
+            "wrongAnswer_3": "The uterine artery provides direct blood supply to the ureters, ensuring their integrity during surgery. Therefore, it is not necessary to specifically locate the ureters before proceeding with a hysterectomy.",
+            "wrongAnswer_4": "The ureters arch over the uterine vessels, meaning they are positioned superiorly. This makes them less susceptible to injury during routine hysterectomy procedures."
+          },
+          {
+            "question": "What is the technical term used to describe the process of regularly occurring shedding of the uterine lining, and what are the other, less common, forms of shedding that can occur?",
+            "goodAnswer": "The technical term for regularly occurring shedding of the uterine lining is \"decidua\"; less common forms include \"desquamation\" and \"subinvolution\".",
+            "wrongAnswer_1": "The technical term is \"menses\"; less common forms include \"necrosis\" and \"thrombosis\".",
+            "wrongAnswer_2": "It's called \"sloughing\"; other forms are \"fibrosis\" and \"calcification\".",
+            "wrongAnswer_3": "Desquamation is the correct term, while other forms are \"exfoliation\" and \"atrophy\".",
+            "wrongAnswer_4": "It's termed \"disintegration\"; less common forms include \"stenosis\" and \"suppuration\". "
+          },
+          {
+            "question": "What are the primary methods of surgical treatment for uterine fibroids, and what factors typically influence the choice of treatment?",
+            "goodAnswer": "Myomectomy, uterine artery embolization, and hysterectomy are the primary surgical options for uterine fibroids. The choice depends on the patient's symptoms, the size and location of the fibroids, and her reproductive goals.",
+            "wrongAnswer_1": "Laparoscopic cystectomy, open surgical resection, and radiation therapy are the primary surgical options for uterine fibroids. The choice depends on the patient's age, overall health status, and history of previous surgeries.",
+            "wrongAnswer_2": "Uterine artery embolization, hysterectomy, and chemotherapy are used to treat uterine fibroids. The decision is made based on the stage of the disease, hormone levels, and risk tolerance.",
+            "wrongAnswer_3": "A hysterectomy is always the recommended treatment for symptomatic uterine fibroids, as it eliminates all reproductive tissues and prevents future complications.",
+            "wrongAnswer_4": "Radiation therapy, drug therapy, and watchful waiting are the primary treatment options for uterine fibroids. The choice depends on the patient's symptoms, but all options carry significant risks and are rarely recommended."
+          },
+          {
+            "question": "Which statement correctly describes the lymphatic drainage pattern of the uterus?",
+            "goodAnswer": "Cervical lymphatic drainage goes to the base of the broad ligament, while the upper uterus drains into the ovarian plexus.",
+            "wrongAnswer_1": "The entire uterus drains directly into the regional lymph nodes without passing through the ovarian plexus.",
+            "wrongAnswer_2": "Lymphatic drainage from the cervix leads to the inguinal nodes, while the rest of the uterus drains into the iliac nodes.",
+            "wrongAnswer_3": "The lymphatic drainage of the uterus follows the same pattern as that of the ovaries, which is directly into the renal hilum.",
+            "wrongAnswer_4": "All parts of the uterus, including the cervix and fundus, drain into the lumbar aortic nodes."
+          },
+          {
+            "question": "What is the clinical significance of understanding the lymphatic drainage pathways from the cervix and the rest of the uterus?",
+            "goodAnswer": "Lymphatic drainage from the cervix leads to the base of the broad ligament, while the upper uterus drains to the ovarian plexus. This means that cervical cancer spreads directly to the regional lymph nodes, while endometrial cancer can spread to the ovaries.",
+            "wrongAnswer_1": "The entire uterus, including the cervix and the fundus, drains directly into the internal iliac nodes; therefore, understanding lymphatic drainage pathways has no practical difference in cancer staging or treatment planning.",
+            "wrongAnswer_2": "Lymphatic drainage from the cervix always leads to the aortic nodes, while the rest of the uterus drains to the inguinal nodes. This means that cervical cancer typically spreads to the spine, while endometrial cancer spreads to the vulva.",
+            "wrongAnswer_3": "The lymphatic pathways from the cervix and the rest of the uterus converge at the sacral nodes. Therefore, both cervical and endometrial cancer spread directly to the sacrum, making surgical intervention more challenging.",
+            "wrongAnswer_4": "Understanding lymphatic drainage is not clinically significant, as both cervical and endometrial cancers primarily spread hematogenously rather than through lymphatic channels. Therefore, lymphatic pathways have no bearing on treatment decisions."
+          },
+          {
+            "question": "How does the lymphatic drainage of the cervix differ from that of the upper uterus, and what are the practical implications of this difference?",
+            "goodAnswer": "Lymphatic drainage from the cervix leads to the base of the broad ligament, while the upper uterus drains to the ovarian plexus. This means that cervical cancer can spread to the parametrium and the vulva, while endometrial cancer usually spreads to the ovaries and the peritoneum.",
+            "wrongAnswer_1": "The lymphatic drainage of both the cervix and the upper uterus follows the same pathways, leading to the regional lymph nodes in the pelvis. This means that both cervical and endometrial cancers spread in the same manner, making diagnosis and treatment consistent.",
+            "wrongAnswer_2": "Lymphatic drainage from the cervix follows the same path as the upper uterus, leading to the pelvic lymph nodes. However, cervical cancer typically spreads to the vulva, while endometrial cancer spreads to the parametrium. This difference in lymphatic drainage allows for distinct clinical presentations and treatment approaches.",
+            "wrongAnswer_3": "Lymphatic drainage of the cervix leads to the ovarian plexus, while the upper uterus drains to the base of the broad ligament. This means that cervical cancer spreads to the ovaries and peritoneum, while endometrial cancer can spread to the parametrium and the vulva.",
+            "wrongAnswer_4": "Both the cervix and the upper uterus drain directly into the internal iliac nodes. This means that both cervical and endometrial cancers spread in the same way, making lymphatic drainage patterns unreliable for predicting disease progression."
+          },
+          {
+            "question": "Which of the following statements correctly describes the lymphatic drainage pathways from the cervix and the rest of the uterus?",
+            "goodAnswer": "Lymphatic drainage from the cervix leads to the base of the broad ligament, while the upper uterus drains to the ovarian plexus",
+            "wrongAnswer_1": "Lymphatic drainage from the cervix leads to the aortic nodes, while the upper uterus drains to the inguinal nodes",
+            "wrongAnswer_2": "Lymphatic drainage from the cervix leads to the para-aortic nodes, while the upper uterus drains to the popliteal nodes",
+            "wrongAnswer_3": "Lymphatic drainage from the cervix leads to the iliac crest, while the upper uterus drains to the femoral nodes",
+            "wrongAnswer_4": "Lymphatic drainage from the cervix leads to the renal hilum, while the upper uterus drains to the pelvic floor muscles"
+          }
+        ]
+      },
+      {
+        "title": "Histology",
+        "quizzes": [
+          {
+            "question": "What is the most likely cause of postmenopausal bleeding?",
+            "goodAnswer": "Underlying endometrial pathology, such as cancer or hyperplasia.",
+            "wrongAnswer_1": "Normal age-related hormonal fluctuations.",
+            "wrongAnswer_2": "Stress or dietary changes causing irregular bleeding patterns.",
+            "wrongAnswer_3": "High levels of estrogen produced by the ovaries after menopause.",
+            "wrongAnswer_4": "A history of regular menstrual cycles before menopause eliminates the need for further investigation."
+          },
+          {
+            "question": "Which statement BEST describes the lymphatic drainage of the uterus?",
+            "goodAnswer": "Cervical lymphatic drainage goes to the base of the broad ligament, while the upper uterus drains to the ovarian plexus",
+            "wrongAnswer_1": "The entire uterus drains directly to the inguinal nodes",
+            "wrongAnswer_2": "Lymphatic drainage of the uterus goes to the sacral nodes, not the broad ligament",
+            "wrongAnswer_3": "The cervix and the fundus have the same lymphatic drainage pathways",
+            "wrongAnswer_4": "Uterine lymphatic drainage only occurs through the round ligament"
+          },
+          {
+            "question": "How does the lymphatic drainage of the cervix differ from that of the upper uterus?",
+            "goodAnswer": "Lymphatic drainage of the cervix goes to the base of the broad ligament, while lymphatic drainage of the upper uterus drains to the ovarian plexus",
+            "wrongAnswer_1": "Lymphatic drainage of the cervix goes directly to the inguinal nodes, while lymphatic drainage of the upper uterus drains to the internal iliac nodes",
+            "wrongAnswer_2": "Lymphatic drainage of the cervix goes to the sacral nodes, while lymphatic drainage of the upper uterus drains to the lumbar nodes",
+            "wrongAnswer_3": "Lymphatic drainage of the cervix goes to the pelvic floor muscles, while lymphatic drainage of the upper uterus drains to the superficial inguinal nodes",
+            "wrongAnswer_4": "Lymphatic drainage of the cervix goes to the L5-S1 level, while lymphatic drainage of the upper uterus drains to the para-aortic nodes"
+          },
+          {
+            "question": "Which statement accurately describes the blood supply to the uterus?",
+            "goodAnswer": "The uterus is vascularized by the uterine arteries, which provide ascending and descending branches to supply the fundus and cervix, respectively.",
+            "wrongAnswer_1": "The uterine veins, not the arteries, provide ascending and descending branches to supply the fundus and cervix.",
+            "wrongAnswer_2": "The blood supply to the uterus comes from the direct branches of the aorta without involvement of the uterine arteries.",
+            "wrongAnswer_3": "Only the ovarian arteries, not the uterine arteries, contribute to the vascularization of the uterus.",
+            "wrongAnswer_4": "The uterine arteries provide blood supply to the bladder and urethra, not the uterus."
+          }
+        ]
+      },
+      {
+        "title": "Abnormal bleeding",
+        "quizzes": [
+          {
+            "question": "What is the clinical significance of the relatively short urethra in women compared to men?",
+            "goodAnswer": "It increases the risk of urinary tract infections due to fewer mechanical barriers against bacterial invasion.",
+            "wrongAnswer_1": "It leads to more frequent and severe cases of urethritis in women.",
+            "wrongAnswer_2": "It results in a higher incidence of urinary retention in women.",
+            "wrongAnswer_3": "It makes it impossible to perform a midstream urine collection accurately.",
+            "wrongAnswer_4": "It significantly reduces the sensitivity of urinalysis in detecting bacteriuria."
+          },
+          {
+            "question": "Which of the following statements correctly describes the lymphatic drainage pattern of the uterus?",
+            "goodAnswer": "Lymphatic drainage from the cervix goes to the base of the broad ligament, while lymphatics from the upper uterus drain to the ovarian plexus.",
+            "wrongAnswer_1": "Lymphatic drainage from the cervix goes directly to the inguinal nodes, while lymphatics from the upper uterus drain to the lumbar nodes.",
+            "wrongAnswer_2": "Lymphatic drainage from the cervix goes to the sacral nodes, and lymphatics from the upper uterus drain to the iliac nodes.",
+            "wrongAnswer_3": "Lymphatic drainage from the cervix goes to the femoral nodes, while lymphatics from the upper uterus drain to the popliteal nodes.",
+            "wrongAnswer_4": "Lymphatic drainage from the cervix goes to the axillary nodes, and lymphatics from the upper uterus drain to the supraclavicular nodes."
+          },
+          {
+            "question": "What is the most common cause of postmenopausal bleeding?",
+            "goodAnswer": "Systemic disease (atherosclerotic vascular disease, endometrial cancer, and medications like estrogen therapy).",
+            "wrongAnswer_1": "A normal physiological change due to the natural decline of estrogen.",
+            "wrongAnswer_2": "Always a sign of serious infection, such as bacterial vaginosis or chlamydia.",
+            "wrongAnswer_3": "Directly related to radiation therapy, even years after treatment.",
+            "wrongAnswer_4": "Due to insufficient levels of progesterone, leading to irregular shedding."
+          },
+          {
+            "question": "What is the consequence of the relatively short urethra in women compared to men?",
+            "goodAnswer": "It increases the susceptibility to urinary tract infections (UTIs).",
+            "wrongAnswer_1": "It makes women immune to UTIs.",
+            "wrongAnswer_2": "It results in automatic bladder control in all women.",
+            "wrongAnswer_3": "It leads to a higher incidence of prostate cancer.",
+            "wrongAnswer_4": "It causes frequent and uncontrollable urination in all women."
+          },
+          {
+            "question": "Which of the following is NOT a cause of intermenstrual bleeding?",
+            "goodAnswer": "Cystic disease of the cervix",
+            "wrongAnswer_1": "Endometriosis",
+            "wrongAnswer_2": "Hormonal imbalance",
+            "wrongAnswer_3": "Cervical polyp",
+            "wrongAnswer_4": "Uterine fibroid"
+          },
+          {
+            "question": "Why is urinary stress incontinence more common in women than men?",
+            "goodAnswer": "It is due to the anatomical position of the bladder and urethra\u200b",
+            "wrongAnswer_1": "It is caused by a congenital defect in the male anatomy\u200b",
+            "wrongAnswer_2": "It is because men have a longer urethra than women\u200b",
+            "wrongAnswer_3": "It is due to the presence of additional sphincter muscles in women\u200b",
+            "wrongAnswer_4": "It is because the bladder in men is supported by the prostate gland, while the female bladder is not supported by any gland\u200b"
+          },
+          {
+            "question": "How is the diagnosis of abnormal uterine bleeding aided by the results of a pap smear, endometrial biopsy, and ultrasound examination?",
+            "goodAnswer": "A pap smear can rule out cervical cancer, an endometrial biopsy helps assess the uterine lining, and an ultrasound can evaluate the uterine size and detect structural abnormalities.",
+            "wrongAnswer_1": "A pap smear can detect endometrial polyps, an endometrial biopsy determines the cause of menorrhagia, and an ultrasound excludes fibroids.",
+            "wrongAnswer_2": "A pap smear assesses uterine size, an endometrial biopsy rules out ovarian cysts, and an ultrasound can confirm regular menstrual cycles.",
+            "wrongAnswer_3": "A pap smear diagnoses uterine fibroids, an endometrial biopsy measures blood flow in the uterus, and an ultrasound determines the thickness of the uterine artery.",
+            "wrongAnswer_4": "A pap smear excludes uterine malformations, an endometrial biopsy estimates hormone levels, and an ultrasound aids in planning chemotherapy regimens."
+          },
+          {
+            "question": "What is the most common cause of postmenopausal bleeding?",
+            "goodAnswer": "Endometrial hyperplasia or cancer\u200b",
+            "wrongAnswer_1": "Uterine prolapse",
+            "wrongAnswer_2": "Cervical stenosis",
+            "wrongAnswer_3": "Ovarian hyperstimulation syndrome",
+            "wrongAnswer_4": "Menometrorrhagia from undiagnosed fibroids"
+          },
+          {
+            "question": "What are the possible causes of intermenstrual bleeding in women?",
+            "goodAnswer": "Intermenstrual bleeding can occur due to hormonal imbalances, endometrial polyps, submucous fibroids, or cervical cancer.",
+            "wrongAnswer_1": "Intermenstrual bleeding is always caused by stress, anxiety, or dietary changes and does not require further investigation.",
+            "wrongAnswer_2": "The only cause of intermenstrual bleeding is uterine fibroids, as other factors do not contribute to abnormal bleeding between periods.",
+            "wrongAnswer_3": "Intermenstrual bleeding is a normal physiological occurrence and does not require evaluation or treatment.",
+            "wrongAnswer_4": "It is always caused by a recent surgery, such as a hysterectomy, rather than underlying medical conditions."
+          },
+          {
+            "question": "What are the technical terms used to classify the following abnormal uterine bleeding patterns: 1) excessive bleeding at regular intervals, 2) excessive bleeding at irregular intervals, and 3) bleeding between normal cycles?",
+            "goodAnswer": "1) menorrhagia, 2) menometrorrhagia, 3) intermenstrual bleeding",
+            "wrongAnswer_1": "1) metrorrhagia, 2) amenorrhea, 3) postcoital bleeding",
+            "wrongAnswer_2": "1) hypomenorrhea, 2) oligomenorrhea, 3) dysmenorrhea",
+            "wrongAnswer_3": "1) intermenstrual bleeding, 2) menorrhagia, 3) endometrial atrophy",
+            "wrongAnswer_4": "1) postmenopausal bleeding, 2) dyspareunia, 3) uterine prolapse"
+          },
+          {
+            "question": "What does the finding of multiple, small, well-circumscribed, hypoechoic lesions on transabdominal pelvic ultrasound of a 56-year-old woman most likely indicate?",
+            "goodAnswer": "Leiomyomas (fibroids) in the myometrium",
+            "wrongAnswer_1": "Endometriosis with multiple, small implants",
+            "wrongAnswer_2": "Chronic pelvic inflammatory disease with vascular occlusion",
+            "wrongAnswer_3": "Ovarian cysts of functional significance",
+            "wrongAnswer_4": "A normal-sized uterus without any significant pathology"
+          },
+          {
+            "question": "What are the findings of a speculum exam in a patient with cervical cancer?",
+            "goodAnswer": "Often asymptomatic, but may present with portio changes, ulceration, exophytic masses, or cervical stenosis",
+            "wrongAnswer_1": "Regularly reveals distorted endometrial folds, irregular uterine size, and multiple small cysts in the cervix",
+            "wrongAnswer_2": "Typically shows signs of acute cervicitis, including erythema, edema, and petechiae, without evidence of neoplasia",
+            "wrongAnswer_3": "Will always show a clear view of the entire cervix, as cancer does not affect the speculum exam",
+            "wrongAnswer_4": "Consistently demonstrates a normal portio with smooth contours and no visible lesions"
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

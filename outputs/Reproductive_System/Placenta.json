@@ -1,0 +1,333 @@
+{
+  "mainTopic": {
+    "title": "Placenta",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "General facts, Development of the human placenta, Implantation",
+        "quizzes": [
+          {
+            "question": "What is the primary function of HLA-G in the maternal-fetal immune tolerance system?",
+            "goodAnswer": "HLA-G, expressed on trophoblast cells, inhibits NK cell-mediated cytolysis and T cell-mediated cytolysis, preventing immune rejection of the fetus.",
+            "wrongAnswer_1": "HLA-G activates B cells to produce antibodies against paternal antigens, ensuring immune surveillance at the maternal-fetal interface.",
+            "wrongAnswer_2": "HLA-G induces the production of pro-inflammatory cytokines, which stimulate T cell activation and promote fetal rejection.",
+            "wrongAnswer_3": "HLA-G promotes the expression of adhesion molecules on maternal immune cells, leading to increased neutrophil infiltration and complement activation.",
+            "wrongAnswer_4": "HLA-G stimulates mast cell degranulation, causing vascular dilation and facilitating trophoblast invasion into the decidua."
+          },
+          {
+            "question": "What is the significance of the L-arginine-NO-cGMP pathway in vascular development and function?",
+            "goodAnswer": "L-arginine is converted to NO by endothelial cells, leading to vasodilation and inhibiting platelet aggregation and leukocyte adhesion; NO activates guanylate cyclase to produce cGMP, which mediates vascular smooth muscle relaxation and inhibits growth factor-induced proliferation.",
+            "wrongAnswer_1": "The L-arginine-NO-cGMP pathway is responsible for producing platelet-derived growth factor (PDGF) and basic fibroblast growth factor (bFGF), which stimulate vascular smooth muscle cell proliferation and promote angiogenesis.",
+            "wrongAnswer_2": "NO produced in this pathway activates the release of inflammatory cytokines such as TNF-\u03b1 and IL-6, which leads to leukocyte recruitment and thrombosis in blood vessels.",
+            "wrongAnswer_3": "The L-arginine-NO-cGMP pathway functions by converting arginine to adenosine, which inhibits vascular smooth muscle contraction and promotes platelet adhesion to the endothelium.",
+            "wrongAnswer_4": "C-GMP, once produced, activates protein kinase A (PKA), which triggers the release of vascular endothelial growth factor (VEGF) and promotes endothelial cell migration and proliferation."
+          },
+          {
+            "question": "What is the primary function of the L-arginine-NO-cGMP pathway in vascular development and function, and what are the key players involved in this pathway?",
+            "goodAnswer": "The L-arginine-NO-cGMP pathway regulates vascular tone and growth by modulating the production and activity of nitric oxide (NO). Key players in this pathway include endothelial cells, smooth muscle cells, and the enzymes L-arginine, NO synthase (NOS), and guanylyl cyclase.",
+            "wrongAnswer_1": "The L-arginine-NO-cGMP pathway is responsible for producing cyclic AMP (cAMP) instead of cGMP, and it functions by activating protein kinase A (PKA) rather than protein kinase G (PKG). Key players in this pathway include endothelial cells, smooth muscle cells, and the enzymes L-arginine, NO synthase (NOS), and adenylyl cyclase.",
+            "wrongAnswer_2": "The L-arginine-NO-cGMP pathway utilizes hydrogen peroxide (H2O2) instead of nitric oxide (NO) for vasodilation, and it functions by activating phospholipase C (PLC) rather than guanylyl cyclase. Key players in this pathway include endothelial cells, smooth muscle cells, and the enzymes L-arginine, superoxide dismutase (SOD), and protein kinase C (PKC).",
+            "wrongAnswer_3": "The L-arginine-NO-cGMP pathway is a system that breaks down cGMP into GTP, thereby reducing vasodilation and increasing vascular resistance. It involves endothelial cells, smooth muscle cells, and the enzymes L-arginine, guanylyl cyclase, and phosphodiesterase.",
+            "wrongAnswer_4": "The L-arginine-NO-cGMP pathway utilizes serotonin instead of nitric oxide (NO) for vasodilation, and it functions by activating calcium channels rather than guanylyl cyclase. Key players in this pathway include endothelial cells, smooth muscle cells, and the enzymes L-arginine, 5-HT synthase, and voltage-gated calcium channels."
+          },
+          {
+            "question": "What are the primary and secondary functions of the L-arginine-NO-cGMP pathway in vascular development and function?",
+            "goodAnswer": "The L-arginine-NO-cGMP pathway promotes vasodilation and inhibits thrombosis by regulating the bioavailability of nitric oxide (NO). It plays a key role in vascular development, mediating smooth muscle cell proliferation and migration during vessel formation.",
+            "wrongAnswer_1": "The L-arginine-NO-cGMP pathway promotes vasoconstriction and enhances thrombosis, reducing blood flow and increasing platelet aggregation, which leads to increased risk of heart attacks and strokes.",
+            "wrongAnswer_2": "The L-arginine-NO-cGMP pathway is responsible for producing carbon monoxide (CO) instead of nitric oxide (NO), which acts as a neurotransmitter in the central nervous system and regulates synaptic plasticity.",
+            "wrongAnswer_3": "The L-arginine-NO-cGMP pathway functions by decreasing the activity of guanylate cyclase, which leads to a reduced production of cyclic GMP (cGMP) and ultimately results in uncontrolled vascular tone and increased risk of cardiovascular disease.",
+            "wrongAnswer_4": "The L-arginine-NO-cGMP pathway is involved in the synthesis of serotonin in endothelial cells, which regulates mood and sleep cycles rather than playing a direct role in vascular function."
+          },
+          {
+            "question": "What is the function of the L-arginine-NO-cGMP pathway in vascular development and function?",
+            "goodAnswer": "The L-arginine-NO-cGMP pathway regulates vascular tone, inhibits platelet aggregation, and stimulates endothelial cell growth. It functions by converting L-arginine to nitric oxide (NO) through the action of endothelial nitric oxide synthase (eNOS). NO then activates soluble guanylyl cyclase, leading to the production of cyclic GMP (cGMP). cGMP causes vasodilation by relaxing vascular smooth muscle. In summary, this pathway maintains vascular homeostasis and regulates blood flow.",
+            "wrongAnswer_1": "The L-arginine-NO-cGMP pathway is responsible for synthesizing prostaglandins, which regulate platelet activation and vascular smooth muscle contraction. It functions by converting L-arginine to nitric oxide (NO) through the action of COX-2. NO then activates thromboxane receptors, leading to the production of thromboxane A2 (TXA2). TXA2 causes vasoconstriction and platelet aggregation, ultimately reducing blood flow.",
+            "wrongAnswer_2": "The L-arginine-NO-cGMP pathway functions by converting L-arginine to dopamine, which activates specific receptors on vascular smooth muscle cells. This leads to the release of calcium, causing prolonged vasoconstriction. Dopamine is further metabolized into epinephrine, which enhances platelet adhesion and promotes thrombosis. In this way, the pathway regulates vascular tone and hemostatic activity.",
+            "wrongAnswer_3": "The L-arginine-NO-cGMP pathway involves the production of hydrogen peroxide (H2O2) rather than nitric oxide. H2O2 is responsible for stimulating vascular smooth muscle contraction and promoting platelet adhesion. It functions by activating specific ion channels on the endothelial cell surface, leading to a decrease in cyclic GMP (cGMP). Consequently, vascular tone remains stable, and blood flow remains unchanged.",
+            "wrongAnswer_4": "The L-arginine-NO-cGMP pathway is involved in the synthesis of adenosine triphosphate (ATP) from L-arginine. ATP functions as a vasodilator by directly stimulating vascular smooth muscle cells. However, it does not involve nitric oxide (NO) or cyclic GMP (cGMP) in its mechanism of action. Instead, it relies solely on ATP production to regulate vascular tone and platelet function."
+          },
+          {
+            "question": "What is the role of the L-arginine-NO-cGMP pathway in vascular development and function?",
+            "goodAnswer": "The L-arginine-NO-cGMP pathway regulates vascular tone, inhibits smooth muscle proliferation, and stimulates endothelial cell growth. Key players include endothelial nitric oxide synthase (eNOS), which converts L-arginine to nitric oxide (NO), and NO stimulates the production of cyclic GMP (cGMP), leading to vasodilation and anti-thrombogenic effects.",
+            "wrongAnswer_1": "The L-arginine-NO-cGMP pathway regulates platelet aggregation, inhibiting endothelial cell growth and promoting smooth muscle proliferation. It does so by converting nitric oxide (NO) to L-arginine, reducing the levels of cyclic GMP (cGMP), and leading to vasoconstriction and pro-thrombotic effects.",
+            "wrongAnswer_2": "The L-arginine-NO-cGMP pathway is responsible for synthesizing prostaglandins, which control vascular tone and inhibit smooth muscle growth. In this pathway, endothelial nitric oxide synthase (eNOS) converts L-arginine to cyclic GMP (cGMP), while nitric oxide (NO) stimulates the production of prostaglandins, leading to vasodilation and anti-thrombotic effects.",
+            "wrongAnswer_3": "The L-arginine-NO-cGMP pathway primarily functions in immune cell activation rather than vascular development. It involves the conversion of L-arginine to nitric oxide (NO) by inducible nitric oxide synthase (iNOS) and leads to the suppression of cGMP, resulting in reduced vasodilation and increased thrombosis.",
+            "wrongAnswer_4": "The L-arginine-NO-cGMP pathway is responsible for synthesizing serotonin, which regulates vascular tone and stimulates smooth muscle contraction. In this pathway, endothelial nitric oxide synthase (eNOS) converts L-arginine to serotonin, which then binds to receptors on smooth muscle cells, leading to vasoconstriction and enhanced platelet adhesion."
+          },
+          {
+            "question": "What factor, produced by trophoblast cells, is essential for inhibiting NK cell-mediated cytolysis and CD8+ T cell-mediated cytolysis in the maternal-fetal immune system?",
+            "goodAnswer": "HLA-G, a non-classical HLA class I molecule, is expressed on trophoblast cells and regulates immune tolerance by suppressing NK cell and CD8+ T cell activity.",
+            "wrongAnswer_1": "TGF-beta, a pleiotropic cytokine, is responsible for inducing T cell anergy and inhibiting macrophage activation, preventing immune clearance of the fetus.",
+            "wrongAnswer_2": "Fas ligand (FasL), expressed on activated lymphocytes, triggers apoptosis in cells expressing Fas, leading to the elimination of alloantigens and immune surveillance.",
+            "wrongAnswer_3": "CTLA-4, a receptor expressed on regulatory T cells, binds to B7 molecules on antigen-presenting cells, leading to the suppression of T cell activation and cytokine production.",
+            "wrongAnswer_4": "IL-10, a cytokine produced by macrophages and regulatory T cells, acts as an immunosuppressant by blocking pro-inflammatory cytokine release and promoting immune homeostasis."
+          }
+        ]
+      },
+      {
+        "title": "Immature Chorionic Villi, Trophectoderm differentiation, Early trophectoderm differentiation",
+        "quizzes": [
+          {
+            "question": "What is the primary function of the non-classical HLA class I molecule, HLA-G, in the context of pregnancy?",
+            "goodAnswer": "HLA-G inhibits complement activation by binding to KIR receptors on immune cells, preventing fetal rejection.",
+            "wrongAnswer_1": "HLA-G stimulates T-cell activation and induces cytokine production in the decidua.",
+            "wrongAnswer_2": "HLA-G promotes neutrophil infiltration at the maternal-fetal interface to clear fetal alloantigens.",
+            "wrongAnswer_3": "HLA-G enhances antibody-dependent cell-mediated cytotoxicity (ADCC) against trophoblast cells.",
+            "wrongAnswer_4": "HLA-G induces the production of pro-inflammatory cytokines like TNF-\u03b1 and IFN-\u03b3, leading to fetal rejection."
+          },
+          {
+            "question": "What is the function of the adhesion molecule heterodimers, composed of \u03b1 and \u03b2 subunits, in the context of pregnancy?",
+            "goodAnswer": "Heterodimers, composed of \u03b1 and \u03b2 subunits, determine the ligand specificity of adhesion molecules such as integrins, which play a role in cell-cell adhesion, cell-matrix reactions, anchoring cells, transmitting information, immunologic homing, metastatic spread, and healing.",
+            "wrongAnswer_1": "Heterodimers of adhesion molecules function solely in immune homing and do not participate in cell-cell adhesion, cell-matrix reactions, anchoring cells, transmitting information, or metastatic spread.",
+            "wrongAnswer_2": "While composed of \u03b1 and \u03b2 subunits, heterodimers only function in transmitting information and do not play a role in cell-cell adhesion, cell-matrix reactions, anchoring cells, immunologic homing, metastatic spread, or healing.",
+            "wrongAnswer_3": "Heterodimers of adhesion molecules are responsible for inhibiting immune homing and reducing cell-cell adhesion, cell-matrix reactions, anchoring cells, transmitting information, and metastatic spread.",
+            "wrongAnswer_4": "The composition of \u03b1 and \u03b2 subunits in adhesion molecule heterodimers determines their stability but does not influence ligand specificity or function in pregnancy."
+          },
+          {
+            "question": "What is the primary action of C3b within the context of the maternal immune system at the feto-placental interface?",
+            "goodAnswer": "C3b, when deposited on fetal cells, is recognized by inhibitory receptors on maternal immune cells, preventing complement-mediated attack.",
+            "wrongAnswer_1": "C3b promotes neutrophil chemotaxis and cytokine release, leading to targeted destruction of fetal cells and alloantigen clearance.",
+            "wrongAnswer_2": "C3b deposition triggers a cascade of pro-inflammatory responses, resulting in direct cytotoxic T lymphocyte activation and subsequent fetal resorption.",
+            "wrongAnswer_3": "C3b enhances the recognition of fetal alloantigens by the maternal adaptive immune system, leading to a targeted attack on the placenta and subsequent immune memory development.",
+            "wrongAnswer_4": "C3b neutralizes the effect of regulatory T cells (Treg) by binding to their receptors, increasing the likelihood of feto-placental rejection and spontaneous abortion."
+          },
+          {
+            "question": "What is the primary role of the adhesion molecules, such as integrins, at the maternal-fetal interface?",
+            "goodAnswer": "Adhesion molecules like integrins play a crucial role in cell-cell adhesion, cell-matrix interactions, anchoring cells, transmitting information, immunologic homing, metastatic spread, and wound healing. They are composed of \u03b1 and \u03b2 subunits, and the specific ligand is determined by the a\u03b2 heterodimer.",
+            "wrongAnswer_1": "Adhesion molecules, such as integrins, function solely to regulate the release of hormones from the placenta, controlling fetal growth and development without affecting cell interactions or immune function.",
+            "wrongAnswer_2": "Integrins are primarily responsible for transporting oxygen and nutrients across the placenta, ensuring the survival of the fetus while preventing immune recognition of fetal alloantigens.",
+            "wrongAnswer_3": "At the maternal-fetal interface, adhesion molecules like integrins function by suppressing T cell activation, leading to the acceptance of the fetal allograft without any need for HLA-G expression.",
+            "wrongAnswer_4": "The primary role of adhesion molecules is to break down the extracellular matrix, allowing for the invasion of trophoblast cells into the uterine wall and facilitating implantation."
+          },
+          {
+            "question": "What is the biological consequence of the trophoblast expressing Fgfr2 in early trophoectoderm differentiation?",
+            "goodAnswer": "It induces Fgf4 expression from the inner cell mass (ICM), creating a positive feedback loop that promotes further trophoblast differentiation.",
+            "wrongAnswer_1": "It inhibits Fgf2 expression in the inner cell mass (ICM), leading to the expansion of the trophoblast population without control.",
+            "wrongAnswer_2": "It triggers the immediate differentiation of all trophoblast cells into invasive cytotrophoblast without the need for Fgf4.",
+            "wrongAnswer_3": "It neutralizes the effect of Fgf4 from the inner cell mass, preventing any changes in trophoblast differentiation.",
+            "wrongAnswer_4": "It causes the trophoblast to express Fgf4, leading to increased vascularization in the periphery of the blastocyst."
+          },
+          {
+            "question": "What is the significance of vascular remodeling in the uterine spiral arteries during pregnancy?",
+            "goodAnswer": "Vascular remodeling of the uterine spiral arteries is crucial for increasing blood flow to the intervillous space, providing nutrients and oxygen to the growing fetus while simultaneously protecting the pregnancy from immune rejection by modifying the local immune response.",
+            "wrongAnswer_1": "Vascular remodeling is primarily responsible for regulating hormone production in the placenta to support fetal development.",
+            "wrongAnswer_2": "It serves to isolate the fetus from the maternal immune system by forming a complete barrier between the uterine lining and the chorionic villi.",
+            "wrongAnswer_3": "Remodeled spiral arteries function to transport immune cells from the mother's circulation into the intervillous space to protect against fetal alloantigens.",
+            "wrongAnswer_4": "The process of vascular remodeling reduces blood flow to the placenta, which functions to prevent excessive nutrient supply and control fetal growth."
+          },
+          {
+            "question": "What is the functional significance of the various integrins expressed on trophoblast cells during implantation?",
+            "goodAnswer": "Integrins expressed on trophoblast cells play a role in cell-cell adhesion, cell-matrix interactions, anchoring cells to the uterine wall, transmitting signals between cells, and guiding immune cells to the implantation site.",
+            "wrongAnswer_1": "Integrins regulate vascular remodeling of uterine spiral arteries, ensuring proper blood flow to the developing placenta.",
+            "wrongAnswer_2": "Integrins induce decidualization of the endometrial stromal cells, which is crucial for blastocyst implantation.",
+            "wrongAnswer_3": "Integrins inhibit T cell activation at the maternal-fetal interface to prevent immune rejection of the fetus.",
+            "wrongAnswer_4": "Integrins are responsible for stimulating angiogenesis within the trophoblast itself, promoting placental growth."
+          },
+          {
+            "question": "What is the functional significance of the various integrins expressed on trophoblast cells during implantation?",
+            "goodAnswer": "Integrins expressed on trophoblast cells function in cell-cell adhesion, cell-matrix interactions, and immune modulation at the maternal-fetal interface. They facilitate the attachment of the blastocyst to the uterine wall and contribute to the formation of the placenta.",
+            "wrongAnswer_1": "Integrins on trophoblast cells function as direct receptors for hormones such as hCG and estrogen, which stimulate fetal growth and vascular development in the first trimester.",
+            "wrongAnswer_2": "Integrins expressed on trophoblast cells primarily recognize and bind to specific cytokines released from neutrophils, activating an inflammatory response that aids in remodeling of the uterine lining.",
+            "wrongAnswer_3": "The various integrins expressed by trophoblast cells during implantation function to induce apoptosis of endometrial cells, ensuring that the blastocyst can penetrate the uterine wall and successfully implant.",
+            "wrongAnswer_4": "Integrins expressed on trophoblast cells primarily serve to inhibit the action of HLA-G, reducing the risk of fetal rejection by the maternal immune system."
+          },
+          {
+            "question": "What is the functional significance of the various integrins expressed on trophoblast cells during implantation?",
+            "goodAnswer": "Integrins expressed on trophoblast cells play a key role in adhesion to uterine cells, facilitating the attachment and invasion of the blastocyst. They bind to extracellular matrix proteins and mediate signaling cascades that regulate trophoblast differentiation and vascular remodeling. Integrins also contribute to immune tolerance by interacting with HLA-G on trophoblast cells, preventing rejection of the fetus. In addition, they can promote angiogenesis and facilitate nutrient exchange between the mother and fetus.",
+            "wrongAnswer_1": "Integrins expressed on trophoblast cells function solely as passive receptors and do not play an active role in adhesion or signaling during implantation. Their expression levels remain constant throughout pregnancy, and they do not contribute to immune tolerance or angiogenesis.",
+            "wrongAnswer_2": "Integrins on trophoblast cells primarily serve to repel uterine cells, preventing the blastocyst from attaching to the endometrium. They interact with inflammatory cytokines rather than extracellular matrix proteins and induce apoptosis in uterine cells to facilitate embryo detachment.",
+            "wrongAnswer_3": "The expression of integrins on trophoblast cells is independent of hormonal regulation and remains static throughout pregnancy. They primarily function to absorb nutrients from the uterine cavity and do not contribute to adhesion, invasion, or immune modulation at the feto-maternal interface.",
+            "wrongAnswer_4": "Integrins expressed on trophoblast cells are responsible for repelling maternal immune cells and promoting inflammation. They induce the production of pro-inflammatory cytokines, leading to the rejection of the fetal allograft and subsequent miscarriage."
+          },
+          {
+            "question": "What is the functional significance of the various integrins expressed on trophoblast cells during implantation?",
+            "goodAnswer": "Integrins expressed on trophoblast cells function in cell-cell adhesion, cell-matrix interactions, and immune modulation at the maternal-fetal interface. They help anchor cells, transmit information, and facilitate immunologic homing.",
+            "wrongAnswer_1": "Integrins expressed on trophoblast cells primarily function as hormone receptors rather than adhesion molecules. They play a key role in regulating blastocyst development by detecting endometrial signals for implantation.",
+            "wrongAnswer_2": "Integrins expressed on trophoblast cells primarily function in apoptosis regulation rather than adhesion. They induce programmed cell death in the trophoblast, which is essential for remodeling the uterine wall during implantation.",
+            "wrongAnswer_3": "Integrins expressed on trophoblast cells function as direct mediators of vascular permeability, allowing immune cells to freely cross the maternal-fetal interface without regulation. This uncontrolled permeability leads to widespread inflammation and potential fetal rejection.",
+            "wrongAnswer_4": "Integrins expressed on trophoblast cells primarily function in nutrient transport rather than adhesion. They act as channels that facilitate the movement of oxygen and glucose from the maternal bloodstream into the developing fetus."
+          }
+        ]
+      },
+      {
+        "title": "Branching, Vasculogenesis",
+        "quizzes": [
+          {
+            "question": "What is the primary function of HLA-G in the maternal-fetal immune tolerance system?",
+            "goodAnswer": "HLA-G, expressed on trophoblasts, downregulates NK cell and CD8+ T cell activity, preventing rejection of the fetal allograft.",
+            "wrongAnswer_1": "HLA-G functions as a strong chemoattractant for neutrophils, aiding in the recruitment of these cells to the implantation site.",
+            "wrongAnswer_2": "HLA-G directly stimulates the production of pro-inflammatory cytokines such as TNF-alpha and IFN-gamma, leading to rejection.",
+            "wrongAnswer_3": "HLA-G acts as an antagonist to paternal HLA antigens, making the fetus appear more foreign to the maternal immune system.",
+            "wrongAnswer_4": "HLA-G induces the production of antibodies that target and destroy fetal trophoblasts, ensuring immune surveillance."
+          },
+          {
+            "question": "What are the key adhesion molecules (and their associated integrins) that play a crucial role at the maternal-fetal interface, and what is their primary function in immune regulation and cell-to-cell communication?",
+            "goodAnswer": "At the maternal-fetal interface, adhesion molecules such as L-selectin (expressed on leukocytes) and vascular cell adhesion molecule-1 (VCAM-1) on endothelial cells facilitate leukocyte recruitment to the decidua. L-selectin binds to VCAM-1 and mediates rolling of leukocytes on endothelial cells, which is essential for extravasation and subsequent immune activation.",
+            "wrongAnswer_1": "Adhesion molecules at the maternal-fetal interface include ICAM-1 (intercellular adhesion molecule-1), which is constitutively expressed on trophoblast cells and binds to LFA-1 (leukocyte function-associated antigen-1) on neutrophils, facilitating neutrophil infiltration into the decidua and triggering inflammatory responses.",
+            "wrongAnswer_2": "The key adhesion molecules are E-selectin (expressed on endothelial cells) and LFA-3 (leukocyte function-associated antigen-3) on trophoblasts. E-selectin binds to LFA-3 and mediates the direct adhesion of trophoblasts to endothelial cells, which regulates implantation and nutrient exchange between the fetus and mother.",
+            "wrongAnswer_3": "At the maternal-fetal interface, adhesion molecules such as CXCL12 (chemokine ligand 12) and CXCR4 (CXC chemokine receptor 4) facilitate T cell activation. CXCL12, expressed on decidual cells, attracts CXCR4+ T cells, leading to antigen presentation and cytokine production, which regulates immune homeostasis.",
+            "wrongAnswer_4": "Adhesion molecules include HLA-G (human leukocyte antigen G), which binds to KIR (killer cell immunoglobulin-like receptor) on NK cells and T cells, leading to immune suppression and preventing fetal rejection. HLA-G acts by directly inhibiting cytokine release and cytotoxic activity of immune cells."
+          },
+          {
+            "question": "What are the primary functions of the different HLA-G isoforms expressed at the maternal-fetal interface?",
+            "goodAnswer": "Membrane-bound HLA-G isoforms inhibit NK and T cell activity, while soluble forms can modulate immune responses by blocking receptors or inducing tolerance.",
+            "wrongAnswer_1": "HLA-G isoforms function solely to stimulate B cell activation and antibody production against fetal antigens.",
+            "wrongAnswer_2": "Membrane-bound HLA-G enhances T cell proliferation and induces direct cytotoxicity towards maternal immune cells.",
+            "wrongAnswer_3": "Soluble HLA-G isoforms act as potent pro-inflammatory mediators that initiate an immune cascade against the fetus.",
+            "wrongAnswer_4": "HLA-G functions by increasing the expression of pro-inflammatory cytokines such as TNF-alpha and IL-6, leading to fetal rejection."
+          },
+          {
+            "question": "What is the significance of the L-selectin (CD62L) adhesion molecule in immune cell trafficking during pregnancy?",
+            "goodAnswer": "L-selectin (CD62L) is expressed on naive T cells and binds to GlyCAM-1 and CD34 on high endothelial venules (HEVs) of secondary lymphoid organs, facilitating their recruitment into lymph nodes. In pregnancy, L-selectin is downregulated on trophoblast cells, preventing adhesion of the blastocyst to the uterine wall before implantation.",
+            "wrongAnswer_1": "L-selectin (CD62L) is expressed on activated T cells and facilitates adhesion of immune cells to activated endothelial cells in the decidua, promoting infiltration into the uterine lining during implantation.",
+            "wrongAnswer_2": "L-selectin (CD62L) binds to HLA-G on fetal trophoblast cells, preventing recognition by maternal immune cells and ensuring immune tolerance of the fetoplacental unit.",
+            "wrongAnswer_3": "L-selectin (CD62L) is upregulated on trophoblast cells, increasing adhesion to the uterine wall and facilitating implantation of the blastocyst into the endometrial lining.",
+            "wrongAnswer_4": "L-selectin (CD62L) plays a role in promoting angiogenesis by binding to VEGF receptors on endothelial cells, facilitating vascular remodeling at the implantation site."
+          },
+          {
+            "question": "What is the primary function of the adhesion molecule L-selectin (CD62L) in immune cell trafficking during pregnancy?",
+            "goodAnswer": "L-selectin (CD62L) is constitutively expressed on all leukocytes and binds to sialylated ligands on high endothelial venules (HEV) of secondary lymphoid organs, facilitating the homing of leukocytes from the bloodstream into lymph nodes. In pregnancy, L-selectin is downregulated on trophoblast cells, reducing leukocyte adhesion to the trophoblast and decreasing the risk of neutrophil-mediated fetal injury.",
+            "wrongAnswer_1": "L-selectin (CD62L) is constitutively expressed on endothelial cells and binds to leukocytes, promoting leukocyte adhesion to the uterine wall and facilitating immune surveillance of the feto-placental unit.",
+            "wrongAnswer_2": "L-selectin (CD62L) is upregulated on trophoblast cells, enhancing leukocyte recruitment to the implantation site and promoting vascular remodeling in the decidua.",
+            "wrongAnswer_3": "L-selectin (CD62L) binds specifically to HLA-G on fetal cells, inhibiting NK cell-mediated cytolysis and promoting immune tolerance at the maternal-fetal interface.",
+            "wrongAnswer_4": "L-selectin (CD62L) functions by recruiting macrophages and neutrophils to the uterine cavity, aiding in the removal of debris and facilitating normal endometrial turnover during the menstrual cycle."
+          },
+          {
+            "question": "What is the primary function of HLA-G in the maternal-fetal immune tolerance system?",
+            "goodAnswer": "HLA-G, a non-classical HLA molecule, is expressed by trophoblast cells and acts by inhibiting NK cell-mediated and T cell-mediated cytolysis of fetal cells, effectively protecting the fetus from immune rejection.",
+            "wrongAnswer_1": "HLA-G functions by stimulating the production of pro-inflammatory cytokines, which enhance the immune response against the fetal alloantigens and prevent uncontrolled growth of the trophoblast.",
+            "wrongAnswer_2": "HLA-G promotes the differentiation of maternal T cells into Th1 cells, which are responsible for attacking and destroying fetal cells, ensuring immune surveillance against potential pathogens.",
+            "wrongAnswer_3": "HLA-G activates the classical complement pathway, leading to the lysis of trophoblast cells and subsequent rejection of the fetus by the maternal immune system.",
+            "wrongAnswer_4": "HLA-G induces the expression of adhesion molecules like ICAM-1 on the surface of endothelial cells, facilitating leukocyte recruitment and triggering an inflammatory cascade that eliminates fetal cells."
+          },
+          {
+            "question": "What is the primary function of HLA-G in the maternal-fetal immune tolerance system?",
+            "goodAnswer": "HLA-G, a non-classical HLA molecule, functions to inhibit NK cell-mediated and T cell-mediated cytolysis of fetal trophoblast cells, preventing immune rejection of the allogeneic fetus.",
+            "wrongAnswer_1": "HLA-G promotes T cell activation to clear pathogens from the fetal-maternal interface and ensure immune surveillance against infections.",
+            "wrongAnswer_2": "HLA-G directly stimulates the production of pro-inflammatory cytokines, leading to the rejection of the fetal trophoblast by the maternal immune system.",
+            "wrongAnswer_3": "HLA-G functions to recruit and activate macrophages to phagocytose fetal cells and maintain immune homeostasis at the interface.",
+            "wrongAnswer_4": "HLA-G enhances the expression of pro-angiogenic factors, promoting vascular development in the placenta without affecting immune tolerance."
+          },
+          {
+            "question": "What are the primary functions of the different HLA-G isoforms expressed at the maternal-fetal interface?",
+            "goodAnswer": "Membrane-bound HLA-G isoforms (HLA-G1,-G2,-G3) function in antigen presentation, T cell education, and immune modulation by interacting with KIR receptors on immune cells, while soluble HLA-G isoforms (HLA-G4,-G5,-G6) can induce regulatory T cells and inhibit NK cell cytotoxicity.",
+            "wrongAnswer_1": "Membrane-bound HLA-G isoforms (HLA-G1,-G2,-G3) function in antigen presentation, T cell education, and immune modulation by interacting with TCR receptors on immune cells, while soluble HLA-G isoforms (HLA-G4,-G5,-G6) can induce cytotoxic T cells and enhance NK cell cytotoxicity.",
+            "wrongAnswer_2": "Membrane-bound HLA-G isoforms (HLA-G1,-G2,-G3) function in antigen presentation, T cell education, and immune modulation by interacting with MHC class II receptors on immune cells, while soluble HLA-G isoforms (HLA-G4,-G5,-G6) can induce B cell activation and antibody production.",
+            "wrongAnswer_3": "Membrane-bound HLA-G isoforms (HLA-G1,-G2,-G3) function in antigen presentation, T cell education, and immune modulation by interacting with LFA-1 receptors on immune cells, while soluble HLA-G isoforms (HLA-G4,-G5,-G6) can induce pro-inflammatory cytokine production and neutrophil activation.",
+            "wrongAnswer_4": "Membrane-bound HLA-G isoforms (HLA-G1,-G2,-G3) function in antigen presentation, T cell education, and immune modulation by interacting with ICAM-1 receptors on endothelial cells, while soluble HLA-G isoforms (HLA-G4,-G5,-G6) can induce mast cell degranulation and histamine release."
+          },
+          {
+            "question": "What are the primary functions of the different HLA-G isoforms expressed at the maternal-fetal interface?",
+            "goodAnswer": "Membrane-bound HLA-G isoforms (HLA-G1,-G2,-G3,-G4) function in antigen presentation, induce T-cell apoptosis, and promote immune tolerance by interacting with KIR receptors on immune cells. Soluble HLA-G (HLA-G5,-G6,-G7) can inhibit NK cell cytotoxicity, block antigen presentation, and induce regulatory T cells.",
+            "wrongAnswer_1": "Membrane-bound HLA-G isoforms (HLA-G1,-G2,-G3,-G4) function in antigen presentation, induce T-cell activation, and promote immune rejection by interacting with KIR receptors on immune cells. Soluble HLA-G (HLA-G5,-G6,-G7) can enhance NK cell cytotoxicity, stimulate antigen presentation, and induce cytotoxic T cells.",
+            "wrongAnswer_2": "HLA-G isoforms are only expressed on immune cells and do not play a role in trophoblast function. They primarily act as signaling molecules for neutrophil recruitment and cytokine production.",
+            "wrongAnswer_3": "Membrane-bound HLA-G isoforms (HLA-G1,-G2,-G3,-G4) function in antigen presentation, induce T-cell differentiation, and promote immune activation by interacting with TCR receptors on immune cells. Soluble HLA-G (HLA-G5,-G6,-G7) can stimulate B cell proliferation and antibody production.",
+            "wrongAnswer_4": "HLA-G is a non-classical HLA molecule that enhances pro-inflammatory cytokine production and promotes neutrophil infiltration at the maternal-fetal interface."
+          },
+          {
+            "question": "How does the trophoblast promote immune tolerance by modifying immune cell activity?",
+            "goodAnswer": "The trophoblast expresses HLA-G, which inhibits NK cell-mediated cytolysis and antigen-specific CD8+ T cell-mediated cytolysis, allowing the fetus to survive without being rejected by the maternal immune system.",
+            "wrongAnswer_1": "The trophoblast produces high levels of pro-inflammatory cytokines, which stimulate the recruitment of neutrophils and macrophages to the implantation site, leading to the rejection of the fetal allograft.",
+            "wrongAnswer_2": "The trophoblast expresses high levels of HLA-A and HLA-B, which strongly activate the maternal immune system, resulting in the direct killing of fetal cells by cytotoxic T lymphocytes.",
+            "wrongAnswer_3": "The trophoblast secretes factors that induce the production of antibodies by B cells, which then attack the fetal tissue, leading to its destruction and resorption.",
+            "wrongAnswer_4": "The trophoblast promotes angiogenesis by producing vascular endothelial growth factor (VEGF), which stimulates the formation of new blood vessels at the implantation site, but it does not play a role in immune tolerance."
+          },
+          {
+            "question": "What is the primary function of HLA-G in the maternal-fetal immune tolerance system?",
+            "goodAnswer": "HLA-G, a non-classical HLA molecule, downregulates NK cell and T cell activity by binding to KIR receptors on immune cells, preventing rejection of the fetoplacental unit.",
+            "wrongAnswer_1": "HLA-G functions as an allogeneic marker that triggers maternal T cell activation and induces direct killing of trophoblast cells, ensuring immune surveillance eliminates the foreign fetal tissue and prevents implantation.",
+            "wrongAnswer_2": "HLA-G upregulates the expression of pro-inflammatory cytokines such as TNF-alpha and IL-6, leading to recruitment of macrophages and neutrophils to the implantation site and rejection of the fetus.",
+            "wrongAnswer_3": "HLA-G binds to LFA-1 receptors on immune cells, stimulating NK cell-mediated killing of trophoblast cells and promoting fetal resorption rather than immune tolerance.",
+            "wrongAnswer_4": "HLA-G functions by inhibiting the production of regulatory T cells (Treg) in the uterine microenvironment, leading to an uncontrolled immune response against the fetus and causing spontaneous abortion."
+          },
+          {
+            "question": "What is the primary function of HLA-G in the maternal-fetal immune tolerance system?",
+            "goodAnswer": "HLA-G, expressed on trophoblast cells, downregulates NK cell cytotoxicity and inhibits T cell activation, reducing the risk of fetal rejection.",
+            "wrongAnswer_1": "HLA-G promotes B cell proliferation and antibody production against fetal antigens, leading to immune surveillance of the fetus.",
+            "wrongAnswer_2": "HLA-G upregulates the expression of pro-inflammatory cytokines such as TNF-alpha and IL-6, triggering neutrophil infiltration and fetal resorption.",
+            "wrongAnswer_3": "HLA-G induces the production of adhesion molecules that prevent trophoblast implantation and maintain the blastocyst in the uterine cavity.",
+            "wrongAnswer_4": "HLA-G stimulates the release of histamine and serotonin from mast cells, promoting vascular dilation and increasing fetal oxygen supply."
+          },
+          {
+            "question": "What are the distinct functions of the membrane-bound and soluble forms of HLA-G in immune regulation at the maternal-fetal interface?",
+            "goodAnswer": "Membrane-bound HLA-G functions in direct interactions with immune cells such as NK cells and T cells, while soluble HLA-G can act as a decoy receptor to clear circulating alloantigens and modulate cytokine production.",
+            "wrongAnswer_1": "Membrane-bound HLA-G suppresses T cell activation, while soluble HLA-G enhances NK cell cytotoxicity to eliminate activated B cells and dendritic cells.",
+            "wrongAnswer_2": "HLA-G, whether membrane-bound or soluble, primarily functions to stimulate the production of pro-inflammatory cytokines, leading to the recruitment of macrophages and neutrophils to the implantation site.",
+            "wrongAnswer_3": "While both forms of HLA-G are involved in immune suppression, the membrane-bound form primarily acts by inducing apoptosis in maternal immune cells, while the soluble form functions by blocking the expression of CTLA-4 on T cells.",
+            "wrongAnswer_4": "HLA-G is only expressed on trophoblast cells and does not have a significant role in immune regulation. Its primary function is to bind to LFA-3 on maternal immune cells, leading to increased pro-inflammatory cytokine production."
+          },
+          {
+            "question": "What is the primary function of HLA-G in the maternal-fetal immune tolerance system?",
+            "goodAnswer": "HLA-G, expressed on trophoblast cells, downregulates NK cell cytotoxicity and inhibits T cell activation, reducing the risk of fetal rejection.",
+            "wrongAnswer_1": "HLA-G promotes B cell proliferation and antibody production against fetal antigens, leading to immune surveillance of the fetus.",
+            "wrongAnswer_2": "HLA-G upregulates the expression of pro-inflammatory cytokines such as TNF-alpha and IL-6, inducing direct rejection of the fetus by the maternal immune system.",
+            "wrongAnswer_3": "HLA-G enhances the activation of cytotoxic T lymphocytes (CTLs) to eliminate foreign fetal cells and prevent implantation.",
+            "wrongAnswer_4": "HLA-G functions by increasing the expression of adhesion molecules on immune cells, leading to increased neutrophil infiltration and complement activation at the implantation site."
+          }
+        ]
+      },
+      {
+        "title": "Immunobiology of pregnancy, Complement, Role of HLA-G, Adhesion molecules",
+        "quizzes": [
+          {
+            "question": "What is the primary function of HLA-G in pregnancy?",
+            "goodAnswer": "HLA-G inhibits NK cell-mediated and T cell-mediated cytolysis of fetal cells by suppressing immune responses against the feto-placental unit.",
+            "wrongAnswer_1": "HLA-G promotes neutrophil infiltration at the maternal-fetal interface to prevent bacterial infections.",
+            "wrongAnswer_2": "HLA-G activates the complement system to destroy invading pathogens and protect the fetus from systemic immune suppression.",
+            "wrongAnswer_3": "HLA-G induces the production of pro-inflammatory cytokines to enhance immune surveillance at the implantation site.",
+            "wrongAnswer_4": "HLA-G stimulates angiogenesis by activating endothelial cells, promoting placental growth and nutrient exchange."
+          },
+          {
+            "question": "What are the primary functions of the different protein isoforms of HLA-G?",
+            "goodAnswer": "There are seven distinct protein isoforms of HLA-G: four are membrane-bound (G1, G2, G3, G4), and three are soluble (G5, G6, G7). HLA-G5 is the most abundant soluble isoform and is generated by shedding from the cell surface or alternative splicing.",
+            "wrongAnswer_1": "HLA-G isoforms consist of five membrane-bound forms (G1, G2, G3, G4, G5) and two soluble forms (G6, G7), with G7 being the most abundant and generated solely by alternative splicing.",
+            "wrongAnswer_2": "All seven protein isoforms of HLA-G are membrane-bound, with G1 being the most abundant and responsible for inhibiting NK cell-mediated cytolysis, while G2-G4 regulate T cell activation.",
+            "wrongAnswer_3": "HLA-G has three membrane-bound isoforms (G1, G2, G3) and four soluble isoforms (G4, G5, G6, G7), with G6 being the most abundant and serving as the primary inhibitor of antigen-specific CD8+ T cell-mediated cytolysis.",
+            "wrongAnswer_4": "The seven isoforms of HLA-G are equally distributed between membrane-bound and soluble forms, with G1-G4 inhibiting NK cell cytolysis and G5-G7 promoting trophoblast migration. All isoforms are generated through alternative splicing."
+          },
+          {
+            "question": "What is the significance of the transition from the constitutive to the facultative/induced pathway in delayed implantation?",
+            "goodAnswer": "It highlights the role of environmental factors in triggering implantation.",
+            "wrongAnswer_1": "It demonstrates the dominance of hormonal over environmental cues in implantation.",
+            "wrongAnswer_2": "It shows that only facultative implantation is relevant in humans.",
+            "wrongAnswer_3": "It means that once an embryo enters the uterus, implantation will always occur.",
+            "wrongAnswer_4": "It proves that the only factor determining implantation is the species of the organism."
+          },
+          {
+            "question": "What is the role of the innate immune system at the maternal-fetal interface, and how does it impact pregnancy outcome?",
+            "goodAnswer": "The innate immune system, through cells like macrophages and neutrophils, detects fetal alloantigens and initiates an inflammatory response. This can be detrimental, as uncontrolled inflammation leads to complement activation, neutrophil infiltration, and potential fetal resorption. However, regulatory proteins like DAF, MCP, and Crry control this process to prevent excessive immune reactions and maintain pregnancy.",
+            "wrongAnswer_1": "The innate immune system plays no significant role at the maternal-fetal interface, as the adaptive immune system is responsible for recognizing and tolerating fetal alloantigens. Macrophages and neutrophils do not participate in immune regulation at this interface, and complement activation always leads to beneficial outcomes, promoting vascular remodeling and nutrient exchange between the mother and fetus.",
+            "wrongAnswer_2": "At the maternal-fetal interface, the innate immune system primarily functions to enhance angiogenesis and promote trophoblast invasion. Macrophages at this interface induce Treg differentiation, preventing rejection of the fetus. Complement activation is absent in normal pregnancies and only occurs in severe cases of preeclampsia. Controlling immune responses is achieved through increased production of pro-inflammatory cytokines, which strengthens the maternal immune system.",
+            "wrongAnswer_3": "The innate immune system recognizes fetal alloantigens but does not participate in controlling inflammatory responses. Macrophages and neutrophils are absent at the implantation site, and complement activation promotes trophoblast migration and adhesion to the uterine wall. Regulatory proteins like DAF, MCP, and Crry function to enhance immune surveillance rather than suppress it. C3 deposition at the maternal-fetal interface leads to increased vascularization and nutrient supply to the developing fetus.",
+            "wrongAnswer_4": "The role of the innate immune system is to completely eliminate fetal alloantigens. It does so by direct cytotoxic T cell activity. Macrophages and neutrophils directly kill trophoblast cells, preventing implantation. Complement activation is absent at the interface, and regulatory proteins are not involved in immune control. C3 deposition induces direct fetal rejection without any need for further immune cell action."
+          },
+          {
+            "question": "What is the primary function of adhesion molecules like integrins at the maternal-fetal interface?",
+            "goodAnswer": "Adhesion molecules, primarily integrins, function in cell-to-cell adhesion and cell-to-matrix interactions at the maternal-fetal interface, guiding immune cell homing, regulating trophoblast invasion, and facilitating interactions between fetal and maternal tissues.",
+            "wrongAnswer_1": "Adhesion molecules, including integrins, function to stimulate T cell activation and cytokine production at the maternal-fetal interface, leading to immune surveillance of the placenta and rejection of the fetoplacental unit.",
+            "wrongAnswer_2": "Integrins, a type of adhesion molecule, primarily function to induce angiogenesis and promote vascular remodeling at the implantation site, facilitating nutrient exchange between the fetus and mother.",
+            "wrongAnswer_3": "Adhesion molecules like integrins play a key role in regulating hormone production by trophoblast cells, controlling fetal development and suppressing immune responses at the maternal-fetal interface.",
+            "wrongAnswer_4": "At the maternal-fetal interface, adhesion molecules function to enhance neutrophil infiltration and complement activation, leading to the destruction of invading pathogens and protecting the fetus from infection."
+          },
+          {
+            "question": "What are the primary functions of the different protein isoforms of HLA-G?",
+            "goodAnswer": "Membrane-bound HLA-G isoforms function in antigen presentation and T cell activation, while soluble isoforms suppress immune responses and induce tolerance.",
+            "wrongAnswer_1": "Membrane-bound HLA-G isoforms suppress immune responses, while soluble isoforms function in antigen presentation and T cell activation.",
+            "wrongAnswer_2": "All HLA-G isoforms are responsible for presenting alloantigens to maternal immune cells, triggering an immune response.",
+            "wrongAnswer_3": "Membrane-bound HLA-G isoforms induce tolerance, while soluble isoforms stimulate T cell proliferation and cytokine production.",
+            "wrongAnswer_4": "HLA-G isoforms function exclusively in inhibiting NK cell activity, with no role in T cell suppression or antigen presentation."
+          },
+          {
+            "question": "What are the primary functions of the different protein isoforms of HLA-G?",
+            "goodAnswer": "Membrane-bound HLA-G isoforms inhibit NK and T cell activity, while soluble isoforms can block antibody-dependent cell cytotoxicity and induce T cell anergy.",
+            "wrongAnswer_1": "Membrane-bound HLA-G isoforms enhance T cell activation, while soluble isoforms promote NK cell cytotoxicity against trophoblast cells.",
+            "wrongAnswer_2": "HLA-G is only expressed on immune cells and functions solely to present antigens to T lymphocytes.",
+            "wrongAnswer_3": "All protein isoforms of HLA-G function to stimulate B cell differentiation into plasma cells for antibody production.",
+            "wrongAnswer_4": "The membrane-bound isoforms promote direct trophoblast invasion into the uterine wall, while soluble isoforms stimulate angiogenesis in the decidua."
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

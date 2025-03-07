@@ -1,0 +1,357 @@
+{
+  "mainTopic": {
+    "title": "Mitral stenosis",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Etiology, Pathophysiology",
+        "quizzes": [
+          {
+            "question": "What is the primary method for diagnosing mitral stenosis, and what are the characteristic echocardiographic findings in this condition?",
+            "goodAnswer": "Echocardiography is the primary method for diagnosing mitral stenosis. It can reveal thickened leaflets, commissural fusion, and a funnel-shaped orifice. The interval between S2 and the opening snap is shorter when left atrial pressure is higher.",
+            "wrongAnswer_1": "Chest x-ray is the primary method for diagnosing mitral stenosis. It can reveal convexity just below the left pulmonary artery, elevated left main bronchus, and Kerley lines, all of which indicate left atrial hypertension.",
+            "wrongAnswer_2": "Electrocardiography is the primary method for diagnosing mitral stenosis. It can reveal atrial fibrillation, left ventricular hypertrophy, and conduction abnormalities.",
+            "wrongAnswer_3": "Cardiac catheterization is the primary method for diagnosing mitral stenosis. It measures the pressure gradient across the valve and assesses the severity of stenosis.",
+            "wrongAnswer_4": "A physical examination is the primary method for diagnosing mitral stenosis. It may include a parasternal lift, accentuated first heart sound, and a diastolic rumble. The interval between S2 and the opening snap is shorter when left atrial pressure is higher."
+          },
+          {
+            "question": "What is the rationale behind using long-term penicillin in the management of mitral stenosis, and what is the primary echocardiographic criterion for assessing the severity of mitral regurgitation?",
+            "goodAnswer": "Long-term penicillin is used to prevent recurrent rheumatic fever, which can worsen mitral stenosis. Echocardiography can measure the estimated regurgitant volume to assess the severity of mitral regurgitation.",
+            "wrongAnswer_1": "Long-term penicillin is used to prevent infective endocarditis, which is a common complication of mitral stenosis. Echocardiography can determine the size of the left atrium to assess the severity of mitral regurgitation.",
+            "wrongAnswer_2": "Long-term penicillin is used to reduce the risk of atrial fibrillation, which is often associated with mitral stenosis. Echocardiography can evaluate the thickness of the mitral valve leaflets to assess the severity of mitral regurgitation.",
+            "wrongAnswer_3": "Long-term penicillin is used to prevent pulmonary embolism, which is caused by chronic venous stasis in mitral stenosis. Echocardiography can assess the peak velocity across the mitral valve to determine the severity of mitral regurgitation.",
+            "wrongAnswer_4": "Long-term penicillin is used to treat heart failure, which is a common consequence of mitral stenosis. Echocardiography can calculate the mean pressure gradient across the mitral valve to assess the severity of mitral regurgitation."
+          },
+          {
+            "question": "How is the severity of mitral stenosis determined, and what are the associated findings on chest radiography?",
+            "goodAnswer": "It is determined by echocardiography, and characteristic findings on chest radiography include convexity just below the left pulmonary artery, elevated left main bronchus, and Kerley lines.",
+            "wrongAnswer_1": "It is determined by electrocardiography, and characteristic findings on chest radiography include a widened mediastinum, pericardial effusion, and left ventricular hypertrophy.",
+            "wrongAnswer_2": "It is determined by cardiac catheterization, and characteristic findings on chest radiography include right ventricular hypertrophy, aortic dissection, and pulmonary vein dilation.",
+            "wrongAnswer_3": "It is determined by physical examination, and characteristic findings on chest radiography include a parasternal lift, accentuated first heart sound, and diastolic rumble.",
+            "wrongAnswer_4": "It is determined by routine laboratory tests, and characteristic findings on chest radiography include anemia, thrombocytosis, and elevated liver enzymes."
+          },
+          {
+            "question": "Why is the interval between S2 and the opening snap shorter when left atrial pressure is higher?",
+            "goodAnswer": "A shorter interval indicates a higher pressure gradient across the mitral valve, meaning more severe stenosis",
+            "wrongAnswer_1": "It means the left ventricle is contracting earlier to compensate for the stenosed valve",
+            "wrongAnswer_2": "It indicates that the opening snap is absent due to low-flow conditions in the left atrium",
+            "wrongAnswer_3": "It means the aortic valve is closing later, resulting in a wider S2-OS interval",
+            "wrongAnswer_4": "It implies weaker left ventricular contractility causing delayed valve closure"
+          },
+          {
+            "question": "What is the clinical significance of the opening snap sound (OS) in the auscultation of a patient with mitral stenosis?",
+            "goodAnswer": "The opening snap (OS) precedes the diastolic rumble and its intensity decreases with atrial fibrillation.",
+            "wrongAnswer_1": "The opening snap (OS) follows the diastolic rumble and its intensity increases with exercise.",
+            "wrongAnswer_2": "The opening snap (OS) replaces the first heart sound (S1) and its timing is independent of left atrial pressure.",
+            "wrongAnswer_3": "The opening snap (OS) is absent in patients with moderate to severe mitral stenosis and only appears in mild stenosis.",
+            "wrongAnswer_4": "The opening snap (OS) indicates aortic stenosis rather than mitral stenosis and becomes louder with time."
+          },
+          {
+            "question": "What is the most common cause of mitral stenosis, and what is the typical outcome of a silent, undiagnosed mitral stenosis?",
+            "goodAnswer": "Rheumatic heart disease; Inducement of atrial fibrillation due to the inability of the left ventricle to empty completely, leading to blood stasis in the left atrium. ",
+            "wrongAnswer_1": "Coronary artery disease; Development of a left ventricular aneurysm. ",
+            "wrongAnswer_2": "Congenital bicuspidal mitral valve; Spontaneous resolution of the stenosis over time. ",
+            "wrongAnswer_3": "Left ventricular thrombus; Improvement in left atrial contractility. ",
+            "wrongAnswer_4": "Aortic dissection; Paralysis of the mitral valve leaflets. "
+          },
+          {
+            "question": "How is the severity of mitral stenosis determined, and what are the characteristic echocardiographic findings in moderate stenosis?",
+            "goodAnswer": "The severity is determined by valve area: less than 1.0 cm\u200b2 is severe, 1.0-1.4 cm\u200b2 is moderate, and 1.5-4.0 cm\u200b2 is mild. Moderate stenosis shows a mean pressure gradient of 5-10 mmHg at rest. Atrial fibrillation worsens symptoms in all severities. Parasternal lift is due to right ventricular hypertrophy. The accentuated first heart sound (S1), opening snap (OS), and diastolic rumble are consistent with mitral stenosis. The interval between S2 and OS is shorter when left atrial pressure is higher. Pulmonary hypertension causes an increase in the P2 component of S2.",
+            "wrongAnswer_1": "The severity is determined by valve area: less than 1.0 cm\u200b2 is severe, 1.0-1.4 cm\u200b2 is moderate, and 1.5-4.0 cm\u200b2 is mild. Moderate stenosis shows a mean pressure gradient of 10-15 mmHg at rest. Atrial fibrillation worsens symptoms in all severities. Parasternal lift is due to left ventricular hypertrophy. The accentuated first heart sound (S1), opening snap (OS), and diastolic rumble are consistent with aortic stenosis. The interval between S2 and OS is shorter when right atrial pressure is higher. Pulmonary hypertension causes a decrease in the P2 component of S2.",
+            "wrongAnswer_2": "The severity is determined by valve area: less than 1.0 cm\u200b2 is severe, 1.0-1.4 cm\u200b2 is moderate, and 1.5-4.0 cm\u200b2 is mild. Moderate stenosis shows a mean pressure gradient of 1-2 mmHg at rest. Atrial fibrillation worsens symptoms in all severities. Parasternal lift is due to right ventricular hypertrophy. The accentuated first heart sound (S1), opening snap (OS), and diastolic rumble are consistent with mitral regurgitation. The interval between S2 and OS is shorter when left ventricular pressure is higher. Pulmonary hypertension causes an increase in the P2 component of S2.",
+            "wrongAnswer_3": "The severity is determined by valve area: less than 1.0 cm\u200b2 is severe, 1.0-1.4 cm\u200b2 is moderate, and 1.5-4.0 cm\u200b2 is mild. Moderate stenosis shows a mean pressure gradient of 5-10 mmHg at rest. Atrial fibrillation worsens symptoms in all severities. Parasternal lift is due to right ventricular hypertrophy. The accentuated first heart sound (S1), opening snap (OS), and diastolic rumble are consistent with tricuspid stenosis. The interval between S2 and OS is shorter when left atrial pressure is higher. Pulmonary hypertension causes a decrease in the P2 component of S2.",
+            "wrongAnswer_4": "The severity is determined by valve area: less than 1.0 cm\u200b2 is severe, 1.0-1.4 cm\u200b2 is moderate, and 1.5-4.0 cm\u200b2 is mild. Moderate stenosis shows a mean pressure gradient of 5-10 mmHg at rest. Atrial fibrillation worsens symptoms in all severities. Parasternal lift is due to right ventricular hypertrophy. The accentuated first heart sound (S1), opening snap (OS), and diastolic rumble are consistent with mitral stenosis. The interval between S2 and OS is shorter when left atrial pressure is higher. Venous hypertension causes an increase in the P2 component of S2."
+          },
+          {
+            "question": "What are the possible complications of untreated mitral stenosis?",
+            "goodAnswer": "Atrial thrombus formation, embolism, atrial fibrillation, pulmonary artery hypertension, right ventricular hypertrophy and dilatation",
+            "wrongAnswer_1": "Myocardial infarction, stroke, heart failure, aortic aneurysm, and venous thrombosis",
+            "wrongAnswer_2": "Coronary artery disease, hypertension, hyperlipidemia, obesity, and diabetes",
+            "wrongAnswer_3": "Left ventricular hypertrophy, atrial fibrillation, aortic stenosis, pulmonary vein dilation, and carotid artery occlusion",
+            "wrongAnswer_4": "Right ventricular conduction defect, atrial flutter, mitral regurgitation, hypertension, and coronary artery disease"
+          },
+          {
+            "question": "What are the possible complications of untreated mitral stenosis?",
+            "goodAnswer": "Untreated mitral stenosis can lead to atrial fibrillation, thromboembolic events, and congestive heart failure due to the inability of the left ventricle to handle the increasing left atrial pressures. Salicylic acid is used for anti-coagulation in this case.",
+            "wrongAnswer_1": "Untreated mitral stenosis can lead to atrial fibrillation, thromboembolic events, and congestive heart failure due to the inability of the right ventricle to handle the increasing left atrial pressures. Salicylic acid is used in this case.",
+            "wrongAnswer_2": "Untreated mitral stenosis can lead to atrial fibrillation, thromboembolic events, and congestive heart failure due to the inability of the left ventricle to handle the increasing right atrial pressures. Salicylic acid is used in this case.",
+            "wrongAnswer_3": "Untreated mitral stenosis can lead to atrial fibrillation, thromboembolic events, and congestive heart failure due to the inability of the right ventricle to handle the increasing left atrial pressures. Beta blockers are used in this case.",
+            "wrongAnswer_4": "Untreated mitral stenosis can lead to atrial fibrillation, thromboembolic events, and congestive heart failure due to the inability of the left ventricle to handle the increasing left atrial pressures. Digoxin is used in this case."
+          },
+          {
+            "question": "What are the possible complications of untreated mitral stenosis?",
+            "goodAnswer": "Untreated mitral stenosis can lead to atrial thrombus formation, embolism, atrial fibrillation, pulmonary artery hypertension, right ventricular hypertrophy and dilatation, and heart failure.",
+            "wrongAnswer_1": "Untreated mitral stenosis can cause pericarditis, myocarditis, and coronary artery disease but will not affect ventricular function or lead to thromboembolic events.",
+            "wrongAnswer_2": "Left ventricular hypertrophy, aortic regurgitation, and conduction disturbances are common complications of untreated mitral stenosis, but atrial thrombus formation and pulmonary hypertension do not occur.",
+            "wrongAnswer_3": "Untreated mitral stenosis only affects the mitral valve and does not result in systemic complications such as thromboembolism, heart failure, or right ventricular dysfunction.",
+            "wrongAnswer_4": "Atrial thrombus formation, embolism, atrial fibrillation, pulmonary artery hypertension, right ventricular hypertrophy and dilatation, and cause an increase in cardiac output"
+          },
+          {
+            "question": "Which of the following is NOT a finding on chest radiography in mitral stenosis?",
+            "goodAnswer": "Right ventricular hypertrophy, which manifests as outward convexity along the right cardiac border on chest radiography",
+            "wrongAnswer_1": "Double density of the right cardiac border due to the enlarged left atrium",
+            "wrongAnswer_2": "Elevated left main bronchus because of left atrial enlargement",
+            "wrongAnswer_3": "Convexity (LA appendage) just below the left pulmonary artery (resulting in a 4-bump sign: aorta, pulmonary artery, atrial appendage, left ventricle)",
+            "wrongAnswer_4": "Kerley lines, which indicate pulmonary venous hypertension"
+          },
+          {
+            "question": "What are the clinical features associated with an accentuated first heart sound (S1), an opening snap (OS), and a diastolic rumble on auscultation in a patient with mitral stenosis?",
+            "goodAnswer": "An accentuated first heart sound (S1), an opening snap (OS), and a diastolic rumble. The interval between S2 and OS is shorter when left atrial pressure is higher. The diastolic rumble is a low-frequency murmur that occurs after the opening snap and has a decrescendo contour. Pulmonary hypertension is indicated by an increase in the P2 component of S2.",
+            "wrongAnswer_1": "A third heart sound (S3), a paradoxical splitting of the second heart sound (S2), and a systolic murmur. The interval between S2 and OS is longer when left atrial pressure is higher. The diastolic rumble is a high-frequency murmur that occurs before the opening snap and has an crescendo contour. Pulmonary hypertension is indicated by a decrease in the P2 component of S2.",
+            "wrongAnswer_2": "A diminished first heart sound (S1), a closing snap (CS), and a systolic murmur. The interval between S2 and CS is shorter when left atrial pressure is higher. The diastolic rumble is a low-frequency murmur that occurs before the closing snap and has a crescendo contour. Pulmonary hypertension is indicated by an increase in the P2 component of S2.",
+            "wrongAnswer_3": "A normal first heart sound (S1), a systolic click (SC), and a continuous murmur. The interval between S2 and SC is shorter when left atrial pressure is higher. The continuous murmur is a high-frequency sound that occurs before the systolic click and has a crescendo contour. Pulmonary hypertension is indicated by a decrease in the P2 component of S2.",
+            "wrongAnswer_4": "A soft first heart sound (S1), an ejection sound (EJ), and a mid-systolic murmur. The interval between S2 and EJ is shorter when left atrial pressure is higher. The mid-systolic murmur is a low-frequency sound that occurs before the ejection sound and has a decrescendo contour. Pulmonary hypertension is indicated by an increase in the P2 component of S2."
+          },
+          {
+            "question": "What are the diagnostic findings on chest radiography, electrocardiography, and echocardiography in mitral stenosis?",
+            "goodAnswer": "Chest radiography may show elevated left main bronchus, convexity just below the left PA, double density of the right cardiac border, and Kerley lines. Electrocardiography can reveal signs of right ventricular hypertrophy, atrial fibrillation, or left atrial enlargement. Echocardiography will show thickened mitral valve leaflets, commissural fusion, and reduced valve area.",
+            "wrongAnswer_1": "Chest radiography will show a narrowed aortic root, concave indentation below the left pulmonary artery, and a regular heart rate. Electrocardiography should reveal signs of left ventricular hypertrophy, sinus bradycardia, and no evidence of atrial fibrillation. Echocardiography will show mobile thrombus in the left ventricle, valve regurgitation, and increased valve area.",
+            "wrongAnswer_2": "Findings on chest radiography include a widened aortic root, convexity just below the right pulmonary artery, and a clear right cardiac border. Electrocardiography will show signs of left atrial hypertrophy, sinus tachycardia, or right ventricular enlargement. Echocardiography should show thickened mitral valve leaflets, commissural fusion, and increased valve area.",
+            "wrongAnswer_3": "Chest radiography should reveal thickened mitral valve leaflets, convexity just below the right PA, and a narrowed left ventricular cavity. Electrocardiography will show signs of right ventricular conduction delay, atrial flutter, and left ventricular hypertrophy. Echocardiography should show evidence of aortic stenosis, valve regurgitation, and increased valve area.",
+            "wrongAnswer_4": "It will show a widened aortic root, concave indentation below the left PA, and regular heart rate on chest radiography. Electrocardiography will reveal signs of left ventricular hypertrophy, sinus bradycardia, and no evidence of atrial fibrillation. Echocardiography should show thickened mitral valve leaflets, commissural fusion, and reduced valve area."
+          },
+          {
+            "question": "What are the possible complications of untreated mitral stenosis?",
+            "goodAnswer": "Untreated mitral stenosis can lead to atrial fibrillation, thromboembolic events, and congestive heart failure due to impaired left ventricular filling. It can also result in pulmonary artery hypertension, which can lead to right ventricular hypertrophy and dilatation.",
+            "wrongAnswer_1": "Untreated mitral stenosis can lead to atrial fibrillation, myocardial infarction, and congestive heart failure due to impaired right ventricular filling. It can also result in aortic hypertension, which can lead to left ventricular hypertrophy and dilatation.",
+            "wrongAnswer_2": "Untreated mitral stenosis can lead to ventricular tachycardia, stroke, and kidney failure due to increased cardiac output. It can also result in pulmonary artery hypertension, which can lead to left ventricular hypertrophy and dilatation.",
+            "wrongAnswer_3": "Untreated mitral stenosis can lead to atrial fibrillation, thromboembolic events, and congestive heart failure due to impaired left ventricular filling. It can also result in aortic hypertension, which can lead to right ventricular hypertrophy and dilatation.",
+            "wrongAnswer_4": "Untreated mitral stenosis can lead to ventricular fibrillation, pulmonary embolism, and liver cirrhosis due to decreased cardiac output. It can also result in systemic hypertension, which can lead to left ventricular hypertrophy and dilatation."
+          }
+        ]
+      },
+      {
+        "title": "Clinical features",
+        "quizzes": [
+          {
+            "question": "What is the typical progression of symptoms in a patient with mitral stenosis?",
+            "goodAnswer": "Typically, patients are asymptomatic initially, followed by dyspnea with marked effort, then dyspnea with minimal effort, progressing to orthopnea and paroxysmal nocturnal dyspnea.",
+            "wrongAnswer_1": "Symptoms worsen over time due to rapid onset of atrial fibrillation, leading to fatigue, hemoptysis, and embolic stroke, even in the early stages.",
+            "wrongAnswer_2": "Patients initially experience fatigue and hemoptysis, followed by dyspnea on minimal effort, orthopnea, and finally paroxysmal nocturnal dyspnea, but they rarely progress to dyspnea with marked effort.",
+            "wrongAnswer_3": "Atrial fibrillation is the primary driver of symptom progression, so patients remain asymptomatic until atrial fibrillation develops, after which they immediately experience dyspnea with minimal effort, orthopnea, and paroxysmal nocturnal dyspnea.",
+            "wrongAnswer_4": "In the early stages, patients often have dyspnea with minimal effort, progressing to dyspnea with marked effort, but they rarely develop orthopnea or paroxysmal nocturnal dyspnea."
+          },
+          {
+            "question": "Which of the following is NOT a consequence of increased left atrial pressure in mitral stenosis?",
+            "goodAnswer": "Right ventricular hypertrophy and dilation",
+            "wrongAnswer_1": "Left atrial enlargement",
+            "wrongAnswer_2": "Atrial thrombus formation",
+            "wrongAnswer_3": "Development of atrial fibrillation",
+            "wrongAnswer_4": "Pulmonary artery hypertension"
+          },
+          {
+            "question": "How is the severity of mitral stenosis categorized based on valve area measurement, and what is the typical course of symptoms in relation to valve area changes?",
+            "goodAnswer": "Severe stenosis is defined as a valve area of \u2264 1.0 cm\u00b2, moderate stenosis is 1.0-1.4 cm\u00b2, and mild stenosis is 1.5-4.0 cm\u00b2. Asymptomatic until the area is \u2264 1.5 cm\u00b2, dyspnea only with unusual flows or tachycardia, then dyspnea with minimal effort, orthopnea, and paroxysmal nocturnal dyspnea.",
+            "wrongAnswer_1": "Severe stenosis is defined as a valve area of \u2264 1.5 cm\u00b2, moderate stenosis is 1.5-2.0 cm\u00b2, and mild stenosis is 2.0-4.0 cm\u00b2. Asymptomatic until the area is \u2264 2.0 cm\u00b2, dyspnea only with unusual flows or tachycardia, then dyspnea with minimal effort, orthopnea, and paroxysmal nocturnal dyspnea.",
+            "wrongAnswer_2": "Severe stenosis is defined as a valve area of \u2264 1.0 cm\u00b2, moderate stenosis is 1.0-1.4 cm\u00b2, and mild stenosis is 1.5-4.0 cm\u00b2. Asymptomatic until the area is \u2264 2.0 cm\u00b2, dyspnea only with unusual flows or tachycardia, then dyspnea with minimal effort, orthopnea, and paroxysmal nocturnal dyspnea.",
+            "wrongAnswer_3": "Severe stenosis is defined as a valve area of \u2264 1.5 cm\u00b2, moderate stenosis is 1.5-2.0 cm\u00b2, and mild stenosis is 2.0-4.0 cm\u00b2. Asymptomatic until the area is \u2264 1.5 cm\u00b2, dyspnea only with unusual flows or tachycardia, then dyspnea with minimal effort, orthopnea, and paroxysmal nocturnal dyspnea.",
+            "wrongAnswer_4": "Severe stenosis is defined as a valve area of \u2264 2.0 cm\u00b2, moderate stenosis is 2.0-2.5 cm\u00b2, and mild stenosis is 2.5-4.0 cm\u00b2. Asymptomatic until the area is \u2264 2.5 cm\u00b2, dyspnea only with unusual flows or tachycardia, then dyspnea with minimal effort, orthopnea, and paroxysmal nocturnal dyspnea."
+          },
+          {
+            "question": "What are the findings on chest radiography that reflect left atrial hypertension in a patient with mitral stenosis?",
+            "goodAnswer": "Double density along the right cardiac border, convexity of the left atrial appendage below the left pulmonary artery (resulting in a \"4 bump sign\"), elevated left main bronchus, and Kerley lines",
+            "wrongAnswer_1": "Enlarged right ventricle, doming of the valve leaflets, and a narrowed mitral valve orifice",
+            "wrongAnswer_2": "Convexity of the right ventricular free wall, accentuated P2 component of S2, and a midsystolic click",
+            "wrongAnswer_3": "Linear calcifications along the left ventricular wall, reduced ejection fraction, and a holosystolic murmur",
+            "wrongAnswer_4": "Generalized cardiomegaly, multiple PEs, and evidence of pulmonary edema"
+          },
+          {
+            "question": "What is the typical progression of symptoms in a patient with mitral stenosis, as the disease progresses from asymptomatic to more advanced stages?",
+            "goodAnswer": "Asymptomatic, dyspnea with marked effort, dyspnea with minimal effort, orthopnea, paroxysmal nocturnal dyspnea",
+            "wrongAnswer_1": "Paroxysmal nocturnal dyspnea, orthopnea, dyspnea with minimal effort, dyspnea with marked effort, asymptomatic",
+            "wrongAnswer_2": "Dyspnea with minimal effort, dyspnea with marked effort, asymptomatic, orthopnea, paroxysmal nocturnal dyspnea",
+            "wrongAnswer_3": "Orthopnea, paroxysmal nocturnal dyspnea, dyspnea with minimal effort, dyspnea with marked effort, asymptomatic",
+            "wrongAnswer_4": "Symptomatic only during exercise, asymptomatic at rest, paroxysmal nocturnal dyspnea, orthopnea, dyspnea with minimal effort"
+          },
+          {
+            "question": "What is the clinical significance of the opening snap sound on cardiac auscultation in a patient with mitral stenosis?",
+            "goodAnswer": "It represents a sudden stop in leaflet opening, indicating mitral stenosis",
+            "wrongAnswer_1": "It indicates a closing snap of the aortic valve, which is diagnostic of aortic stenosis",
+            "wrongAnswer_2": "It signifies a mid-systolic click, which is characteristic of mitral regurgitation",
+            "wrongAnswer_3": "It represents the accentuated first heart sound due to left ventricular hypertrophy",
+            "wrongAnswer_4": "It is a normal physiological sound and does not have any clinical significance in this case"
+          },
+          {
+            "question": "What is the clinical significance of the opening snap sound on cardiac auscultation in a patient with mitral stenosis?",
+            "goodAnswer": "It represents a sudden stop in leaflet opening, and its timing is important in assessing the severity of mitral stenosis.",
+            "wrongAnswer_1": "It indicates the onset of atrial fibrillation, which is a common finding in patients with mitral stenosis.",
+            "wrongAnswer_2": "It signifies the presence of a ventricular aneurysm, which can occur as a result of chronic mitral regurgitation.",
+            "wrongAnswer_3": "It is a diagnostic hallmark of aortic stenosis, not mitral stenosis.",
+            "wrongAnswer_4": "It represents a closing snap of the aortic valve and is irrelevant in the evaluation of mitral stenosis."
+          },
+          {
+            "question": "What are the possible consequences of a thromboembolic event in a patient with mitral stenosis?",
+            "goodAnswer": "Embolism to the brain, kidneys, or spleen.",
+            "wrongAnswer_1": "Myocardial infarction, heart failure, or arrhythmias.",
+            "wrongAnswer_2": "Open-angle glaucoma, cataracts, or macular degeneration.",
+            "wrongAnswer_3": "Hypertension, hyperlipidemia, or obesity.",
+            "wrongAnswer_4": "Gastrointestinal bleeding, anemia, or fatigue due to chronic blood loss."
+          },
+          {
+            "question": "Why is the second heart sound (S2) to opening snap (OS) interval shorter with higher left atrial pressure?",
+            "goodAnswer": "A shorter S\u2082-OS interval indicates a higher left atrial pressure because the left atrium contracts earlier to overcome the resistance of the stenotic valve.",
+            "wrongAnswer_1": "The interval between S\u2082 and OS remains constant regardless of left atrial pressure, it depends on the severity of valve stenosis.",
+            "wrongAnswer_2": "A shorter S\u2082-OS interval means the aortic valve closes later due to increased blood flow into the left ventricle.",
+            "wrongAnswer_3": "It depends on the timing of the right ventricular contraction, not the left atrial pressure.",
+            "wrongAnswer_4": "It indicates a problem with aortic valve closure rather than mitral stenosis."
+          },
+          {
+            "question": "What is the clinical significance of the opening snap sound on cardiac auscultation in a patient with mitral stenosis?",
+            "goodAnswer": "The opening snap reflects the sudden stop of leaflet opening, indicating mitral stenosis. It precedes the diastolic rumble and is absent in mitral regurgitation. It also helps distinguish mitral stenosis from aortic stenosis, where the second heart sound is widely split.",
+            "wrongAnswer_1": "The opening snap sound signifies the start of atrial fibrillation, which is a common finding in mitral stenosis patients. It occurs only when the left atrium is enlarged and does not help distinguish between different valve diseases.",
+            "wrongAnswer_2": "It indicates the presence of a parasternal lift, which is diagnostic of mitral stenosis. Unlike the opening snap, the parasternal lift is a palpable finding rather than an auscultatory phenomenon.",
+            "wrongAnswer_3": "The opening snap sound represents the closure of the aortic valve, which is typically accentuated in patients with mitral stenosis due to left ventricular hypertrophy. It does not precede the diastolic rumble and is unrelated to the opening of the mitral valve.",
+            "wrongAnswer_4": "It is a high-frequency murmur that occurs after the opening snap and has a crescendo contour, which distinguishes it from a normal heart sound. It is diagnostic of pulmonary hypertension rather than mitral stenosis."
+          },
+          {
+            "question": "In which of the following conditions is a parasternal lift often detected on physical examination in a patient with mitral stenosis?",
+            "goodAnswer": "Right ventricular hypertrophy due to pulmonary hypertension",
+            "wrongAnswer_1": "Left ventricular aneurysm from previous myocardial infarction",
+            "wrongAnswer_2": "Pericarditis causing chest pain and friction rub",
+            "wrongAnswer_3": "Coronary artery disease leading to angina pectoris",
+            "wrongAnswer_4": "Atrial septal defect causing a right-to-left shunt"
+          },
+          {
+            "question": "What are the possible consequences of a thromboembolic event in a patient with mitral stenosis?",
+            "goodAnswer": "Embolic stroke, with neurological deficits, may occur. Rarely, it can cause an embolic event to the lungs, leading to pulmonary infarction.",
+            "wrongAnswer_1": "It always causes a silent embolism, with no clinical manifestations on examination.",
+            "wrongAnswer_2": "Thromboembolic events are common but do not occur in patients with asymptomatic mitral stenosis.",
+            "wrongAnswer_3": "A thromboembolic event will lead to right ventricular hypertrophy and dilation.",
+            "wrongAnswer_4": "It typically causes open-loop hypertension rather than neurological deficits or pulmonary infarction."
+          }
+        ]
+      },
+      {
+        "title": "Diagnostic testing, Differential diagnosis",
+        "quizzes": [
+          {
+            "question": "What are the findings on chest x-ray that reflect left atrial hypertension in mitral stenosis?",
+            "goodAnswer": "Double-density right cardiac border, convexity just below the left pulmonary artery creating a \"4 bump sign\" (aorta, pulmonary artery, atrial appendage, left ventricle), elevated left main bronchus, and Kerley lines",
+            "wrongAnswer_1": "Enlarged right ventricle, reduced vascular markings in the lung, and a narrowed aortic arch",
+            "wrongAnswer_2": "Convexity just above the left pulmonary artery, depressed left main bronchus, and clear lung fields without evidence of congestion",
+            "wrongAnswer_3": "Aortic dissection, pulmonary embolism, and signs of acute myocardial infarction",
+            "wrongAnswer_4": "Right ventricular hypertrophy, open commissurotomy, valve replacement, or balloon mitral commissurotomy"
+          },
+          {
+            "question": "How is the severity of mitral stenosis categorized based on valve area measurement?",
+            "goodAnswer": "Severe mitral stenosis is indicated by an area of \u2264 1.0 cm\u00b2, moderate by 1.0-1.4 cm\u00b2, and mild by 1.5-4.0 cm\u00b2.",
+            "wrongAnswer_1": "Severe mitral stenosis is indicated by an area of \u2264 1.5 cm\u00b2, moderate by 1.5-2.0 cm\u00b2, and mild by 2.0-4.0 cm\u00b2.",
+            "wrongAnswer_2": "Severe mitral stenosis is indicated by an area of \u2264 0.5 cm\u00b2, moderate by 0.5-1.0 cm\u00b2, and mild by 1.0-3.0 cm\u00b2.",
+            "wrongAnswer_3": "Severe mitral stenosis is indicated by an area of \u2264 2.0 cm\u00b2, moderate by 2.0-3.0 cm\u00b2, and mild by 3.0-5.0 cm\u00b2.",
+            "wrongAnswer_4": "Severe mitral stenosis is indicated by an area of \u2264 1.0 cm\u00b2, moderate by 1.0-2.0 cm\u00b2, and mild by 2.0-5.0 cm\u00b2."
+          },
+          {
+            "question": "What is the most common etiology of mitral stenosis, and what is the typical gender ratio of those affected?",
+            "goodAnswer": "Rheumatic heart disease; 6:1 (female:male)",
+            "wrongAnswer_1": "Coronary artery disease; 2:1 (male:female)",
+            "wrongAnswer_2": "Congenital heart defects; equal gender distribution",
+            "wrongAnswer_3": "Hypertension; 3:1 (male:female)",
+            "wrongAnswer_4": "Left ventricular hypertrophy; no significant gender difference"
+          },
+          {
+            "question": "What is the fundamental problem in mitral stenosis, and what are the consequences of left atrial enlargement?",
+            "goodAnswer": "The inability to get blood from the left atrium to the left ventricle; left atrial enlargement can result in blood stasis, leading to atrial thrombus formation and embolism, and atrial fibrillation.",
+            "wrongAnswer_1": "Aortic regurgitation due to left ventricular non-compliance; left atrial enlargement can lead to right ventricular hypertrophy, resulting in systemic hypotension and heart block.",
+            "wrongAnswer_2": "Incomplete closure of the mitral valve, causing a backward flow of blood into the left atrium; left atrial enlargement will lead to a decrease in pulmonary artery pressure, resulting in left ventricular thrombosis and heart failure.",
+            "wrongAnswer_3": "Stenosis of the tricuspid valve, preventing blood flow from the right atrium to the right ventricle; left atrial enlargement will cause a reduction in cardiac output, leading to peripheral neuropathy and asynchronous ventricular contraction.",
+            "wrongAnswer_4": "Increased elasticity of the mitral valve leaflets, causing them to fully open but not close properly; left atrial enlargement will lead to a faster heart rate and increased blood pressure in the left atrium, but without any thromboembolic events or atrial fibrillation."
+          },
+          {
+            "question": "Why is fatigue a common finding in patients with mitral stenosis?",
+            "goodAnswer": "Fatigue occurs because the patient cannot augment cardiac output.",
+            "wrongAnswer_1": "Fatigue is due to the increased stroke volume from the left ventricle.",
+            "wrongAnswer_2": "It is caused by the rapid heart rate associated with atrial fibrillation.",
+            "wrongAnswer_3": "It is only seen in patients with a history of anemia or malnutrition.",
+            "wrongAnswer_4": "It is a result of right ventricular hypertrophy causing reduced blood supply to skeletal muscles."
+          }
+        ]
+      },
+      {
+        "title": "Managemnet",
+        "quizzes": [
+          {
+            "question": "What is the fundamental problem in mitral stenosis, and what are the consequences of left atrial hypertension in this condition?",
+            "goodAnswer": "The fundamental problem is the inability to get blood from the left atrium into the left ventricle. Left atrial hypertension leads to left atrial enlargement, which can cause blood stasis, atrial thrombus formation, and embolism. It also leads to pulmonary artery hypertension and right ventricular hypertrophy and dilation.",
+            "wrongAnswer_1": "The fundamental problem is the inability of the left ventricle to pump blood into the aorta. Left atrial hypertension leads to left ventricular thrombosis, which can cause myocardial infarction and heart failure. It also leads to systemic hypertension and left ventricular hypertrophy.",
+            "wrongAnswer_2": "The inability to get blood from the right atrium into the right ventricle is the fundamental problem. Left atrial hypertension leads to right atrial enlargement, which can cause blood stasis, atrial thrombus formation, and embolism. It also leads to pulmonary artery hypertension and right ventricular hypertrophy and dilation.",
+            "wrongAnswer_3": "The fundamental problem is the inability of the right ventricle to pump blood into the pulmonary artery. Left atrial hypertension leads to right atrial hypertension, which can cause left atrial thrombosis, myocardial infarction, and heart failure. It also leads to hypertension in the upper extremities and right ventricular hypertrophy.",
+            "wrongAnswer_4": "The inability to get blood from the left ventricle into the left atrium is the fundamental problem. Left atrial hypertension leads to left ventricular enlargement, which can cause blood stasis, atrial thrombus formation, and embolism. It also leads to pulmonary artery hypertension and right ventricular hypertrophy and dilation."
+          },
+          {
+            "question": "Why is the accentuated first heart sound (S1) auscultated in patients with mitral stenosis, and what does it indicate?",
+            "goodAnswer": "It occurs because of the rapid closure of the valve, and it precedes the opening snap. It indicates the severity of mitral stenosis.",
+            "wrongAnswer_1": "It occurs due to the valves being open longer, and it precedes the ejection sound. It means the pressure gradient across the valve is minimal.",
+            "wrongAnswer_2": "It occurs because of the rapid closure of the valve, and it follows the opening snap. It indicates the degree of mitral regurgitation.",
+            "wrongAnswer_3": "It represents the closure of the tricuspid valve, and it occurs after the systolic ejection murmur. It suggests right ventricular hypertrophy.",
+            "wrongAnswer_4": "It is a normal finding and does not have any clinical significance in this context."
+          },
+          {
+            "question": "What are the findings on chest X-ray that reflect left atrial hypertension in mitral stenosis?",
+            "goodAnswer": "Double density right cardiac border, convexity (LA appendage) just below the left PA, elevated left main bronchus, and Kerley lines",
+            "wrongAnswer_1": "Enlarged right ventricle, flattened left ventricular cavity, and a widened aortic root",
+            "wrongAnswer_2": "Convexity of the right ventricle, accentuated first heart sound, and a diastolic rumble",
+            "wrongAnswer_3": "Openning snap, parasternal lift, and accentuated second heart sound",
+            "wrongAnswer_4": "Right ventricular hypertrophy, pulmonary embolism, and atrial fibrillation"
+          },
+          {
+            "question": "What are the components of the auscultatory findings in mitral stenosis, and what is their significance?",
+            "goodAnswer": "Accentuated first heart sound (S1) due to the larger left atrial size, an opening snap (sudden stop in leaflet opening) due to the doming of the valve leaflets, and a diastolic rumble due to turbulent blood flow across the stenosed valve.",
+            "wrongAnswer_1": "A soft, barely audible first heart sound, a mid-systolic click due to chordae tendineae rupture, and a crescendo-decrescendo murmur due to aortic regurgitation.",
+            "wrongAnswer_2": "Regularly spaced clicks throughout the cardiac cycle, a harsh holosystolic murmur at the left sternal border, and a mid-diastolic rumble due to pulmonary stenosis.",
+            "wrongAnswer_3": "A diminished second heart sound, a decrescendo-crescendo murmur, and a third heart sound due to left ventricular non-compliance.",
+            "wrongAnswer_4": "A parasternal lift, an accentuated second heart sound, and a systolic murmur radiating to the axilla due to mitral regurgitation."
+          },
+          {
+            "question": "What are the possible clinical manifestations of infrequently symptomatic to severely impaired patients with mitral stenosis?",
+            "goodAnswer": "From asymptomatic to dyspnea with minimal effort, then orthopnea, and finally paroxysmal nocturnal dyspnea",
+            "wrongAnswer_1": "Typically, patients are asymptomatic until the onset of atrial fibrillation, then develop dyspnea with marked effort, progressing to dyspnea with minimal effort, then orthopnea, and finally paroxysmal nocturnal dyspnea",
+            "wrongAnswer_2": "The clinical features range from a parasternal lift (RV) and, upon auscultation, accentuated first heart sound (S1), an opening snap (sudden stop in leaflet opening), and a diastolic rumble. A higher left atrial P\u00ba results in a shorter S\u2082 to OS interval.",
+            "wrongAnswer_3": "Diagnostic testing includes chest radiology, electrocardiography, echocardiography, and cardiac catheterization. Chest X-ray findings reflect left atrial hypertension and may show a double density right cardiac border, convexity (LA appendage) just below the left PA (resulting in a four-bump sign: aorta, pulmonary artery, atrial appendage, left ventricle), elevated left main bronchus, and Kerley lines.",
+            "wrongAnswer_4": "C-shaped left ventricle due to inability of the left ventricle to expand, doming of the valve leaflets, and valve stenosis, and enables measurement of the valve area through planimetry."
+          },
+          {
+            "question": "How is the severity of mitral stenosis determined, and what are the different severity levels and their corresponding valve areas?",
+            "goodAnswer": "Severity is determined by valve area: severe stenosis is \u2264 1.0 cm\u00b2, moderate is 1.0-1.4 cm\u00b2, and mild is 1.5-4.0 cm\u00b2. Symptoms are usually unusual until the area is \u2264 1.5 cm\u00b2, but unusual flows (such as during exercise) or tachycardia, which diminish left atrial filling time, may result in dyspnea. Symptoms progress as the valve narrows.",
+            "wrongAnswer_1": "Severity is determined by the degree of left atrial enlargement, which ranges from stage 1 (no enlargement) to stage 4 (massive enlargement). Stage 3 is characterized by severe stenosis, with a valve area of \u2264 1.0 cm\u00b2. Moderate stenosis occurs in stage 2, with a valve area of 1.0-1.4 cm\u00b2, and mild stenosis is in stage 1, with a valve area of 1.5-4.0 cm\u00b2. Symptoms typically appear when the left atrium is enlarged to stage 3. Rarely symptomatic patients often have a stage 1 or 2 severity, while those with severe dyspnea and other complications have stage 4 severity.",
+            "wrongAnswer_2": "Severity is determined by the intensity of the diastolic rumble auscultated. A loud, harsh rumble indicates severe stenosis, while a soft, low-frequency rumble suggests mild stenosis. An opening snap that precedes the rumble by 0.1 seconds means the patient is asymptomatic. A higher left atrial pressure results in a shorter S2 to OS interval, which can be used to estimate the severity. Rarely, a parasternal lift can be mistaken for severe mitral stenosis.",
+            "wrongAnswer_3": "Severity is determined by the presence or absence of atrial fibrillation. If atrial fibrillation is detected, it automatically means the patient has severe mitral stenosis. Atrial fibrillation causes blood stasis, leading to thrombus formation and embolism. In those with only sinus rhythm, the mitral stenosis is considered clinically silent. Rarely, paroxysmal nocturnal dyspnea indicates a need for immediate surgery.",
+            "wrongAnswer_4": "It is determined by the clinical presentation of the patient: those with only parasternal lift have mild stenosis, while those with accentuated first heart sound (S1), an opening snap, and a diastolic rumble have severe stenosis. Pulmonary hypertension, indicated by an increased P2 component of S2, means the patient has moderate stenosis. Rarely, patients with fatigue have only minor degrees of mitral stenosis."
+          },
+          {
+            "question": "What are the possible clinical manifestations of infrequently symptomatic to severely impaired patients with mitral stenosis?",
+            "goodAnswer": "Initially, patients are asymptomatic, then develop dyspnea with marked effort, progressing to dyspnea with minimal effort, then orthopnea, and finally paroxysmal nocturnal dyspnea. Fatigue is also common. Some patients may also experience hemoptysis or embolic stroke, especially when in atrial fibrillation.",
+            "wrongAnswer_1": "Patients are asymptomatic until symptoms onset, and fatigue worsens with the onset of atrial fibrillation. Typically, they have no dyspnea initially, but later develop dyspnea only during strenuous exercise, which progresses to dyspnea with daily activities, then chest pain with minimal effort, and finally syncope. Rarely, some experience hypertension or weight gain.",
+            "wrongAnswer_2": "Signs and symptoms include unexplained weight loss, hyperlipidemia, and history of autoimmune diseases. Auscultation reveals a systolic murmur, and echocardiography shows signs of right ventricular enlargement. Rarely, patients may experience dizziness or fatigue, but they usually remain unchanged over time.",
+            "wrongAnswer_3": "Clinically, mitral stenosis presents with hypertension, leading to headaches, blurred vision, and epistaxis. Physical exam is likely to reveal irregular pulses and a third heart sound. Laboratory tests will show elevated white blood cell count and increased liver enzymes.",
+            "wrongAnswer_4": "Patients often have a history of diabetes or obesity. Auscultation of the heart will reveal a diastolic friction rub rather than a murmur. Symptoms typically worsen with prolonged standing but improve with regular aspirin therapy."
+          },
+          {
+            "question": "What is the procedure used to measure the true size of the left atrium, and what are the other diagnostic methods used in evaluating mitral stenosis?",
+            "goodAnswer": "Echocardiography is used to assess left atrial size, and other methods include chest X-ray, electrocardiography, and cardiac catheterization.",
+            "wrongAnswer_1": "Cardiac catheterization is used to determine left atrial size, and other diagnostic methods include blood test, urinalysis, and bone marrow biopsy.",
+            "wrongAnswer_2": "Electroencephalography is used to evaluate left atrial dimensions, and other methods include urinalysis, thyroid function tests, and liver biopsy.",
+            "wrongAnswer_3": "Computed tomography (CT) scan is used to measure atrial size, and other methods include routine blood work, arterial gas analysis, and neurological examination.",
+            "wrongAnswer_4": "Magnetic resonance imaging (MRI) is used to assess left atrial volume, and other diagnostic methods include pulmonary function testing, exercise stress testing, and routine laboratory screening."
+          },
+          {
+            "question": "What is the reasoning behind the accentuated first heart sound (S1) and the opening snap auscultated in patients with mitral stenosis, and what do they indicate about the disease?",
+            "goodAnswer": "The accentuated S1 is due to the forceful closure of the valve leaflets from the higher left atrial pressure, while the opening snap results from the sudden stop of leaflet opening. Both indicate mitral stenosis.",
+            "wrongAnswer_1": "The accentuated S1 is due to the forceful closure of the valve leaflets from the higher left atrial pressure, while the opening snap results from the sudden stop of leaflet opening. However, they do not indicate mitral stenosis but rather mitral regurgitation.",
+            "wrongAnswer_2": "The accentuated S1 is due to the forceful closure of the valve leaflets from the higher left atrial pressure, while the opening snap results from the sudden stop of leaflet opening. Both indicate aortic stenosis rather than mitral stenosis.",
+            "wrongAnswer_3": "The accentuated S1 is due to the forceful closure of the valve leaflets from the higher left atrial pressure, while the opening snap results from the sudden stop of leaflet opening. These findings are auscultated in patients with mitral regurgitation, not mitral stenosis.",
+            "wrongAnswer_4": "The accentuated S1 is due to the forceful closure of the valve leaflets from the higher left atrial pressure, while the opening snap results from the sudden stop of leaflet opening. They indicate a normal heart sound and do not have any diagnostic significance."
+          },
+          {
+            "question": "How does the severity of mitral stenosis influence the auscultatory findings, and what are the characteristics of the diastolic rumble in this context?",
+            "goodAnswer": "In severely stenotic valves, the opening snap precedes the first heart sound. The diastolic rumble is low-frequency and has a decrescendo contour, getting louder as it approaches the next systole. It is best heard at the cardiac apex with the patient leaning forward. A shorter S\u2082 to OS interval indicates a higher left atrial pressure.",
+            "wrongAnswer_1": "Severely stenotic valves will have a delayed opening snap after the first heart sound. The diastolic rumble is high-frequency and has an crescendo contour, getting softer as it approaches the next systole. It is best heard at the right sternal border with the patient sitting upright.",
+            "wrongAnswer_2": "In severely stenotic valves, the opening snap coincides exactly with the first heart sound. The diastolic rumble is medium-frequency and has a sustained intensity throughout. It is best heard at the left parasternal border with the patient lying flat.",
+            "wrongAnswer_3": "Severely stenotic valves will have an absent opening snap. The diastolic rumble is only heard during exercise and disappears at rest. It is best heard at the aortic area with the patient holding their breath.",
+            "wrongAnswer_4": "The severity of mitral stenosis does not influence the auscultatory findings, as the opening snap and diastolic rumble remain unchanged. All patients with mitral stenosis will have similar auscultatory findings regardless of the valve area."
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "mainTopic": {
+    "title": "Epithelium",
+    "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+    "subTopics": [
+      {
+        "title": "Overview and definition of epithelium",
+        "quizzes": [
+          {
+            "question": "What are the functions of the basement membrane in epithelial tissues?",
+            "goodAnswer": "The basement membrane provides structural support, acts as a semi-permeable diffusion barrier, and serves as a boundary between epithelium and underlying connective tissue.",
+            "wrongAnswer_1": "The basement membrane functions as a continuous sheet of vascular tissue that nourishes epithelial cells by supplying oxygen and nutrients.",
+            "wrongAnswer_2": "It acts as a storage unit for lipids and proteins, serving as an energy reserve for epithelial turnover and secretion.",
+            "wrongAnswer_3": "The basement membrane produces hormones that regulate cell proliferation and differentiation in response to environmental stimuli.",
+            "wrongAnswer_4": "It forms a protective layer that prevents bacteria and viruses from entering the body, rendering it immune to infection."
+          },
+          {
+            "question": "Which type of intercellular junction is impermeable to the passage of molecules between cells, and what is its primary function in epithelial tissues?",
+            "goodAnswer": "Zonula occludens (tight junctions), it forms a permeability barrier and prevents the movement of substances between cells.",
+            "wrongAnswer_1": "Macula adherens (desmosomes), it cements cells together and provides resistance to mechanical stress.",
+            "wrongAnswer_2": "Hemidesmosomes, it attaches epithelial cells to the basement membrane.",
+            "wrongAnswer_3": "Zonula adherens, it serves as a primary point of contact between cells and helps maintain cell polarity.",
+            "wrongAnswer_4": "Nexus (gap junctions), it facilitates direct communication between cells by forming channels for ion and small molecule exchange."
+          },
+          {
+            "question": "Which cell type, found in simple columnar epithelium, is responsible for secreting mucus, and how does it contribute to the protective role of other epithelial cells?",
+            "goodAnswer": "Goblet cells\u200b secrete mucus onto the epithelial surface, trapping pathogens and debris, while other cells in the epithelium maintain structural integrity and facilitate absorption or secretion.\u200b",
+            "wrongAnswer_1": "Brush border cells\u200b secrete enzymes that break down nutrients, facilitating digestion rather than providing protection against pathogens.",
+            "wrongAnswer_2": "Basal cells are responsible for producing new epithelial cells and do not contribute to mucus secretion.",
+            "wrongAnswer_3": "Chief cells, found in simple columnar epithelium, primarily secrete hormones rather than mucus, and they do not play a direct role in protection.",
+            "wrongAnswer_4": "Squamous cells, which are flattened epithelial cells, are not typically found in mucus-secreting tissues and instead function mainly in diffusion and filtration."
+          },
+          {
+            "question": "How does the structure of cilia facilitate their function, and what are the consequences of a defect in the dynein protein?",
+            "goodAnswer": "Cilia have a microtubule-based axoneme with a 9+2 arrangement and utilize the motor protein dynein for movement. A defect in dynein leads to immotile cilia, resulting in recurrent infections due to inability to clear pathogens.",
+            "wrongAnswer_1": "Cilia are composed of microfilaments, which contract rhythmically to facilitate fluid transport. A defect in dynein causes excessive cilia motility, leading to uncontrolled cell migration and tissue damage.",
+            "wrongAnswer_2": "Cilia function by producing ATP, which powers the rhythmic beating of the axoneme. A defect in dynein results in an inability to synthesize ATP, causing cilia to become paralyzed and leading to reduced nutrient absorption.",
+            "wrongAnswer_3": "The axoneme of cilia is made up of collagen fibers, which are responsible for propelling mucus. A defect in dynein causes increased mucus production but does not affect cilia motility. ",
+            "wrongAnswer_4": "Cilia function by releasing enzymes that break down foreign particles. A defect in dynein leads to impaired protein synthesis, resulting in reduced cilia formation and increased susceptibility to autoimmune diseases."
+          },
+          {
+            "question": "What is the primary function of tight junctions (zonula occludens) in epithelial tissues?",
+            "goodAnswer": "Tight junctions form a permeability barrier between cells, regulating the passage of molecules and preventing leakage.",
+            "wrongAnswer_1": "Tight junctions serve as channels for cell-to-cell communication, allowing ions and small molecules to freely pass between cells.",
+            "wrongAnswer_2": "Tight junctions provide structural support by linking cells to the basement membrane, similar to hemidesmosomes.",
+            "wrongAnswer_3": "Tight junctions act as anchoring points for cytoskeletal filaments, primarily responsible for cell adhesion.",
+            "wrongAnswer_4": "Tight junctions facilitate the movement of substances across cell layers, making them permeable to a wide range of molecules."
+          },
+          {
+            "question": "Which of the following statements correctly describes the function of a hemidesmosome in epithelial tissues?",
+            "goodAnswer": "Hemidesmosomes attach epithelial cells to the basement membrane and play a key role in maintaining the structural integrity of epithelial layers by anchoring them to the underlying connective tissue. They are composed of both cytoplasmic and extracellular domains, with the cytoplasmic side binding to keratin intermediate filaments and the extracellular domain interacting with laminin and collagen IV of the basal lamina.",
+            "wrongAnswer_1": "Hemidesmosomes, located on the apical surface of epithelial cells, function as selective permeability junctions that control the movement of ions and small molecules between cells, while desmosomes anchor cells to the basement membrane.",
+            "wrongAnswer_2": "Desmosomes, which are only found on the basolateral surface, facilitate communication between epithelial cells by forming channels that allow the direct exchange of signaling molecules, while hemidesmosomes regulate the folding of epithelial layers upon mechanical stress.",
+            "wrongAnswer_3": "Hemidesmosomes are temporary junctions that form and break down continuously, enabling epithelial cell migration during tissue repair. They are made up of cadherins, which link to microtubules on the cytoplasmic side and interact with fibronectin on the extracellular side.",
+            "wrongAnswer_4": "A specialized form of tight junction, hemidesmosomes function by selectively regulating the passage of macromolecules across epithelial layers. They control the movement of proteins and nutrients between cells, ensuring proper tissue nourishment."
+          },
+          {
+            "question": "Which type of intercellular junction forms a selectively permeable barrier between cells, preventing the uncontrolled movement of substances across the epithelium?",
+            "goodAnswer": "Zonula occludens (tight junctions)",
+            "wrongAnswer_1": "Macula adherens (desmosomes)",
+            "wrongAnswer_2": "Hemidesmosomes",
+            "wrongAnswer_3": "Zonula adherens (adherens junctions)",
+            "wrongAnswer_4": "Nexus (gap junctions)"
+          },
+          {
+            "question": "What are the functions of the basement membrane in epithelial tissues?",
+            "goodAnswer": "The basement membrane serves as a barrier between epithelium and underlying connective tissue, provides structural support for cell proliferation and differentiation, and filters the passage of molecules between epithelium and connective tissue.",
+            "wrongAnswer_1": "The basement membrane functions as a conduit for direct communication between epithelial cells and nerve fibers, allowing rapid signal transmission without the need for chemical mediators.",
+            "wrongAnswer_2": "The basement membrane produces collagen and elastin fibers, which contribute to the contractility of epithelial tissues, enabling them to expand and contract in response to external stimuli.",
+            "wrongAnswer_3": "The basement membrane is primarily responsible for transporting nutrients and oxygen directly from the bloodstream to the epithelial cells, as it contains numerous blood vessels within its structure.",
+            "wrongAnswer_4": "The basement membrane acts as a storage depot for growth factors and cytokines, which are released upon stimulation, promoting tissue repair and regeneration over time."
+          },
+          {
+            "question": "Which intercellular junction functions by selectively regulating the passage of molecules between cells, acting as a permeability barrier between epithelial cells?",
+            "goodAnswer": "Zonula occludens (tight junctions)",
+            "wrongAnswer_1": "Macula adherens (desmosomes)",
+            "wrongAnswer_2": "Zonula adherens (adherens junctions)",
+            "wrongAnswer_3": "Hemidesmosomes",
+            "wrongAnswer_4": "Nexus (gap junctions)"
+          }
+        ]
+      },
+      {
+        "title": "Classification of epithelium",
+        "quizzes": [
+          {
+            "question": "What are the functions of the different cell-to-cell junctions?",
+            "goodAnswer": "Zonula occludens (tight junctions) form a permeability barrier, zonula adherens (intermediate junctions) stabilize epithelial layers, desmosomes (spot desmosomes) provide strong adhesion between cells, and gap junctions (nexus) facilitate communication between cells.",
+            "wrongAnswer_1": "Zonula occludens regulate nutrient exchange between cells, zonula adherens synthesize proteins for cell growth, desmosomes produce enzymes for digestion, and gap junctions store calcium for muscle contraction.",
+            "wrongAnswer_2": "Tight junctions facilitate the movement of ions across cell membranes, intermediate junctions transport oxygen to different cell layers, spot desmosomes promote cell migration, and gap junctions control gene expression in epithelial cells.",
+            "wrongAnswer_3": "Zonula occludens produce hormones that regulate cell division, zonula adherens store energy in the form of glycogen, desmosomes break down waste products, and gap junctions act as receptors for neurotransmitters.",
+            "wrongAnswer_4": "Tight junctions function as channels for rapid diffusion, intermediate junctions control the folding of epithelial sheets, desmosomes only play a minor role in cell adhesion, and gap junctions inhibit communication between cells."
+          },
+          {
+            "question": "Which type of intercellular junction forms a selectively permeable barrier on the apical surface of epithelial cells, preventing the random passage of molecules between cells?",
+            "goodAnswer": "Zonula occludens (tight junction)",
+            "wrongAnswer_1": "Macula adherens (desmosome)",
+            "wrongAnswer_2": "Zonula adherens (adherens junction)",
+            "wrongAnswer_3": "Nexus (gap junction)",
+            "wrongAnswer_4": "Hemidesmosome"
+          },
+          {
+            "question": "How do zonula adherens contribute to epithelial cell function?",
+            "goodAnswer": "Zonula adherens are composed of actin filaments that link epithelial cells together and provide lateral stability to the epithelium. They play a key role in maintaining tissue integrity and preventing cell separation.",
+            "wrongAnswer_1": "Zonula adherens consist of desmosomes that anchor cells to the basement membrane, forming a tight junctional complex with zonula occludens and macula adherens. They primarily function in regulating nutrient diffusion between epithelial layers.",
+            "wrongAnswer_2": "Zonula adherens are made up of intermediate filaments, which create selectively permeable channels on the apical surface of epithelial cells. These channels allow for regulated passage of molecules between cells, facilitating nutrient exchange and waste removal.",
+            "wrongAnswer_3": "Zonula adherens function as pressure-sensitive receptors that detect mechanical stress on the epithelial surface. When activated, they trigger downstream signaling pathways, leading to increased cell proliferation and repair in response to external forces.",
+            "wrongAnswer_4": "Zonula adherens are temporary structures that form only on the basal side of epithelial cells. They facilitate cell migration during tissue development and disappear once cells have fully differentiated. This dynamic process allows for tissue remodeling and adaptation to changing conditions."
+          },
+          {
+            "question": "What type of intercellular junction provides direct communication between cells by forming channels that allow the passage of ions and small molecules?",
+            "goodAnswer": "Nexus (gap junction)",
+            "wrongAnswer_1": "Zonula adherens",
+            "wrongAnswer_2": "Zonula occludens",
+            "wrongAnswer_3": "Macula adherens (desmosome)",
+            "wrongAnswer_4": "Hemidesmosome"
+          },
+          {
+            "question": "Which intercellular junction acts as a selectively permeable barrier on the apical surface of epithelial cells, preventing the random passage of molecules between cells?",
+            "goodAnswer": "Zonula occludens (tight junctions)",
+            "wrongAnswer_1": "Macula adherens (desmosomes)",
+            "wrongAnswer_2": "Zonula adherens (adherens junctions)",
+            "wrongAnswer_3": "Nexus (gap junctions)",
+            "wrongAnswer_4": "Hemidesmosomes"
+          },
+          {
+            "question": "Which type of intercellular junction is characterized by actin filaments that link epithelial cells together in a zonular pattern?",
+            "goodAnswer": "Zonula adherens",
+            "wrongAnswer_1": "Macula adherens (desmosome)",
+            "wrongAnswer_2": "Zonula occludens",
+            "wrongAnswer_3": "Nexus (gap junction)",
+            "wrongAnswer_4": "Hemidesmosome"
+          },
+          {
+            "question": "Which type of intercellular junction is characterized by proteins such as occludin and claudin, which form tight connections between cells on the apical surface?",
+            "goodAnswer": "Zonula occludens",
+            "wrongAnswer_1": "Macula adherens (desmosome)",
+            "wrongAnswer_2": "Zonula adherens",
+            "wrongAnswer_3": "Nexus (gap junction)",
+            "wrongAnswer_4": "Hemidesmosome"
+          },
+          {
+            "question": "What are the functions of the different cell-to-cell junctions?",
+            "goodAnswer": "Desmosomes provide strong adhesion between cells, zonula adherens also contribute to cell adhesion but do so by linking actin filaments, zonula occludens act as selectively permeable barriers, and gap junctions facilitate cell-to-cell communication by forming channels for ions and small molecules.",
+            "wrongAnswer_1": "Desmosomes facilitate cell-to-cell communication, zonula adherens act as selectively permeable barriers, zonula occludens provide strong adhesion between cells, and gap junctions contribute to cell adhesion by linking actin filaments.",
+            "wrongAnswer_2": "Zonula adherens provide strong adhesion between cells, zonula occludens facilitate cell-to-cell communication, gap junctions act as selectively permeable barriers, and desmosomes contribute to cell adhesion by linking actin filaments.",
+            "wrongAnswer_3": "Gap junctions provide strong adhesion between cells, desmosomes act as selectively permeable barriers, zonula adherens facilitate cell-to-cell communication, and zonula occludens contribute to cell adhesion by linking actin filaments.",
+            "wrongAnswer_4": "Zonula occludens provide strong adhesion between cells, gap junctions act as selectively permeable barriers, desmosomes facilitate cell-to-cell communication, and zonula adherens contribute to cell adhesion by linking actin filaments."
+          }
+        ]
+      },
+      {
+        "title": "Apical cell surface specializations and functions",
+        "quizzes": [
+          {
+            "question": "What type of cell-to-cell junction is characterized by its ability to form a tight permeability barrier on the apical surface of epithelial cells, preventing the passage of molecules through the intercellular space?",
+            "goodAnswer": "Zonula Occludens (Tight Junctions)",
+            "wrongAnswer_1": "Macula Adherens (Desmosomes)",
+            "wrongAnswer_2": "Hemidesmosomes",
+            "wrongAnswer_3": "Zonula Adherens (Adherens Junctions)",
+            "wrongAnswer_4": "Nexus (Gap Junctions)"
+          },
+          {
+            "question": "How does the structure of cilia facilitate its coordinated beating action, and what is the role of microtubules and dynein in this process?",
+            "goodAnswer": "Cilia are hair-like structures containing a core of microtubules arranged in a 9+2 pattern (axoneme). The microtubules are doublets, except for the central pair, and are connected by radial spokes and a tethers.  Dynein arms, which are ATP-dependent motor proteins, generate the force for microtubule sliding.",
+            "wrongAnswer_1": "Cilia are composed of microfilaments arranged in a helical pattern. The microtubules form a rigid structure that does not facilitate beating. Dynein is responsible for synthesizing ATP to fuel cilia movement.",
+            "wrongAnswer_2": "The core of a cilium contains 10 microtubules arranged in a single-stranded axoneme. All microtubules are connected by radial spokes but lack tethers. Dynein arms function to stabilize the microtubules and prevent them from sliding.",
+            "wrongAnswer_3": "Cilia are cytoplasmic extensions filled with keratin filaments. The microtubules in cilia are arranged in a 10+2 pattern. Dynein arms are involved in synthesizing ATP to power cilia movement.",
+            "wrongAnswer_4": "The microtubules in cilia are arranged in a hexagonal pattern.  Dynein arms control the folding and unfolding of microtubules rather than causing them to slide. This folding action is what generates the beating motion."
+          },
+          {
+            "question": "Which type of intercellular junction functions by forming a tight permeability barrier on the apical surface of epithelial cells, preventing the passage of molecules through the intercellular space?",
+            "goodAnswer": "Zonula occludens (tight junctions)",
+            "wrongAnswer_1": "Macula adherens (desmosomes)",
+            "wrongAnswer_2": "Zonula adherens (adherens junctions)",
+            "wrongAnswer_3": "Hemidesmosomes",
+            "wrongAnswer_4": "Nexus (gap junctions)"
+          },
+          {
+            "question": "What are the functional implications of a loss of desmosome function in epithelial tissues?",
+            "goodAnswer": "Loss of desmosome function leads to cell separation and separation of epithelial layers, resulting in blistering of the skin",
+            "wrongAnswer_1": "Desmosomes are primarily responsible for regulating permeability, so their absence will make the epithelium impermeable to all molecules",
+            "wrongAnswer_2": "Loss of desmosomes will cause a dramatic increase in the synthesis of keratin, leading to hyperthickening of the skin",
+            "wrongAnswer_3": "Desmosomes play no role in cell signaling, so their absence will only affect structural integrity and not cellular communication",
+            "wrongAnswer_4": "A loss of desmosome function enhances the flexibility of epithelial tissues, allowing for greater expansion and contraction"
+          },
+          {
+            "question": "Which type of intercellular junction functions by forming a tight permeability barrier on the apical surface of epithelial cells, preventing the passage of molecules through the intercellular space?",
+            "goodAnswer": "Zonula Occludens (Tight Junctions)",
+            "wrongAnswer_1": "Macula Adherens (Desmosomes)",
+            "wrongAnswer_2": "Zonula Adherens (Adherens Junctions)",
+            "wrongAnswer_3": "Hemidesmosomes",
+            "wrongAnswer_4": "Nexus (Gap Junctions)"
+          },
+          {
+            "question": "Which type of intercellular junction, located at the basal surface of epithelial cells, attaches cells to the basement membrane via anchoring filaments?",
+            "goodAnswer": "Hemidesmosomes",
+            "wrongAnswer_1": "Zonula adherens (Adherens Junctions)",
+            "wrongAnswer_2": "Macula adherens (Desmosomes)",
+            "wrongAnswer_3": "Zonula occludens (Tight Junctions)",
+            "wrongAnswer_4": "Nexus (Gap Junctions)"
+          },
+          {
+            "question": "Which intercellular junction functions by forming a tight permeability barrier on the apical surface of epithelial cells, preventing the passage of molecules through the intercellular space?",
+            "goodAnswer": "Zonula Occludens (Tight Junctions)",
+            "wrongAnswer_1": "Macula Adherens (Desmosomes)",
+            "wrongAnswer_2": "Hemidesmosomes",
+            "wrongAnswer_3": "Zonula Adherens (Adherens Junctions)",
+            "wrongAnswer_4": "Nexus (Gap Junctions)"
+          },
+          {
+            "question": "Which intercellular junction is characterized by its ability to form a tight permeability barrier on the apical surface of epithelial cells, preventing the passage of molecules through the intercellular space?",
+            "goodAnswer": "Zonula occludens (tight junctions)",
+            "wrongAnswer_1": "Macula adherens (desmosomes)",
+            "wrongAnswer_2": "Zonula adherens (adherens junctions)",
+            "wrongAnswer_3": "Nexus (gap junctions)",
+            "wrongAnswer_4": "Hemidesmosomes"
+          },
+          {
+            "question": "Which type of intercellular junction forms a tight seal between cells, acting as a selective permeability barrier on the apical surface?",
+            "goodAnswer": "Zonula occludens (tight junctions)",
+            "wrongAnswer_1": "Macula adherens (desmosomes)",
+            "wrongAnswer_2": "Zonula adherens (adherens junctions)",
+            "wrongAnswer_3": "Hemidesmosomes",
+            "wrongAnswer_4": "Nexus (gap junctions)"
+          },
+          {
+            "question": "Which type of intercellular junction is characterized by its ability to form a tight permeability barrier on the apical surface of epithelial cells, preventing the passage of molecules through the intercellular space?",
+            "goodAnswer": "Zonula Occludens (Tight Junctions)",
+            "wrongAnswer_1": "Macula Adherens (Desmosomes)",
+            "wrongAnswer_2": "Zonula Adherens (Adherens Junctions)",
+            "wrongAnswer_3": "Hemidesmosomes",
+            "wrongAnswer_4": "Nexus (Gap Junctions)"
+          },
+          {
+            "question": "Which intercellular junction functions by forming a tight permeability barrier on the apical surface of epithelial cells, preventing the passage of molecules through the intercellular space?",
+            "goodAnswer": "Zonula Occludens (Tight Junctions)",
+            "wrongAnswer_1": "Macula Adherens (Desmosomes)",
+            "wrongAnswer_2": "Hemidesmosomes",
+            "wrongAnswer_3": "Zonula Adherens (Adherens Junctions)",
+            "wrongAnswer_4": "Nexus (Gap Junctions)"
+          },
+          {
+            "question": "Which type of intercellular junction functions by forming a tight permeability barrier on the apical surface of epithelial cells, preventing the passage of molecules through the intercellular space?",
+            "goodAnswer": "Zonula Occludens (Tight Junctions)",
+            "wrongAnswer_1": "Macula Adherens (Desmosomes)",
+            "wrongAnswer_2": "Hemidesmosomes",
+            "wrongAnswer_3": "Zonula Adherens (Adherens Junctions)",
+            "wrongAnswer_4": "Nexus (Gap Junctions)"
+          }
+        ]
+      },
+      {
+        "title": "Specialized and unspecialized epithelial cells",
+        "quizzes": [
+          {
+            "question": "What is the primary function of tight junctions in epithelial tissues?",
+            "goodAnswer": "Tight junctions form a permeability barrier between cells, regulating the passage of molecules along the intercellular space.",
+            "wrongAnswer_1": "Tight junctions act as direct channels for ion and small molecule exchange between cells, facilitating intercellular communication.",
+            "wrongAnswer_2": "Tight junctions primarily function to adhere epithelial cells to the basement membrane rather than regulating intercellular permeability.",
+            "wrongAnswer_3": "Tight junctions are responsible for producing mucus, which lubricates the epithelial surface and aids in nutrient absorption.",
+            "wrongAnswer_4": "Tight junctions facilitate the folding of epithelial layers, allowing for increased surface area on mucosal surfaces."
+          },
+          {
+            "question": "Which statement correctly describes the structure and function of desmosomes in epithelial tissues?",
+            "goodAnswer": "Desmosomes, composed of cadherin molecules, link intermediate filaments of adjacent cells and provide strong adhesion between epithelial cells.",
+            "wrongAnswer_1": "Desmosomes, composed of connexins, form channels that allow the direct passage of ions and small molecules between cells.",
+            "wrongAnswer_2": "Desmosomes are only found on the apical surface of epithelial cells and serve to regulate the permeability of the tissue.",
+            "wrongAnswer_3": "Desmosomes are made up of laminin and collagen, which bind epithelial cells to the basement membrane.",
+            "wrongAnswer_4": "Desmosomes function to facilitate cell migration and induce angiogenesis in response to tissue injury."
+          },
+          {
+            "question": "Which type of intercellular junction is characterized by its ability to allow the direct passage of ions and small molecules between adjacent cells?",
+            "goodAnswer": "Nexus (Gap Junctions)",
+            "wrongAnswer_1": "Zonula adherens (Adherens Junctions)",
+            "wrongAnswer_2": "Macula adherens (Desmosomes)",
+            "wrongAnswer_3": "Zonula occludens (Tight Junctions)",
+            "wrongAnswer_4": "Hemidesmosomes"
+          },
+          {
+            "question": "What is the primary role of keratin in epithelial tissues?",
+            "goodAnswer": "Keratin is a fibrous protein that provides structural support and waterproofing in epithelial tissues.",
+            "wrongAnswer_1": "Keratin serves as a lubricant on cell surfaces to facilitate the movement of substances.",
+            "wrongAnswer_2": "It plays a major role in cell signaling and receptor activation.",
+            "wrongAnswer_3": "Keratin is responsible for producing collagen, which strengthens cell junctions.",
+            "wrongAnswer_4": "It functions as an immune defense mechanism by blocking the entry of pathogens."
+          },
+          {
+            "question": "Which type of intercellular junction is characterized by its ability to allow the direct passage of ions and small molecules between adjacent cells, and what is the structural basis for this permeability?",
+            "goodAnswer": "Nexus (Gap Junction), which is composed of connexons, each formed by six connexin subunits that facilitate the passage of ions and small molecules between cells.",
+            "wrongAnswer_1": "Zonula adherens (Adherens Junction), which is composed of cadherins that link to actin filaments, allowing for the direct passage of ions and small molecules between cells.",
+            "wrongAnswer_2": "Macula adherens (Desmosomes), which are randomly arranged spot-like adhesions that facilitate the direct passage of ions and small molecules between cells.",
+            "wrongAnswer_3": "Zonula occludens (Tight Junctions), which form a tight seal between cells, enabling the free exchange of ions and small molecules between cells.",
+            "wrongAnswer_4": "Hemidesmosomes, which anchor epithelial cells to the basement membrane and facilitate the passage of ions and small molecules between cells."
+          },
+          {
+            "question": "How do desmosomes contribute to the mechanical stability of epithelial tissues?",
+            "goodAnswer": "Desmosomes, composed of cadherins and linked to intermediate filaments, provide strong adhesion between cells and contribute to the overall stability of epithelial tissues by holding cells together in a sheet. They are particularly abundant in tissues that undergo mechanical stress, such as the epidermis.",
+            "wrongAnswer_1": "Desmosomes are temporary cell-to-cell connections that facilitate nutrient exchange between epithelial cells, ensuring their survival and growth in highly vascularized tissues.",
+            "wrongAnswer_2": "Desmosomes consist of tight junctions and actin filaments, which regulate the permeability of epithelial layers, controlling the movement of substances across the cell membrane.",
+            "wrongAnswer_3": "Desmosomes, also known as gap junctions, play a key role in facilitating communication between epithelial cells by allowing the direct passage of ions and small molecules between cells.",
+            "wrongAnswer_4": "Desmosomes primarily function to control the folding and remodelling of epithelial tissues in response to hormonal signals rather than providing mechanical stability."
+          },
+          {
+            "question": "Which intercellular junction functions as a tight seal between cells, preventing the passage of molecules between them and what are the key components of its structure?",
+            "goodAnswer": "Zonula occludens (Tight Junctions): Composed of transmembrane proteins such as occludin, claudins, and JAM (junctional adhesion molecule), which interact with the actin cytoskeleton.",
+            "wrongAnswer_1": "Macula adherens (Desmosomes): These junctions consist of connexons, which are channels formed by six connexin subunits, allowing the direct passage of ions and small molecules between cells.",
+            "wrongAnswer_2": "Zonula adherens (Adherens Junctions): Composed of desmoglea and desmocollin, which bind to intermediate filaments, creating strong adhesion points between cells and playing a key role in cell signaling.",
+            "wrongAnswer_3": "Nexus (Gap Junctions): These junctions form a tight seal between cells, preventing the passage of molecules between them and are made up of cadherins, which link to actin filaments, creating a strong adhesion belt.",
+            "wrongAnswer_4": "Hemidesmosomes: These junctions anchor epithelial cells to the basement membrane and consist of integrins, which bind to laminin in the extracellular matrix, facilitating cell adhesion."
+          },
+          {
+            "question": "What are the functional implications of a loss of desmosomal adhesion in epithelial tissues?",
+            "goodAnswer": "Loss of desmosomal adhesion leads to cell separation, resulting in blistering of the epithelium. This can occur in autoimmune diseases such as pemphigus, leading to skin blistering. Desmosomes are essential for maintaining the structural integrity of epithelial tissues by binding cells together. Without them, epithelial layers become fragile and prone to separation.",
+            "wrongAnswer_1": "Loss of desmosomal adhesion strengthens cell-to-cell contact, leading to increased impermeability and reduced nutrient exchange between cells. This can result in tissue necrosis due to insufficient oxygen and nutrient supply. Desmosomes play a crucial role in regulating permeability rather than simply providing mechanical support.",
+            "wrongAnswer_2": "Desmosomes are responsible for forming tight junctions, so their absence would prevent the movement of ions and small molecules between cells, leading to increased resistance to electrical signals. This can impair communication between neurons and muscle cells. In this case, desmosomes act as electrically conductive junctions.",
+            "wrongAnswer_3": "A loss of desmosomal adhesion causes increased production of collagen and elastin, leading to thickened epithelium. This is a protective mechanism to compensate for weakened cell-to-cell contact. Desmosomes do not directly control the synthesis of extracellular matrix components.",
+            "wrongAnswer_4": "Desmosomes are only found in keratinized tissues, so their absence affects only the outer layers of the epidermis. It does not impact the stability of mucosal epithelia or other non-keratinized cell types. Desmosomes are not universally present in all epithelial tissues."
+          },
+          {
+            "question": "Which intercellular junction functions as a tight seal between cells, preventing the passage of molecules between them and what are the key components of its structure?",
+            "goodAnswer": "Zonula occludens (Tight Junctions): Composed of transmembrane proteins such as occludin, claudins, and JAM (junctional adhesion molecule), which interact with the cytoskeleton via actin filaments.",
+            "wrongAnswer_1": "Macula adherens (Desmosomes): Composed of desmoglea, desmocollins, and cadherins, which link to intermediate filaments such as keratin. These junctions act as tight seals, preventing the passage of molecules between cells.",
+            "wrongAnswer_2": "Zonula adherens (Adherens Junctions): Contain desmoglea, desmocollins, and cadherins, which link to actin filaments. These junctions form a continuous belt around epithelial cells, regulating cell growth and differentiation.",
+            "wrongAnswer_3": "Nexus (Gap Junctions): Characterized by connexons, which are channels formed by the alignment of six connexin subunits. These junctions facilitate the direct passage of ions and small molecules between adjacent cells, playing a key role in intercellular communication.",
+            "wrongAnswer_4": "Hemidesmosomes: Contain integrins that bind to laminin in the basement membrane. These junctions anchor epithelial cells to the underlying connective tissue, providing structural support and preventing cell detachment."
+          },
+          {
+            "question": "Which intercellular junction functions as a tight seal between cells, preventing the passage of molecules between them and what are the key components of its structure?",
+            "goodAnswer": "Zonula occludens (Tight Junctions) functions as a tight seal between cells. It is composed of transmembrane proteins such as claudins and occludin, which interact to form tight junctions. These proteins also associate with cytoskeletal filaments, namely actin.",
+            "wrongAnswer_1": "Macula adherens (Desmosomes) functions as a tight seal between cells. It is composed of transmembrane proteins such as E-cadherin and catenins, which form desmosomes. These proteins also associate with cytoskeletal filaments, including microtubules.",
+            "wrongAnswer_2": "Zonula adherens (Adherens Junctions) functions as a tight seal between cells. It is composed of transmembrane proteins such as N-cadherin and vinculin, which interact to form adherens junctions. These proteins associate with cytoskeletal filaments, primarily intermediate filaments.",
+            "wrongAnswer_3": "Nexus (Gap Junctions) functions as a tight seal between cells. It is composed of connexons, which are channels that allow the direct passage of ions and small molecules between adjacent cells.",
+            "wrongAnswer_4": "Hemidesmosomes anchor epithelial cells to the basement membrane and contain transmembrane proteins such as integrins, which interact with laminin in the basal lamina. They associate with cytoskeletal filaments, mainly keratin intermediate filaments."
+          }
+        ]
+      },
+      {
+        "title": "Types of Intercellular junctions and hemidesmosomes",
+        "quizzes": [
+          {
+            "question": "What are the functions of tight junctions in epithelial cells, and what happens when their structure is disrupted?",
+            "goodAnswer": "Tight junctions (zonula occludens) form a permeability barrier by sealing intercellular spaces. They are composed of strands of transmembrane proteins that encircle the apical surface and prevent the passage of molecules between cells. When the structure of tight junctions is disrupted, this barrier weakens, leading to increased permeability and uncontrolled movement of substances across the epithelium.",
+            "wrongAnswer_1": "Tight junctions (zonula adherens) act as anchoring sites for cytoskeletal filaments, providing structural support for cell adhesion. When tight junctions are disrupted, cells lose their connection to the basement membrane, resulting in the detachment of epithelial layers.",
+            "wrongAnswer_2": "Tight junctions (zonula occludens) facilitate the transport of ions and nutrients across epithelial layers. A disruption in their structure leads to enhanced absorption, allowing for faster nutrient exchange between cells.",
+            "wrongAnswer_3": "Tight junctions (nexus) act as communication channels between cells, allowing direct molecular exchange. When tight junctions are weakened, cells become more synchronized in their function, leading to coordinated movement of epithelial layers.",
+            "wrongAnswer_4": "Tight junctions (desmosomes) are responsible for binding cells to the extracellular matrix. Disruption of desmosomes causes a buildup of proteins on the epithelial surface, leading to the formation of a protective layer that regulates permeability."
+          },
+          {
+            "question": "Which type of intercellular junction is characterized by its ability to allow direct communication between cells via connexons?",
+            "goodAnswer": "Nexus (Gap junctions)",
+            "wrongAnswer_1": "Zonula adherens (Intermediate junctions)",
+            "wrongAnswer_2": "Macula adherens (Desmosomes)",
+            "wrongAnswer_3": "Zonula occludens (Tight junctions)",
+            "wrongAnswer_4": "Hemidesmosomes"
+          },
+          {
+            "question": "How do the structure and function of desmosomes compare to tight junctions, and what are their respective roles in epithelial tissues?",
+            "goodAnswer": "Desmosomes (macula adherens) are spot-like junctions that provide strong adhesion between cells and are linked to intermediate filaments (keratin). They hold cells together and prevent separation. Tight junctions (zonula occludens) form permeability barriers that regulate the passage of molecules between cells and serve as a gasket. They encircle cells and consist of ridges and grooves.",
+            "wrongAnswer_1": "Tight junctions, also known as macula adherens, are responsible for providing strong adhesion between cells, while desmosomes (zonula occludens) function as permeability barriers that regulate the passage of molecules. Both are linked to intermediate filaments.",
+            "wrongAnswer_2": "Desmosomes consist of ridges and grooves that form permeability barriers, while tight junctions, known as zonula adherens, hold cells together and prevent separation. They are both linked to actin filaments, which enhance cell-to-cell communication.",
+            "wrongAnswer_3": "A zonula occludens is a spot-like junction that provides strong adhesion between cells and is linked to intermediate filaments, while a desmosus (macula adherens) forms permeability barriers. They both serve to regulate the passage of molecules between cells and to hold cells together.",
+            "wrongAnswer_4": "Desmosomes and tight junctions are similar in that they both form continuous seals around cells and are linked to actin filaments. They both function to regulate the passage of molecules and to hold cells together. This type of junction is known as zonula adherens."
+          },
+          {
+            "question": "What type of intercellular junction is characterized by having a structure that forms a selectively permeable barrier between cells, and what is the clinical relevance of its function in the gastrointestinal tract?",
+            "goodAnswer": "Zonula occludens (tight junctions) function as selectively permeable barriers between cells. In the gastrointestinal tract, they prevent uncontrolled movement of nutrients and pathogens across the epithelium.",
+            "wrongAnswer_1": "Macula adherens (desmosomes) function as selectively permeable barriers between cells. In the gastrointestinal tract, they prevent uncontrolled movement of nutrients and pathogens across the epithelium.",
+            "wrongAnswer_2": "Zonula adherens (tight junctions) function to link cells to the basement membrane rather than forming a permeability barrier. In the gastrointestinal tract, they play a key role in anchoring epithelial cells to the connective tissue.",
+            "wrongAnswer_3": "Nexus (gap junctions) function as selectively permeable barriers between cells. In the gastrointestinal tract, they facilitate nutrient absorption by allowing direct communication between epithelial cells.",
+            "wrongAnswer_4": "Hemidesmosomes function selectively permeable barriers between cells. In the gastrointestinal tract, they prevent uncontrolled movement of nutrients and pathogens across the epithelium."
+          },
+          {
+            "question": "What are the structural components and functional significance of hemidesmosomes in epithelial tissues?",
+            "goodAnswer": "Hemidesmosomes are electron-dense plaques on the cytoplasmic side of the plasma membrane. They are half-desmosomes that attach epithelial cells to the basement membrane and contain integrins that bind to laminin in the basement membrane.",
+            "wrongAnswer_1": "Hemidesmosomes consist of keratin filaments that directly interact with collagen fibers in the connective tissue, forming a mechanical linkage between epithelial cells and the extracellular matrix.",
+            "wrongAnswer_2": "A hemidesmosome is a type of cell-to-cell adhesion complex that primarily functions to regulate the permeability of epithelial layers by controlling the spacing between adjacent cells.",
+            "wrongAnswer_3": "Hemidesmosomes are responsible for producing and secreting specific enzymes that break down components of the basement membrane, allowing for cell migration and tissue remodeling.",
+            "wrongAnswer_4": "They act as signaling centers on the apical surface of epithelial cells, detecting changes in nutrient levels and triggering downstream cellular responses such as protein synthesis or gene expression."
+          },
+          {
+            "question": "Which statement correctly describes the functional significance of zonula adherens in epithelial tissues?",
+            "goodAnswer": "Zonula adherens encircle cells and link to actin filaments, serving as a reinforcing belt that keeps epithelial sheets intact.",
+            "wrongAnswer_1": "Zonula adherens act as selectively permeable channels that regulate the movement of ions and small molecules between cells.",
+            "wrongAnswer_2": "Zonula adherens consist of cadherins that bind to microtubules, forming rigid junctions that prevent cell movement.",
+            "wrongAnswer_3": "Zonula adherens are responsible for producing and secreting proteins that control cell adhesion in epithelial tissues.",
+            "wrongAnswer_4": "Zonula adherens function by forming direct connections with the basement membrane, anchoring epithelial cells to connective tissue."
+          },
+          {
+            "question": "What are the functions of desmosomes in epithelial tissues, and what happens when desmosomes are absent or dysfunctional?",
+            "goodAnswer": "Desmosomes function as strong adhesion points between cells, holding epithelial layers together. In the absence of desmosomes, cells would separate, leading to a complete loss of tissue integrity. This can result in blistering of the skin or mucosal surfaces.",
+            "wrongAnswer_1": "Desmosomes function to regulate the permeability of epithelial layers, controlling the movement of ions and nutrients. Without desmosomes, cells would become impermeable, leading to a buildup of waste products and a disruption of metabolic processes.",
+            "wrongAnswer_2": "Desmosomes act as signaling centers that direct cell differentiation and growth. In the absence of desmosomes, epithelial cells would fail to organize into functional layers, leading to uncontrolled proliferation and tumor formation.",
+            "wrongAnswer_3": "Desmosomes are involved in producing and secreting mucus, which lubricates epithelial surfaces. Without desmosomes, the mucosal lining of organs would become dry, increasing friction and causing chronic inflammation.",
+            "wrongAnswer_4": "Desmosomes facilitate the coordinated movement of cilia on apical surfaces. In the absence of desmosomes, cilia would become disoriented, leading to ineffective clearance of debris and an increased risk of infection."
+          },
+          {
+            "question": "What type of intercellular junction is characterized by having a structure that forms a selectively permeable barrier between cells, and what is the clinical relevance of its function in the gastrointestinal tract?",
+            "goodAnswer": "Zonula occludens (tight junctions) function as selectively permeable barriers that regulate the movement of molecules between the cells. In the gastrointestinal tract, tight junctions prevent the uncontrolled passage of pathogens and toxins from the gut lumen into the bloodstream.",
+            "wrongAnswer_1": "Desmosomes (macula adherens) function to provide strong adhesion between cells, ensuring the structural integrity of epithelial tissues. In the gastrointestinal tract, they play a key role in preventing mechanical separation of epithelial cells during digestion.",
+            "wrongAnswer_2": "Zonula adherens are characterized by their ability to allow direct communication between cells via connexons. In the gastrointestinal tract, they facilitate nutrient exchange between epithelial cells and the bloodstream.",
+            "wrongAnswer_3": "Gap junctions (nexus) function as selectively permeable barriers that control the movement of nutrients and hormones across epithelial layers. In the gastrointestinal tract, they regulate the absorption of nutrients from the gut lumen into the bloodstream.",
+            "wrongAnswer_4": "Hemidesmosomes anchor epithelial cells to the basement membrane, providing stability to the entire cellular structure. In the gastrointestinal tract, they ensure that the epithelial lining remains attached to the underlying connective tissue, preventing cell shedding into the gut lumen."
+          },
+          {
+            "question": "What is the functional significance of zonula adherens in epithelial tissues?",
+            "goodAnswer": "Zonula adherens (adherens junctions) act as a belt of rivets that stabilize epithelial cell-to-cell contacts over a wide area, preventing cell separation. They are composed of actin filaments and associated proteins, which contribute to overall tissue integrity.",
+            "wrongAnswer_1": "Zonula adherens function as temporary connections between epithelial cells, dissolving and reforming as needed for cell migration and tissue remodeling. They are primarily responsible for facilitating cell movement during wound healing.",
+            "wrongAnswer_2": "Zonula adherens act as selectively permeable channels that regulate the transport of ions and small molecules between cells. They control the passage of nutrients and waste products across epithelial layers.",
+            "wrongAnswer_3": "Zonula adherens produce and secrete adhesive proteins that bind epithelial cells to the basement membrane, anchoring them to the underlying connective tissue. They play a key role in maintaining cell polarity and tissue architecture.",
+            "wrongAnswer_4": "Zonula adherens act as pressure-sensitive receptors that detect mechanical stress on the epithelial surface. They signal the release of cytokines and growth factors, initiating repair processes in response to external stimuli."
+          },
+          {
+            "question": "Which type of intercellular junction is characterized by having a structure that forms a selectively permeable barrier between cells, and what is the clinical relevance of its function in the gastrointestinal tract?",
+            "goodAnswer": "Zonula occludens (tight junctions) form selectively permeable barriers by sealing intercellular spaces. In the gastrointestinal tract, tight junctions prevent uncontrolled absorption and regulate nutrient transport.",
+            "wrongAnswer_1": "Macula adherens (desmosomes) form selectively permeable barriers by adhering cells together. In the gastrointestinal tract, desmosomes play a key role in nutrient absorption by forming open channels between epithelial cells.",
+            "wrongAnswer_2": "Zonula adherens (intermediate junctions) form selectively permeable barriers by linking actin filaments. In the gastrointestinal tract, zonula adherens facilitate the transport of large molecules, including proteins and lipids, into the bloodstream.",
+            "wrongAnswer_3": "Nexus (gap junctions) form selectively permeable barriers by allowing direct communication between cells. In the gastrointestinal tract, gap junctions regulate the movement of hormones and neurotransmitters across epithelial layers.",
+            "wrongAnswer_4": "Hemidesmosomes anchor epithelial cells to the basement membrane. In the gastrointestinal tract, they prevent cell detachment and maintain the structural integrity of the mucosal lining."
+          }
+        ]
+      },
+      {
+        "title": "Exocrine and endocrine glands of secretory epithelium",
+        "quizzes": [
+          {
+            "question": "What are the functions of tight junctions in epithelial cells?",
+            "goodAnswer": "Tight junctions form a permeability barrier by regulating the passage of molecules between cells, preventing the movement of substances through the intercellular space, and holding cells together.",
+            "wrongAnswer_1": "Tight junctions function to facilitate diffusion of large molecules between cells, expanding the paracellular pathway for nutrient exchange.",
+            "wrongAnswer_2": "They act as communication channels, allowing for the direct passage of ions and small molecules between cells, similar to gap junctions.",
+            "wrongAnswer_3": "Tight junctions primarily serve to separate cells without affecting permeability, as their main role is to provide structural support rather than control transport.",
+            "wrongAnswer_4": "They are responsible for anchoring epithelial cells to the basement membrane, similar to hemidesmosomes."
+          },
+          {
+            "question": "Which statement correctly describes the difference between regulated and constitutive secretion?",
+            "goodAnswer": "Regulated secretion involves accumulating secretory granules that are released upon stimulation, while constitutive secretion continuously releases secretory products in small vesicles.",
+            "wrongAnswer_1": "Regulated secretion continuously releases secretory products in small vesicles, while constitutive secretion involves accumulating secretory granules that are released upon stimulation.",
+            "wrongAnswer_2": "Both regulated and constitutive secretion involve accumulating secretory granules that are released upon stimulation.",
+            "wrongAnswer_3": "Regulated secretion involves accumulating secretory granules and releasing them directly into the bloodstream, while constitutive secretion releases products into ducts.",
+            "wrongAnswer_4": "Constitutive secretion involves accumulating secretory granules that are released upon stimulation, and it is the primary mode of secretion in endocrine glands."
+          },
+          {
+            "question": "Which type of intercellular junction is characterized by spot-like adhesions that provide strong attachment and is linked to intermediate filaments?",
+            "goodAnswer": "Macula adherens (Desmosomes)",
+            "wrongAnswer_1": "Zonula adherens (Adherens junctions)",
+            "wrongAnswer_2": "Zonula occludens (Tight junctions)",
+            "wrongAnswer_3": "Nexus (Gap junctions)",
+            "wrongAnswer_4": "Hemidesmosomes"
+          },
+          {
+            "question": "What is the primary function of the basal lamina in epithelial tissues?",
+            "goodAnswer": "The basal lamina serves as a selective barrier between the epithelium and underlying connective tissue, providing structural support and regulating cell behavior.",
+            "wrongAnswer_1": "The basal lamina is responsible for producing new epithelial cells, serving as a source of stem cells for tissue regeneration.",
+            "wrongAnswer_2": "The basal lamina functions as a direct conduit for nutrient and waste exchange between the epithelium and blood vessels in connective tissue.",
+            "wrongAnswer_3": "The basal lamina acts as a storage depot for growth factors and cytokines, regulating gene expression in epithelial cells.",
+            "wrongAnswer_4": "The basal lamina plays a key role in synthesizing collagen and elastin fibers, which provide flexibility to the epithelial layer."
+          },
+          {
+            "question": "How do tight junctions, adherens junctions, and desmosomes contribute to the overall structure and function of epithelial tissues?",
+            "goodAnswer": "Tight junctions (zonula occludens) form permeability barriers, adherens junctions (zonula adherens) provide adhesion, and desmosomes (macula adherens) act as anchoring junctions. Tight junctions are located apically and regulate paracellular transport. Adherens junctions associate with actin filaments, forming adhesion belts. Desmosomes involve intermediate filaments and provide strong attachment between cells. These junctions work together to maintain epithelial integrity.",
+            "wrongAnswer_1": "Tight junctions, adherens junctions, and desmosomes are all forms of communicating junctions that facilitate the direct exchange of ions and small molecules between epithelial cells, enabling coordinated physiological responses.",
+            "wrongAnswer_2": "Tight junctions (zonula adherens) function in cell signaling rather than forming permeability barriers, while adherens junctions (zonula occludens) provide structural support by binding to microtubules. Desmosomes, on the other hand, are responsible for producing enzymes that aid in nutrient absorption.",
+            "wrongAnswer_3": "Desmosomes, also known as gap junctions, allow for the free passage of proteins and hormones between epithelial cells, facilitating nutrient exchange and waste removal.",
+            "wrongAnswer_4": "Tight junctions function by forming temporary bonds between cells and break down upon stimulation, while adherens junctions induce the synthesis of collagen to enhance cell adhesion. Desmosomes play no role in maintaining cell-to-cell contact and are primarily involved in regulating gene expression."
+          },
+          {
+            "question": "Which of the following statements correctly describes the difference between exocrine and endocrine glands?",
+            "goodAnswer": "Exocrine glands secrete products into ducts, while endocrine glands release hormones directly into the bloodstream.",
+            "wrongAnswer_1": "Exocrine glands release hormones into the bloodstream, while endocrine glands secrete products into ducts.",
+            "wrongAnswer_2": "Both exocrine and endocrine glands lack ducts and release their secretions directly into the bloodstream.",
+            "wrongAnswer_3": "Exocrine glands produce only enzymes, while endocrine glands synthesize proteins and lipids for cellular growth.",
+            "wrongAnswer_4": "Endocrine glands have a system of ducts that transports hormones to target organs, while exocrine glands release substances into the bloodstream."
+          },
+          {
+            "question": "Which of the following is NOT a function of basement membranes in epithelial tissues?",
+            "goodAnswer": "Basement membranes are responsible for producing hormones that regulate epithelial cell proliferation and differentiation\u200b",
+            "wrongAnswer_1": "Basement membranes act as a selective barrier between epithelium and underlying connective tissue\u200b",
+            "wrongAnswer_2": "Basement membranes provide structural support and attachment for epithelial layers\u200b",
+            "wrongAnswer_3": "Basement membranes participate in tissue regeneration by serving as a scaffold for cell migration and proliferation\u200b",
+            "wrongAnswer_4": "Basement membranes are involved in filtering and transporting molecules between epithelium and connective tissue\u200b"
+          },
+          {
+            "question": "Which type of intercellular junction is characterized by spot-like adhesions that provide strong attachment and is linked to intermediate filaments?",
+            "goodAnswer": "Macula adherens (desmosomes)",
+            "wrongAnswer_1": "Zonula adherens (adherens junctions)",
+            "wrongAnswer_2": "Zonula occludens (tight junctions)",
+            "wrongAnswer_3": "Nexus (gap junctions)",
+            "wrongAnswer_4": "Hemidesmosomes"
+          },
+          {
+            "question": "Which type of intercellular junction is characterized by spot-like adhesions that provide strong attachment and is linked to intermediate filaments?",
+            "goodAnswer": "Macula adherens (desmosomes)",
+            "wrongAnswer_1": "Zonula adherens (adherens junctions)",
+            "wrongAnswer_2": "Zonula occludens (tight junctions)",
+            "wrongAnswer_3": "Nexus (gap junctions)",
+            "wrongAnswer_4": "Hemidesmosomes"
+          },
+          {
+            "question": "Which intercellular junction functions as a selective permeability barrier by forming complete or partial fusion of the plasma membranes of adjacent cells?",
+            "goodAnswer": "Zonula occludens (tight junctions)",
+            "wrongAnswer_1": "Macula adherens (desmosomes)",
+            "wrongAnswer_2": "Zonula adherens (adherens junctions)",
+            "wrongAnswer_3": "Nexus (gap junctions)",
+            "wrongAnswer_4": "Hemidesmosomes"
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

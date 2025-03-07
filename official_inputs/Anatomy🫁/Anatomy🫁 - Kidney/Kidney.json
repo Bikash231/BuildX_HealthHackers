@@ -1,0 +1,17 @@
+{
+  "mainTopic": {
+    "title": "Kidney",
+    "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "subTopics": [
+      {
+        "title": "Gross anatomy of the kidney"
+      },
+      {
+        "title": "Nephrons"
+      },
+      {
+        "title": "Vasculature of the kidney"
+      }
+    ]
+  }
+}

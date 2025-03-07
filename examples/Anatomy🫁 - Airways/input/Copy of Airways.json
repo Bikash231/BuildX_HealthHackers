@@ -1,0 +1,26 @@
+{
+  "mainTopic": {
+    "title": "Airways",
+    "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "subTopics": [
+      {
+        "title": "The Nose and its Adjacent Structures"
+      },
+      {
+        "title": "Pharynx"
+      },
+      {
+        "title": "Larynx"
+      },
+      {
+        "title": "Trachea"
+      },
+      {
+        "title": "Bronchial tree"
+      },
+      {
+        "title": "Respiratory zone"
+      }
+    ]
+  }
+}

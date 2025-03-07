@@ -1,0 +1,340 @@
+{
+  "mainTopic": {
+    "title": "Hypersensitivies and autoimmune diseases",
+    "content_info": "",
+    "subTopics": [
+      {
+        "title": "Type I",
+        "quizzes": [
+          {
+            "question": "What is the most common manifestation of clinically relevant Type I hypersensitivity, and what are the typical mediators released during mast cell degranulation?",
+            "goodAnswer": "The most common manifestation is allergic rhinitis, and the mediators include histamine, chemotactic factors, and lipid mediators like PAF and arachidonic acid metabolites.",
+            "wrongAnswer_1": "The most common manifestation is asthma, and the mediators include serotonin, dopamine, and epinephrine.",
+            "wrongAnswer_2": "The most common manifestation is anaphylaxis, and the mast cells release only cytokines, not mediators.",
+            "wrongAnswer_3": "The most common manifestation is allergic rhinitis, but mast cells do not degranulate in Type I hypersensitivity.",
+            "wrongAnswer_4": "The only mediator released during mast cell degranulation is IgE antibody."
+          },
+          {
+            "question": "Which autoimmune disease involves immune complex-mediated tissue damage, leading to necrotizing vasculitis of small vessels?",
+            "goodAnswer": "Wegener's granulomatosis",
+            "wrongAnswer_1": "Hashimoto's thyroiditis",
+            "wrongAnswer_2": "Myasthenia gravis",
+            "wrongAnswer_3": "Goodpasture's syndrome",
+            "wrongAnswer_4": "Rheumatoid arthritis"
+          },
+          {
+            "question": "What is the core principle behind allogeneic bone marrow transplantation in treating autoimmune diseases, and how does it work in practice?",
+            "goodAnswer": "Allogeneic bone marrow transplantation replaces the patient's immune system with a healthy one. It works by first subjecting the patient to myeloablative chemotherapy and radiation to wipe out their immune system. Then, healthy bone marrow is transplanted, which engrafts and generates a new immune system that is tolerant to the transplanted tissue.",
+            "wrongAnswer_1": "Allogeneic bone marrow transplantation works by directly injecting antigen into the bloodstream, which stimulates the immune system to produce antibodies that target the autoimmune disease. This induced immune response then eliminates the source of inflammation and leads to disease resolution.",
+            "wrongAnswer_2": "In allogeneic bone marrow transplantation, we directly transplant T cells from a donor into the recipient's bloodstream. These T cells then home to the target organ, such as the pancreas in type 1 diabetes, and suppress the autoimmune response by producing regulatory cytokines like IL-10 and TGF-\u03bb.",
+            "wrongAnswer_3": "Allogeneic bone marrow transplantation involves infusing the patient with genetically modified lymphocytes that have been pre-programmed to recognize and destroy only the cells responsible for the autoimmune disease. This targeted destruction of immune cells leads to a reduction in inflammation and clinical improvement.",
+            "wrongAnswer_4": "In allogeneic bone marrow transplantation, we use high-dose steroids to temporarily suppress the immune system before transplanting donor bone marrow. This allows the body to accept the new marrow without rejection, and over time, the steroid dosage is gradually reduced until the immune system fully stabilizes."
+          },
+          {
+            "question": "In the context of immune-mediated tissue injury, what are the characteristics of Type III hypersensitivity, and what are some prototype disorders associated with it?",
+            "goodAnswer": "Type III hypersensitivity is characterized by immune complex deposition in blood vessels or extravascular tissues. Prototype disorders include post-streptococcal glomerulonephritis and vasculitis (polyarteritis nodosa).",
+            "wrongAnswer_1": "Type III hypersensitivity occurs when T lymphocytes are activated by antigen presentation, leading to macrophage activation and the release of inflammatory mediators. Prototype disorders include poison ivy dermatitis and tuberculosis.",
+            "wrongAnswer_2": "Type III hypersensitivity involves the production of IgE antibodies that bind to mast cells and release histamine upon antigen exposure, causing localized or systemic reactions. Examples include allergic rhinitis, asthma, and anaphylaxis.",
+            "wrongAnswer_3": "It is characterized by IgG binding to target cells, leading to cytotoxic action or complement activation. Prototype disorders include hemolytic reactions, Goodpasture's syndrome, myasthenia gravis, and Grave's disease.",
+            "wrongAnswer_4": "Type III hypersensitivity involves a direct attack of cytotoxic T lymphocytes on target cells without the involvement of antibodies or complement activation. It is typically seen in contact dermatitis and graft rejection."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of Type III hypersensitivity (immune complex disease)?",
+            "goodAnswer": "It involves direct T cell activation leading to macrophage activation and release of inflammatory mediators",
+            "wrongAnswer_1": "It involves IgG binding to target cells, resulting in cytotoxic action or complement activation",
+            "wrongAnswer_2": "It involves antigen binding to mast cells, leading to degranulation and release of histamine and other pro-inflammatory mediators",
+            "wrongAnswer_3": "It involves antibody binding to antigens and subsequent deposition of these complexes in tissues, leading to complement activation and inflammatory cell recruitment",
+            "wrongAnswer_4": "It involves sensitization of B cells by antigen presentation, followed by production of specific antibodies that form immune complexes upon re-exposure to the antigen"
+          },
+          {
+            "question": "What are the typical findings upon histological examination of a tissue affected by immune complex-mediated injury, and what is the primary cell type involved in this process?",
+            "goodAnswer": "Fibrinoid necrosis, hemorrhage, and neutrophils; neutrophils",
+            "wrongAnswer_1": "Thrombocytopenia, anemia, and macrophages; macrophages",
+            "wrongAnswer_2": "Lymphocyte-predominant inflammation with occasional mast cell degranulation; lymphocytes",
+            "wrongAnswer_3": "Eosinophilic infiltration with minimal vascular changes; eosinophils",
+            "wrongAnswer_4": "Dense fibrosis and lack of inflammatory cells; fibroblasts"
+          }
+        ]
+      },
+      {
+        "title": "Type II",
+        "quizzes": [
+          {
+            "question": "What are the primary mediators released by mast cells upon degranulation in Type I hypersensitivity reactions, and what are their respective roles in inducing inflammation and tissue damage?",
+            "goodAnswer": "Mast cells release histamine (causing vasodilation and bronchoconstriction), heparin (an anticoagulant), and chemotactic factors (recruiting leukocytes), along with enzymes like tryptase and chymase, which contribute to tissue damage.",
+            "wrongAnswer_1": "Mast cells release serotonin (which induces platelet aggregation), epinephrine (a bronchodilator), and angiotensin II (causing vasoconstriction), along with cytokines like IL-10 and TGF-\u03b2 (suppressing inflammation).",
+            "wrongAnswer_2": "Mast cells release norepinephrine (which inhibits mast cell degranulation), dopamine (a neurotransmitter), and glycoproteins (for leukocyte adhesion), along with arachidonic acid metabolites such as prostacyclin (a bronchodilator).",
+            "wrongAnswer_3": "Mast cells release cortisol (an anti-inflammatory hormone), adenosine (a vasodilator), and lipoproteins (for immune suppression), along with histamine (which induces airway relaxation).",
+            "wrongAnswer_4": "Mast cells release thyroxine (T4), triiodothyronine (T3), and gonadotropin-releasing hormone (GnRH), along with cytokines like IL-12 and IL-2 (suppressing B cell activation)."
+          },
+          {
+            "question": "Which autoimmune disease is associated with the following: genetic predisposition (HLA-DR3, HLA-DR4 haplotypes), environmental trigger (viral infection), and a specific immune response (T cell-mediated destruction of pancreatic beta cells)?",
+            "goodAnswer": "Type 1 diabetes (formerly known as juvenile diabetes or insulin-dependent diabetes), is associated with HLA-DR3, HLA-DR4 haplotypes, environmental triggers like viral infections, and T cell-mediated destruction of pancreatic beta cells.",
+            "wrongAnswer_1": "Goodpasture's syndrome is characterized by autoantibodies against the basement membrane of the kidney and lung, leading to glomerulonephritis and alveolar hemorrhage.",
+            "wrongAnswer_2": "Myasthenia gravis involves autoantibodies against acetylcholine receptors at the neuromuscular junction, resulting in muscle weakness.",
+            "wrongAnswer_3": "Hashimoto's thyroiditis is an autoimmune disease targeting the thyroid gland, leading to hypothyroidism due to lymphocytic infiltration and destruction of thyroid follicles.",
+            "wrongAnswer_4": "Rheumatoid arthritis occurs when the immune system attacks the lining of joints, causing inflammation and pain."
+          },
+          {
+            "question": "What are the principle immune mechanisms involved in Type II ( cytotoxic ) hypersensitivity reactions, and what are the potential cytotoxic consequences of such reactions?",
+            "goodAnswer": "IgG antibodies bind to target cells, leading to activation of complement, opsonization, or direct cell lysis by NK cells (ADCC). This can result in hemolytic anemia, thrombocytopenia, or tissue injury.",
+            "wrongAnswer_1": "IgE antibodies bind to mast cells, resulting in degranulation and release of histamine and other pro-inflammatory mediators, leading to airway obstruction, vasodilation, and smooth muscle contraction, which can cause symptoms like allergic rhinitis, asthma, and anaphylaxis.",
+            "wrongAnswer_2": "T lymphocytes recognize and bind antigens on antigen-presenting cells, leading to cytokine release (IL-2, IFN-\u03b3) and macrophage activation. This results in delayed hypersensitivity reactions, such as contact dermatitis from poison ivy or the tuberculin skin test.",
+            "wrongAnswer_3": "Immune complexes formed by antigen-antibody reactions deposit in small vessels and tissues, leading to complement activation, neutrophil recruitment, and release of lysosomal enzymes, causing vascular occlusion, fibrin deposition, and tissue damage, as seen in post-streptococcal glomerulonephritis or systemic lupus erythematosus.",
+            "wrongAnswer_4": "Mast cells bind to allergen-specific IgE antibodies, which then causes degranulation and release of mediators like histamine, leukotrienes, and prostaglandins. This leads to airway hyperresponsiveness, vascular permeability, and eosinophil recruitment, resulting in clinical manifestations of atopy and asthma."
+          },
+          {
+            "question": "In which of the following diseases does IgG autoantibody production lead to the characteristic clinical findings?",
+            "goodAnswer": "Myasthenia gravis, Goodpasture's syndrome, and autoimmune hemolytic anemia",
+            "wrongAnswer_1": "Crohn's disease, ulcerative colitis, and Hashimoto's thyroiditis",
+            "wrongAnswer_2": "Multiple sclerosis, systemic lupus erythematosus, and rheumatoid arthritis",
+            "wrongAnswer_3": "Type 1 diabetes, celiac disease, and primary biliary cholangitis",
+            "wrongAnswer_4": "Scleroderma, polyarteritis nodosa, and Wegener's granulomatosis"
+          },
+          {
+            "question": "What are the possible consequences of systemic anaphylaxis, and how do these consequences arise from the release of mast cell mediators?",
+            "goodAnswer": "Systemic anaphylaxis can lead to widespread vasodilation, bronchoconstriction, and platelet aggregation due to the release of histamine, leukotrienes, and prostaglandins, resulting in hypotension, airway obstruction, and thrombosis.",
+            "wrongAnswer_1": "Systemic anaphylaxis causes localized tissue necrosis, leading to chronic pain but without affecting blood pressure, respiration, or platelet function.",
+            "wrongAnswer_2": "Anaphylaxis induces mast cells to release only cytokines like IL-4 and IL-5, resulting in fever and fatigue without significant vascular or airway changes.",
+            "wrongAnswer_3": "The effects of systemic anaphylaxis are neutralized by immediate neutrophil activation, which rapidly clears mast cell mediators from the bloodstream.",
+            "wrongAnswer_4": "Vasodilation, bronchoconstriction, and platelet inhibition occur due to the release of dopamine and serotonin rather than mast cell mediators."
+          },
+          {
+            "question": "Which of the following statements accurately describes the immune pathogenesis of Goodpasture's syndrome?",
+            "goodAnswer": "Goodpasture's syndrome is a type II cytotoxic hypersensitivity disorder in which IgG antibodies target the basement membrane of the kidney and lung alveoli, leading to immune complex deposition and complement activation, resulting in tissue damage.",
+            "wrongAnswer_1": "Goodpasture's syndrome occurs when IgM antibodies are produced against collagen in the basement membrane of blood vessels, causing widespread vasculitis and organ damage.",
+            "wrongAnswer_2": "In Goodpasture's syndrome, T cells become sensitized to gluten proteins, leading to the destruction of intestinal epithelial cells and the development of chronic diarrhea and weight loss.",
+            "wrongAnswer_3": "Goodpasture's syndrome is characterized by an autoimmune attack on the myelin sheath of nerve fibers, causing demyelination and leading to neurological symptoms such as weakness, numbness, and vision problems.",
+            "wrongAnswer_4": "It is a T cell-mediated disease in which macrophages infiltrate the basement membrane of the skin, causing blistering and epidermal separation. This leads to pain, swelling, and fluid-filled vesicles."
+          },
+          {
+            "question": "Which type of hypersensitivity reaction is characterized by delayed immune response with macrophage activation and release of inflammatory mediators?",
+            "goodAnswer": "Type IV (cell-mediated) hypersensitivity",
+            "wrongAnswer_1": "Type I (anaphylactic) hypersensitivity",
+            "wrongAnswer_2": "Type II (cytotoxic) hypersensitivity",
+            "wrongAnswer_3": "Type III (immune complex-mediated) hypersensitivity",
+            "wrongAnswer_4": "All of the above hypersensitivity reactions involve macrophage activation upon antigen binding"
+          }
+        ]
+      },
+      {
+        "title": "Type III",
+        "quizzes": [
+          {
+            "question": "What is the primary mediator responsible for smooth muscle contraction and increased vascular permeability in Type I hypersensitivity reactions?",
+            "goodAnswer": "Histamine, released from mast cell degranulation, causes vasodilation, smooth muscle contraction, and increases vascular permeability. It is the primary mediator responsible for these physiological changes in Type I hypersensitivity reactions.",
+            "wrongAnswer_1": "Leukotriene B4 (LTB4) is a chemoattractant for neutrophils and macrophages, playing a role in recruiting inflammatory cells to the site of allergen exposure.",
+            "wrongAnswer_2": "Eosinophils, while participating in Type I reactions, primarily release cytotoxic mediators like Major Basic Protein (MBP) and reactive oxygen species (ROS) rather than causing smooth muscle contraction or vascular permeability.",
+            "wrongAnswer_3": "TNF-alpha, IL-4, IL-5, and IL-6 are pro-inflammatory cytokines secreted by activated T cells to enhance the immune response by stimulating B cell activation and mast cell degranulation.",
+            "wrongAnswer_4": "Platelet-activating factor (PAF) is released by platelets upon activation and induces smooth muscle contraction, but it is not a primary mediator in mast cell degranulation, making it incorrect in this context."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of the mediators released by mast cells in Type I hypersensitivity?",
+            "goodAnswer": "Mast cells release histamine, serotonin, and prostaglandins, but not cytokines like IL-4, IL-5, and TNF-alpha, which are primarily secreted by T lymphocytes and macrophages.",
+            "wrongAnswer_1": "Mast cell mediators include histamine, which causes vasodilation and smooth muscle contraction.",
+            "wrongAnswer_2": "Leukotrienes (LTC4, LTD4, LTE4) induce airway smooth muscle contraction and vascular permeability.",
+            "wrongAnswer_3": "Cytokines IL-3, IL-4, and IL-5 are released by mast cells to stimulate granulocyte and monocyte colony-stimulating factor (GM-CSF), TNF-alpha, and inflammatory cell activation.",
+            "wrongAnswer_4": "Mast cells release chemotactic factors that attract neutrophils, eosinophils, and macrophages to the site of inflammation."
+          },
+          {
+            "question": "What are the possible clinical manifestations of systemic immune complex disease, and what factors determine the severity of the symptoms?",
+            "goodAnswer": "Clinical manifestations depend on the target organ and deposition site of the immune complexes. Severity is determined by the amount of immune complexes formed, their size, and the rate of formation.",
+            "wrongAnswer_1": "Systemic immune complex disease always presents with fever, fatigue, and weight loss, without organ-specific symptoms.",
+            "wrongAnswer_2": "Only T cell activation is involved in the pathogenesis of immune complex disease, and B cells play no role in antigen recognition or antibody production.",
+            "wrongAnswer_3": "Immune complexes are only deposited in the liver and spleen, as these organs filter all foreign particles from the bloodstream.",
+            "wrongAnswer_4": "The severity of immune complex disease is solely determined by the age and genetic predisposition of the individual, rather than the factors mentioned above."
+          },
+          {
+            "question": "What are the characteristic features of immune complexes in Type III hypersensitivity reactions, and what is their significance in causing tissue damage?",
+            "goodAnswer": "Immune complexes form when antigen-antibody reactions occur in the bloodstream. These complexes can deposit in blood vessels, leading to complement activation, neutrophil adherence, and release of lysosomal enzymes, resulting in endothelial damage and thrombosis. The size and composition of the immune complexes, as well as the rate of complex formation and clearance, determine their overall effect on tissue injury.",
+            "wrongAnswer_1": "Immune complexes consist only of IgM antibodies and do not involve other immunoglobulin classes in their formation. They primarily deposit in the lymph nodes, where they are recognized by T cells, leading to direct cell death and reduced inflammation. The severity of immune complex deposition depends solely on the concentration of antigen in the bloodstream, while antibody levels have no influence on the process.",
+            "wrongAnswer_2": "Immune complexes are small clusters of antibodies that form in response to bacterial infections. These complexes circulate freely in the bloodstream without causing any significant tissue damage. They are rapidly cleared by macrophages, preventing them from accumulating in blood vessels. Therefore, immune complexes play no role in the pathogenesis of type III hypersensitivity.",
+            "wrongAnswer_3": "Immune complexes are large protein aggregates that form in response to viral infections. They primarily accumulate in the liver and spleen, where they induce B cell activation and cytokine release. This leads to increased production of IgE antibodies, which then bind to mast cells. Consequently, degranulation occurs, causing airway obstruction and allergic symptoms rather than vascular damage.",
+            "wrongAnswer_4": "Immune complexes consist of only T cells and macrophages and do not involve antibodies. They form in response to direct sunlight exposure, leading to increased cytokine production and mast cell activation. This results in skin inflammation, causing redness, swelling, and pain. The severity of the reaction depends on the duration of sunlight exposure, while immune complexes themselves have no direct role in causing tissue damage."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of the mediators released by mast cells in Type I hypersensitivity?",
+            "goodAnswer": "Mast cell mediators only function in IgE-dependent immune responses and do not participate in cell-mediated immunity.",
+            "wrongAnswer_1": "They include histamine, which causes vasodilation, smooth muscle contraction, and increases vascular permeability.",
+            "wrongAnswer_2": "Mast cells release arachidonic acid metabolites like LTC4, LTD4, and LTE4, which induce smooth muscle contraction and contribute to airway obstruction.",
+            "wrongAnswer_3": "One of the released mediators is PAF (platelet-activating factor), which activates phagocytic cells and induces smooth muscle contraction.",
+            "wrongAnswer_4": "The mediators released by mast cells can directly induce B cell activation and antibody production without the involvement of T cells."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of the mediators released by mast cells in Type I hypersensitivity?",
+            "goodAnswer": "Mast cell mediators always induce systemic, rather than local, effects in immune response",
+            "wrongAnswer_1": "They can induce smooth muscle contraction, increase vascular permeability, and recruit inflammatory cells",
+            "wrongAnswer_2": "Histamine is a major mediator that causes vasodilation, smooth muscle contraction, and increased vascular permeability",
+            "wrongAnswer_3": "Chemotactic factors attract neutrophils, eosinophils, and macrophages to the site of inflammation",
+            "wrongAnswer_4": "Cytokines such as IL-4, IL-5, and TNF-&alpha; regulate immune cell activation and inflammation"
+          },
+          {
+            "question": "Why is desensitization therapy effective in reducing allergic reactions?",
+            "goodAnswer": "Desensitization therapy works by inducing IgG production against the allergen, which then blocks IgE binding to mast cells and prevents degranulation. This leads to a decreased allergic reaction.",
+            "wrongAnswer_1": "Desensitization therapy works by increasing the release of histamine, which counteracts the effects of other inflammatory mediators and reduces allergic symptoms.",
+            "wrongAnswer_2": "It works by suppressing the immune system completely, preventing both allergic and immune responses.",
+            "wrongAnswer_3": "Desensitization therapy involves regular injections of corticosteroids, which directly inhibit mast cell degranulation and reduce allergic reactions.",
+            "wrongAnswer_4": "It works by stimulating the production of pro-inflammatory cytokines, which then suppresses the allergic response in the long term."
+          },
+          {
+            "question": "Which type of hypersensitivity reaction is characterized by mast cell degranulation upon allergen binding, leading to the release of inflammatory mediators such as histamine, leukotrienes, and cytokines?",
+            "goodAnswer": "Type I hypersensitivity",
+            "wrongAnswer_1": "Type II hypersensitivity",
+            "wrongAnswer_2": "Type III hypersensitivity",
+            "wrongAnswer_3": "Type IV hypersensitivity",
+            "wrongAnswer_4": "T cell-mediated cytotoxicity"
+          }
+        ]
+      },
+      {
+        "title": "Type IV",
+        "quizzes": [
+          {
+            "question": "What is the clinical presentation of Type III (immune complex) hypersensitivity disorders?",
+            "goodAnswer": "Symptoms depend on the site of immune complex deposition; for example, glomerulonephritis occurs with immune complex deposition in the kidneys, and vasculitis arises from deposition in blood vessels.",
+            "wrongAnswer_1": "Immune complex hypersensitivity disorders always present with systemic necrotizing angiopathy, leading to widespread organ damage.",
+            "wrongAnswer_2": "It is characterized by mast cell activation and degranulation, causing immediate hypersensitivity reactions.",
+            "wrongAnswer_3": "T cell activation and macrophage infiltration lead to delayed hypersensitivity, resulting in granulomatous inflammation.",
+            "wrongAnswer_4": "IgG antibodies directly bind to cell membrane receptors, causing cytotoxic action without complement activation."
+          },
+          {
+            "question": "Which of the following is NOT a prototype disorder associated with the respective type of hypersensitivity reaction?",
+            "goodAnswer": "Type II: Systemic lupus erythematosus (SLE)",
+            "wrongAnswer_1": "Type I: Allergic rhinitis, asthma, and anaphylaxis",
+            "wrongAnswer_2": "Type II: Hemolytic anemia, Goodpasture's syndrome, and Myasthenia gravis",
+            "wrongAnswer_3": "Type III: Post-streptococcal glomerulonephritis and vasculitis",
+            "wrongAnswer_4": "Type IV: Contact dermatitis (e.g., poison ivy) and tuberculosis"
+          },
+          {
+            "question": "How do mast cells contribute to the pathogenesis of Type I hypersensitivity reactions?",
+            "goodAnswer": "Mast cells bind IgE antibodies via Fc receptors, and upon antigen exposure, they degranulate, releasing mediators such as histamine, chemotactic factors, and cytokines, leading to vascular permeability, bronchoconstriction, and recruitment of inflammatory cells.",
+            "wrongAnswer_1": "Mast cells release preformed mediators only after T helper cells directly activate them without the need for IgE antibodies.",
+            "wrongAnswer_2": "Mast cells produce antibodies themselves upon antigen exposure, which then bind to various immune cells, causing systemic inflammation.",
+            "wrongAnswer_3": "Mast cells directly recognize antigens without requiring IgE and release mediators only in response to macrophage activation.",
+            "wrongAnswer_4": "Mast cells, when degranulating, produce high levels of corticosteroids, which suppress the inflammatory response and protect tissues from damage."
+          },
+          {
+            "question": "What are the possible effects of the mediators released by mast cells in Type I hypersensitivity reactions?",
+            "goodAnswer": "Increased vascular permeability, airway smooth muscle contraction, and recruitment of inflammatory cells like neutrophils and eosinophils\u200b",
+            "wrongAnswer_1": "Mast cells do not release mediators; they directly kill bacteria upon antigen binding",
+            "wrongAnswer_2": "They cause platelet aggregation and inhibit leukocyte migration into tissues",
+            "wrongAnswer_3": "Their primary effect is to decrease vascular permeability, leading to fluid retention",
+            "wrongAnswer_4": "Released mediators only act on B cells and do not affect airway cells or neutrophils"
+          }
+        ]
+      },
+      {
+        "title": "Allergy and atopy",
+        "quizzes": [
+          {
+            "question": "What is the primary mechanism of action for corticosteroids in alleviating symptoms of hypersensitivity reactions?",
+            "goodAnswer": "Corticosteroids decrease mast cell degranulation, reduce cytokine release from macrophages, and inhibit leukotriene production.",
+            "wrongAnswer_1": "Corticosteroids block Fc receptors on mast cells, preventing IgE binding and subsequent degranulation.",
+            "wrongAnswer_2": "Corticosteroids directly neutralize histamine and other preformed mediators before they can exert their effects.",
+            "wrongAnswer_3": "Corticosteroids stimulate the release of anti-inflammatory cytokines such as IL-10, suppressing immune complex formation.",
+            "wrongAnswer_4": "Corticosteroids induce T-cell apoptosis, preventing the release of inflammatory mediators and promoting immune tolerance."
+          },
+          {
+            "question": "Which of the following mediators is primarily released by mast cells in response to allergen binding, leading to vasodilation and smooth muscle contraction in type I hypersensitivity reactions?",
+            "goodAnswer": "Histamine, LTC4, LTD4, LTB4, and prostaglandins (PGE2, PGD2) are released by mast cells upon allergen binding, causing vasodilation and smooth muscle contraction in type I hypersensitivity reactions.",
+            "wrongAnswer_1": "IL-10, IL-12, and IL-15 are primarily released by macrophages and dendritic cells to suppress immune responses and inhibit mast cell activation.",
+            "wrongAnswer_2": "TNF-alpha, IL-6, and IL-8 are released by activated T lymphocytes and NK cells, playing a key role in recruiting neutrophils and monocytes to the site of inflammation.",
+            "wrongAnswer_3": "IFN-gamma, IL-2, and IL-12 are major mediators secreted by Th1 cells, which enhance cell-mediated immunity and suppress B cell IgE production.",
+            "wrongAnswer_4": "IL-4, IL-5, and IL-10 are cytokines produced by regulatory T cells (Treg), which suppress immune responses and prevent autoimmune reactions."
+          },
+          {
+            "question": "What are the possible clinical manifestations of immune complex disease, and what is the typical vascular pathology associated with it?",
+            "goodAnswer": "Clinical manifestations depend on the target organ and/or site of immune complex deposition, such as synovium (RA) or kidney (glomerulus - post-strep glomerulonephritis).\n\nTypical vascular pathology is vasculitis.",
+            "wrongAnswer_1": "Immune complex disease always leads to systemic lupus erythematosus, characterized by widespread tissue damage and immune dysregulation. Vascular pathology involves the erosion of vascular walls due to direct T cell cytotoxicity.",
+            "wrongAnswer_2": "It manifests as Goodpasture's syndrome, causing lung and kidney injury due to IgG binding to basement membranes. Vascular pathology is characterized by lymphocytic infiltration without complement activation.",
+            "wrongAnswer_3": "It only affects the skin, leading to atopic dermatitis. Immune complexes remain in the bloodstream and do not deposit in tissues, so there is no vascular pathology.",
+            "wrongAnswer_4": "It causes mast cell degranulation and the release of histamine and leukotrienes, leading to airway obstruction and smooth muscle contraction. Vascular pathology is not relevant in this type of hypersensitivity."
+          }
+        ]
+      },
+      {
+        "title": "Asthma",
+        "quizzes": [
+          {
+            "question": "What is the primary mechanism by which mast cells contribute to airway obstruction in asthma?",
+            "goodAnswer": "Mast cells degranulate upon allergen exposure, releasing histamine, leukotrienes, and cytokines that cause bronchoconstriction, mucosal edema, and mucus production, leading to airway obstruction.",
+            "wrongAnswer_1": "Mast cells release anti-inflammatory mediators such as IL-10 and TGF-beta, which prevent airway obstruction and maintain normal lung function.",
+            "wrongAnswer_2": "Mast cells directly induce apoptosis of airway smooth muscle cells, resulting in airway dilation and improved airflow.",
+            "wrongAnswer_3": "Mast cells secrete high levels of corticosteroids, which inhibit the release of histamine and leukotrienes, thereby preventing airway obstruction.",
+            "wrongAnswer_4": "Mast cells play no role in airway obstruction, as their primary function is to regulate immune tolerance, not contribute to inflammatory responses."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of type III (immune complex) hypersensitivity reactions?",
+            "goodAnswer": "They typically involve cytotoxic T lymphocytes (CTLs) in immune-complex mediated cell destruction\u200b",
+            "wrongAnswer_1": "Antigen-antibody complexes form and deposit in tissues, leading to inflammation and damage\u200b",
+            "wrongAnswer_2": "Immune complexes activate the complement system, attracting neutrophils and macrophages\u200b",
+            "wrongAnswer_3": "Fibrin deposition occurs at sites of immune complex accumulation, contributing to tissue injury\u200b",
+            "wrongAnswer_4": "Prototype disorders include post-streptococcal glomerulonephritis and vasculitis (polyarteritis nodosa)\u200b"
+          },
+          {
+            "question": "What are the primary mediators released by mast cells that contribute to the pathophysiology of immediate hypersensitivity reactions?",
+            "goodAnswer": "Histamine, leukotrienes (LTC4, LTD4, LTE4), and prostaglandins (PGE2, PGD2) induce vasodilation, smooth muscle contraction, and leukocyte recruitment, amplifying the inflammatory response.",
+            "wrongAnswer_1": "Mast cells release only preformed mediators like histamine and serotonin, without producing leukotrienes or prostaglandins.",
+            "wrongAnswer_2": "The primary mediators released by mast cells are cytokines such as IL-2, IL-5, and IFN-\u03b3, which stimulate T cell proliferation and macrophage activation.",
+            "wrongAnswer_3": "Mast cells release only chemokines, including CXCL8 (IL-8) and CCL3 (MIP-1\u03b1), to attract neutrophils and macrophages, without affecting vascular permeability or smooth muscle tone.",
+            "wrongAnswer_4": "Histamine, leukotrienes, and prostaglandins are released by T lymphocytes rather than mast cells and serve to suppress immune activation and reduce inflammation."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of type II (cytotoxic) hypersensitivity reactions?",
+            "goodAnswer": "It involves the release of histamine and other vasoactive mediators from mast cells",
+            "wrongAnswer_1": "It involves IgG binding to target cells, leading to cell destruction or complement activation",
+            "wrongAnswer_2": "It can result in hemolytic anemia when antibodies target red blood cell membrane antigens",
+            "wrongAnswer_3": "It can involve antibody-dependent cell-mediated cytotoxicity (ADCC) by natural killer (NK) cells",
+            "wrongAnswer_4": "It is mediated by the direct cytotoxic effects of antibodies and complement activation on the target tissue"
+          },
+          {
+            "question": "How does the genetic predisposition of atopy influence immune responses in allergic individuals?",
+            "goodAnswer": "Atopic individuals have a genetically determined tendency to produce IgE antibodies in response to common allergens, leading to mast cell sensitization and clinical symptoms upon allergen exposure.",
+            "wrongAnswer_1": "Atopic individuals have a genetically determined deficiency in regulatory T cells (Tregs), resulting in uncontrolled immune activation and widespread inflammation.",
+            "wrongAnswer_2": "Atopic individuals produce only IgG antibodies in response to allergens, which directly damage airway epithelial cells without mast cell activation.",
+            "wrongAnswer_3": "Atopic individuals have a genetically determined resistance to developing clinical symptoms despite high levels of allergen exposure, due to naturally occurring immune suppression.",
+            "wrongAnswer_4": "Atopic individuals produce only IgM antibodies in response to allergens, resulting in immediate desensitization and protection against future exposures."
+          }
+        ]
+      },
+      {
+        "title": "Autoimmune diseases - Type I diabetes",
+        "quizzes": [
+          {
+            "question": "What are the possible clinical manifestations of immune complex disease, and how do they present in different organs?",
+            "goodAnswer": "Clinical manifestations depend on the target organ and the site of immune complex deposition, ranging from systemic arteritis due to immune complexes forming in the blood, to glomerulonephritis in the kidneys, and hypersensitivity pneumonitis in the lungs.",
+            "wrongAnswer_1": "Immune complex disease always presents with generalized urticaria, affecting all organs equally and causing widespread skin eruptions, rather than organ-specific symptoms.",
+            "wrongAnswer_2": "The symptoms are determined only by the amount of antibody produced, not the organ targeted. All patients will experience fever, fatigue, and weight loss, regardless of where the complexes deposit.",
+            "wrongAnswer_3": "Immune complexes only deposit in the lymph nodes, where they are cleared by macrophages, so clinical manifestations do not involve specific organs but rather present as generalized lymphadenopathy.",
+            "wrongAnswer_4": "Not all immune complexes are pathogenic. Only those formed against bacterial toxins will cause clinical symptoms, while complexes against viruses are rapidly catabolized, preventing tissue damage."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of the systemic immune complex disease in Type III hypersensitivity?",
+            "goodAnswer": "Immune complexes are primarily T cell mediated in systemic immune complex disease",
+            "wrongAnswer_1": "Clinical presentation depends on the target organ and immune complex deposition",
+            "wrongAnswer_2": "Foreign antigen injected IV induces antibody production and circulating immune complexes",
+            "wrongAnswer_3": "Complexes deposit in tissues, leading to arteritis or glomerulonephritis",
+            "wrongAnswer_4": "It is also known as the cytotoxic type of hypersensitivity"
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of the cytotoxic (Type II) hypersensitivity reaction?",
+            "goodAnswer": "It is mediated by mast cell degranulation and the release of histamine and other inflammatory mediators.",
+            "wrongAnswer_1": "It involves IgG antibodies binding to target cells, leading to cell destruction or complement activation.",
+            "wrongAnswer_2": "It can occur in hemolytic anemia, Goodpasture's syndrome, or autoimmune thrombocytopenia.",
+            "wrongAnswer_3": "It involves the direct killing of cells by antibody-dependent cell-mediated cytotoxicity (ADCC).",
+            "wrongAnswer_4": "It can be triggered by drug-induced immune reactions, resulting in leukopenia or thrombocytopenia."
+          },
+          {
+            "question": "What is the direct effect of mast cell degranulation in type I hypersensitivity?",
+            "goodAnswer": "Degranulation leads to the release of histamine, which increases vascular permeability, causing vasodilation and smooth muscle contraction. Chemotactic factors and cytokines are also released, attracting other immune cells and amplifying the inflammatory response.",
+            "wrongAnswer_1": "Mast cell degranulation results in the immediate release of only histamine, which causes widespread vasoconstriction and prevents leukocyte migration to the affected area, effectively blocking inflammation.",
+            "wrongAnswer_2": "Degranulation leads to the release of cytotoxic T lymphocytes (CTLs) instead of chemical mediators, directly killing target cells and causing cell lysis without affecting vascular permeability or smooth muscle function.",
+            "wrongAnswer_3": "Mast cell degranulation only releases pre-formed antibodies that bind to pathogens and neutralize them without affecting blood vessels or causing smooth muscle contraction.",
+            "wrongAnswer_4": "Degranulation causes the release of growth factors that promote tissue repair and angiogenesis, effectively counteracting the inflammatory effects of immune complexes and preventing symptoms of allergy."
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

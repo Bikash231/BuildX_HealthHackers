@@ -1,0 +1,386 @@
+{
+  "mainTopic": {
+    "title": "Accessory digestive organs",
+    "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "subTopics": [
+      {
+        "title": "The salivary glands",
+        "quizzes": [
+          {
+            "question": "Which of the following peritoneal folds is responsible for attaching the liver to the lesser curvature of the stomach?",
+            "goodAnswer": "Lesser omentum",
+            "wrongAnswer_1": "Greater omentum",
+            "wrongAnswer_2": "Falciform ligament",
+            "wrongAnswer_3": "Mesentery proper",
+            "wrongAnswer_4": "Mesocolon"
+          },
+          {
+            "question": "How does the falciform ligament and ligamentum teres hepatis relate to the structure of the liver?",
+            "goodAnswer": "The falciform ligament attaches the liver to the anterior abdominal wall and helps suspend it. The ligamentum teres hepatis is a remnant of the fetal umbilical vein and connects the left hepatic duct to the umbilicus.",
+            "wrongAnswer_1": "The falciform ligament connects the right and left lobes of the liver posteriorly, while the ligamentum teres hepatis attaches the liver to the diaphragm.",
+            "wrongAnswer_2": "The ligamentum teres hepatis is a fibrous structure that separates the right and left lobes of the liver anteriorly, while the falciform ligament suspends the pancreas in the retroperitoneal space.",
+            "wrongAnswer_3": "The falciform ligament and ligamentum teres hepatis both function as conduits for blood flow from the hepatic artery to the inferior vena cava, ensuring oxygenated blood supply to the liver.",
+            "wrongAnswer_4": "The ligamentum teres hepatis is a remnant of the fetal umbilical artery and connects the right hepatic duct to the gallbladder."
+          },
+          {
+            "question": "What is the primary function of the accessory pancreatic duct (Santorini's duct), and how does it differ from the main pancreatic duct?",
+            "goodAnswer": "The accessory duct runs from the pancreas directly into the duodenum, bypassing the common bile duct; it may or may not be present and does not always carry pancreatic juice.",
+            "wrongAnswer_1": "The accessory duct transports pancreatic juice into the cystic duct, allowing it to drain into the gallbladder before entering the duodenum.",
+            "wrongAnswer_2": "Both the accessory duct and the main pancreatic duct always carry pancreatic juice and empty into the hepatopancreatic ampulla.",
+            "wrongAnswer_3": "The accessory duct arises from the tail of the pancreas and connects directly to the common bile duct, facilitating simultaneous delivery of pancreatic juice and bile into the duodenum.",
+            "wrongAnswer_4": "The accessory duct is the only duct that carries pancreatic juice, as the main duct fuses with the splenic duct before reaching the duodenum."
+          },
+          {
+            "question": "Which of the following statements correctly describes the role of the peritoneal folds in supporting abdominal organs?",
+            "goodAnswer": "The greater omentum hangs from the stomach and serves as a protective apron for the abdominal viscera; the falciform ligament attaches the liver to the anterior abdominal wall; the lesser omentum connects the liver to the lesser curvature of the stomach; the mesentery provides vascular support for the small intestine; and the mesocolon supplies vascular connections for the large intestine.",
+            "wrongAnswer_1": "The greater omentum connects the liver to the lesser curvature of the stomach, while the falciform ligament hangs from the stomach and serves as a protective apron for the abdominal viscera; the lesser omentum attaches the liver to the anterior abdominal wall, and the mesentery provides vascular support for the large intestine, while the mesocolon supplies vascular connections for the small intestine.",
+            "wrongAnswer_2": "The falciform ligament hangs from the stomach and serves as a protective apron for the abdominal organs, while the greater omentum attaches the liver to the lesser curvature of the stomach; the lesser omentum provides vascular support for the small intestine, and the mesentery connects the liver to the anterior abdominal wall, while the mesocolon supplies vascular connections for the large intestine.",
+            "wrongAnswer_3": "The lesser omentum hangs from the stomach and serves as a protective apron for the abdominal viscera; the falciform ligament provides vascular support for the small intestine, while the greater omentum attaches the liver to the lesser curvature of the stomach; the mesentery connects the liver to the anterior abdominal wall, and the mesocolon supplies vascular connections for the large intestine.",
+            "wrongAnswer_4": "The mesentery hangs from the stomach and serves as a protective apron for the abdominal organs, while the falciform ligament provides vascular connections for the large intestine; the lesser omentum attaches the liver to the anterior abdominal wall, while the greater omentum and the mesocolon supply vascular support for the small intestine."
+          },
+          {
+            "question": "What are the two dominant ducts that emerge from the exocrine acini of the pancreas, and how do they function in delivering pancreatic juice into the duodenum?",
+            "goodAnswer": "The larger duct fuses with the common bile duct just before entering the duodenum via a hepatopancreatic ampulla, while the accessory duct (Santorini's duct) runs directly from the pancreas into the duodenum.",
+            "wrongAnswer_1": "The main duct carries pancreatic juice into the stomach, and the accessory duct secretes enzymes directly into the bloodstream.",
+            "wrongAnswer_2": "Both ducts enter the duodenum separately, and neither one of them fuses with the common bile duct.",
+            "wrongAnswer_3": "The larger duct is called Santorini's duct, and it transports pancreatic juice into the cystic duct before reaching the duodenum.",
+            "wrongAnswer_4": "The accessory duct (Santorini's duct) carries pancreatic juice into the bloodstream instead of delivering it to the duodenum."
+          },
+          {
+            "question": "What is the name of the peritoneal fold that connects the right and left lobes of the liver anteriorly?",
+            "goodAnswer": "The falciform ligament",
+            "wrongAnswer_1": "The greater omentum",
+            "wrongAnswer_2": "The coronary ligament",
+            "wrongAnswer_3": "The lesser omentum",
+            "wrongAnswer_4": "The mesentery"
+          },
+          {
+            "question": "What is the name of the peritoneal fold that attaches the liver to the lesser curvature of the stomach?",
+            "goodAnswer": "Lesser omentum",
+            "wrongAnswer_1": "Greater omentum",
+            "wrongAnswer_2": "Falciform ligament",
+            "wrongAnswer_3": "Coronary ligament",
+            "wrongAnswer_4": "Mesentery"
+          },
+          {
+            "question": "How does the cystic duct contribute to the flow of bile from the gallbladder to the common bile duct?",
+            "goodAnswer": "The cystic duct, about 1-2 centimeters long, turns inferiorly from the neck of the gallbladder and joins with the hepatic duct to form the common bile duct, which carries bile from the gallbladder to the duodenum.",
+            "wrongAnswer_1": "The cystic duct is a large-caliber tube that directly empties into the stomach, allowing stored bile to be released during digestion.",
+            "wrongAnswer_2": "The cystic duct originates from the fundus of the gallbladder and transports bile directly to the pancreatic duct before entering the duodenum.",
+            "wrongAnswer_3": "The cystic duct functions as a secondary bile duct that leads from the gallbladder to the spleen, facilitating the storage of excess bile in the abdominal cavity.",
+            "wrongAnswer_4": "The cystic duct is a muscular channel that contracts to prevent the reflux of pancreatic juice from the duodenum into the gallbladder."
+          },
+          {
+            "question": "What are the five major peritoneal folds, and how do they contribute to the structural and functional integrity of the abdominal cavity?",
+            "goodAnswer": "The five major peritoneal folds are: the greater omentum (largest peritoneal fold; hangs down from the stomach and transverse colon, serving as an apron over the intestines), the falciform ligament (attaches the liver to the anterior abdominal wall), the lesser omentum (extends from the liver to the lesser curvature of the stomach), the mesentery (suspends the small intestine from the posterior abdominal wall), and the mesocolon (attaches the large intestine to the posterior abdominal wall).",
+            "wrongAnswer_1": "The five major peritoneal folds are: the greater omentum (attaches the stomach to the posterior abdominal wall), the falciform ligament (suspends the liver from the anterior abdominal wall), the lesser omentum (connects the stomach to the right lobe of the liver), the mesentery (attaches the large intestine to the peritoneal cavity), and the mesocolon (holds the pancreas in position).",
+            "wrongAnswer_2": "The peritoneal folds include the greater omentum (a thick layer of fat that isolates organs from the immune system), the falciform ligament (separates the right and left lobes of the pancreas), the lesser omentum (functions as a conduit for bile ducts), the mesentery (produces mucus to lubricate intestinal movement), and the mesocolon (regulates blood supply to the liver).",
+            "wrongAnswer_3": "The five peritoneal folds are: the greater omentum (controls nutrient absorption in the small intestine), the falciform ligament (supports the spleen in the abdominal cavity), the lesser omentum (conducts lymph from the liver to the stomach), the mesentery (secretes enzymes that aid digestion), and the mesocolon (filters waste products before they enter the colon).",
+            "wrongAnswer_4": "The peritoneal folds consist of the greater omentum (which aids in producing red blood cells), the falciform ligament (supports the heart in the chest cavity), the lesser omentum (connects the stomach to the bladder), the mesentery (forms part of the endocrine system), and the mesocolon (which absorbs excess water from the colonic lumen)."
+          },
+          {
+            "question": "What is the function of the falciform ligament and the ligamentum teres hepatis in relation to the liver?",
+            "goodAnswer": "The falciform ligament attaches the liver to the anterior abdominal wall and contains the round ligament (ligamentum teres hepatis), which is a remnant of the fetal umbilical vein.",
+            "wrongAnswer_1": "The falciform ligament connects the liver to the right kidney, and the ligamentum teres hepatis serves as a conduit for blood flow between the liver and spleen.",
+            "wrongAnswer_2": "The falciform ligament separates the right and left lobes of the liver, while the ligamentum teres hepatis regulates the secretion of bile from the gallbladder.",
+            "wrongAnswer_3": "The falciform ligament is responsible for filtering toxins from the blood, and the ligamentum teres hepatis plays a role in stabilizing the pancreas during digestion.",
+            "wrongAnswer_4": "The falciform ligament serves as a passageway for lymphatic drainage in the abdominal cavity, and the ligamentum teres hepatis aids in controlling the release of pancreatic juice into the duodenum."
+          },
+          {
+            "question": "What are the two primary lobes of the liver, and how does the right lobe compare in size to the left lobe?",
+            "goodAnswer": "The two primary lobes are the right lobe (larger) and the left lobe (smaller).",
+            "wrongAnswer_1": "The liver consists of a single large lobe with minor subdivisions.",
+            "wrongAnswer_2": "The left lobe is significantly larger than the right lobe.",
+            "wrongAnswer_3": "Both lobes are equal in size, and they are separated by the coronary ligament.",
+            "wrongAnswer_4": "The right lobe is divided into two distinct parts: the superior right lobe and the inferior right lobe."
+          },
+          {
+            "question": "What is the function of the lesser omentum in the abdominal cavity?",
+            "goodAnswer": "The lesser omentum suspends the stomach from the liver, helping to stabilize its position in the abdominal cavity.",
+            "wrongAnswer_1": "The lesser omentum is a peritoneal fold that connects the stomach to the spleen, preventing it from moving into the pelvic cavity.",
+            "wrongAnswer_2": "The lesser omentum serves as a conduit for blood vessels and nerves but does not play a role in stabilizing the stomach.",
+            "wrongAnswer_3": "The lesser omentum is a membranous structure that separates the right and left lobes of the liver anteriorly.",
+            "wrongAnswer_4": "The lesser omentum produces enzymes that aid in digestion and absorption of nutrients in the stomach."
+          }
+        ]
+      },
+      {
+        "title": "The liver",
+        "quizzes": [
+          {
+            "question": "Which of the following statements accurately describes the anatomical relationship between the liver, gallbladder, and cystic duct?",
+            "goodAnswer": "The gallbladder is situated on the posterior surface of the right lobe of the liver, with its fundus extending beyond the lateral edge of the liver. It is connected to the common hepatic duct via the cystic duct, which is typically 1-2 centimeters long.",
+            "wrongAnswer_1": "The cystic duct, which connects the gallbladder to the left hepatic duct, is approximately 5-7 centimeters long and controls the flow of bile directly into the duodenum.",
+            "wrongAnswer_2": "The gallbladder is located on the anterior surface of the right lobe of the liver, with its fundus extending into the peritoneal cavity. It is connected to the pancreas by the cystic duct, which regulates the release of pancreatic juice into the duodenum.",
+            "wrongAnswer_3": "The gallbladder is a retroperitoneal organ that stores and concentrates bile before it enters the small intestine. It does not have a distinct neck, and its fundus remains tucked within the liver parenchyma.",
+            "wrongAnswer_4": "The cystic duct arises from the right lobe of the liver and leads directly to the stomach, allowing concentrated bile to be released into the gastric lumen. It is responsible for neutralizing stomach acid before food enters the duodenum."
+          },
+          {
+            "question": "What is the role of the falciform ligament and the ligamentum teres hepatis in the anatomy of the liver?",
+            "goodAnswer": "The falciform ligament separates the right and left lobes anteriorly and attaches to the diaphragm, while the ligamentum teres hepatis is a remnant of the fetal umbilical vein and connects the liver to the umbilicus.",
+            "wrongAnswer_1": "The falciform ligament connects the liver to the stomach, while the ligamentum teres hepatis transports blood from the liver to the spleen.",
+            "wrongAnswer_2": "Both the falciform ligament and the ligamentum teres hepatis are remnants of the inferior vena cava and serve to stabilize the liver during contraction.",
+            "wrongAnswer_3": "The falciform ligament prevents the liver from moving, while the ligamentum teres hepatis produces enzymes for digestion.",
+            "wrongAnswer_4": "The falciform ligament supplies oxygenated blood to the liver, while the ligamentum teres hepatis filters toxins from the gallbladder."
+          },
+          {
+            "question": "What is the proper sequence of structures that bile passes through, starting from its production in hepatocytes and ending at the duodenum?",
+            "goodAnswer": "Hepatic sinusoids \u2192 bile canaliculi \u2192 bile ductules \u2192 right and left hepatic ducts \u2192 common hepatic duct \u2192 cystic duct \u2192 gallbladder \u2192 common bile duct \u2192 hepatopancreatic ampulla \u2192 duodenum",
+            "wrongAnswer_1": "Hepatic sinusoids \u2192 bile ductules \u2192 bile canaliculi \u2192 right and left hepatic ducts \u2192 common hepatic duct \u2192 cystic duct \u2192 gallbladder \u2192 accessory pancreatic duct \u2192 hepatopancreatic ampulla \u2192 duodenum",
+            "wrongAnswer_2": "Bile canaliculi \u2192 hepatic sinusoids \u2192 bile ductules \u2192 right and left hepatic ducts \u2192 cystic duct \u2192 common hepatic duct \u2192 gallbladder \u2192 common bile duct \u2192 hepatopancreatic ampulla \u2192 duodenum",
+            "wrongAnswer_3": "Hepatic artery \u2192 hepatic portal vein \u2192 bile canaliculi \u2192 right and left hepatic ducts \u2192 common hepatic duct \u2192 gallbladder \u2192 cystic duct \u2192 common bile duct \u2192 hepatopancreatic ampulla \u2192 duodenum",
+            "wrongAnswer_4": "Bile ductules \u2192 bile canaliculi \u2192 right and left hepatic ducts \u2192 common hepatic duct \u2192 gallbladder \u2192 cystic duct \u2192 accessory pancreatic duct \u2192 common bile duct \u2192 hepatopancreatic ampulla \u2192 duodenum"
+          },
+          {
+            "question": "What is the function of the cystic duct, and how does it contribute to the digestive process?",
+            "goodAnswer": "The cystic duct connects the neck of the gallbladder to the common hepatic duct, allowing bile to flow between the gallbladder and the liver. It is about 1-2 cm long and helps regulate the release of bile into the duodenum.",
+            "wrongAnswer_1": "The cystic duct controls the release of pancreatic enzymes from the pancreas into the small intestine, breaking down carbohydrates, lipids, and proteins. It is located between the pancreas and the common bile duct and plays a key role in delivering digestive juices into the duodenum.",
+            "wrongAnswer_2": "The cystic duct is a small passage that links the right and left hepatic ducts, merging them into the common hepatic duct. It facilitates the simultaneous flow of bile from different liver segments into the gallbladder for storage.",
+            "wrongAnswer_3": "The cystic duct acts as a secondary conduit for duodenal chyme, guiding it from the stomach directly into the gallbladder. It remains closed until stimulated by hormonal signals from the pancreas.",
+            "wrongAnswer_4": "The cystic duct transports bile from the liver into the stomach, helping to regulate gastric acidity. It is lined with smooth muscle fibers that contract rhythmically, pushing bile upwards into the stomach for mixing with food."
+          },
+          {
+            "question": "How do the anatomical features of the liver support its physiological role in digestion and detoxification?",
+            "goodAnswer": "The right and left hepatic ducts merge to form the common hepatic duct, which carries bile from the liver toward the gallbladder. The cystic duct, which branches from the common hepatic duct, connects to the gallbladder. Bile is concentrated in the gallbladder before being released into the duodenum via the common bile duct (formed by the fusion of the common hepatic duct and the cystic duct).",
+            "wrongAnswer_1": "The right and left hepatic ducts independently drain into the duodenum, allowing bile to enter the small intestine without passing through the gallbladder. The cystic duct serves as an accessory channel for pancreatic juice to enter the bile duct. Bile is fully detoxified in the liver before reaching the gallbladder.",
+            "wrongAnswer_2": "The common hepatic duct transports bile directly to the pancreas, where it mixes with pancreatic enzymes. The cystic duct is a small duct that branches from the common bile duct and leads to the spleen. Bile is stored in the pancreas before being released into the duodenum.",
+            "wrongAnswer_3": "The right and left hepatic ducts form the accessory pancreatic duct, which delivers bile to the stomach. The cystic duct connects the gallbladder to the aorta, providing a passage for blood circulation. Bile is broken down in the gallbladder before reaching the small intestine.",
+            "wrongAnswer_4": "The common hepatic duct transports bile to the lymph nodes for purification. The cystic duct supplies oxygenated blood to the liver. Bile is produced by the gallbladder and is stored in the stomach until needed for digestion."
+          },
+          {
+            "question": "What is the function of the accessory pancreatic duct (Santorini), and how does it contribute to the overall secretion of pancreatic juice into the duodenum?",
+            "goodAnswer": "The accessory pancreatic duct, also known as Santorini's duct, runs from the pancreas directly into the duodenum. It provides an alternative route for pancreatic juice to enter the intestine, especially when the main pancreatic duct is blocked. In most cases, it joins the common bile duct before reaching the duodenum.",
+            "wrongAnswer_1": "The accessory pancreatic duct originates in the tail of the pancreas and connects to the cystic duct, allowing pancreatic juice to flow into the gallbladder for temporary storage before being released into the duodenum.",
+            "wrongAnswer_2": "Santorini's duct empties directly into the stomach, ensuring that pancreatic enzymes are first activated in the gastric lumen rather than the duodenum, which helps protect the stomach lining.",
+            "wrongAnswer_3": "The accessory duct usually remains rudimentary and does not contribute to pancreatic juice secretion but instead serves as a vestigial structure without any functional significance.",
+            "wrongAnswer_4": "The accessory pancreatic duct transports only a small amount of pancreatic juice and typically merges with the common hepatic duct before entering the duodenum. It plays a minor role in overall pancreatic secretion and often becomes atrophied over time."
+          },
+          {
+            "question": "What is the function of the accessory pancreatic duct (Santorini), and how does it contribute to the overall secretion of pancreatic juice into the duodenum?",
+            "goodAnswer": "The accessory pancreatic duct (Santorini) runs from the pancreas directly into the duodenum. It provides an alternate route for pancreatic juice to enter the small intestine, especially when the main pancreatic duct is blocked.",
+            "wrongAnswer_1": "The accessory pancreatic duct carries bile from the gallbladder to the common bile duct before entering the duodenum, ensuring that digestive enzymes and bile reach the small intestine simultaneously.",
+            "wrongAnswer_2": "The accessory pancreatic duct is responsible for draining pancreatic juice into the stomach, allowing for the pre-activation of enzymes before reaching the duodenum.",
+            "wrongAnswer_3": "It connects the pancreas to the hepatic duct, diverting pancreatic juice into the liver for storage until it is needed in digestion.",
+            "wrongAnswer_4": "The accessory pancreatic duct (Santorini) has no functional role in pancreatic juice secretion and is a vestigial remnant without clinical significance."
+          },
+          {
+            "question": "What are the two dominant ducts that arise from the exocrine portion of the pancreas, and how do they contribute to the release of pancreatic juice into the duodenum?",
+            "goodAnswer": "The larger pancreatic duct (duct of Wirsung) typically fuses with the common bile duct before entering the duodenum via a hepatopancreatic ampulla, while the accessory pancreatic duct (duct of Santorini) runs directly into the duodenum.",
+            "wrongAnswer_1": "The main pancreatic duct is the duct of Santorini, which transports pancreatic juice directly into the jejunum, while the smaller pancreatic duct (duct of Wirsung) assists in regulating enzyme release.",
+            "wrongAnswer_2": "The common hepatic duct arises from the fusion of multiple pancreatic ducts, including the duct of Wirsung, and delivers bile and pancreatic juice simultaneously into the duodenum.",
+            "wrongAnswer_3": "The accessory pancreatic duct, also known as the duct of Wirsung, is the primary conduit for pancreatic juice secretion into the stomach, while the larger pancreatic duct regulates the release of enzymes into the bloodstream.",
+            "wrongAnswer_4": "The pancreatic duct system includes the duct of Santorini, which branches off from the common bile duct and transports pancreatic juice into the cecum for further digestion."
+          }
+        ]
+      },
+      {
+        "title": "The pancreas",
+        "quizzes": [
+          {
+            "question": "How does the sphincter of the hepatopancreatic ampulla function, and what happens when it contracts or relaxes?",
+            "goodAnswer": "The sphincter of the hepatopancreatic ampulla controls the release of bile and pancreatic juice into the duodenum. When it contracts, pressure builds up in the gallbladder, and when it relaxes, bile and pancreatic juice flow into the intestine.",
+            "wrongAnswer_1": "The sphincter of the hepatopancreatic ampulla regulates gastric emptying by opening and closing in response to hormones. It contracts when stimulated by cholecystokinin (CCK), preventing bile and pancreatic juice from entering the duodenum.",
+            "wrongAnswer_2": "The sphincter of the hepatopancreatic ampulla functions independently of nervous and hormonal control. It relaxes periodically to release pancreatic juice and bile into the stomach, facilitating digestion.",
+            "wrongAnswer_3": "The sphincter of the hepatopancreatic ampulla remains permanently closed, ensuring that pancreatic juice and bile are stored within the pancreas and gallbladder until needed. It only opens when stimulated by direct mechanical pressure from the liver.",
+            "wrongAnswer_4": "The sphincter of the hepatopancreatic ampulla is responsible for regulating blood flow through the hepatic duct. It contracts when stimulated by sympathetic nerve activity, reducing bile and pancreatic juice secretion."
+          },
+          {
+            "question": "What are the peritoneal folds referred to as ligaments that connect the liver to the abdominal wall and diaphragm?",
+            "goodAnswer": "The peritoneal folds are the falciform ligament, coronary ligament, left and right triangular ligaments, and the right and left lateral ligaments.",
+            "wrongAnswer_1": "The peritoneal folds are the greater omentum, epiploic appendages, and the mesentery proper.",
+            "wrongAnswer_2": "They are the gastrohepatic ligament, hepatoduodenal ligament, and the cystic duct.",
+            "wrongAnswer_3": "The peritoneal folds include the superior and inferior mesenteric arteries and veins.",
+            "wrongAnswer_4": "A peritoneal fold is only the falciform ligament, which connects the liver to the spleen."
+          },
+          {
+            "question": "Which peritoneal fold forms a boundary between the suprahepatic and infrahepatic portions of the liver?",
+            "goodAnswer": "The coronary ligament",
+            "wrongAnswer_1": "The falciform ligament",
+            "wrongAnswer_2": "The right and left triangular ligaments",
+            "wrongAnswer_3": "The lesser omentum",
+            "wrongAnswer_4": "The gastrophepatic ligament"
+          },
+          {
+            "question": "What is the role of the hepaticoduodenal ligament, and which structures does it enclose?",
+            "goodAnswer": "The hepaticoduodenal ligament contains the common hepatic duct, proper hepatic artery, and portal vein; it connects the liver to the lesser curvature of the stomach and duodenum.",
+            "wrongAnswer_1": "The hepaticoduodenal ligament contains the cystic duct, proper hepatic artery, and superior mesenteric vein; it connects the liver to the greater curvature of the stomach and jejunum.",
+            "wrongAnswer_2": "The hepaticoduodenal ligament is formed by the left and right hepatic ducts and does not contain any blood vessels; it attaches the liver directly to the pancreas.",
+            "wrongAnswer_3": "The hepaticoduodenal ligament, also known as the ligamentum venosum, is a remnant of the umbilical vein and separates the right and left lobes of the liver.",
+            "wrongAnswer_4": "The hepaticoduodenal ligament is a peritoneal fold that attaches the liver to the right kidney and controls the flow of lymph into the abdominal cavity."
+          },
+          {
+            "question": "What is the primary role of the hepatic artery in supplying oxygen to the liver, and how does it branch from other major vessels?",
+            "goodAnswer": "The hepatic artery is a branch of the celiac trunk and supplies oxygenated blood to the liver; it arises from the right posterior wall of the abdominal aorta and gives rise to the left and right hepatic arteries before dividing into the proper hepatic artery and cystic artery.",
+            "wrongAnswer_1": "The hepatic artery originates from the superior mesenteric artery and provides deoxygenated blood to the liver; it arises from the left anterior wall of the abdominal aorta and gives rise to the right and left hepatic arteries before dividing into the proper hepatic artery and cystic artery.",
+            "wrongAnswer_2": "The hepatic artery is a branch of the renal artery and supplies oxygenated blood to the liver; it arises from the right lateral wall of the abdominal aorta and gives rise to the left and right hepatic arteries before dividing into the proper hepatic artery and gastric artery.",
+            "wrongAnswer_3": "The hepatic artery originates from the inferior mesenteric artery and provides deoxygenated blood to the liver; it arises from the left posterior wall of the abdominal aorta and gives rise to the right and left hepatic arteries before dividing into the proper hepatic artery and splenic artery.",
+            "wrongAnswer_4": "The hepatic artery is a branch of the common iliac artery and supplies oxygenated blood to the liver; it arises from the right anterior wall of the abdominal aorta and gives rise to the left and right hepatic arteries before dividing into the proper hepatic artery and pancreatic artery."
+          },
+          {
+            "question": "What is the name of the peritoneal fold that separates the right and left lobes of the liver and forms part of the boundary between the suprahepatic and infrahepatic portions of the liver?",
+            "goodAnswer": "Falciform ligament",
+            "wrongAnswer_1": "Hepatoduodenal ligament",
+            "wrongAnswer_2": "Gastrohepatic ligament",
+            "wrongAnswer_3": "Coronary ligament",
+            "wrongAnswer_4": "Right and left triangular ligaments"
+          },
+          {
+            "question": "Which of the following peritoneal folds is located between the two primary lobes of the liver and separates the right and left lobes?",
+            "goodAnswer": "The falciform ligament",
+            "wrongAnswer_1": "The coronary ligament",
+            "wrongAnswer_2": "The hepatoduodenal ligament",
+            "wrongAnswer_3": "The right and left triangular ligaments",
+            "wrongAnswer_4": "The caudate lobe"
+          },
+          {
+            "question": "What are the five peritoneal folds (ligaments) that connect the liver to the abdominal wall and diaphragm, and which peritoneal fold separates the right and left lobes of the liver?",
+            "goodAnswer": "The peritoneal folds are the coronary ligament, right and left triangular ligaments, falciform ligament, and the lesser and greater omentum; the right and left lateral segments of the liver are separated by the falciform ligament.",
+            "wrongAnswer_1": "The peritoneal folds are the coronary ligament, right and left triangular ligaments, falciform ligament, and the lesser and greater omentum; the suprahepatic and infrahepatic portions of the liver are separated by the coronary ligament.",
+            "wrongAnswer_2": "The peritoneal folds are the cystic duct, right and left triangular ligaments, falciform ligament, and the lesser and greater omentum; the right and left lateral segments of the liver are separated by the lesser omentum.",
+            "wrongAnswer_3": "The peritoneal folds are the coronary ligament, right and left lateral ligaments, falciform ligament, and the accessory pancreatic duct; the right and left lateral segments of the liver are separated by the right triangular ligament.",
+            "wrongAnswer_4": "The peritoneal folds are the coronary ligament, right and left triangular ligaments, hepaticoduodenal ligament, and the lesser and greater omentum; the right and left lateral segments of the liver are separated by the greater omentum."
+          }
+        ]
+      },
+      {
+        "title": "The gallbladder",
+        "quizzes": [
+          {
+            "question": "What are the primary functions of the accessory digestive organs in aiding digestion and absorption?",
+            "goodAnswer": "The salivary glands produce saliva for starch digestion and lubrication; the liver produces bile for fat emulsification and detoxification; the pancreas secretes pancreatic juice with enzymes for digestion and bicarbonate for neutralization; the gallbladder stores and concentrates bile.",
+            "wrongAnswer_1": "The salivary glands absorb nutrients from digested food; the liver produces hydrochloric acid for protein breakdown; the pancreas only functions in storing vitamins; the gallbladder filters waste products before excretion.",
+            "wrongAnswer_2": "The salivary glands produce hormones that regulate appetite; the liver is responsible for direct absorption of sugars from the intestines; the pancreas produces mucus for lubrication; the gallbladder synthesizes enzymes for fat digestion.",
+            "wrongAnswer_3": "The salivary glands store bile for later use; the liver aids in the mechanical digestion of food by muscular contraction; the pancreas secretes amylase into the bloodstream; the gallbladder produces pancreatic juice for nutrient breakdown.",
+            "wrongAnswer_4": "The salivary glands function only in taste perception; the liver detoxifies by storing heavy metals in its tissues; the pancreas is responsible for absorbing water from digested food; the gallbladder produces hormones that control digestion."
+          },
+          {
+            "question": "Which of the following statements correctly describes the anatomy of the liver in relation to its supporting structures?",
+            "goodAnswer": "The falciform ligament and ligamentum teres hepatis extend from the liver towards the umbilicus and serve as remnants of the umbilical vein.",
+            "wrongAnswer_1": "The coronary ligament attaches the liver to the right kidney, stabilizing its position in the abdominal cavity.",
+            "wrongAnswer_2": "The lesser omentum extends from the liver to the spleen, providing vascular support for the hepatic artery and portal vein.",
+            "wrongAnswer_3": "The cystic duct, a branch of the common bile duct, passes through the falciform ligament before reaching the gallbladder.",
+            "wrongAnswer_4": "The caudate lobe of the liver is separated from the right lobe by the round ligament and serves as the primary site for bile drainage into the hepatic duct."
+          },
+          {
+            "question": "How does the structure of the hepatic sinusoids facilitate its function in the liver?",
+            "goodAnswer": "Hepatic sinusoids are wide, blood-filled channels lined by fenestrated endothelial cells and Kupffer cells, which filter debris and pathogens from blood flowing through the liver.",
+            "wrongAnswer_1": "Hepatic sinusoids are rigid, non-fenestrated capillaries that control the direct flow of bile from the gallbladder into the common bile duct.",
+            "wrongAnswer_2": "Sinusoids in the liver function as muscular sphincters that regulate the passage of pancreatic juice into the duodenum before it mixes with bile.",
+            "wrongAnswer_3": "The sinusoids form a continuous lining of smooth muscle cells that actively pump enzymes from the pancreatic duct into the bloodstream.",
+            "wrongAnswer_4": "They are narrow lymphatic vessels that collect excess fluid from the liver and transport it directly to the spleen for filtration."
+          },
+          {
+            "question": "Which of the following correctly identifies the paired structure and function of an accessory digestive organ in supporting digestion?",
+            "goodAnswer": "Salivary glands: Produce saliva, which moistens food and contains enzymes like amylase for initial starch digestion\u200b",
+            "wrongAnswer_1": "Liver: Secretes hydrochloric acid, which activates pepsin for protein digestion in the stomach",
+            "wrongAnswer_2": "Pancreas: Produces only glucagon, which increases blood glucose levels by stimulating glycogenolysis in the liver",
+            "wrongAnswer_3": "Gallbladder: Filters and detoxifies absorbed nutrients before they enter the bloodstream",
+            "wrongAnswer_4": "Peritoneum: Secretes mucus into the alimentary canal, which lubricates food passage and neutralizes stomach acid"
+          }
+        ]
+      },
+      {
+        "title": "The peritoneum",
+        "quizzes": [
+          {
+            "question": "What is the function of the cystic duct, and how does it contribute to digestion?",
+            "goodAnswer": "The cystic duct connects the gallbladder to the common hepatic duct. It transports bile from the gallbladder to the common bile duct, allowing it to flow into the duodenum. In addition, the cystic duct can expand, serving as a temporary storage site for excess bile before it is needed for digestion.",
+            "wrongAnswer_1": "The cystic duct carries pancreatic juice from the pancreas to the duodenum, ensuring that enzymes reach the small intestine at the appropriate time. It plays a crucial role in breaking down food particles and facilitating nutrient absorption.",
+            "wrongAnswer_2": "The cystic duct is a small duct that branches off from the common hepatic duct and leads directly to the bloodstream. It filters harmful substances from bile before they enter the gallbladder, preventing them from reaching the duodenum and potentially damaging the intestinal lining.",
+            "wrongAnswer_3": "The cystic duct produces mucus, which lubricates the passage of bile through the common bile duct and protects the pancreatic duct from the corrosive effects of stomach acids. This mucus production is essential for smooth digestion and preventing damage to internal organs.",
+            "wrongAnswer_4": "The cystic duct transports bile from the liver to the gallbladder. It expands to store bile temporarily until it is needed in the duodenum. When stimulated, the gallbladder contracts, pushing bile through the cystic duct and into the hepatic duct, where it mixes with pancreatic juice before entering the small intestine."
+          },
+          {
+            "question": "Which peritoneal fold attaches the liver to the lesser curvature of the stomach and what are its constituent layers?",
+            "goodAnswer": "The lesser omentum connects the liver to the lesser curvature of the stomach and consists of two peritoneal sheets with an intervening layer of fat and blood vessels.",
+            "wrongAnswer_1": "The greater omentum, attached to the greater curvature of the stomach, is composed of a single peritoneal sheet with no intervening layers.",
+            "wrongAnswer_2": "The falciform ligament attaches the liver to the anterior abdominal wall and contains only visceral peritoneum, without intervening fat or blood vessels.",
+            "wrongAnswer_3": "The coronary ligament connects the liver to the diaphragm and consists entirely of muscular tissue, not peritoneal sheets.",
+            "wrongAnswer_4": "The ligamentum teres hepatis, a remnant of the umbilical vein, runs within the greater omentum and serves as a primary conduit for blood flow into the liver."
+          },
+          {
+            "question": "How do the accessory organs contribute to digestion, and what is the role of the hepatopancreatic ampulla in this process?",
+            "goodAnswer": "The liver produces bile, which is stored in the gallbladder and later secreted into the duodenum via the common bile duct. The pancreas secretes digestive enzymes through its own duct. These ducts merge at the hepatopancreatic ampulla, which controls the release of bile and pancreatic juice into the small intestine.",
+            "wrongAnswer_1": "The liver filters waste products from digestion, and the hepatopancreatic ampulla regulates blood flow to the stomach, ensuring proper mixing of food with gastric juice before entering the duodenum.",
+            "wrongAnswer_2": "The gallbladder produces pancreatic juice, which is then transported via the common bile duct into the bloodstream. The hepatopancreatic ampulla serves as a junction for absorbing nutrients from the small intestine into the bloodstream.",
+            "wrongAnswer_3": "The pancreas is responsible for producing hormones like insulin and glucagon, and the hepatopancreatic ampulla plays a key role in regulating glucose levels by controlling the release of pancreatic juice into the stomach.",
+            "wrongAnswer_4": "The common bile duct transports bile directly to the stomach, where it aids in the digestion of fats. The hepatopancreatic ampulla ensures that pancreatic enzymes are secreted into the bloodstream for systemic absorption."
+          },
+          {
+            "question": "What are the peritoneal folds (ligaments) that connect the liver to the abdominal wall and diaphragm, and what is their importance in supporting the liver and maintaining its position?",
+            "goodAnswer": "The peritoneal folds associated with the liver are the falciform ligament, the coronary ligament, two lateral ligaments, and the ligamentum teres hepatis. The falciform ligament attaches the liver to the abdominal wall and helps to suspend it. The coronary ligament forms the boundary between the bare area and peritoneal-covered surfaces. Two lateral ligaments extend from the diaphragmatic surface of the liver. The ligamentum teres hepatis is a remnant of the umbilical vein that runs along the free edge of the falciform ligament.",
+            "wrongAnswer_1": "The peritoneal folds associated with the liver are the greater omentum, the gastrohepatic ligament, two lateral ligaments, and the ligamentum teres. The greater omentum helps to suspend the liver from the stomach, allowing it to move freely. The gastrohepatic ligament forms the boundary between the peritoneal-covered surfaces and the bare area. Two lateral ligaments extend from the diaphragmatic surface of the liver. The ligamentum teres is a remnant of the hepatic artery that runs along the free edge of the coronary ligament.",
+            "wrongAnswer_2": "The peritoneal folds associated with the liver are the falciform ligament, the coronary ligament, two lateral ligaments, and the ligamentum venosum. The falciform ligament attaches the liver to the stomach and helps to suspend it. The coronary ligament forms the boundary between the peritoneal-covered surfaces and the bare area. Two lateral ligaments extend from the diaphragmatic surface of the liver. The ligamentum venosum is a remnant of the inferior vena cava that runs along the free edge of the falciform ligament.",
+            "wrongAnswer_3": "The peritoneal folds associated with the liver are the lateral ligaments, the diaphragmatic ligament, the superior mesenteric ligament, and the ligamentum teres. The lateral ligaments attach the liver to the abdominal wall and help to suspend it. The diaphragmatic ligament forms the boundary between the peritoneal-covered surfaces and the bare area. Two lateral ligaments extend from the diaphragmatic surface of the liver. The ligamentum teres is a remnant of the cystic duct that runs along the free edge of the coronary ligament.",
+            "wrongAnswer_4": "The peritoneal folds associated with the liver are the falciform ligament, the coronary ligament, two lateral ligaments, and the ligamentum hepatis. The falciform ligament attaches the liver to the spine and helps to suspend it. The coronary ligament forms the boundary between the peritoneal-covered surfaces and the bare area. Two lateral ligaments extend from the diaphragmatic surface of the liver. The ligamentum hepatis is a branch of the hepatic artery that runs along the free edge of the falciform ligament."
+          },
+          {
+            "question": "Which of the following statements correctly describes the structure and function of the lesser omentum?",
+            "goodAnswer": "The lesser omentum is a peritoneal fold that attaches the liver to the lesser curvature of the stomach. It is composed of two layers of visceral peritoneum with no subperitoneal fat. The lesser omentum serves as a supportive ligament and contains the proper hepatic artery and common bile duct.",
+            "wrongAnswer_1": "The lesser omentum attaches the liver to the greater curvature of the stomach and consists of three peritoneal layers with embedded fat deposits that provide insulation for digestive organs.",
+            "wrongAnswer_2": "Lesser omentum connects the stomach to the spleen and serves as a conduit for lymphatic vessels but does not contain any major blood vessels or ducts.",
+            "wrongAnswer_3": "The lesser omentum is a membranous structure that attaches the pancreas to the superior border of the duodenum and plays a primary role in secreting enzymes into the stomach.",
+            "wrongAnswer_4": "The lesser omentum extends from the liver to the jejunum and is responsible for regulating gastric emptying and controlling the flow of chyme into the small intestine."
+          },
+          {
+            "question": "Why is the head of the pancreas particularly susceptible to injury from the expansion of the duodenal lumen?",
+            "goodAnswer": "The pancreatic head is enclosed within the C-shaped loop of the duodenum.",
+            "wrongAnswer_1": "The pancreatic head is surrounded by the stomach, which expands during digestion.",
+            "wrongAnswer_2": "The pancreatic head is directly exposed to gastric juice due to its position near the pylorus.",
+            "wrongAnswer_3": "The pancreatic duct runs through the center of the duodenal lumen, making it vulnerable.",
+            "wrongAnswer_4": "The pancreatic tail is positioned within the peritoneal cavity, causing it to be susceptible to injury."
+          },
+          {
+            "question": "Which structure is responsible for filtering debris and microorganisms from the hepatic portal blood before it reaches the rest of the body, and what is its role in immune defense?",
+            "goodAnswer": "The liver, through the hepatic sinusoids, filters debris and microorganisms from the hepatic portal blood. Kupffer cells, resident macrophages within the sinusoids, engulf and destroy pathogens and cellular debris.",
+            "wrongAnswer_1": "The spleen, through its white pulp, filters debris and microorganisms from the general circulation. Lymphocytes within the white pulp recognize and destroy foreign invaders.",
+            "wrongAnswer_2": "The bone marrow, through hematopoiesis, produces white blood cells (leukocytes) that directly engulf and destroy pathogens in the bloodstream without the need for specific sinusoids.",
+            "wrongAnswer_3": "The lymph nodes, positioned along lymphatic vessels, filter lymph fluid and contain macrophages and lymphocytes that cooperate to immune surveillance and immune cell activation.",
+            "wrongAnswer_4": "The thymus gland is responsible for filtering blood and producing antibodies that neutralize pathogens in the bloodstream, aiding in systemic immune defense."
+          },
+          {
+            "question": "How can the position of the gallbladder be described in relation to other organs?",
+            "goodAnswer": "It is located between the right and left hepatic ducts and nestled in a shallow area on the posterior aspect of the right liver lobe.",
+            "wrongAnswer_1": "The gallbladder is found anterior to the stomach, providing direct access for bile into the duodenum.",
+            "wrongAnswer_2": "It lies within the peritoneal cavity, suspended by the greater omentum and attached to the tail of the pancreas.",
+            "wrongAnswer_3": "The gallbladder is positioned between the pancreas and the right kidney, with its fundus extending into the pelvic cavity.",
+            "wrongAnswer_4": "It is located in the left upper quadrant of the abdomen, connected to the spleen by the cystic duct."
+          },
+          {
+            "question": "What are the peritoneal folds (ligaments) that connect the liver to the abdominal cavity and diaphragm, and what is their importance in supporting the liver and maintaining its position?",
+            "goodAnswer": "Five peritoneal folds, the falciform ligament, coronary ligament, two lateral ligaments, and the ligamentum teres hepatis (a remnant of the umbilical vein), connect the liver to the abdominal cavity and diaphragm. They play a crucial role in supporting the liver and maintaining its position.",
+            "wrongAnswer_1": "The peritoneal folds consist of the greater omentum, lesser omentum, mesentery, and mesocolon, which are responsible for attaching the liver to the abdominal wall and diaphragm. These folds provide structural support for the liver and aid in nutrient absorption.",
+            "wrongAnswer_2": "The peritoneal ligaments include the falciform ligament, coronary ligament, and cystic duct, which connect the liver to the pancreas and spleen. They facilitate the storage of bile in the gallbladder and prevent liver movement.",
+            "wrongAnswer_3": "Four peritoneal folds, the gastric fold, duodenal fold, and two hepatic folds, emanate from the liver and attach to the stomach and small intestine. They guide pancreatic juice into the duodenum and facilitate nutrient transport.",
+            "wrongAnswer_4": "The peritoneal ligaments consist of the phrenicocolic ligament, the splenocolic ligament, and the rectohepatic ligament, which connect the liver to the stomach and esophagus. These ligaments play a major role in stabilizing the stomach during digestion and preventing food regurgitation."
+          },
+          {
+            "question": "Which of the following is a peritoneal fold (ligament) that attaches the liver to the abdominal wall or diaphragm?",
+            "goodAnswer": "The coronary ligament attaches the posterior surface of the liver to the diaphragm.",
+            "wrongAnswer_1": "The round ligament, or ligamentum teres hepatis, is a peritoneal fold that connects the liver to the stomach.",
+            "wrongAnswer_2": "The lesser omentum is a peritoneal fold composed of visceral peritoneum only, without any connection to the abdominal wall or diaphragm.",
+            "wrongAnswer_3": "The falciform ligament attaches the anterior surface of the liver to the pancreas.",
+            "wrongAnswer_4": "The right and left triangular ligaments are peritoneal folds that hold the gallbladder to the inferior surface of the liver."
+          },
+          {
+            "question": "What is the function of the falciform ligament, and how does it support the liver?",
+            "goodAnswer": "The falciform ligament attaches the liver to the anterior abdominal wall and helps hold it in position. It is made up of connective tissue and contains the ligamentum teres hepatis, a remnant of the umbilical vein.",
+            "wrongAnswer_1": "The falciform ligament connects the right and left lobes of the liver and serves as a conduit for bile flow from the gallbladder to the common bile duct.",
+            "wrongAnswer_2": "The falciform ligament is a muscular structure that contracts to regulate blood flow through the hepatic artery and portal vein, controlling oxygen and nutrient supply to the liver cells.",
+            "wrongAnswer_3": "The falciform ligament produces enzymes that aid in digestion by breaking down proteins in the liver before they enter the bloodstream.",
+            "wrongAnswer_4": "The falciform ligament acts as a conduit for lymphatic drainage from the liver to the spleen, playing a role in immune surveillance of hepatic tissue."
+          },
+          {
+            "question": "Which of the following correctly describes the location and function of the semilunar valves?",
+            "goodAnswer": "The semilunar valves are located at the junction of the right and left ventricle with the pulmonary artery and aorta. They open during ventricular contraction (systole) and close during ventricular relaxation (diastole).",
+            "wrongAnswer_1": "The semilunar valves separate the right and left atria from the ventricles. They close during ventricular contraction and open during ventricular relaxation.",
+            "wrongAnswer_2": "Located between the atria and ventricles, the semilunar valves control blood flow from the ventricles into the atria. They remain closed during ventricular contraction and open during ventricular relaxation.",
+            "wrongAnswer_3": "The semilunar valves are found at the entrance of the superior and inferior vena cava into the right atrium. They regulate blood flow from the peripheral circulation into the heart. They open during ventricular diastole and close during ventricular systole.",
+            "wrongAnswer_4": "The semilunar valves separate the right ventricle from the pulmonary artery and the left ventricle from the aorta. They control blood flow into the ventricles. They remain open during ventricular contraction and close during ventricular relaxation."
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

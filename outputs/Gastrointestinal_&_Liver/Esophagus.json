@@ -1,0 +1,232 @@
+{
+  "mainTopic": {
+    "title": "Esophagus",
+    "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descripitions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+    "subTopics": [
+      {
+        "title": "Histology of the Esophagus",
+        "quizzes": [
+          {
+            "question": "What is the primary function of the lower esophageal sphincter (LES) in relation to the stomach and esophageal pressures?",
+            "goodAnswer": "The LES maintains a pressure of +25 mmHg, serving as a barrier against gastroesophageal reflux. It relaxes before the bolus enters the stomach, facilitating food passage.",
+            "wrongAnswer_1": "The LES remains contracted at all times to prevent air from entering the stomach, ensuring that only liquids and solids pass through the esophagus.",
+            "wrongAnswer_2": "With a resting pressure of -5 mmHg, the LES assists in propelling food into the stomach by generating a continuous wave of contractions.",
+            "wrongAnswer_3": "The LES, with a pressure of +50 mmHg, functions as a secondary propulsive force, pushing food down into the stomach before it fully relaxes.",
+            "wrongAnswer_4": "It has a variable pressure that ranges from 0 to +25 mmHg, depending on the size and consistency of the swallowed bolus."
+          },
+          {
+            "question": "How does the timing of the external and internal sphincter function influence the swallowing process?",
+            "goodAnswer": "The UES relaxes upon swallowing, then contracts. This contraction is followed by esophageal body contraction and serves as an anatomical sphincter. The LES and fundus relax before the peristaltic contraction, allowing passage into the stomach. It remains closed to prevent reflux.",
+            "wrongAnswer_1": "The LES relaxes upon swallowing, then contracts. This contraction is followed by esophageal body relaxation, which facilitates food entry into the stomach. The UES and fundus remain closed to prevent reflux.",
+            "wrongAnswer_2": "The UES contracts upon swallowing and remains contracted, serving as a primary barrier. The LES and fundus remain closed throughout the swallowing process, ensuring complete control over food bolus movement into the stomach.",
+            "wrongAnswer_3": "The UES and LES both relax simultaneously before esophageal body contraction, allowing for immediate passage into the stomach. This synchronized action facilitates rapid food transport down the esophagus.",
+            "wrongAnswer_4": "The UES opens during swallowing but remains open, while the LES contracts to prevent backflow. This indicates that the LES is not fully functional in regulating stomach entry."
+          },
+          {
+            "question": "Why is reflux more common in infants than in adults?",
+            "goodAnswer": "Because the lower esophageal sphincter (LES) is not fully developed in infants, resulting in more frequent gastroesophageal reflux.",
+            "wrongAnswer_1": "Infants have a higher basal tone in their LES, leading to more frequent esophageal spasms and reflux.",
+            "wrongAnswer_2": "The esophageal submucosa in infants is underdeveloped, causing the LES to remain permanently contracted and leading to consistent reflux.",
+            "wrongAnswer_3": "Because infants primarily feed on liquids, which induces involuntary LES relaxation and allows gastric contents to enter the esophagus.",
+            "wrongAnswer_4": "The vagus nerve innervation to the LES is incomplete in infants, causing irregular sphincter function and increased reflux episodes."
+          },
+          {
+            "question": "What happens to the LES and fundus before a peristaltic wave in the esophagus?",
+            "goodAnswer": "The LES and fundus relax, allowing passage into the stomach.",
+            "wrongAnswer_1": "The LES contracts, while the fundus remains closed.",
+            "wrongAnswer_2": "Both the LES and fundus contract simultaneously to propel food forward.",
+            "wrongAnswer_3": "The LES remains closed, and the fundus contracts to prevent backflow.",
+            "wrongAnswer_4": "The LES opens, but the fundus does not relax, resulting in delayed passage into the stomach."
+          },
+          {
+            "question": "How is the basal tone of the lower esophageal sphincter (LES) maintained, and how do acetylcholine (ACh) and gastrin affect its function?",
+            "goodAnswer": "Basal tone is myogenic; ACh and gastrin increase LES pressure by enhancing smooth muscle contraction.",
+            "wrongAnswer_1": "Basal tone is neurogenic; ACh and gastrin decrease LES pressure to facilitate food passage.",
+            "wrongAnswer_2": "Basal tone is hormonal; ACh and gastrin inhibit smooth muscle contraction, reducing LES pressure.",
+            "wrongAnswer_3": "Basal tone is entirely regulated by vagal efferents; gastrin suppresses LES tone to prevent premature food entry into the stomach.",
+            "wrongAnswer_4": "Basal tone is primarily due to sympathetic innervation; ACh and histamine reduce LES pressure by blocking muscle contraction."
+          }
+        ]
+      },
+      {
+        "title": "Chewing and Swallowing",
+        "quizzes": [
+          {
+            "question": "What is the primary function of the lower esophageal sphincter (LES) during swallowing?",
+            "goodAnswer": "The LES relaxes before the peristaltic wave arrives, facilitating the passage of food into the stomach.",
+            "wrongAnswer_1": "The LES contracts simultaneously with the peristaltic wave, propelling food downward.",
+            "wrongAnswer_2": "The LES remains closed throughout the swallowing process to prevent reflux.",
+            "wrongAnswer_3": "The LES tightens before the peristaltic wave, blocking food from entering the stomach.",
+            "wrongAnswer_4": "The LES only functions in response to conscious control, not autonomic activity."
+          },
+          {
+            "question": "Why does the LES and fundus relax before the peristaltic contraction arrives during swallowing?",
+            "goodAnswer": "The lower esophageal sphincter (LES) and fundus relax before the peristaltic contraction arrives to facilitate the passage of food into the stomach. This coordinated relaxation ensures that the food bolus can move smoothly from the esophagus to the stomach without encountering resistance. The timing of this relaxation is crucial for proper swallowing and preventing unnecessary pressure build-up in the esophagus.",
+            "wrongAnswer_1": "The LES and fundus contract before the peristaltic wave arrives to prevent food from entering the stomach prematurely. This coordinated action ensures that the food bolus remains in the esophagus until it is ready to be fully swallowed. It helps maintain proper esophageal pressure and prevent premature gastric entry.",
+            "wrongAnswer_2": "The lower esophageal sphincter (LES) and fundus relax due to the direct effect of gravity. When the head is tilted forward, the muscular tone of the LES naturally decreases, allowing food to drop into the stomach without resistance. This is why swallowing becomes easier when leaning forward.",
+            "wrongAnswer_3": "The relaxation of the LES and fundus is triggered by sympathetic nerve activity. When swallowing, sympathetic nerves release norepinephrine, which causes smooth muscle fibers in the sphincter and fundus to loosen, facilitating food passage into the stomach. This action is essential for voluntary control over swallowing.",
+            "wrongAnswer_4": "The LES and fundus remain contracted before the peristaltic wave arrives to prevent reflux. This sustained contraction ensures that gastric contents do not enter the esophagus. The timing of this contraction is crucial for preventing heartburn and other reflux symptoms."
+          },
+          {
+            "question": "How is the basal tone of the lower esophageal sphincter (LES) maintained, and how does it respond to acetylcholine (ACh) and gastrin?",
+            "goodAnswer": "The basal tone is myogenic, meaning it is generated by the muscle itself. ACh and gastrin increase the LES tone by stimulating muscle contraction.",
+            "wrongAnswer_1": "The basal tone is neurogenic, and ACh and gastrin inhibit LES contraction, leading to relaxation.",
+            "wrongAnswer_2": "The basal tone is hormonal, and ACh and gastrin induce smooth muscle inhibition, causing the LES to relax.",
+            "wrongAnswer_3": "The basal tone is entirely dependent on sympathetic nerve activity, and gastrin suppresses LES contraction.",
+            "wrongAnswer_4": "ACh and histamine decrease LES tone by blocking neurotransmitter release in the esophagus."
+          },
+          {
+            "question": "What happens to the pressure in the esophagus before and after a normal primary peristaltic wave?",
+            "goodAnswer": "At rest, the esophageal pressure is atmospheric. During a primary peristaltic wave, the pressure falls below atmospheric pressure, and the lower esophageal sphincter contracts to prevent reflux.",
+            "wrongAnswer_1": "Before a peristaltic wave, the esophagus is always contracted, so the pressure is above atmospheric pressure. During the wave, pressure rises further as resistance increases, and the lower esophageal sphincter relaxes to allow food passage.",
+            "wrongAnswer_2": "At rest, the esophageal pressure is higher than atmospheric pressure due to tonic contraction. A primary peristaltic wave initiates with increased pressure, and the lower esophageal sphincter remains open throughout the process.",
+            "wrongAnswer_3": "A primary peristaltic wave starts with atmospheric pressure but immediately turns positive (above atmospheric) as air is forced into the esophagus. The lower esophageal sphincter then relaxes, allowing food to enter the stomach.",
+            "wrongAnswer_4": "The pressure inside the esophagus remains constant at all times. Peristalsis occurs due to gravity alone, and the lower esophageal sphincter only assists in propelling food down after a significant delay."
+          },
+          {
+            "question": "How does the architecture of the esophagus contribute to its ability to conduct food downward while preventing air from entering the stomach?",
+            "goodAnswer": "The upper third of the esophagus contains skeletal muscle that is directly innervated by the vagus nerve, while the lower two-thirds consist of smooth muscle innervated by autonomic nerves. This combined structural and innervation pattern allows for voluntary control over the initial stages of swallowing and provides autonomic regulation in the later stages.",
+            "wrongAnswer_1": "The entire esophagus is covered in ciliated epithelium, which helps move food particles down and prevents air from entering the stomach. This coordinated ciliary action ensures smooth passage while maintaining airway integrity.",
+            "wrongAnswer_2": "The esophagus is lined with a thick layer of connective tissue throughout its length, which provides structural support and prevents the passage of both food and air into the stomach. This dense tissue acts as a natural barrier.",
+            "wrongAnswer_3": "The upper esophageal sphincter, which is made entirely of smooth muscle, remains contracted at rest, preventing both food and air from entering the stomach. This sphincter provides absolute control over all aspects of swallowing.",
+            "wrongAnswer_4": "The lower esophageal sphincter is innervated only by sympathetic nerves, which cause it to contract during swallowing, ensuring that food is pushed into the stomach. This sphincter is responsible for propelling food downward."
+          },
+          {
+            "question": "Why does the bolus move down at a rate of 2-4 cm/sec in the esophageal lumen, and what happens to the pharyngeal muscles after the bolus passes?",
+            "goodAnswer": "The bolus moves down at a rate of 2-4 cm/sec because of the coordinated action of pharyngeal muscles. After the bolus passes, these muscles relax and return to their resting positions. ",
+            "wrongAnswer_1": "The bolus moves down at a rate of 10-15 cm/sec because of gravity alone, and the pharyngeal muscles remain contracted to prevent food reflux.",
+            "wrongAnswer_2": "The bolus moves down at a rate of 2-4 cm/sec due to the immediate action of esophageal peristalsis, and the pharyngeal muscles contract further to push the food into the stomach.",
+            "wrongAnswer_3": "The bolus moves down at a rate of 2-4 cm/sec because of air pressure changes in the lumen, and the pharyngeal muscles lift upwards to guide the bolus into the trachea.",
+            "wrongAnswer_4": "The bolus moves down at a rate of 2-4 cm/sec because of a pressure gradient created by the stomach, and the pharyngeal muscles rotate clockwise to prevent food from entering the larynx."
+          },
+          {
+            "question": "How does the vagus nerve innervate the esophagus, and what are the roles of the upper and lower esophageal sphincters (LES) during swallowing?",
+            "goodAnswer": "The upper third of the esophagus is directly innervated by the vagus nerve, while the lower two-thirds receive indirect innervation through postganglionic fibers. The upper esophageal sphincter (UES) relaxes, allowing passage into the esophagus, and then contracts to prevent regurgitation. The lower esophageal sphincter (LES) and fundus relax before the peristaltic contraction arrives, facilitating the passage of food into the stomach.",
+            "wrongAnswer_1": "The entire esophagus, including the upper and lower thirds, is innervated by sympathetic nerve fibers, which stimulate both sphincters to contract simultaneously. The upper esophageal sphincter (UES) remains closed, preventing food from entering the stomach, while the lower esophageal sphincter (LES) tightens to ensure complete blockage against reflux.",
+            "wrongAnswer_2": "The vagus nerve only innervates the lower esophageal sphincter (LES) directly. The upper esophageal sphincter (UES) is controlled by sympathetic nerves and remains contracted during swallowing to prevent food from entering the stomach. The LES, in turn, relaxes before the peristaltic wave arrives, allowing food to pass into the stomach.",
+            "wrongAnswer_3": "The upper third of the esophagus is innervated by the phrenic nerve, while the remaining portion is innervated by the spinal nerves. The upper esophageal sphincter (UES) contracts first, followed by the lower esophageal sphincter (LES), which also contracts to prevent regurgitation. This coordinated action ensures that food is pushed back into the oral cavity.",
+            "wrongAnswer_4": "The esophagus is innervated entirely by the sympathetic nervous system. Both the upper and lower esophageal sphincters are controlled by direct innervation from the spinal cord. The UES and LES contract simultaneously, propelling the food bolus downward at a constant rate of 5-7 cm/sec."
+          },
+          {
+            "question": "How does the innervation of the esophagus differ between the upper and lower thirds, and what are the consequences of this difference for the control of esophageal function?",
+            "goodAnswer": "The upper third of the esophagus is innervated directly by vagus nerve efferents, while the lower two-thirds receive innervation from vagal preganglionic fibers that first synapse on ganglion cells. This means that the upper skeletal muscle is under direct control of the central nervous system, while the lower smooth muscle is controlled autonomously by the enteric nervous system. This difference is crucial because it explains why the voluntary control of swallowing is only possible in the initial stages of the process. Furthermore, it highlights the importance of the intrinsic innervation within the esophagus, which allows for independent function and maintains esophageal activity even without direct signals from the brain.",
+            "wrongAnswer_1": "The entire esophagus, both the upper and lower thirds, is innervated directly by the vagus nerve, meaning that all aspects of esophageal function are under conscious control. This allows for voluntary regulation of food transport throughout the entire length of the esophagus and eliminates the need for autonomic control in the lower segments.",
+            "wrongAnswer_2": "The upper third of the esophagus is innervated by sympathetic nerve fibers, while the lower two-thirds are innervated by parasympathetic nerves. This means that the initial stages of swallowing are regulated by autonomic nerves, and the later stages are controlled voluntarily. This system ensures coordinated function between skeletal and smooth muscle in propelling food downward.",
+            "wrongAnswer_3": "The entire esophagus is innervated solely by ganglion cells, which transmit impulses from the spinal cord. Therefore, all aspects of esophageal function, including peristalsis and sphincter control, are centrally regulated. This eliminates the role of the vagus nerve in swallowing and provides complete conscious control over food transport.",
+            "wrongAnswer_4": "The difference in innervation between the upper and lower thirds of the esophagus is clinically insignificant, as both skeletal and smooth muscle function is ultimately controlled by the autonomic nervous system. The voluntary muscles of the upper esophagus gradually transition to involuntary control in the lower segments, making the distinction irrelevant for understanding esophageal function."
+          },
+          {
+            "question": "What happens to the pressure in the esophagus before and after a normal primary peristaltic wave?",
+            "goodAnswer": "Before the wave, pressure is atmospheric; as the wave passes, pressure decreases, and the sphincter contracts to prevent reflux.",
+            "wrongAnswer_1": "Before the wave, pressure is increased; as the wave passes, pressure stabilizes, and the sphincter relaxes to aid bolus movement.",
+            "wrongAnswer_2": "Before the wave, pressure remains constant; as the wave passes, pressure significantly rises, and the sphincter opens wider to facilitate rapid bolus transport.",
+            "wrongAnswer_3": "Before the wave, pressure fluctuates randomly; as the wave passes, pressure fluctuates irregularly, and the sphincter alternates between contracting and relaxing.",
+            "wrongAnswer_4": "Before the wave, pressure is elevated; as the wave passes, pressure does not change, and the sphincter remains fully open to prevent food from entering the stomach."
+          },
+          {
+            "question": "What happens to the pressure in the esophagus before and after a normal primary peristaltic wave?",
+            "goodAnswer": "Before a peristaltic wave, esophageal pressure is atmospheric; as the wave passes, pressure decreases in the contracted segment and increases in the relaxed segment, facilitating bolus movement.",
+            "wrongAnswer_1": "Before a peristaltic wave, esophageal pressure increases in anticipation of the bolus; as the wave passes, pressure remains constant in the contracted segments and decreases in the relaxed segments, ensuring smooth downward movement.",
+            "wrongAnswer_2": "Peristaltic waves do not change esophageal pressure; the bolus moves passively down the esophagus without any significant pressure alterations.",
+            "wrongAnswer_3": "A peristaltic wave causes an immediate increase in esophageal pressure throughout the entire length of the esophagus, preventing bolus movement until the wave subsides.",
+            "wrongAnswer_4": "Before a peristaltic wave, pressure in the esophagus fluctuates randomly; as the wave passes, pressure either increases or decreases inconsistently, making bolus movement unpredictable."
+          },
+          {
+            "question": "Which of the following statements correctly describes the function of the lower esophageal sphincter (LES) during swallowing?",
+            "goodAnswer": "The LES relaxes before the peristaltic wave arrives, allowing food to enter the stomach and preventing reflux. It then contracts to maintain esophageal pressure.",
+            "wrongAnswer_1": "The LES contracts before the peristaltic wave arrives, closing off the entrance to the stomach and propelling food back into the esophagus.",
+            "wrongAnswer_2": "The LES remains closed throughout the swallowing process to prevent any food from entering the stomach until after peristalsis is complete.",
+            "wrongAnswer_3": "The LES only relaxes when food reaches the stomach, ensuring that the esophagus stays closed until after the bolus has moved down completely.",
+            "wrongAnswer_4": "The LES opens before swallowing and remains open until after the food has reached the stomach, allowing free passage of food into the gastric lumen."
+          },
+          {
+            "question": "How does the LES function during and between peristaltic waves?",
+            "goodAnswer": "The LES contracts continuously between peristaltic waves to prevent gastroesophageal reflux and relaxes only during swallowing to allow food passage into the stomach.",
+            "wrongAnswer_1": "The LES relaxes continuously between peristaltic waves to prevent esophageal spasms and contracts only during swallowing to allow air passage into the stomach.",
+            "wrongAnswer_2": "The LES contracts continuously during and between peristaltic waves to prevent food from entering the stomach and only relaxes when no food is present in the esophagus.",
+            "wrongAnswer_3": "The LES alternates between contracting and relaxing at regular intervals, independent of swallowing, to maintain esophageal tone and control food movement into the stomach.",
+            "wrongAnswer_4": "The LES is only active during swallowing, and its function is solely controlled by the sympathetic nervous system, which stimulates muscle contraction to push food down."
+          }
+        ]
+      },
+      {
+        "title": "Innervation, Regulation",
+        "quizzes": [
+          {
+            "question": "What are the primary functions of the upper esophageal sphincter (UES) and lower esophageal sphincter (LES) during swallowing?",
+            "goodAnswer": "The UES relaxes and then contracts upon swallowing, followed by contraction of the esophageal body. This process is largely anatomical. The LES and fundus relax before the peristaltic contraction arrives, facilitating passage into the stomach and preventing backflow. The LES is regulated by smooth muscle properties, nerves, and hormones.",
+            "wrongAnswer_1": "The UES contracts and remains contracted until the bolus passes into the stomach, ensuring no food enters the esophagus. The LES opens wide upon swallowing, allowing free passage of food and preventing any chance of reflux.",
+            "wrongAnswer_2": "The UES and LES both remain closed during swallowing, creating a tight seal that prevents food from entering the stomach. Instead, the bolus is pushed back into the mouth by a series of upward contractions in the esophagus.",
+            "wrongAnswer_3": "The UES relaxes, but the LES contracts before the peristaltic wave arrives, effectively stopping food from entering the stomach. This controlled contraction helps prevent food from prematurely moving into the stomach and ensures proper oral digestion.",
+            "wrongAnswer_4": "The UES and LES both open simultaneously upon swallowing, creating a single large sphincter that guides the food directly into the stomach. This combined sphincter action ensures rapid food transport without any significant resistance."
+          },
+          {
+            "question": "How does the activity of the external oblique muscle affect esophageal peristalsis?",
+            "goodAnswer": "It contracts sequentially, starting from the left side, creating a pressure gradient that pushes the bolus downwards.",
+            "wrongAnswer_1": "It remains contracted throughout the swallowing process to maintain sphincter tone.",
+            "wrongAnswer_2": "It relaxes simultaneously with the LES to facilitate food passage into the stomach.",
+            "wrongAnswer_3": "It plays no role in propelling the food bolus but only assists in closing the UES.",
+            "wrongAnswer_4": "It contracts only on the right side, guiding the bolus towards the stomach."
+          },
+          {
+            "question": "What happens to the fundus and LES before a peristaltic wave arrives in the esophagus, and what is the consequence of this action?",
+            "goodAnswer": "The fundus and LES relax, which facilitates passage into the stomach and prevents backflow.",
+            "wrongAnswer_1": "The fundus and LES contract, which propels food upward and induces regurgitation.",
+            "wrongAnswer_2": "The fundus and LES remain closed, which prevents food from entering the stomach and induces indigestion.",
+            "wrongAnswer_3": "The fundus contracts while the LES relaxes, which leads to immediate gastric emptying without full esophageal peristalsis.",
+            "wrongAnswer_4": "The fundus and LES pressures increase, which forms a barrier against esophageal propulsion and causes a build-up of food in the lumen."
+          },
+          {
+            "question": "What happens to the pressures in the esophagus during respiration?",
+            "goodAnswer": "The pressures in the esophagus vary due to respiration. The upper esophageal sphincter aligns with intrathoracic pressure, and the fundus pressure mirrors intra-abdominal pressure.",
+            "wrongAnswer_1": "Respiratory changes do not affect esophageal pressures, as the muscles remain contracted, preventing air movement.",
+            "wrongAnswer_2": "During inhalation, all esophageal sphincters simultaneously open to allow air into the stomach, creating a synchronized pressure gradient.",
+            "wrongAnswer_3": "The pressure in the esophagus remains constant regardless of respiratory cycle due to the rigid structure of the esophageal wall.",
+            "wrongAnswer_4": "Airway pressure has no influence on the lower esophageal sphincter, which is primarily controlled by hormones and sympathetic innervation."
+          },
+          {
+            "question": "How does the neuroanatomical innervation of the esophagus differ between the upper and lower segments, and what are the implications for peristaltic control in each segment?",
+            "goodAnswer": "The upper esophagus is innervated directly by vagus efferents, which control skeletal muscle activity. The lower esophagus has indirect innervation, with vagal preganglionic fibers synapsing on ganglion cells that then innervate smooth muscle, mediating peristaltic waves. This means the upper esophagus has a more precise voluntary control over swallowing, while the lower esophagus is regulated autonomously.",
+            "wrongAnswer_1": "The entire esophagus is innervated directly by the sympathetic nervous system, which stimulates smooth muscle contraction throughout. This provides consistent control over the entire esophageal passage, ensuring uniform peristalsis from the mouth to the stomach.",
+            "wrongAnswer_2": "The upper esophagus is innervated by the glossopharyngeal nerve, which detects food bolus size and initiates voluntary swallowing. The lower esophagus is innervated directly by spinal cord efferents, which induce peristaltic movements in the smooth muscle. This results in independent control of the upper and lower esophageal segments.",
+            "wrongAnswer_3": "The esophagus is entirely controlled by autonomic nerves, with the sympathetic nervous system mediating both excitation and inhibition of muscle contraction. In the upper esophagus, sympathetic fibers directly control skeletal muscle, while in the lower esophagus, they synapse on Schwann cells before reaching smooth muscle, resulting in irregular peristalsis.",
+            "wrongAnswer_4": "The innervation pattern is reversed in the esophagus, with the lower esophagus being directly innervated by the vagus nerve and the upper esophagus having indirect innervation through sympathetic ganglia. This means that the voluntary control is exerted on the lower esophagus, while the upper esophagus undergoes spontaneous, autonomic regulation."
+          },
+          {
+            "question": "How do the UES and LES function during swallowing, and what are the key regulatory mechanisms of the LES?",
+            "goodAnswer": "The UES opens upon swallowing and then contracts to prevent reflux. The LES and fundus relax before the peristaltic wave arrives, facilitating passage into the stomach. The LES is regulated by smooth muscle properties, nerves, and hormones. Basal tone is myogenic, increased by ACh and gastrin, with transient relaxation mediated by inhibitory neurons using VIP or NO as neurotransmitters. Sphincter tone is reduced in newborns and during pregnancy.",
+            "wrongAnswer_1": "The LES opens upon swallowing and then contracts, while the UES and fundus remain contracted. The LES is regulated only by sympathetic nerve activity, which induces sphincter contraction. Basal tone is entirely cholinergic, and transient relaxation is mediated by excitatory neurons using glutamate as the neurotransmitter. Sphincter tone increases significantly in newborns and during pregnancy.",
+            "wrongAnswer_2": "The UES relaxes before the peristaltic wave arrives, allowing food to enter the stomach. The LES and fundus contract to prevent backflow. The LES is regulated solely by hormones, with basal tone being entirely endocrine. Transient relaxation is mediated by sympathetic nerve activity, and sphincter tone is enhanced in older adults and during pregnancy.",
+            "wrongAnswer_3": "The UES and LES both contract simultaneously upon swallowing, propelling food directly into the stomach. The LES is regulated by skeletal muscle activity, and basal tone is controlled by voluntary nerve impulses. Transient relaxation is mediated by serotonin release, and sphincter tone remains constant throughout life.",
+            "wrongAnswer_4": "The UES is responsible for propelling food into the stomach, while the LES controls acid secretion. The LES is regulated only by gastric acid production, with basal tone being completely pressure-dependent. Transient relaxation is mediated by dopamine release, and sphincter tone is induced by parasympathetic activity alone."
+          },
+          {
+            "question": "How does the activity of the external oblique muscle affect esophageal peristalsis?",
+            "goodAnswer": "The external oblique muscle contracts above the bolus, pushing it down into the esophagus and initiating esophageal peristalsis.",
+            "wrongAnswer_1": "The external oblique muscle relaxes above the bolus, allowing it to move freely into the stomach without initiating esophageal peristalsis.",
+            "wrongAnswer_2": "The external oblique muscle contracts below the bolus, slowing down its movement through the esophagus and inhibiting esophageal peristalsis.",
+            "wrongAnswer_3": "The activity of the external oblique muscle has no effect on esophageal peristalsis, as it only controls gastric emptying and does not influence upper esophageal function.",
+            "wrongAnswer_4": "The external oblique muscle forces the esophagus to open wide, allowing food to directly enter the stomach without the need for peristalsis."
+          },
+          {
+            "question": "What are the primary functions of the upper esophageal sphincter (UES) and lower esophageal sphincter (LES) during swallowing?",
+            "goodAnswer": "The UES relaxes and then contracts upon swallowing, followed by contraction of the esophageal body. This process is largely anatomical. The LES and fundus relax before the peristaltic contraction arrives, facilitating passage into the stomach and preventing backflow. The LES is regulated by smooth muscle properties, nerves, and hormones.",
+            "wrongAnswer_1": "The UES contracts continuously to prevent food from entering the esophagus, while the LES remains relaxed to allow free movement of stomach contents upward. The LES is solely controlled by sympathetic nerve activity and is not influenced by hormones.",
+            "wrongAnswer_2": "The UES and LES both contract simultaneously upon swallowing to push the food bolus down. They are both directly innervated by sympathetic nerve fibers and do not rely on intrinsic smooth muscle activity or hormones for regulation.",
+            "wrongAnswer_3": "The UES relaxes, and the LES contracts during swallowing. The LES is primarily controlled by gastric acid production and is not influenced by nerve activity or hormones. This coordinated movement propels food from the stomach into the esophagus.",
+            "wrongAnswer_4": "The UES remains closed, while the LES opens wide before a peristaltic wave arrives. The LES is regulated only by parasympathetic nerve activity and is not affected by smooth muscle properties or hormones. This results in free passage of food into the stomach but also leads to frequent reflux."
+          },
+          {
+            "question": "Which of the following statements correctly describes the pressures in the esophagus at different points and during respiration?",
+            "goodAnswer": "The upper esophageal sphincter (UES) is at +50 mmHg, the esophagus is at -5 mmHg, and the lower esophageal sphincter (LES) is at +25 mmHg. During respiration, upper esophageal pressures align with intrathoracic pressures, and fundus pressures are similar to intra-abdominal pressures.",
+            "wrongAnswer_1": "The UES is at -5 mmHg, the esophagus is at +50 mmHg, and the LES is at +25 mmHg. During respiration, upper esophageal pressures align with intra-abdominal pressures, and fundus pressures are similar to intrathoracic pressures.",
+            "wrongAnswer_2": "The UES is at +25 mmHg, the esophagus is at +50 mmHg, and the LES is at -5 mmHg. During respiration, upper esophageal pressures align with intrathoracic pressures, and fundus pressures are similar to intra-abdominal pressures.",
+            "wrongAnswer_3": "The UES is at +5 mmHg, the esophagus is at +25 mmHg, and the LES is at +50 mmHg. During respiration, upper esophageal pressures align with intra-abdominal pressures, and fundus pressures are similar to intrathoracic pressures.",
+            "wrongAnswer_4": "The UES is at +50 mmHg, the esophagus is at +25 mmHg, and the LES is at -5 mmHg. During respiration, upper esophageal pressures align with intrathoracic pressures, and fundus pressures are similar to intra-abdominal pressures."
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

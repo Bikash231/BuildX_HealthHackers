@@ -1,0 +1,164 @@
+{
+  "mainTopic": {
+    "title": "Mitral stenosis",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Etiology, Pathophysiology",
+        "quizzes": [
+          {
+            "question": "What is the most common etiology for mitral stenosis?",
+            "goodAnswer": "Rheumatic heart disease",
+            "wrongAnswer_1": "Hypertensive heart disease",
+            "wrongAnswer_2": "Coronary artery disease",
+            "wrongAnswer_3": "Myocardial infarction",
+            "wrongAnswer_4": "Congenital heart defects"
+          },
+          {
+            "question": "What is the fundamental problem with mitral stenosis?",
+            "goodAnswer": "Inability to get blood from left atrium to the left ventricle",
+            "wrongAnswer_1": "Inability to get blood from right atrium to the right ventricle",
+            "wrongAnswer_2": "Inability to get blood from left ventricle to the left atrium",
+            "wrongAnswer_3": "Inability to get blood from right ventricle to the right atrium",
+            "wrongAnswer_4": "Inability to get blood from left atrium to the right ventricle"
+          },
+          {
+            "question": "What is the stenotic process in mitral stenosis?",
+            "goodAnswer": "Scarring and fibrosis of leaflets and chordae tendineae, which causes a commissural fusion. This leads to funnel-shaped orifice and pressure gradient across the valve.",
+            "wrongAnswer_1": "The total stroke volume increases, so more blood is pumped from the left ventricle to the left atrium. This leads to a ventricular remodelling, so the left ventricle enlarges.",
+            "wrongAnswer_2": "A specific mutation in the COL2A gen causes an error in the folding of collagen. This leads to an incorrect formation of the mitral valve and thus creating a funnel shaped orifice and pressure gradient across the valve.",
+            "wrongAnswer_3": "Due to a bacterial endocarditis, the valves are damaged by the pathogens. This leads to the changes on the surface of the valve, the outcome is the narrowing of the intervalvular space.",
+            "wrongAnswer_4": "It only occurs in people with a congenital bicuspidal mitral valve. In this case, instead of 3, there are 2 leaflets, which causes the narrowing of the intervalvular space."
+          },
+          {
+            "question": "What are the consequences of the elevated left atrial pressure in mitral stenosis?",
+            "goodAnswer": "Left atrial enlargement, blood stasis may lead to atrial thrombus formation and embolism, development of atrial fibrillation",
+            "wrongAnswer_1": "Left ventricular enlargement, blood stasis may lead to ventricular thrombus formation and embolism, development of ventricular fibrillation",
+            "wrongAnswer_2": "Left atrial enlargement, blood stasis may lead to atrial thrombus formation and embolism, development of atrial fluttern",
+            "wrongAnswer_3": "Left atrial enlargement, blood stasis may lead to atrial thrombus formation and embolism, development of ventricular fibrillation",
+            "wrongAnswer_4": "Left atrial enlargement, blood stasis may lead to ventricular thrombus formation and embolism, development of ventricular tachycardia"
+          },
+          {
+            "question": "What are the consequences of the elevated pulmonary vein pressure in mitral stenosis?",
+            "goodAnswer": "Leads to pulmonary artery hypertension, then right ventricular hypertrophy and dilation",
+            "wrongAnswer_1": "Leads to pulmonary artery thrombosis, then right ventricular hypertrophy and dilation",
+            "wrongAnswer_2": "Leads to pulmonary artery hypertension, then right atrial hypertrophy and dilation",
+            "wrongAnswer_3": "Leads to aortic hypertension, then right ventricular hypertrophy and dilation",
+            "wrongAnswer_4": "Leads to aortic hypertension, then left ventricular hypertrophy and dilation"
+          },
+          {
+            "question": "How is the severity of mitral stenosis determined?",
+            "goodAnswer": "By measuring the valve area",
+            "wrongAnswer_1": "By assessing the left ventricular ejection fraction",
+            "wrongAnswer_2": "By evaluating the size of the left atrium",
+            "wrongAnswer_3": "By checking for the presence of a heart murmur",
+            "wrongAnswer_4": "By measuring the heart rate"
+          }
+        ]
+      },
+      {
+        "title": "Clinical features",
+        "quizzes": [
+          {
+            "question": "How do the symptoms worsen with the severity of mitral stenosis?",
+            "goodAnswer": "Typically asymptomatic, dyspnea with marked effort, dyspnea with minimal effort, orthopnea, paroxysmal nocturnal dyspnea",
+            "wrongAnswer_1": "Paroxysmal nocturnal dyspnea, orthopnea, dyspnea with minimal effort, dyspnea with marked effort, typically asymptomatic",
+            "wrongAnswer_2": "Typically asymptomatic, orthopnea, paroxysmal nocturnal dyspnea, dyspnea with minimal effort, dyspnea with marked effort",
+            "wrongAnswer_3": "Dyspnea with minimal effort, dyspnea with marked effort, typically asymptomatic, orthopnea, paroxysmal nocturnal dyspnea",
+            "wrongAnswer_4": "Dyspnea with minimal effort, dyspnea with marked effort, paroxysmal nocturnal dyspnea, orthopnea, typically asymptomatic"
+          },
+          {
+            "question": "Why is fatigue common in mitral stenosis?",
+            "goodAnswer": "Patient cannot augment cardiac output",
+            "wrongAnswer_1": "Due to increased blood pressure in the lungs, which decreases oxygen supply to the muscles",
+            "wrongAnswer_2": "Because the heart is pumping too much blood, leading to exhaustion",
+            "wrongAnswer_3": "Due to increased heart rate causing dehydration and weakness",
+            "wrongAnswer_4": "Because of low levels of red blood cells, leading to poor oxygen delivery to tissues"
+          },
+          {
+            "question": "What are the findings during auscultation in mitral stenosis? ",
+            "goodAnswer": "Accentuated first heart sound, opening snap, diastolic rumble",
+            "wrongAnswer_1": "Midsystolic click,  late systolic murmur, opening snap",
+            "wrongAnswer_2": "Holosystolic murmur, accentuated first heart sound, midsystolic click",
+            "wrongAnswer_3": "Crescendo-decrescendo systolic murmur, accentuated second heart sound, closing snap",
+            "wrongAnswer_4": "Proto-meso-systolic murmur, midsystolic click, opening snap"
+          }
+        ]
+      },
+      {
+        "title": "Diagnostic testing, differential diagnosis",
+        "quizzes": [
+          {
+            "question": "Which methods are used to diagnose mitral stenosis?",
+            "goodAnswer": "Chest x-ray, electrocardiography, echocardiography, cardiac catheterization",
+            "wrongAnswer_1": "Open heart surgery, electrocardiography, echocardiography, cardiac catheterization",
+            "wrongAnswer_2": "Chest x-ray, open heart surgery, echocardiography, cardiac catheterization",
+            "wrongAnswer_3": "Chest x-ray, electrocardiography, open heart surgery, cardiac catheterization",
+            "wrongAnswer_4": "Chest x-ray, electrocardiography, echocardiography, open heart surgery"
+          },
+          {
+            "question": "What are the findings on chest x-ray in mitral stenosis?",
+            "goodAnswer": "Double density right cardiac border, convexity just below the left pulmonary artery, elevated left main bronchus, Kerley lines",
+            "wrongAnswer_1": "Triple density right cardiac border, concavity just below the right pulmonary artery, elevated right main bronchus, Tawara lines",
+            "wrongAnswer_2": "Double density right cardiac border, convexity just below the right pulmonary artery, elevated right main bronchus, His lines",
+            "wrongAnswer_3": "Double density right cardiac border, convexity just below the left pulmonary artery, depressed left main bronchus, Purkinje lines",
+            "wrongAnswer_4": "Double density right cardiac border, concavity just below the left pulmonary artery, depressed left main bronchus, Aschoff lines"
+          },
+          {
+            "question": "What are the findings with echocardiography in mitral stenosis?",
+            "goodAnswer": "Increased left atrial size, doming of valve leaflets, valve stenosis, valve area can be planimetered",
+            "wrongAnswer_1": "Decreased left atrial size, doming of valve leaflets, valve regurgitation, valve area can be planimetered",
+            "wrongAnswer_2": "Increased right atrial size, doming of valve leaflets, valve stenosis, valve area can be planimetered",
+            "wrongAnswer_3": "Decreased left ventricular size, doming of valve leaflets, valve stenosis, valve area can be planimetered",
+            "wrongAnswer_4": "Increased right ventricular size, doming of valve leaflets, valve stenosis, valve area can be planimetered"
+          },
+          {
+            "question": "In which cases is a cardiac catheterization indicated in the diagnosis of mitral stenosis?",
+            "goodAnswer": "Symptoms disproportionate to objective evidence, other forms of heart disease suspected, mitral regurgitation of uncertain degree",
+            "wrongAnswer_1": "History of hypertension, asymptomatic patient, routine screening for heart disease",
+            "wrongAnswer_2": "Regular chest pain without other findings, history of stroke, normal electrocardiogram",
+            "wrongAnswer_3": "Signs of anemia, history of diabetes, no significant valve dysfunction on echocardiography",
+            "wrongAnswer_4": "Family history of coronary artery disease, unexplained weight loss, routine pre-surgery clearance is needed for unrelated procedures"
+          },
+          {
+            "question": "What is the differential diagnosis of mitral stenosis?",
+            "goodAnswer": "Atrial myxoma, cor triatriatum, and congenital mitral stenosis",
+            "wrongAnswer_1": "Coronary artery disease, pericarditis, and left ventricular hypertrophy",
+            "wrongAnswer_2": "Dilated cardiomyopathy, heart failure, and aortic stenosis",
+            "wrongAnswer_3": "Pulmonary embolism, tricuspid regurgitation, and right ventricular failure",
+            "wrongAnswer_4": "Endocarditis, atrial fibrillation, and ventricular septal defect"
+          }
+        ]
+      },
+      {
+        "title": "Management",
+        "quizzes": [
+          {
+            "question": "Which antibiotic is used as secundary prevention in mitral stenosis?",
+            "goodAnswer": "penicillin",
+            "wrongAnswer_1": "ceftriaxone",
+            "wrongAnswer_2": "vancomycine",
+            "wrongAnswer_3": "doxycycline",
+            "wrongAnswer_4": "gentamicin"
+          },
+          {
+            "question": "Which medications are used to treat mitral stenosis?",
+            "goodAnswer": "Anticoagulation against thromboembolism, diuretics for congestion, rate control for atrial fibrillation",
+            "wrongAnswer_1": "Anticoagulation for congestion, diuretics against thromboembolism, rate control for atrial fibrillation",
+            "wrongAnswer_2": "Anticoagulation against thromboembolism, diuretics for atrial fibrillation, rate control for congestion",
+            "wrongAnswer_3": "Anticoagulation for atrial fibrillation, diuretics against thromboembolism, rate control for congestion",
+            "wrongAnswer_4": "Anticoagulation for congestion, diuretics for atrial fibrillation, rate control against thromboembolism"
+          },
+          {
+            "question": "Which methods are used as a mechanical relief in mitral stenosis?",
+            "goodAnswer": "Closed surgical commissurotomy, Open surgical commissurotomy, Valve replacement, Balloon mitral commissurotomy",
+            "wrongAnswer_1": "Coronary artery bypass grafting (CABG), Aortic valve replacement, Cardiac resynchronization therapy, Left ventricular assist device (LVAD) implantation",
+            "wrongAnswer_2": "Pulmonary artery catheterization, Endovenous laser therapy (EVLT), Balloon angioplasty for coronary disease, Temporary pacemaker insertion",
+            "wrongAnswer_3": "Defibrillator implantation, Transcatheter aortic valve implantation (TAVI), Left ventricular assist device (LVAD) implantation, Pulmonary artery catheterization",
+            "wrongAnswer_4": "Endovenous laser therapy (EVLT), Left ventricular assist device (LVAD) implantation, Coronary artery bypass grafting (CABG), Pacemaker implantation"
+          }
+        ]
+      }
+    ]
+  }
+}

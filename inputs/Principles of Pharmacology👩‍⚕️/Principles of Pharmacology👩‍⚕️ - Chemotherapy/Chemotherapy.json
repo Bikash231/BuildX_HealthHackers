@@ -1,0 +1,26 @@
+{
+  "mainTopic": {
+    "title": "Chemotherapy",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "General principles of cancer chemotherapy and drug resistance"
+      },
+      {
+        "title": "Cell Cycle Active agents: S / G2 / M phase specific and phase nonspecific chemotherapeutic agents"
+      },
+      {
+        "title": "Non Cell Cycle Active chemotherapeutic agents"
+      },
+      {
+        "title": "Toxicities of chemotherapeutic agents"
+      },
+      {
+        "title": "Combination Chemotherapy"
+      },
+      {
+        "title": "Tumor Host and cellular resistance"
+      }
+    ]
+  }
+}

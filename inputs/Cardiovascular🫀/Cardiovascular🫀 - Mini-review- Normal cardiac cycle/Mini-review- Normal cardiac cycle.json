@@ -1,0 +1,20 @@
+{
+  "mainTopic": {
+    "title": "Mini-review: Normal cardiac cycle",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Pressure, Flow, Circulation"
+      },
+      {
+        "title": "Systole vs. Diastole"
+      },
+      {
+        "title": "Cardiac cycle, Pressure gradients"
+      },
+      {
+        "title": "Heart rate (normal, fast, slow, origins & pathway through the heart)"
+      }
+    ]
+  }
+}

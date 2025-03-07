@@ -1,0 +1,20 @@
+{
+  "mainTopic": {
+    "title": "Medical Histology",
+    "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+    "subTopics": [
+      {
+        "title": "Light Microscopy"
+      },
+      {
+        "title": "Electron Microscopy"
+      },
+      {
+        "title": "Virtual Microscopy"
+      },
+      {
+        "title": "Basic Tissues"
+      }
+    ]
+  }
+}

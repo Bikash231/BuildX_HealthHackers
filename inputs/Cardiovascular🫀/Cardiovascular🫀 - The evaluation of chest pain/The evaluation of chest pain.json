@@ -1,0 +1,26 @@
+{
+  "mainTopic": {
+    "title": "The evaluation of chest pain",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Cardiac causes"
+      },
+      {
+        "title": "Gastrointestinal causes"
+      },
+      {
+        "title": "Musculoskeletal causes"
+      },
+      {
+        "title": "Aortic causes"
+      },
+      {
+        "title": "Pulmonary causes"
+      },
+      {
+        "title": "Psychological causes"
+      }
+    ]
+  }
+}

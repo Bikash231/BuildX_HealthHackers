@@ -1,0 +1,346 @@
+{
+  "mainTopic": {
+    "title": "Cervical neoplasia",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "Placental site trophoblastic tumor",
+        "quizzes": [
+          {
+            "question": "What is the most common sexually transmitted disease (STD) that is frequently diagnosed at genito-urinary clinics, and what are the highest rates of infection in which age group?",
+            "goodAnswer": "Genital warts (condylomata acuminata), 18-28 years old",
+            "wrongAnswer_1": "Syphilis, 30-40 years old",
+            "wrongAnswer_2": "Chlamydia, 50-60 years old",
+            "wrongAnswer_3": "Gonorrhea, 60-70 years old",
+            "wrongAnswer_4": "Herpes simplex virus (HSV), 10-15 years old"
+          },
+          {
+            "question": "Which HPV types are associated with genital warts, and which ones are strongly implicated in cervical and other anogenital cancers?",
+            "goodAnswer": "HPV types 6 and 11 are associated with genital warts, while types 16 and 18 are strongly implicated in cervical and other anogenital cancers.",
+            "wrongAnswer_1": "HPV types 16 and 18 are associated with genital warts, while types 6 and 11 are strongly implicated in cervical and other anogenital cancers.",
+            "wrongAnswer_2": "HPV types 2 and 4 are associated with genital warts, while types 16 and 18 are strongly implicated in breast and pancreatic cancers.",
+            "wrongAnswer_3": "HPV types 6 and 11 are associated with cervical cancer, while types 16 and 18 are strongly implicated in oral and esophageal cancers.",
+            "wrongAnswer_4": "HPV types 16 and 18 are associated with liver cancer, while types 6 and 11 are strongly implicated in skin cancer."
+          },
+          {
+            "question": "Which of the following chemotherapy drugs are used in the treatment of cervical cancer?",
+            "goodAnswer": "Cisplatin, 5-FU, Hydroxyurea, Ifosfamide, and Paclitaxel",
+            "wrongAnswer_1": "Methotrexate, Vincristine, Prednisone, Doxorubicin, and Bleomycin (VCP-DP)",
+            "wrongAnswer_2": "Cyclophosphamide, Doxorubicin, Vinblastine, and Decadron (CVD), plus 5-fluorouracil (5-FU)",
+            "wrongAnswer_3": "Tamoxifen, trastuzumab, and bevacizumab",
+            "wrongAnswer_4": "Erlotinib, sorafenib, and sunitinib"
+          },
+          {
+            "question": "What percentage of patients diagnosed with cervical cancer are found to be infected with the HPV virus, and what are the most common HPV types associated with genital warts and cervical cancer, respectively?",
+            "goodAnswer": "99.8% of patients with cervical cancer are HPV infected; HPV types 6 and 11 are associated with genital warts, while types 16 and 18 are strongly implicated in cervical cancer.",
+            "wrongAnswer_1": "It is estimated that 50% of women with cervical cancer are HPV positive, and the most common HPV types associated with genital warts are 16 and 18, while types 6 and 11 are implicated in cervical cancer.",
+            "wrongAnswer_2": "Only 10% of cervical cancer cases are linked to HPV infection, and the most common HPV types associated with genital warts are 31 and 33, while types 16 and 18 are associated with anal cancer but not cervical cancer.",
+            "wrongAnswer_3": "Approximately 20% of women with a normal pap smear are HPV positive, and HPV types 6 and 11 are associated with cervical cancer, while types 16 and 18 are associated with genital warts.",
+            "wrongAnswer_4": "More than 90% of cervical cancers are caused by HPV, and the most common HPV types associated with genital warts are 4 and 5, while types 16 and 18 are associated with oral cancer."
+          },
+          {
+            "question": "Which of the following is NOT a sign of cervical cancer?",
+            "goodAnswer": "Weight gain and fatigue",
+            "wrongAnswer_1": "Abnormal vaginal discharge",
+            "wrongAnswer_2": "Pelvic or back pain",
+            "wrongAnswer_3": "Pain on urination",
+            "wrongAnswer_4": "Heavier or longer menstrual bleeding"
+          },
+          {
+            "question": "What are the most common signs and symptoms of cervical cancer, and how is it typically diagnosed in the early stages?",
+            "goodAnswer": "Abnormal vaginal bleeding, pelvic pain, and abnormal discharge. It is often asymptomatic in the early stages and diagnosed by a Pap smear.",
+            "wrongAnswer_1": "Regular menstrual cycles, decreased vaginal discharge, and no pelvic pain. It is diagnosed by a routine blood test.",
+            "wrongAnswer_2": "Increased appetite, weight loss, and decreased urination. It is typically found during a routine chest x-ray.",
+            "wrongAnswer_3": "Dizziness, fatigue, and chest pain. It is diagnosed by a lumbar puncture.",
+            "wrongAnswer_4": "Abnormal hair growth, skin discoloration, and unexplained bruising. It is detected by a simple skin biopsy."
+          },
+          {
+            "question": "According to the staging system for cervical cancer, what is the clinical presentation of stage IA disease, and what are the characteristics of stage II disease?",
+            "goodAnswer": "Stage IA disease is diagnosed when the cancer is only visible under a microscope, meaning it is confined to the cervix. Stage II disease indicates that the cancer has invaded beyond the uterus but not the pelvic wall or the lower 1/3 of the vagina.",
+            "wrongAnswer_1": "Stage IA disease means that the cancer has spread to the pelvic wall, and stage II disease indicates that the cancer is only visible under a microscope and is confined to the cervix.",
+            "wrongAnswer_2": "Stage IA disease involves cancer invading beyond the uterus but not the pelvic wall or the lower 1/3 of the vagina, while stage II disease signifies that the cancer is diagnosed when it is visible to the naked eye and is confined to the cervix.",
+            "wrongAnswer_3": "Stage IA disease is characterized by cancer spreading to distant lymph nodes, and stage II disease involves cancer invading the uterus but not the bladder or rectum.",
+            "wrongAnswer_4": "Stage IA disease represents cancer that has invaded the pelvic wall and/or the lower 1/3 of the vagina, while stage II disease means that the cancer is limited to the cervix and is only detectable through imaging."
+          }
+        ]
+      },
+      {
+        "title": "Pap Smear, Infections Detected by Pap Smear",
+        "quizzes": [
+          {
+            "question": "Which of the following is NOT a sign of cervical cancer detected by a routine exam or self-examination?",
+            "goodAnswer": "A non-symmetrical cervix with irregular surface",
+            "wrongAnswer_1": "Abnormal vaginal bleeding after intercourse, between periods, or after menopause",
+            "wrongAnswer_2": "Heavier or longer-lasting menstrual bleeding",
+            "wrongAnswer_3": "Abnormal vaginal discharge, possibly foul-smelling",
+            "wrongAnswer_4": "Pelvic or back pain, pain on urination, or blood in the stool or urine"
+          },
+          {
+            "question": "What is the most common sexually transmitted disease (STD) in the United States?",
+            "goodAnswer": "Human papillomavirus (HPV) infection",
+            "wrongAnswer_1": "Chlamydia trachomatis infection",
+            "wrongAnswer_2": "Neisseria gonorrhoeae infection",
+            "wrongAnswer_3": "Treponema pallidum (syphilis) infection",
+            "wrongAnswer_4": "Herpes simplex virus infection"
+          },
+          {
+            "question": "How is external beam radiotherapy used in treating cervical cancer?",
+            "goodAnswer": "External beam radiotherapy delivers radiation to the cervix and regional lymph nodes by aiming high-energy beams from a machine outside the body, allowing precise targeting of the tumor while minimizing damage to surrounding healthy tissues.",
+            "wrongAnswer_1": "External beam radiotherapy is used to deliver a focused dose of radiation directly to the tumor by implanting radioactive seeds or wires into the cervix, ensuring complete destruction of cancer cells while leaving surrounding tissues intact.",
+            "wrongAnswer_2": "External beam radiotherapy involves surgically placing a radioactive source inside the vagina to irradiate the cervix from within, minimizing exposure to surrounding organs and reducing side effects compared to conventional radiotherapy.",
+            "wrongAnswer_3": "External beam radiotherapy utilizes low-energy radiation waves that are absorbed by the skin, preventing deeper penetration into the cervix and avoiding damage to vital organs such as the bladder and rectum.",
+            "wrongAnswer_4": "External beam radiotherapy is only effective in treating advanced-stage cervical cancer and does not provide any benefit in early-stage disease, as it cannot reach the tumor accurately while sparing healthy tissues."
+          },
+          {
+            "question": "What are the most common types of chemotherapy drugs used in treating cervical cancer?",
+            "goodAnswer": "Cisplatin, 5-FU, Hydroxyurea, Ifosfamide, and Paclitaxel are the most common chemotherapy drugs used in treating cervical cancer.",
+            "wrongAnswer_1": "The most common chemotherapy drugs used in treating cervical cancer are doxorubicin, vinblastine, and bleomycin.",
+            "wrongAnswer_2": "Radiation therapy is the primary treatment for all stages of cervical cancer, and chemotherapy is rarely used.",
+            "wrongAnswer_3": "Talc, povidone, and benzocaine are the most common chemotherapy drugs used in treating cervical cancer.",
+            "wrongAnswer_4": "Cervical cancer is only treated with surgery, and chemotherapy is not an option."
+          },
+          {
+            "question": "What are the primary methods of diagnosis and treatment for a trophoblastic site tumor?",
+            "goodAnswer": "Diagnosis is done through imaging (CT/MRI), blood tests (beta-hCG levels), and surgical biopsy; treatment consists of surgical removal of the tumor, followed by adjuvant chemotherapy with methotrexate, actinomycin D, and cisplatin.",
+            "wrongAnswer_1": "Diagnosis is done through a routine Pap smear, and treatment consists of radiation therapy alone, as surgical intervention is not recommended for trophoblastic tumors.",
+            "wrongAnswer_2": "A trophoblastic site tumor is diagnosed by measuring alpha-fetoprotein levels in the blood, and it is treated with hormone therapy instead of surgery or chemotherapy.",
+            "wrongAnswer_3": "Diagnosis is done by measuring estrogen and progesterone levels, and treatment involves only watchful waiting, as trophoblastic tumors are often benign.",
+            "wrongAnswer_4": "It is diagnosed by a physical exam alone, and treatment includes only palliative care, as there is no effective cure for trophoblastic tumors."
+          },
+          {
+            "question": "What are the most common types of chemotherapy drugs used in treating cervical cancer?",
+            "goodAnswer": "Cisplatin, 5-FU, hydroxyurea, ifosfamide, and paclitaxel are the most common chemotherapy drugs used in treating cervical cancer.",
+            "wrongAnswer_1": "Methotrexate, prednisone, and doxorubicin are the primary chemotherapy drugs used in treating cervical cancer.",
+            "wrongAnswer_2": "Trastuzumab, erlotinib, and temozolomide are the most common chemotherapy drugs used in treating cervical cancer.",
+            "wrongAnswer_3": "Adrucil, oxaliplatin, and gemcitabine are the most common chemotherapy drugs used in treating cervical cancer.",
+            "wrongAnswer_4": "Bevacizumab, vemurafenib, and erlotinib are the primary chemotherapy drugs used in treating cervical cancer."
+          },
+          {
+            "question": "What are the primary methods of diagnosis and treatment for a trophoblastic site tumor?",
+            "goodAnswer": "Diagnosis: Often asymptomatic, diagnosed incidentally; can be diagnosed by clinical presentation, radiographic findings, and blood tests for hCG levels; treated surgically by hysterectomy or chemotherapy with drugs like methotrexate or single-agent cisplatin.",
+            "wrongAnswer_1": "Diagnosis: Requires a specific genetic test to detect trophoblastic activity; treated medically with hormone therapy to regulate estrogen levels; involves radiation therapy to shrink the tumor before surgery.",
+            "wrongAnswer_2": "Diagnosis: Made by routine screening Pap tests in all women; treated primarily with long-term antibiotic therapy to control bacterial growth; requires open surgery to remove the tumor and surrounding lymph nodes.",
+            "wrongAnswer_3": "Diagnosis: Involves a series of blood tests and tissue biopsies; treated conservatively with observation alone, as most trophoblastic tumors regress spontaneously; rarely requires intervention, and symptoms usually resolve on their own.",
+            "wrongAnswer_4": "Diagnosis: Typically found during a routine ultrasound; treated by embolization of blood vessels supplying the tumor; requires a combination of chemotherapy, radiation, and hormone therapy."
+          },
+          {
+            "question": "What are the most common chemotherapy drugs used in treating cervical cancer?",
+            "goodAnswer": "Cisplatin, 5-FU, hydroxyurea, ifosfamide, and paclitaxel are the most frequently used chemotherapy drugs in treating cervical cancer.",
+            "wrongAnswer_1": "The most common chemotherapy drugs used in treating cervical cancer are doxorubicin, vincristine, and prednisone (AVB) regimen, which targets the rapid turnover of cancer cells while minimizing damage to normal tissues.",
+            "wrongAnswer_2": "Chemotherapy for cervical cancer typically involves high doses of radiation to shrink the tumor before surgery, making it easier to remove. This technique, known as pre-operative radiotherapy, aims to reduce the size of the tumor and prevent it from spreading further.",
+            "wrongAnswer_3": "Immunotherapy drugs such as ipilimumab and pembrolizumab are now the mainstay of treatment for advanced cervical cancer, as they target the immune system to fight cancer cells directly, while chemotherapy is rarely used.",
+            "wrongAnswer_4": "The most commonly used chemotherapy drugs in treating cervical cancer are trastuzumab and erlotinib, which specifically target HER2-positive tumors and block the growth of tumor blood vessels, respectively."
+          },
+          {
+            "question": "What are the most common chemotherapy drugs used in treating cervical cancer?",
+            "goodAnswer": "Cisplatin, 5-FU, hydroxyurea, ifosfamide, and paclitaxel are the most frequently used chemotherapy drugs in treating cervical cancer.",
+            "wrongAnswer_1": "The most common chemotherapy drugs used in treating cervical cancer are doxorubicin, vincristine, and prednisone (AVB) regimen, which targets fast-growing cancer cells while minimizing damage to normal tissues.",
+            "wrongAnswer_2": "Chemotherapy for cervical cancer typically involves a single drug, usually 5-fluorouracil (5-FU), which directly inhibits DNA synthesis in cancer cells, leading to their death.",
+            "wrongAnswer_3": "The standard chemotherapy regimen for cervical cancer consists of only natural compounds like herbs and vitamins, avoiding toxic synthetic drugs.",
+            "wrongAnswer_4": "Commonly used drugs include cyclophosphamide, methotrexate, fluorouracil, and prednisone (CMFP regimen), designed to shrink tumors and prevent the spread of cervical cancer cells."
+          }
+        ]
+      },
+      {
+        "title": "Cervical Intraepithelial Neoplasia (CIN) \u2013 Risk factors, Role of HPV, HPV infection risk factors,",
+        "quizzes": [
+          {
+            "question": "What is the most common clinical presentation of early-stage cervical cancer?",
+            "goodAnswer": "Often asymptomatic",
+            "wrongAnswer_1": "Severe abdominal pain",
+            "wrongAnswer_2": "Abnormal vaginal discharge only after menopause",
+            "wrongAnswer_3": "Regular, painless menstrual cycles",
+            "wrongAnswer_4": "Constant low-grade fever"
+          },
+          {
+            "question": "Which of the following statements is true about the role of HPV in cervical cancer?",
+            "goodAnswer": "HPV types 16 and 18 have been strongly implicated in cervical and other anogenital cancers, and 99.8% of patients who develop CIN are infected with the HPV virus. ",
+            "wrongAnswer_1": "Only HPV types 6 and 11 are oncogenic and contribute to cervical cancer development.",
+            "wrongAnswer_2": "HPV infection is only a minor risk factor for cervical cancer, and most women infected with HPV will not develop cancer.",
+            "wrongAnswer_3": "A vaccine against all HPV genotypes is available and eliminates the need for regular Pap smears.",
+            "wrongAnswer_4": "HPV infection is more common in women over 50, as older women have weaker immune systems."
+          },
+          {
+            "question": "How is a LEEP (loop electrosurgical excision procedure) typically performed, and what does it entail?",
+            "goodAnswer": "It involves using a wire loop electrode to remove abnormal tissue from the cervix after local anesthesia. It can be performed as an outpatient procedure with minimal recovery time.",
+            "wrongAnswer_1": "LEEP uses a laser beam to vaporize precancerous cells without requiring anesthesia, and it is typically done as a same-day procedure with no recovery needed.",
+            "wrongAnswer_2": "It entails surgically removing a cone-shaped section of cervical tissue by hand without the use of electricity, and it requires general anesthesia with an extended recovery period of several weeks.",
+            "wrongAnswer_3": "It is a diagnostic test that only removes a small sample of cells for analysis, and it does not treat cervical abnormalities. It is usually performed under sedation, and the results take several days to become available.",
+            "wrongAnswer_4": "It utilizes a metal loop to mechanically scrape off abnormal tissue from the cervix. It is a painful procedure that requires intravenous sedation and has a high risk of complications, making it rarely used in clinical practice."
+          },
+          {
+            "question": "What are the chances of a sexually active woman under the age of 25 contracting genital HPV infection, and what is the most common HPV type associated with cervical cancer?",
+            "goodAnswer": "Highest rates of genital HPV infection are consistently found in sexually active women under 25; HPV types 16 and 18 have been strongly implicated in cervical and other anogenital cancers.",
+            "wrongAnswer_1": "Genital HPV infection is most common in women over 30 due to cumulative exposure; HPV type 11 is the most prevalent strain associated with cervical cancer.",
+            "wrongAnswer_2": "The majority of sexually active women will contract genital HPV infection before age 25, and HPV type 6 is the most common type implicated in cervical cancer.",
+            "wrongAnswer_3": "Only a small percentage of sexually active women under 25 are infected with genital HPV, and HPV type 4 is the most frequent strain associated with cervical cancer.",
+            "wrongAnswer_4": "While the exact prevalence of genital HPV in young women is unknown, HPV type 2 has been consistently linked to most cases of cervical cancer."
+          },
+          {
+            "question": "Why is it more common to find genital HPV infection in younger women, and what are the most prevalent HPV types associated with cervical cancer?",
+            "goodAnswer": "Highest rates of genital HPV infection are consistently found in sexually active women under 25 years of age, and HPV types 16 and 18 have been strongly implicated in cervical and other anogenital cancers.",
+            "wrongAnswer_1": "Genital HPV infection is most prevalent in women over 40 due to their longer exposure to various sexual partners, and HPV types 2 and 4 are the most common types associated with cervical cancer.",
+            "wrongAnswer_2": "HPV infection rates are highest among postmenopausal women, and HPV types 1 and 3 have been consistently implicated in cervical cancer, while types 16 and 18 are associated with genital warts but not invasive cancer.",
+            "wrongAnswer_3": "Young women are less likely to be screened for HPV, leading to higher undetected infection rates, and HPV types 5 and 6 are the most prevalent in causing cervical cancer, while types 16 and 18 are associated with oral cancer.",
+            "wrongAnswer_4": "HPV infection rates increase steadily with age, and all HPV genotypes, including types 16 and 18, are equally likely to cause cervical cancer, making it impossible to determine which ones are more significant."
+          },
+          {
+            "question": "What is the most common clinical presentation of early-stage cervical cancer, and what are the common symptoms associated with it?",
+            "goodAnswer": "Many women are asymptomatic, and the most common symptom is abnormal vaginal bleeding.",
+            "wrongAnswer_1": "Constant, severe abdominal pain with no relation to menstrual cycles.",
+            "wrongAnswer_2": "Regular, predictable vaginal discharge with a sweet odor.",
+            "wrongAnswer_3": "Consistent lower back pain relieved by hot baths.",
+            "wrongAnswer_4": "Sudden onset of fatigue and weight loss without any other symptoms."
+          },
+          {
+            "question": "Which of the following statements correctly describes the process and application of a Pap smear in cervical cancer screening?",
+            "goodAnswer": "A Pap smear involves collecting exfoliated cells from the cervix to detect abnormalities. It is used to screen for cervical cancer by identifying precancerous changes or the presence of cancer cells.",
+            "wrongAnswer_1": "A Pap smear is a direct method of detecting cancer by visualizing the cervix with a microscope, eliminating the need for cell collection.",
+            "wrongAnswer_2": "The procedure involves injecting contrast material into the cervix to highlight abnormalities on an X-ray, providing a clear image of the extent of cervical cancer.",
+            "wrongAnswer_3": "It is a minimally invasive surgery that removes a small cone-shaped piece of tissue from the cervix to diagnose cancer. It is only used when other screening methods are inconclusive.",
+            "wrongAnswer_4": "A Pap smear utilizes ultrasound waves to produce an image of the cervix, revealing the presence of solid or cystic masses that indicate cervical cancer."
+          },
+          {
+            "question": "What are the chances of a sexually active woman under the age of 25 contracting genital HPV infection, and what is the most common HPV type associated with cervical cancer?",
+            "goodAnswer": "Highest rates of genital HPV infection are consistently found in sexually active women under 25, and HPV types 16 and 18 have been strongly implicated in cervical and other anogenital cancers.",
+            "wrongAnswer_1": "Approximately 10% of women under 25 are HPV positive, and HPV type 6 is the most common type associated with cervical cancer.",
+            "wrongAnswer_2": "It is rare for young women to contract HPV, and HPV type 11 is the most prevalent in cervical cancer cases.",
+            "wrongAnswer_3": "Only half of sexually active women under 25 have been exposed to HPV, and HPV type 33 is the most common HPV type associated with cervical cancer.",
+            "wrongAnswer_4": "While the majority of women will contract HPV before age 25, HPV type 5 has been strongly implicated in cervical cancer."
+          },
+          {
+            "question": "What are the chances of a sexually active woman under the age of 25 contracting genital HPV infection, and what is the most common HPV type associated with cervical cancer?",
+            "goodAnswer": "High rates of genital HPV infection are consistently found in sexually active women under 25, and HPV type 16 is the most common type associated with cervical cancer.",
+            "wrongAnswer_1": "Approximately 50% of women under 25 are infected with HPV, and HPV type 11 is the most common type associated with cervical cancer.",
+            "wrongAnswer_2": "Genital HPV infection is rare in women under 25, as their immune systems are typically strong, and HPV type 6 is the most common type associated with cervical cancer.",
+            "wrongAnswer_3": "While HPV infection is common, it rarely leads to cervical cancer, and HPV type 33 is the most common type associated with cervical cancer.",
+            "wrongAnswer_4": "Only a small percentage of women under 25 contract genital HPV infection, and HPV type 1 is the most common type associated with cervical cancer."
+          }
+        ]
+      },
+      {
+        "title": "Cervical cancer signs, Staging of Cervical Cancer, Type of Cancers,",
+        "quizzes": [
+          {
+            "question": "What is the most common type of HPV infection in women?",
+            "goodAnswer": "Clinically evident genital warts",
+            "wrongAnswer_1": "Cervical cancer",
+            "wrongAnswer_2": "Oral HPV infection",
+            "wrongAnswer_3": "HPV-associated infertility",
+            "wrongAnswer_4": "Chronic fatigue syndrome"
+          },
+          {
+            "question": "What are the primary methods used in the treatment of cervical cancer?",
+            "goodAnswer": "Surgery, radiotherapy, and chemotherapy are the mainstays of cervical cancer treatment.",
+            "wrongAnswer_1": "Hormone therapy, targeted drug therapy, and immunotherapy are the primary treatment modalities for cervical cancer.",
+            "wrongAnswer_2": "Traditional herbal remedies, acupuncture, and massage therapy are effective in treating cervical cancer.",
+            "wrongAnswer_3": "Stem cell therapy and genetic engineering are currently used to cure cervical cancer.",
+            "wrongAnswer_4": "Antibiotics and antiviral medications are the mainstay of cervical cancer treatment."
+          },
+          {
+            "question": "Which of the following is NOT a sign of early cervical cancer, as it is either non-specific or only appears in later stages?",
+            "goodAnswer": "Weight loss and fatigue",
+            "wrongAnswer_1": "Abnormal vaginal discharge",
+            "wrongAnswer_2": "Pelvic or back pain",
+            "wrongAnswer_3": "Pain on urination",
+            "wrongAnswer_4": "Blood in stool or urine"
+          },
+          {
+            "question": "What factors are associated with an increased risk of acquiring HPV?",
+            "goodAnswer": "More sexual partners, frequent intercourse, and sex with infected individuals.",
+            "wrongAnswer_1": "High body mass index (BMI), lack of exercise, and poor diet.",
+            "wrongAnswer_2": "Family history of autoimmune diseases, such as lupus or rheumatoid arthritis.",
+            "wrongAnswer_3": "Regular use of condoms and consistent sexual activity with only one partner.",
+            "wrongAnswer_4": "High socioeconomic status and access to routine HPV screening."
+          },
+          {
+            "question": "How does the risk of acquiring HPV increase with certain behaviors and conditions?",
+            "goodAnswer": "The risk increases with more sexual partners, frequent intercourse, and sex with infected individuals.",
+            "wrongAnswer_1": "HPV infection is only possible through direct blood transfusions, not casual contact.",
+            "wrongAnswer_2": "It is solely determined by genetics and does not change with lifestyle choices.",
+            "wrongAnswer_3": "Obesity and lack of exercise are major risk factors for HPV acquisition.",
+            "wrongAnswer_4": "Regular use of antibiotics eliminates the risk of HPV infection."
+          },
+          {
+            "question": "Which of the following is NOT a sign of early cervical cancer, as it is either non-specific or only appears in later stages?",
+            "goodAnswer": "Weight loss",
+            "wrongAnswer_1": "Abnormal vaginal discharge",
+            "wrongAnswer_2": "Pelvic or back pain",
+            "wrongAnswer_3": "Pain on urination",
+            "wrongAnswer_4": "Blood in stool or urine"
+          },
+          {
+            "question": "Which of the following is NOT a sign of early cervical cancer, as it is either non-specific or only appears in later stages?",
+            "goodAnswer": "Weight loss and fatigue",
+            "wrongAnswer_1": "Abnormal vaginal discharge",
+            "wrongAnswer_2": "Pelvic or back pain",
+            "wrongAnswer_3": "Pain on urination",
+            "wrongAnswer_4": "Blood in stool or urine"
+          },
+          {
+            "question": "What is the significance of the LEEP (loop electrosurgical excision procedure) in cervical cancer therapy?",
+            "goodAnswer": "LEEP is used to remove abnormal tissue from the cervix for diagnosis or treatment, allowing for precise tissue removal with minimal damage to surrounding areas.",
+            "wrongAnswer_1": "LEEP is a non-invasive technique that uses focused ultrasound waves to destroy cancerous cells without surgical intervention.",
+            "wrongAnswer_2": "The LEEP procedure is primarily used to prevent the spread of cancer by creating a protective barrier on the cervix, rather than removing abnormal tissue.",
+            "wrongAnswer_3": "It is a radiation therapy method that targets the cancerous cells while leaving healthy tissue unaffected.",
+            "wrongAnswer_4": "LEEP stands for Laser Enhanced Excision Procedure, and it involves using lasers to remove abnormal tissue from the cervix, which has replaced electrosurgical methods in recent years."
+          },
+          {
+            "question": "Which of the following is NOT a sign of early cervical cancer, as it is either non-specific or only appears in later stages?",
+            "goodAnswer": "Weight loss",
+            "wrongAnswer_1": "Abnormal bleeding after intercourse or between periods",
+            "wrongAnswer_2": "Heavier or longer menstrual bleeding",
+            "wrongAnswer_3": "Abnormal vaginal discharge",
+            "wrongAnswer_4": "Pelvic or back pain"
+          },
+          {
+            "question": "What is the most common clinical presentation of cervical cancer diagnosed at a later stage, making it a potentially lethal disease?",
+            "goodAnswer": "Asymptomatic, diagnosed incidentally",
+            "wrongAnswer_1": "Severe vaginal bleeding with pelvic pain",
+            "wrongAnswer_2": "Visible cervical lesion during routine examination",
+            "wrongAnswer_3": "Weight loss and fatigue without other explanations",
+            "wrongAnswer_4": "Abnormal vaginal discharge with foul odor"
+          },
+          {
+            "question": "What are the most common HPV types associated with genital warts, and which types are implicated in cervical and other anogenital cancers?",
+            "goodAnswer": "HPV types 6 and 11 are associated with genital warts, while types 16 and 18 are implicated in cervical and other anogenital cancers.",
+            "wrongAnswer_1": "HPV types 3 and 5 are associated with genital warts, while types 14 and 20 are implicated in cervical and other anogenital cancers.",
+            "wrongAnswer_2": "HPV types 8 and 12 are associated with genital warts, while types 22 and 31 are implicated in cervical and other anogenital cancers.",
+            "wrongAnswer_3": "HPV types 1 and 2 are associated with genital warts, while types 10 and 15 are implicated in cervical and other anogenital cancers.",
+            "wrongAnswer_4": "HPV types 6 and 11 are associated with cervical cancer, while types 16 and 18 are associated with oral warts."
+          }
+        ]
+      },
+      {
+        "title": "Treatments, Cervical Cancer Therapy",
+        "quizzes": [
+          {
+            "question": "What is the most common type of HPV infection, and what is the usual clinical presentation associated with it?",
+            "goodAnswer": "HPV-16 and HPV-18, typically asymptomatic but can progress to CIN and invasive cancer",
+            "wrongAnswer_1": "HPV-6 and HPV-11, which always cause genital warts but rarely progress to cancer",
+            "wrongAnswer_2": "HPV-31 and HPV-33, associated with only mild dysplasia and often clear spontaneously",
+            "wrongAnswer_3": "HPV-5 and HPV-20, rarely detected and do not contribute to cervical cancer development",
+            "wrongAnswer_4": "All HPV genotypes are equally prevalent and cause symptomatic disease in most infected individuals"
+          },
+          {
+            "question": "Which type of cancer therapy for cervical cancer utilizes teletherapy or brachytherapy as delivery methods?",
+            "goodAnswer": "Radiotherapy, which includes external beam therapy (teletherapy) and brachytherapy (internal therapy) to deliver radiation doses\u200b",
+            "wrongAnswer_1": "Surgery, which involves radical hysterectomy and pelvic lymph node dissection to remove the tumor and surrounding tissue\u200b",
+            "wrongAnswer_2": "Immunotherapy, which uses the body's own immune system to target and destroy cancer cells by infusing patients with white blood cells that have been trained to recognize and attack tumor cells\u200b",
+            "wrongAnswer_3": "Chemotherapy, which utilizes drugs such as cisplatin, 5-FU, hydroxyurea, ifosfamide, and paclitaxel to shrink tumors by interfering with cell division\u200b",
+            "wrongAnswer_4": "Hormonal therapy, which aims to reduce estrogen levels by using medications like tamoxifen or aromatase inhibitors to prevent tumor growth and induce regression in some cases\u200b"
+          },
+          {
+            "question": "What is the primary method of diagnosing cervical cancer in its earliest stages, and what are the most common screening methods used?",
+            "goodAnswer": "Cervical cancer is diagnosed primarily by a Pap smear, which screens for precancerous and cancerous changes in cervical cells. The most common screening methods include visual inspection with acetic acid, Lugol's solution, or colposcopy to detect abnormal areas.",
+            "wrongAnswer_1": "Cervical cancer is diagnosed by a routine blood test, which detects the presence of antibodies against HPV. Common screening methods include urinalysis, vaginal culture, and ultrasound imaging.",
+            "wrongAnswer_2": "A biopsy is the only reliable method for diagnosing cervical cancer, as it directly samples cervical tissue. It is typically performed after an abnormal result on a physical exam or imaging studies.",
+            "wrongAnswer_3": "Cervical cancer is diagnosed by a CT scan, which provides detailed images of the cervix and surrounding tissues. It allows for the detection of tumors, lymph node involvement, and distant metastases.",
+            "wrongAnswer_4": "A routine chest x-ray is used to diagnose cervical cancer by checking for any signs of lung or bone metastases. It helps to determine the stage of the disease and guide treatment decisions."
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "mainTopic": {
+    "title": "Male Reproductive system anatomy",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "Testis, Sertoli- and Leydig cells, epididymis, vas deferens, prostate"
+      },
+      {
+        "title": "Spermeogenesis, hormonal control of spermeogenesis, sperm physiology"
+      },
+      {
+        "title": "Semen, ejaculate, male infertility evaluation and sperm analysis"
+      },
+      {
+        "title": "Erection, ejaculation, Viagra and similar drugs"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "mainTopic": {
+    "title": "Arachidonic Acid Metabolism",
+    "content_info": "",
+    "subTopics": [
+      {
+        "title": "Arachidonic acid cascade: Derivates, enzimes and pathways",
+        "quizzes": [
+          {
+            "question": "How do COX-1 and COX-2 enzymes differ in their physiological roles, and what are the primary effects of their respective products?",
+            "goodAnswer": "COX-1 is constitutively expressed in most tissues and plays a role in homeostatic functions such as gastric mucosal protection, platelet aggregation (via thromboxane A2), and renal blood flow regulation. COX-2 is inducible and is primarily involved in inflammation, producing prostaglandins (e.g., PGE2, PGI2) that mediate pain, fever, and vasodilation in response to injury.",
+            "wrongAnswer_1": "COX-2 is constitutively expressed in most tissues and plays a role in homeostatic functions such as gastric mucosal protection, platelet aggregation (via thromboxane A2), and renal blood flow regulation. COX-1 is inducible and is primarily involved in inflammation, producing prostaglandins (e.g., PGE2, PGI2) that mediate pain, fever, and vasodilation in response to injury.",
+            "wrongAnswer_2": "COX-1 is constitutively expressed in most tissues and plays a role in inflammation, producing prostaglandins (e.g., PGE2, PGI2) . COX-2 is inducible and is primarily involved in homeostatic functions such as gastric mucosal protection, platelet aggregation (via thromboxane A2), and renal blood flow regulation.",
+            "wrongAnswer_3": "COX-1 is constitutively expressed in most tissues and plays a role in homeostatic functions such as gastric mucosal protection, platelet aggregation (via LTB4, LTC,D,E), and renal blood flow regulation. COX-2 is inducible and is primarily involved in inflammation, producing thromboxane A2 that mediate pain, fever, and vasodilation in response to injury.",
+            "wrongAnswer_4": "COX-1 is constitutively expressed in most tissues and plays a role in homeostatic functions such as gastric acid secretion, inhibiting platelet aggregation (via thromboxane A2), and renal blood flow regulation. COX-2 is inducible and is primarily involved in inflammation, producing prostaglandins (e.g., PGE2, PGI2) that mediate pain, fever, and vasodilation in response to injury."
+          },
+          {
+            "question": "What are the primary biological functions of cyclooxygenase-derived products, and how do they influence physiological processes?",
+            "goodAnswer": "Cyclooxygenase-derived products include prostaglandins (PGE2, PGI2) and thromboxane A2 (TXA2), which regulate vascular tone, platelet function, inflammation, and pain perception. PGE2 and PGI2 promote vasodilation, inhibit platelet aggregation, and modulate immune responses by suppressing cytokine production and mast cell activation. TXA2, produced by platelets, induces vasoconstriction and promotes platelet aggregation, playing a crucial role in hemostasis.",
+            "wrongAnswer_1": "Cyclooxygenase-derived products include prostaglandins (PGE2, PGI2) and thromboxane B2 (TXB2), which regulate vascular tone, platelet function, inflammation, and immune suppression. PGE2 and PGI2 promote vasoconstriction, enhance platelet aggregation, and stimulate immune cell activation by increasing cytokine release and mast cell degranulation. TXB2, produced by platelets, induces vasodilation and inhibits platelet aggregation, reducing the risk of thrombosis.",
+            "wrongAnswer_2": "Cyclooxygenase-derived products include prostaglandins (PGE2, PGI2) and thromboxane A2 (TXA2), which regulate vascular tone, immune function, and neurotransmission. PGE2 and PGI2 promote vasodilation, inhibit platelet aggregation, and stimulate pain receptors, but they also induce bronchoconstriction and reduce renal perfusion. TXA2, produced by neutrophils, plays a key role in inhibiting inflammation and reducing cytokine production.",
+            "wrongAnswer_3": "Cyclooxygenase-derived products include leukotrienes (LTB4, LTC4, LTD4) and prostacyclin (PGI2), which regulate immune function, pain sensation, and leukocyte recruitment. PGI2 and LTB4 promote vasodilation, platelet aggregation, and neutrophil chemotaxis, while TXA2 suppresses platelet activation and induces bronchodilation. These mediators are essential in controlling inflammatory responses and immune homeostasis.",
+            "wrongAnswer_4": "Cyclooxygenase-derived products include prostaglandins (PGE2, PGI2) and thromboxane A2 (TXA2), which primarily function in neurotransmission, respiratory regulation, and endocrine balance. PGE2 and PGI2 promote bronchodilation, enhance synaptic signaling, and increase gastric acid secretion, while TXA2 plays a role in immune tolerance and suppressing vascular contraction, reducing the likelihood of clot formation."
+          },
+          {
+            "question": "How do the cyclooxygenase (COX) and lipoxygenase (LOX) pathways differ in their metabolic products and biological functions?",
+            "goodAnswer": "The COX pathway converts arachidonic acid into prostaglandins (PGE2, PGI2) and thromboxanes (TXA2), which regulate inflammation, pain, vasodilation, and platelet function. The LOX pathway produces leukotrienes (LTB4, LTC4, LTD4, LTE4), which are mainly involved in neutrophil recruitment, smooth muscle contraction, and increased vascular permeability.",
+            "wrongAnswer_1": "The COX pathway generates leukotrienes (LTB4, LTC4, LTD4, LTE4), which regulate bronchodilation, platelet inhibition, and immune suppression, while the LOX pathway produces prostaglandins (PGE2, PGI2) and thromboxanes (TXA2), which primarily mediate fever and neurotransmitter release.",
+            "wrongAnswer_2": "The COX pathway converts arachidonic acid into prostaglandins (PGE2, PGI2) and leukotrienes (LTB4, LTC4, LTD4), which regulate pain perception and immune tolerance, while the LOX pathway produces thromboxanes (TXA2, TXB2), which primarily stimulate mast cell activation and cytokine release.",
+            "wrongAnswer_3": "The COX pathway and LOX pathway both produce thromboxanes and leukotrienes, but COX-derived products mainly function in chemotaxis and degranulation, while LOX-derived products are responsible for platelet aggregation and vascular homeostasis.",
+            "wrongAnswer_4": "The COX and LOX pathways both generate prostaglandins, thromboxanes, and leukotrienes, but their functions overlap completely, as all arachidonic acid derivatives contribute equally to inflammation, pain regulation, and hemostasis without distinct roles."
+          },
+          {
+            "question": "Which arachidonic acid-derived products are primarily produced by the following cell types?",
+            "goodAnswer": "Neutrophils primarily generate leukotrienes (LTB4, LTC4, LTD4).\nMacrophages and monocytes produce both prostaglandins (PGE2) and leukotrienes.\nPlatelets synthesize thromboxane A2 (TXA2).\nEndothelial cells produce prostacyclin (PGI2).",
+            "wrongAnswer_1": "Neutrophils primarily generate thromboxane A2 (TXA2).\nMacrophages and monocytes produce only prostacyclin (PGI2).\nPlatelets synthesize prostaglandins (PGE2, PGI2).\nEndothelial cells produce leukotrienes (LTB4, LTC4, LTD4).",
+            "wrongAnswer_2": "Neutrophils primarily generate prostacyclin (PGI2).\nMacrophages and monocytes produce both TXA2 and leukotrienes.\nPlatelets synthesize only leukotrienes (LTB4, LTC4, LTD4).\nEndothelial cells produce prostaglandins (PGE2).",
+            "wrongAnswer_3": "Neutrophils primarily generate prostaglandins (PGE2, PGI2).\nMacrophages and monocytes produce only TXA2.\nPlatelets synthesize leukotrienes (LTB4, LTC4, LTD4).\nEndothelial cells produce thromboxane A2 (TXA2).",
+            "wrongAnswer_4": "Neutrophils primarily generate prostaglandins (PGE2) and thromboxanes (TXA2).\nMacrophages and monocytes produce only prostacyclin (PGI2).\nPlatelets synthesize LTB4, LTC4, LTD4.\nEndothelial cells produce only thromboxane A2 (TXA2)."
+          },
+          {
+            "question": "What are the key enzymes and derivates in the synthesis of TXB2?",
+            "goodAnswer": "One of the pathways of AA metabolism is:\nPhospholipids → [phospholipase] → Arachidonic acid → [COX-1] → TXA2 → TXB2",
+            "wrongAnswer_1": "One of the pathways of AA metabolism is:\nPhospholipids → [cyclooxygenase] → Arachidonic acid → [lipoxygenase] → TXA2 → TXB2",
+            "wrongAnswer_2": "One of the pathways of AA metabolism is:\nArachidonic acid → [phospholipase] → Phospholipids → [COX-2] → TXA2 → TXB2",
+            "wrongAnswer_3": "One of the pathways of AA metabolism is:\nPhospholipids → [phospholipase] → Arachidonic acid → [COX-1] → PGI2 → TXB2",
+            "wrongAnswer_4": "One of the pathways of AA metabolism is:\nPhospholipids → [lipoxygenase] → Arachidonic acid → [COX-1] → LTB4 → TXA2 → TXB2"
+          },
+          {
+            "question": "What is the correct pathway the starts from Phospholipds and ends in LTB4, LTC4, LTD4 in the arachidonic acid cascade?",
+            "goodAnswer": "One of the pathways of AA metabolism is:\nPhospholipids → [phospholipase] → Arachidonic acid → [5-LO] → LTA3 → LTB4, LTC4, LTD4",
+            "wrongAnswer_1": "One of the pathways of AA metabolism is:\nPhospholipids → [cyclooxygenase] → Arachidonic acid → [5-LO] → LTA3 → LTB4, LTC4, LTD4",
+            "wrongAnswer_2": "One of the pathways of AA metabolism is:\nPhospholipids → [phospholipase] → Arachidonic acid → [COX-1] → LTA3 → LTB4, LTC4, LTD4",
+            "wrongAnswer_3": "One of the pathways of AA metabolism is:\nPhospholipids → [phospholipase] → Arachidonic acid → [5-LO] → TXA2 → LTB4, LTC4, LTD4",
+            "wrongAnswer_4": "One of the pathways of AA metabolism is:\nPhospholipids → [phospholipase] → Arachidonic acid → [COX-2] → LTA3 → LTB4, LTC4, LTD4"
+          }
+        ]
+      },
+      {
+        "title": "Biological Functions of Arachidonic Acid Products",
+        "quizzes": [
+          {
+            "question": "How does arachidonic acid metabolism contribute to fever production, and what are the key molecular mediators involved?",
+            "goodAnswer": "Fever is triggered by endogenous pyrogens such as IL-1 and IL-6, which stimulate COX activity in the hypothalamus. This leads to the conversion of arachidonic acid into prostaglandin E2 (PGE2). PGE2  increases the body's temperature set point, resulting in vasoconstriction, shivering, and heat conservation. Nonsteroidal anti-inflammatory drugs (NSAIDs) reduce fever by inhibiting COX, thereby decreasing PGE2 synthesis.",
+            "wrongAnswer_1": "Fever is triggered by exogenous pyrogens such as bacterial endotoxins, which directly activate lipoxygenase (LOX) enzymes in immune cells. This leads to the conversion of arachidonic acid into leukotriene B4 (LTB4), which stimulates vasoconstriction, platelet aggregation, and cytokine release, ultimately increasing the body’s temperature. NSAIDs work by blocking leukotriene synthesis, thereby reducing fever.",
+            "wrongAnswer_2": "Fever occurs when arachidonic acid is converted into thromboxane A2 (TXA2) by COX-2, increasing platelet aggregation and causing heat retention in tissues. TXA2 binds to hypothalamic receptors, leading to a higher thermoregulatory set point. NSAIDs, by inhibiting TXA2 production, prevent fever development and reduce systemic inflammation.",
+            "wrongAnswer_3": "Fever is caused by arachidonic acid metabolites such as prostacyclin (PGI2) and leukotriene D4 (LTD4), which stimulate the hypothalamus to increase metabolic rate and heat production. PGI2 and LTD4 promote vasodilation and cytokine activation, leading to a rise in temperature. NSAIDs work by blocking LTD4 receptors rather than inhibiting prostaglandin production.",
+            "wrongAnswer_4": "The production of fever is entirely independent of arachidonic acid metabolism and is solely controlled by hypothalamic neurotransmitters such as dopamine and serotonin. While PGE2 is present in feverish states, it does not play a causal role. Instead, fever is regulated by increased heat production in muscle tissue without involvement of inflammatory mediators. NSAIDs work by blocking serotonin receptors rather than inhibiting COX enzymes."
+          },
+          {
+            "question": "What are the biological functions of cyclooxygenase-derived products?",
+            "goodAnswer": "Prostaglandin E2 (PGE2) and prostacyclin (PGI2) inhibit immune cell activation, suppress cytokine production, and prevent mast cell activation. They also block platelet aggregation and promote vasodilation. In contrast, thromboxane (TXA2) causes vasoconstriction and induces platelet aggregation.",
+            "wrongAnswer_1": "Prostaglandin E2 (PGE2) and prostacyclin (PGI2) enhance immune cell activation, increase cytokine production, and stimulate mast cell degranulation. They also induce platelet aggregation and promote vasoconstriction. In contrast, thromboxane (TXA2) primarily functions in immune suppression and inhibits blood clot formation.",
+            "wrongAnswer_2": "Prostaglandin E2 (PGE2) and prostacyclin (PGI2) stimulate leukocyte migration, increase cytokine release, and enhance mast cell activation. They promote platelet aggregation and cause vasoconstriction. Thromboxane (TXA2), on the other hand, is responsible for vasodilation and reducing platelet adhesion.",
+            "wrongAnswer_3": "Prostaglandin E2 (PGE2) and prostacyclin (PGI2) function as pro-inflammatory mediators that enhance immune cell recruitment, increase mast cell activation, and promote vasoconstriction. Thromboxane (TXA2) primarily inhibits platelet aggregation and contributes to vascular permeability.",
+            "wrongAnswer_4": "Prostaglandin E2 (PGE2) and prostacyclin (PGI2) reduce immune activation, but their main role is to stimulate platelet adhesion and constrict blood vessels. Thromboxane (TXA2), on the other hand, functions as a vasodilator that prevents thrombosis and regulates cytokine synthesis."
+          },
+          {
+            "question": "The biological functions of lipoxygenase-derived products are:",
+            "goodAnswer": "Leukotriene B4 (LTB4) promotes neutrophil activation by inducing chemotaxis and degranulation. It also activates mast cells, leading to degranulation. Leukotrienes C, D, and E (LTC4, LTD4, LTE4) contribute to smooth muscle contraction and increase vascular permeability.",
+            "wrongAnswer_1": "Leukotriene B4 (LTB4) inhibits neutrophil activation, preventing chemotaxis and degranulation. Leukotrienes C, D, and E (LTC4, LTD4, LTE4) promote vasodilation and prevent smooth muscle contraction. Mast cells remain unaffected by leukotrienes and do not undergo degranulation.",
+            "wrongAnswer_2": "Leukotriene B4 (LTB4) functions as a vasodilator that suppresses neutrophil activation and blocks chemotaxis. Leukotrienes C, D, and E (LTC4, LTD4, LTE4) prevent vascular permeability and play no role in smooth muscle contraction. Mast cell activation is regulated by prostaglandins, not leukotrienes.",
+            "wrongAnswer_3": "Leukotriene B4 (LTB4) suppresses neutrophil activity, reducing degranulation and chemotaxis. Leukotrienes C, D, and E (LTC4, LTD4, LTE4) enhance platelet aggregation rather than affecting vascular permeability or smooth muscle contraction. Mast cell degranulation is triggered only by thromboxanes, not leukotrienes.",
+            "wrongAnswer_4": "Leukotriene B4 (LTB4) is responsible for increasing platelet aggregation and vasoconstriction instead of neutrophil activation. Leukotrienes C, D, and E (LTC4, LTD4, LTE4) act as anti-inflammatory mediators, reducing vascular permeability and relaxing smooth muscle. Mast cell degranulation is primarily regulated by thromboxanes."
+          }
+        ]
+      },
+      {
+        "title": "NSAID",
+        "quizzes": [
+          {
+            "question": "What is the primary mechanism of action of nonsteroidal anti-inflammatory drugs (NSAIDs)?",
+            "goodAnswer": "NSAIDs inhibit cyclooxygenase (COX) enzymes, reducing the conversion of arachidonic acid into prostaglandins and thromboxanes. By blocking COX-1 and/or COX-2, NSAIDs decrease inflammation, pain, and fever while also affecting platelet function and gastrointestinal protection.",
+            "wrongAnswer_1": "NSAIDs inhibit lipoxygenase (LOX), preventing the synthesis of leukotrienes. This reduces neutrophil activation, smooth muscle contraction, and vascular permeability, leading to decreased inflammation and pain.",
+            "wrongAnswer_2": "NSAIDs directly neutralize arachidonic acid, preventing its metabolism through both the COX and LOX pathways. This eliminates the production of all inflammatory mediators, providing complete pain relief without affecting platelet function or gastrointestinal protection.",
+            "wrongAnswer_3": "NSAIDs block thromboxane synthesis while leaving prostaglandin production intact. This leads to reduced platelet aggregation but has no effect on inflammation, pain, or fever.",
+            "wrongAnswer_4": "NSAIDs act by selectively increasing prostacyclin (PGI2) production while inhibiting thromboxane A2 (TXA2). This results in enhanced vasodilation and reduced platelet aggregation without affecting inflammation or pain perception."
+          },
+          {
+            "question": "How does aspirin exert its anti-thrombogenic effects, and how does it differentially affect platelets and endothelial cells?",
+            "goodAnswer": "Aspirin irreversibly inhibits platelet COX, blocking thromboxane A2 (TXA2) production and preventing aggregation. Since platelets lack nuclei, this effect lasts for their lifetime. It also inhibits endothelial prostacyclin (PGI2), but endothelial cells regenerate COX, making this effect temporary.",
+            "wrongAnswer_1": "Aspirin reversibly inhibits COX enzymes in both platelets and endothelial cells, leading to a temporary decrease in thromboxane A2 (TXA2) and prostacyclin (PGI2) levels. Since platelets and endothelial cells can regenerate COX enzymes at the same rate, the effects of aspirin wear off within hours.",
+            "wrongAnswer_2": "Aspirin selectively inhibits COX in endothelial cells while leaving platelet COX unaffected. This results in a sustained reduction of prostacyclin (PGI2) production without altering thromboxane A2 (TXA2) synthesis, leading to increased platelet aggregation over time.",
+            "wrongAnswer_3": "Aspirin permanently blocks prostacyclin (PGI2) synthesis in endothelial cells while only temporarily reducing thromboxane A2 (TXA2) levels in platelets. Since platelets can rapidly regenerate COX enzymes, their pro-thrombotic activity resumes within hours, making aspirin ineffective in preventing thrombosis.",
+            "wrongAnswer_4": "Aspirin acts by directly degrading thromboxane A2 (TXA2) molecules in the bloodstream rather than inhibiting COX enzymes. It does not affect endothelial prostacyclin (PGI2) synthesis and has no long-term impact on platelet aggregation."
+          },
+          {
+            "question": "What are the effects of COX-2 inhibitors, and how do they impact inflammation and cardiovascular risk?",
+            "goodAnswer": "COX-2 inhibitors reduce inflammation, pain, and fever while sparing COX-1, preserving gastric protection and platelet function. However, they inhibit endothelial prostacyclin (PGI2) without affecting platelet thromboxane A2 (TXA2), increasing thrombosis risk.",
+            "wrongAnswer_1": "COX-2 inhibitors reduce inflammation but inducing COX-1, leading to increased gastric damage and prolonged bleeding times, making them less safe than traditional NSAIDs.",
+            "wrongAnswer_2": "COX-2 inhibitors primarily act on platelets, blocking thromboxane A2 (TXA2) synthesis while leaving prostacyclin (PGI2) production intact. This results in reduced platelet aggregation and a lower risk of cardiovascular events.",
+            "wrongAnswer_3": "COX-2 inhibitors suppress both prostacyclin (PGI2) and thromboxane A2 (TXA2) equally, meaning they have no significant effect on thrombosis risk compared to traditional NSAIDs.",
+            "wrongAnswer_4": "COX-2 inhibitors selectively increase prostacyclin (PGI2) production while reducing thromboxane A2 (TXA2), leading to enhanced vasodilation, reduced platelet aggregation, and a lower risk of clot formation."
+          }
+        ]
+      }
+    ]
+  }
+}

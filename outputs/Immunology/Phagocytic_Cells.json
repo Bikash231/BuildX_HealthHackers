@@ -1,0 +1,251 @@
+{
+  "mainTopic": {
+      "title": "Phagocytic Cells",
+      "content_info": "",
+      "subTopics": [
+          {
+              "title": "Types and functions of phagocytic cells",
+              "quizzes": [
+                  {
+                      "question": "What is the primary mechanism by which neutrophils, once they have entered tissues, are able to kill microbes?",
+                      "goodAnswer": "Neutrophils kill microbes by releasing oxygen radicals, elastase, collagenase, and acid hydrolases from their lysosomes.",
+                      "wrongAnswer_1": "Neutrophils produce antibodies that directly neutralize microbes in tissue.",
+                      "wrongAnswer_2": "Neutrophils release cytokines that stimulate fibroblasts to engulf and kill microbes.",
+                      "wrongAnswer_3": "Neutrophils only become cytotoxic after being activated by macrophages.",
+                      "wrongAnswer_4": "Neutrophils secrete hormones that suppress the immune response in tissues."
+                  },
+                  {
+                      "question": "Which of the following is a key characteristic of the oxidative response of phagocytes?",
+                      "goodAnswer": "It involves the production of superoxide anion, hydrogen peroxide, hydroxyl radical, and hypochlorous acid, which are collectively known as reactive oxygen metabolites (ROMs).",
+                      "wrongAnswer_1": "Oxidative responses in phagocytes primarily involve the production of nitrogen oxides, such as nitric oxide (NO), which directly neutralize pathogens.",
+                      "wrongAnswer_2": "The oxidative response consists of generating high levels of carbon dioxide and lactic acid to create an acidic environment that inhibits bacterial growth.",
+                      "wrongAnswer_3": "Phagocytes, unlike other cell types, do not produce hydrogen peroxide; instead, they rely solely on superoxide anion and hydroxyl radicals for microbe killing.",
+                      "wrongAnswer_4": "The oxidative burst in phagocytes is mediated by the enzyme cyclooxygenase (COX), which converts arachidonic acid into prostaglandins and thromboxanes."
+                  },
+                  {
+                      "question": "How does superoxide dismutase (SOD) contribute to the protective mechanisms against oxidant-induced damage in phagocytes?",
+                      "goodAnswer": "It converts superoxide anion into hydrogen peroxide\u200b",
+                      "wrongAnswer_1": "It breaks down hydrogen peroxide into water and oxygen",
+                      "wrongAnswer_2": "It inhibits the production of reactive oxygen species by NADPH oxidase",
+                      "wrongAnswer_3": "It directly neutralizes hypochlorous acid in phagolysosomes",
+                      "wrongAnswer_4": "It enhances the activity of myeloperoxidase in producing HOCl"
+                  },
+                  {
+                      "question": "Which of the following is NOT a direct target of reactive oxygen species (ROS) produced by neutrophils?",
+                      "goodAnswer": "Phospholipids, as ROS primarily target unsaturated lipids, proteins, and nucleic acids\u200b",
+                      "wrongAnswer_1": "Proteins, which can be modified by ROS at sulfhydryl groups, methionine, and tyrosine residues\u200b",
+                      "wrongAnswer_2": "Nucleic acids, which are susceptible to damage from hydroxyl radicals and hydrogen peroxide\u200b",
+                      "wrongAnswer_3": "Saturated fats, which are resistant to oxidation by ROS compared to unsaturated fats\u200b",
+                      "wrongAnswer_4": "Cellulose, which is a major component of plant cell walls and is unaffected by human neutrophils\u200b"
+                  },
+                  {
+                      "question": "Which of the following is NOT a direct target of reactive oxygen species (ROS) produced by neutrophils?",
+                      "goodAnswer": "Nucleic acids are not a direct target of ROS in neutrophils. While ROS can damage DNA, their primary targets are lipids, proteins, and even alpha-1-antitrypsin. Nucleic acids are generally protected from direct oxidation by cellular mechanisms.",
+                      "wrongAnswer_1": "Proteins are a direct target of ROS, as they can be modified by changes in sulfhydryl groups, methionine, and tyrosine residues.",
+                      "wrongAnswer_2": "Alpha-1-antitrypsin is a direct target of ROS produced by neutrophils. ROS can inactivate this protein, reducing its ability to neutralize elastase.",
+                      "wrongAnswer_3": "Unsaturated lipids are susceptible to lipid peroxidation by ROS, leading to cell membrane damage.",
+                      "wrongAnswer_4": "Hydrogen peroxide, superoxide anion, hydroxyl radical, and hypochlorous acid are examples of reactive oxygen metabolites (ROMs) produced during the respiratory burst, all of which can damage cellular components."
+                  },
+                  {
+                      "question": "Which of the following is a direct target of reactive oxygen species (ROS) produced by neutrophils?",
+                      "goodAnswer": "Phospholipids, leading to their peroxidation\u200b",
+                      "wrongAnswer_1": "Nucleic acids, causing direct DNA replication errors",
+                      "wrongAnswer_2": "Elastase, leading to its direct activation rather than degradation",
+                      "wrongAnswer_3": "Alpha-1-antitrypsin, which neutralizes ROS to prevent tissue damage",
+                      "wrongAnswer_4": "Hydrogen peroxide, which is not a ROS but a protective enzyme"
+                  },
+                  {
+                      "question": "Why is it that hydrogen peroxide, while being a relatively weak oxidant alone, becomes cytotoxic in the presence of myeloperoxidase (MPO) and chloride?",
+                      "goodAnswer": "MPO catalyzes the conversion of hydrogen peroxide and chloride into hypochlorite, a potent oxidant that amplifies its cytotoxic effects",
+                      "wrongAnswer_1": "Hydrogen peroxide is the most cytotoxic of the reactive oxygen species and does not require myeloperoxidase for its effects",
+                      "wrongAnswer_2": "Myeloperoxidase breaks down hydrogen peroxide into oxygen and water, rendering it less toxic",
+                      "wrongAnswer_3": "Hydrogen peroxide only becomes cytotoxic when combined with nitric oxide synthase (NOS) instead of myeloperoxidase",
+                      "wrongAnswer_4": "Hypochlorite is produced by neutrophils but does not contribute to bacterial killing; it only regulates immune suppression\n"
+                  },
+                  {
+                      "question": "What are the targets of neutrophil-derived oxidants and proteases, and how do these targets contribute to tissue damage?",
+                      "goodAnswer": "Neutrophil-derived oxidants and proteases primarily target unsaturated lipids, proteins, and nucleic acids. Reactive oxygen metabolites (ROMs) like superoxide anion, hydrogen peroxide, hydroxyl radical, and hypochlorous acid can lead to lipid peroxidation, modification of sulfhydryl groups, methionine, and tyrosine residues in proteins, and damage to DNA and RNA.",
+                      "wrongAnswer_1": "Neutrophils primarily target only necrotic cells and do not damage healthy tissues. Their oxidants and proteases are contained within phagolysosomes and do not spill into the surrounding tissues.",
+                      "wrongAnswer_2": "The primary targets of neutrophil-derived products are bacteria and fungi. These agents only damage microbes and do not significantly affect human cells due to the immune system's tight regulation.",
+                      "wrongAnswer_3": "Neutrophil oxidants and proteases mainly target extracellular matrix components such as collagen and elastin, while leaving lipids, proteins, and nucleic acids intact. They do not affect cell signaling pathways or induce inflammation.",
+                      "wrongAnswer_4": "Hydrogen peroxide, even in the absence of myeloperoxidase (MPO), is highly cytotoxic and can directly kill bacteria without the need for other reactive oxygen species (ROS)."
+                  },
+                  {
+                      "question": "Which of the following is a direct target of reactive oxygen species (ROS) produced by neutrophils?",
+                      "goodAnswer": "Unsaturated lipids, leading to lipid peroxidation\u200b",
+                      "wrongAnswer_1": "Saturated lipids, resulting in membrane stabilization\u200b",
+                      "wrongAnswer_2": "Nucleic acids, leading to enhanced protein synthesis\u200b",
+                      "wrongAnswer_3": "Amino acids, resulting in increased cell proliferation\u200b",
+                      "wrongAnswer_4": "Phospholipids, leading to decreased chemotaxis and adhesion\u200b"
+                  },
+                  {
+                      "question": "Which of the following is a direct target of reactive oxygen species (ROS) produced by neutrophils?",
+                      "goodAnswer": "Phospholipids, proteins, and nucleic acids",
+                      "wrongAnswer_1": "Red blood cells, platelets, and endothelial cells",
+                      "wrongAnswer_2": "Hydrogen peroxide, superoxide anion, and hydroxyl radical",
+                      "wrongAnswer_3": "Alpha-1-antitrypsin, elastase, and collagenase",
+                      "wrongAnswer_4": "Kupffer cells, dendritic cells, and natural killer cells"
+                  }
+              ]
+          },
+          {
+              "title": "Neutrophils and Macrophages"
+          },
+          {
+              "title": "Targets of Neutrophil Products",
+              "quizzes": [
+                  {
+                      "question": "What is the primary mechanism by which neutrophils kill bacteria, and what are the key cytotoxic products involved in this process?",
+                      "goodAnswer": "Neutrophils kill bacteria by releasing degranulation products such as bactericidal proteins, proteases, and acid hydrolases, along with reactive oxygen metabolites (ROMs) like superoxide anion, hydrogen peroxide, hydroxyl radical, and hypochlorous acid, which damage microbial cell walls and lipids.",
+                      "wrongAnswer_1": "Neutrophils primarily use direct mechanical pressure to crush bacteria, aided by the release of small amounts of calcium and sodium ions that help break down bacterial cell walls.",
+                      "wrongAnswer_2": "Neutrophils produce large quantities of carbon dioxide and nitrogen gas, which suffocate bacteria and prevent them from replicating, leading to their eventual death.",
+                      "wrongAnswer_3": "Neutrophils release antibodies that bind to bacteria, causing them to clump together in a process called agglutination, which prevents them from adhering to host cells and spreading within the body.",
+                      "wrongAnswer_4": "Neutrophils release cytokines such as TNF-alpha and IL-6, which directly attack and destroy bacterial DNA, leading to their rapid destruction."
+                  },
+                  {
+                      "question": "Which of the following is NOT a target of neutrophil-derived oxidants and proteases, meaning it remains unaffected by the action of these cytotoxic agents?",
+                      "goodAnswer": "Red blood cells are unaffected by oxidants and proteases",
+                      "wrongAnswer_1": "Endothelial cells are susceptible to damage from elastase and hydroxyl radicals",
+                      "wrongAnswer_2": "Connective tissue is broken down by myeloperoxidase and hydrogen peroxide",
+                      "wrongAnswer_3": "Epithelial cells can be destroyed by superoxide anion and nitric oxide",
+                      "wrongAnswer_4": "Platelets are susceptible to the effects of acid hydrolases and other proteases"
+                  },
+                  {
+                      "question": "How does alpha-1-anti-trypsin protect against elastase-induced damage, and what is its source?",
+                      "goodAnswer": "Alpha-1-anti-trypsin is a plasma protein that binds elastase, inhibiting its activity and preventing excessive tissue destruction.",
+                      "wrongAnswer_1": "Alpha-1-anti-trypsin is produced by neutrophils to directly kill bacteria instead of regulating protease activity.",
+                      "wrongAnswer_2": "It is a cell-derived inhibitor of metalloproteinases (MMPs) and does not bind elastase.",
+                      "wrongAnswer_3": "Alpha-1-anti-trypsin functions by scavenging superoxide radicals rather than neutralizing elastase.",
+                      "wrongAnswer_4": "It is primarily responsible for breaking down necrotic tissue instead of protecting against elastase activity."
+                  },
+                  {
+                      "question": "Which specific reactive oxygen metabolites (ROMs) are produced by neutrophils to eliminate pathogens, and what are their respective roles in microbial killing?",
+                      "goodAnswer": "Superoxide anion (O2-) is generated by NADPH oxidase, hydrogen peroxide (H2O) is produced by superoxide dismutase, hydroxyl radical (OH-) is formed by the Fenton reaction, and hypochlorous acid (HOCl) is synthesized from hydrogen peroxide and chloride ions.",
+                      "wrongAnswer_1": "Superoxide anion (O2-) is generated by NADPH oxidase, hydrogen peroxide (H2O) is produced by superoxide dismutase, hydroxyl radical (OH-) is formed by the Fenton reaction, and nitric oxide (NO) is synthesized from arginine.",
+                      "wrongAnswer_2": "Nitric oxide (NO) is generated by NADPH oxidase, hydrogen peroxide (H2O) is produced by superoxide dismutase, hydroxyl radical (OH-) is formed by the Fenton reaction, and hypochlorous acid (HOCl) is synthesized from hydrogen peroxide and chloride ions.",
+                      "wrongAnswer_3": "Superoxide anion (O2-) is generated by NADPH oxidase, hydrogen peroxide (H2O) is produced by superoxide dismutase, nitric oxide (NO) is formed by the Fenton reaction, and hypochlorous acid (HOCl) is synthesized from hydrogen peroxide and chloride ions.",
+                      "wrongAnswer_4": "Nitric oxide (NO), hydrogen peroxide (H2O), hydroxyl radical (OH-), and macrophage colony-stimulating factor (M-CSF) are the cytotoxic products of neutrophils, playing crucial roles in bacterial elimination."
+                  },
+                  {
+                      "question": "How do neutrophils, once they have crossed the vascular wall, navigate to the site of infection or tissue injury?",
+                      "goodAnswer": "Neutrophils adhere to and are recruited by chemoattractant gradients of bacterial products, complement proteins, and cytokines.",
+                      "wrongAnswer_1": "Neutrophils randomly migrate without direction once inside the tissue, as they lack specific guidance mechanisms",
+                      "wrongAnswer_2": "They are guided by baroreceptors in their cell membrane, which detect pressure changes in blood flow and direct them toward areas of high resistance",
+                      "wrongAnswer_3": "Neutrophils are passively pushed by the force of gravity toward the injured site",
+                      "wrongAnswer_4": "They actively seek out areas with the highest oxygen concentration to ensure their survival\n"
+                  },
+                  {
+                      "question": "Which of the following is NOT a target of neutrophil-derived oxidants and proteases?",
+                      "goodAnswer": "Red blood cells are unaffected by oxidants and proteases",
+                      "wrongAnswer_1": "Bacteria are a primary target of neutrophil-derived cytotoxic products.",
+                      "wrongAnswer_2": "Connective tissue is susceptible to damage from both oxidants and proteases.",
+                      "wrongAnswer_3": "Endothelial cells can be injured by reactive oxygen species and proteolytic enzymes.",
+                      "wrongAnswer_4": "Neutrophils themselves are immune to the effects of their own cytotoxic products."
+                  },
+                  {
+                      "question": "What happens to the neutrophils once they have crossed the vascular wall and reached the extravascular space?",
+                      "goodAnswer": "Neutrophils, once in the extravascular space, are guided by chemotactic factors such as bacterial products, complement fragments (C5a), and cytokines like IL-8, which attract them to the site of infection or tissue injury.",
+                      "wrongAnswer_1": "Neutrophils immediately undergo apoptosis after crossing the vascular wall to ensure they do not cause collateral damage in normal tissues.",
+                      "wrongAnswer_2": "Once extravascular, neutrophils become dormant and require further activation by macrophages before they can participate in microbial killing.",
+                      "wrongAnswer_3": "Neutrophils, once in the extravascular space, are transported by lymphatic vessels back to the bloodstream for recirculation throughout the body.",
+                      "wrongAnswer_4": "Neutrophils automatically return to the bloodstream after crossing the vascular wall to maintain immune homeostasis and prevent excessive inflammation."
+                  },
+                  {
+                      "question": "What are the functions of neutrophils and macrophages in host defense, and what happens to these cells during prolonged inflammation?",
+                      "goodAnswer": "Neutrophils and macrophages function to ingest foreign material, kill bacteria, and degrade necrotic tissue and foreign antigens. However, these cells can cause tissue damage during prolonged inflammation.",
+                      "wrongAnswer_1": "Neutrophils are responsible for producing antibodies to neutralize bacterial toxins, while macrophages primarily function to transport immune complexes to lymph nodes; during prolonged inflammation, these cells undergo apoptosis and are replaced by fibroblasts.",
+                      "wrongAnswer_2": "Neutrophils and macrophages work together to form granulomas, which isolate pathogens and prevent systemic spread of infection; during prolonged inflammation, these cells differentiate into mast cells, which release histamine and cytokines.",
+                      "wrongAnswer_3": "Neutrophils primarily function to produce cytokines that recruit other immune cells, while macrophages engulf bacteria and present antigens to lymphocytes; during prolonged inflammation, these cells become anergic and lose their ability to kill microbes.",
+                      "wrongAnswer_4": "Neutrophils and macrophages only become active in the presence of sunlight, which stimulates them to release chemotactic factors; prolonged inflammation leads to the activation of regulatory T cells, which suppress immune responses and promote tissue repair."
+                  }
+              ]
+          },
+          {
+              "title": "Protective mechansims",
+              "quizzes": [
+                  {
+                      "question": "What is the role of myeloperoxidase (MPO) in neutrophil function, and what does it produce?",
+                      "goodAnswer": "Myeloperoxidase (MPO) is an enzyme found in azurophilic granules of neutrophils. It utilizes hydrogen peroxide to generate hypochlorous acid (HOCl) from chloride ions, serving as a potent bactericidal agent against microbes.",
+                      "wrongAnswer_1": "Myeloperoxidase (MPO) is a protein found in cytoplasmic granules of neutrophils. It utilizes nitric oxide (NO) to generate superoxide anion (O2-), which then combines with H+ to form hydrogen peroxide (H2O2).",
+                      "wrongAnswer_2": "Myeloperoxidase (MPO) is a key enzyme responsible for degrading bacterial lipopolysaccharide (LPS) to prevent excessive inflammation. It acts by converting L-arginine into nitric oxide (NO).",
+                      "wrongAnswer_3": "Myeloperoxidase (MPO) is a component of neutrophil lysosomes that facilitates the synthesis of superoxide dismutase (SOD) from L-arginine, allowing for the detoxification of reactive oxygen species.",
+                      "wrongAnswer_4": "Myeloperoxidase (MPO) is a chemoattractant produced by macrophages to recruit neutrophils to the site of infection. It binds to C5a receptors on neutrophils, inducing adhesion and degranulation."
+                  },
+                  {
+                      "question": "Which of the following targets of reactive oxygen species (ROS) produced by neutrophils can lead to tissue injury?",
+                      "goodAnswer": "Phospholipids, proteins, and nucleic acids\u200b",
+                      "wrongAnswer_1": "Red blood cells, platelets, and lymphocytes",
+                      "wrongAnswer_2": "Only bacterial DNA, not host DNA",
+                      "wrongAnswer_3": "Hydrogen ions, calcium, and magnesium",
+                      "wrongAnswer_4": "Keratin and collagen of the epidermis"
+                  },
+                  {
+                      "question": "How do anti-proteases function in protecting tissues from neutrophil-mediated damage?",
+                      "goodAnswer": "Anti-proteases such as \u03b1-1-anti-protease and \u03b1-2-macroglobulin inhibit the activity of various proteases, preventing them from causing widespread tissue destruction.",
+                      "wrongAnswer_1": "Anti-proteases enhance the activity of neutrophil-derived proteases, increasing their ability to break down tissue components.",
+                      "wrongAnswer_2": "Anti-proteases only function by suppressing the production of reactive oxygen species (ROS), not by directly inhibiting proteases.",
+                      "wrongAnswer_3": "\u03b1-1-anti-protease and \u03b1-2-macroglobulin promote degranulation of neutrophils, leading to increased protease release and tissue damage.",
+                      "wrongAnswer_4": "Anti-proteases are only active in the presence of nitric oxide (NO) and become inactive without it."
+                  },
+                  {
+                      "question": "What happens to the majority of neutrophils after they have been released from the bone marrow?",
+                      "goodAnswer": "They circulate in the bloodstream until they are recruited to sites of inflammation.",
+                      "wrongAnswer_1": "They immediately migrate to the tissues to begin phagocytosis.",
+                      "wrongAnswer_2": "They differentiate into macrophages within the bloodstream.",
+                      "wrongAnswer_3": "They remain in the bone marrow until they are activated by cytokines.",
+                      "wrongAnswer_4": "They are stored in the spleen for later use in immune responses."
+                  },
+                  {
+                      "question": "Which of the following processes is NOT facilitated by the action of selectins and integrins during neutrophil recruitment?",
+                      "goodAnswer": "Chemotaxis of neutrophils towards inflammatory mediators like IL-8 and C5a",
+                      "wrongAnswer_1": "Rolling of neutrophils along the vascular endothelium",
+                      "wrongAnswer_2": "Adhesion of neutrophils to the vascular endothelium",
+                      "wrongAnswer_3": "Transmigration of neutrophils across the vascular endothelium",
+                      "wrongAnswer_4": "Activation of NADPH oxidase on neutrophils by chemoattractants"
+                  },
+                  {
+                      "question": "Why is it that prolonged inflammation can lead to tissue damage even though neutrophils are essential for host defense?",
+                      "goodAnswer": "Neutrophils, when activated, release reactive oxygen species (ROS) and proteases that can damage surrounding tissues. In addition, their short lifespan means they quickly undergo apoptosis, releasing nuclear material that further contributes to inflammation.",
+                      "wrongAnswer_1": "Inflammation leads to the recruitment of macrophages, which release cytokines that directly damage tissues. Neutrophils, while producing oxidants, have no significant role in this process.",
+                      "wrongAnswer_2": "Prolonged inflammation causes neutrophils to release only anti-proteases and antioxidants, which suppress tissue repair and lead to chronic inflammation.",
+                      "wrongAnswer_3": "Neutrophils normally remain in the bloodstream and do not participate in tissue injury. Their activation only occurs in immune-privileged sites like the brain and eyes.",
+                      "wrongAnswer_4": "The primary function of neutrophils is to regulate blood vessel permeability. While they release bactericidal proteins, these do not cause tissue damage but rather enhance immune tolerance."
+                  },
+                  {
+                      "question": "What are the primary functions of neutrophils and macrophages in host defense, and how do these functions contribute to overall immune protection?",
+                      "goodAnswer": "Neutrophils and macrophages both ingest foreign material, kill bacteria and other microbes, and degrade necrotic tissue and foreign antigens. Neutrophils primarily function in early immune responses by rapidly recruiting to infection sites, phagocytizing pathogens, and releasing cytotoxic mediators. Macrophages, with their longer lifespan, play a role in antigen presentation, cytokine production, and the clearance of cellular debris.",
+                      "wrongAnswer_1": "Neutrophils are responsible for producing antibodies and activating T cells, while macrophages primarily function in blood vessel dilation and recruiting other immune cells. Together, they help control inflammation and promote tissue repair.",
+                      "wrongAnswer_2": "Neutrophils and macrophages both produce nitric oxide and superoxide, which directly neutralize pathogens without the need for phagocytosis. They also help in angiogenesis and growth factor production to promote immune cell proliferation.",
+                      "wrongAnswer_3": "Neutrophils primarily function in antigen presentation and cytokine secretion, while macrophages engulf pathogens but are unable to kill bacteria or degrade necrotic tissue. They play a minor role in host defense compared to other immune cells.",
+                      "wrongAnswer_4": "Neutrophils and macrophages have distinct functions: neutrophils are responsible for producing chemokines and recruiting other leukocytes, while macrophages only participate in the adaptive immune response by presenting antigens to T cells without direct microbial killing or debris clearance."
+                  },
+                  {
+                      "question": "Which of the following statements correctly describes the action of a specific anti-protease in inhibiting neutrophil-mediated tissue damage?",
+                      "goodAnswer": "\u03b1-1-anti-protease inhibits elastase, preventing the breakdown of elastin and tissue destruction.",
+                      "wrongAnswer_1": "\u03b22-microglobulin neutralizes the effects of superoxide dismutase, leading to increased oxidative stress.",
+                      "wrongAnswer_2": "C-reactive protein activates metalloproteinases, enhancing tissue remodeling and immune response.",
+                      "wrongAnswer_3": "Interleukin-10 (IL-10) promotes neutrophil degranulation and induces the release of toxic enzymes into tissues.",
+                      "wrongAnswer_4": "Histamine, released by basophils, functions as an anti-protease that protects tissues from neutrophil-mediated damage."
+                  },
+                  {
+                      "question": "What are the primary functions of neutrophils and macrophages in host defense, and how do these functions contribute to overall immune protection?",
+                      "goodAnswer": "Neutrophils and macrophages both engulf foreign invaders, kill bacteria, and degrade necrotic tissue. Neutrophils primarily function in bacterial killing and phagocytosis, producing oxidants and releasing lysosomal enzymes. Macrophages, with their longer lifespan, play a role in antigen presentation, cytokine production, and the recruitment of other immune cells.",
+                      "wrongAnswer_1": "Neutrophils are responsible for antigen presentation and cytokine production, while macrophages primarily kill bacteria and degrade necrotic tissue. Macrophages also have a role in recruiting other immune cells, but neutrophils do not produce oxidants or release lysosomal granules.",
+                      "wrongAnswer_2": "Both neutrophils and macrophages primarily function in immune suppression. Neutrophils inhibit bacterial killing and phagocytosis, while macrophages suppress cytokine production and antigen presentation. They both play a role in downregulating immune responses to prevent excessive inflammation.",
+                      "wrongAnswer_3": "Neutrophils and macrophages have distinct roles: neutrophils kill bacteria and degrade necrotic tissue, while macrophages are involved in opsonization, mast cell activation, and direct cytotoxicity. Neutrophils do not release lysosomal granules, and macrophages do not participate in cytokine production.",
+                      "wrongAnswer_4": "While neutrophils primarily function in extracellular matrix remodeling and angiogenesis, macrophages are responsible for antibody production and T cell activation. Both cell types play a role in immune regulation, but neither is directly involved in bacterial killing or phagocytosis."
+                  },
+                  {
+                      "question": "Which of the following statements correctly describes the action of a specific anti-protease in inhibiting neutrophil-mediated tissue damage?",
+                      "goodAnswer": "\u03b1-1-anti-protease (anti-trypsin) binds elastase, preventing its action on tissues.",
+                      "wrongAnswer_1": "\u03b22-microglobulin neutralizes the effects of superoxide dismutase, leading to increased oxidative stress.",
+                      "wrongAnswer_2": "C-reactive protein enhances the activity of neutrophils by directing them toward injured tissues.",
+                      "wrongAnswer_3": "Interleukin-10 (IL-10) promotes the degranulation of neutrophils, resulting in the release of more toxic enzymes.",
+                      "wrongAnswer_4": "Macrophages, unlike neutrophils, do not require anti-proteases for protection against elastase activity."
+                  }
+              ]
+          }
+      ],
+      "team_name": "Health Hackers"
+  }
+}

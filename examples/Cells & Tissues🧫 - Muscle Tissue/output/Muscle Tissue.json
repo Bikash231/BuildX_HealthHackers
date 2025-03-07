@@ -1,0 +1,169 @@
+{
+  "mainTopic": {
+    "title": "Muscle Tissue ",
+    "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+    "subTopics": [
+      {
+        "title": "Types of muscle tissue ",
+        "quizzes": [
+          {
+            "question": "What are the types of striated muscle?",
+            "goodAnswer": "Skeletal muscle which have long cylindrical multinucleated cells with peripherally placed nuclei, and Cardiac muscle which are elongated branched cells with a single centrally placed nucleus and intercalated discs at the ends.",
+            "wrongAnswer_1": "Skeletal muscle, which have elongated branched cells with a single centrally placed nucleus and intercalated discs at the ends, and Cardiac muscle which have long cylindrical multinucleated cells with peripherally placed nuclei.",
+            "wrongAnswer_2": "Skeletal muscle which have long cylindrical multinucleated cells with peripherally placed nuclei, and Smooth muscle which is irregularly arranged fusiform cells with a central nucleus. ",
+            "wrongAnswer_3": "Cardiac muscle which have elongated branched cells with a single centrally placed nuclei and intercalated discs at the ends and smooth muscle which have irregularly arranged fusiform cells with a central nucleus.",
+            "wrongAnswer_4": "Only skeletal muscle, which have elongated branched cells with a single centrally placed nucleus and intercalated discs at the ends"
+          },
+          {
+            "question": "What are the individual range of function of striated and smooth muscle?",
+            "goodAnswer": "Striated muscles consist of skeletal muscle which have quick and vigorous contraction and cardiac muscle which is involuntary, vigorous and rhythmic for the heart. Smooth muscles have involuntary slow and long lasting function, for internal organs. ",
+            "wrongAnswer_1": "Striated muscles consist of skeletal muscle which have involuntary slow and long lasting function and cardiac muscle which is involuntary, vigorous and rhythmic. Smooth muscles have quick and vigorous action, used for locomotion, mastication and phonation,",
+            "wrongAnswer_2": "Striated muscles consist of only skeletal muscle, which have voluntary quick and vigorous contraction. Smooth muscles consist of cardiac muscles which have involuntary vigorous and rhythmic action and smooth muscle itself which have involuntary slow and long lasting function. ",
+            "wrongAnswer_3": "Striated muscles have irregularly arranged contractile machinery and hence both skeletal muscle and cardiac muscle have quick vigorous contraction. While smooth muscles have regularly arranged contractile units and therefore have involuntary slow and long lasting action ",
+            "wrongAnswer_4": "They both have a similar range of function -- quick and vigorous contraction upon sympathetic activation and slow, long lasting contraction upon parasympathetic activation. Striated muscles consist of skeletal and cardiac muscle while smooth muscle is found in internal organs and blood vessels. "
+          },
+          {
+            "question": "What are the layers of skeletal muscle from outside to inside?",
+            "goodAnswer": "Epimysium (dense irregular ct), perimysium (less dense), endomysium (basal lamina and reticular fibers) and the muscle fiber itself. ",
+            "wrongAnswer_1": "Perimysium (less dense), epimysium (dense irregular ct), endomysium (basal lamina and reticular fibers) and the muscle fiber itself. ",
+            "wrongAnswer_2": "Perimysium (less dense), endomysium (basal lamina and reticular fibers, epimysium (dense irregular ct), and the muscle fiber itself. ",
+            "wrongAnswer_3": "Epimysium (dense irregular ct), endomysium (basal lamina and reticular fibers), perimysium (less dense), and the muscle fiber itself. ",
+            "wrongAnswer_4": "Endomysium (basal lamina and reticular fibers), epimysium (dense irregular ct), perimysium (less dense), and the muscle fiber itself. "
+          }
+        ]
+      },
+      {
+        "title": "Structure of skeletal muscle fibers   ",
+        "quizzes": [
+          {
+            "question": "What forms the two ends of the sarcomere, the contractile unit of striated muscle?",
+            "goodAnswer": "Z line",
+            "wrongAnswer_1": "A band",
+            "wrongAnswer_2": "H zone ",
+            "wrongAnswer_3": "M line ",
+            "wrongAnswer_4": "Actin and myosin"
+          },
+          {
+            "question": "What are the 2 bands and 1 zone of the sarcomere called and what do they consist of?",
+            "goodAnswer": "H zone: thick filaments only, A band: thick and thin filaments, I band: thin filaments only",
+            "wrongAnswer_1": "H zone: thick and thin filaments, A band: thick filaments only, I band: thin filaments only",
+            "wrongAnswer_2": "H zone: thin filaments only, A band: thick and thin filaments, I band: thick filaments only",
+            "wrongAnswer_3": "A zone: thick filaments only, I band: thick and thin filaments, H band: thin filaments only",
+            "wrongAnswer_4": "A zone: thin filaments only, I band: thick and thin filaments, H bandL thin filaments only"
+          },
+          {
+            "question": "What is the T tubule system and what is its function?",
+            "goodAnswer": "T tubules are transverse tubules that run perpendicular to myofibrils and conduct membrane depolarization deep into the fibers. Its action is the propagation of contractory signals and release of Ca. ",
+            "wrongAnswer_1": "T tubules are transverse tubules that run perpendicular to myofibrils and induce Ca absorption in the muscle fibers, causing repolarization which stimulates the propagation of contractory signals. ",
+            "wrongAnswer_2": "The T tubule system consists of external cell membrane channels that facilitate nutrient exchange between muscle fibers and blood vessels. It plays a crucial role in supplying oxygen and glucose to muscle fibers during contraction.",
+            "wrongAnswer_3": "T tubules are transitional tubules that run perpendicular to microtubules and conduct membrane depolarization deep into the fibers. Its action is the propagation of contractory signals and release of Ca. ",
+            "wrongAnswer_4": "The T tubule system involve a network of elastic fibers that provide structural support to muscle fibers, allowing them to contract and relax while maintaining their structure. Without them, muscle cells would completely collapse upon contraction, preventing movement. "
+          }
+        ]
+      },
+      {
+        "title": "Mechanism by which muscle cells contract ",
+        "quizzes": [
+          {
+            "question": "What is the sliding filament theory?",
+            "goodAnswer": "Skeletal muscle fibers are composed of many contractile units (sarcomeres) and changes in the amount of overlap between thick and thin filaments allows for contraction and relaxation of muscle fibers. Many fibers contracting together result in gross movement    ",
+            "wrongAnswer_1": "Skeletal muscle fibers are composed of fusiform non-striated cells and changes in the amount of overlap between thick and thin filaments allows for contraction and relaxation of muscle fibers. Many fibers contracting together result in gross movement    ",
+            "wrongAnswer_2": "Skeletal muscles contract due to the sliding of microtubules within muscle fibers, which occurs because of a chemical reaction between the muscle fibers and microtubules. When many microtubules slide within, gross movement results. ",
+            "wrongAnswer_3": "Skeletal muscle fibers expand and contract by the absorption and release of calcium, which causes the thick and thin filaments to rotate around their own axis resulting in gross movement. ",
+            "wrongAnswer_4": "Skeletal muscle fibers contract by the interaction between protein molecules within T tubules that form temporary bonds, which then break and reform in a synchronized manner. This cyclical process of breaking and reforming results in a visible shortening and lengthening of muscle fibers. "
+          },
+          {
+            "question": "What are the steps, in order, of the contraction cycle?",
+            "goodAnswer": "ATP binds myosin, myosin releases actin, ATP hydrolysis induces conformational change, myosin head cocks forwards, myosin weakly binds to actin, release of P, P induces strong binding, power stroke, release of ADP",
+            "wrongAnswer_1": "ATP binds myosin, myosin attaches to actin, ATP hydrolysis induces conformational change, myosin head loosens its attachment to actin, release of P, P induces the full release of actin, myosin head cocks forwards, ADP is released",
+            "wrongAnswer_2": "ATP hydrolysis induces a conformational change, myosin head cocks forwards, ATP binds myosin, myosin weakly binds to actin, release of P, P induces strong bonding, myosin release actin, power stroke, release of ADP",
+            "wrongAnswer_3": "Myosin is weakly bound to actin, power stroke, release of ADP, P induces strong binding, myosin releases actin, ATP binds myosin, ATP hydrolysis induces conformational change, myosin head cocks forwards, release of P",
+            "wrongAnswer_4": "Release of P, myosin releases actin, power stroke, ATP binds myosin, ATP hydrolysis induces conformational change, myosin head cocks forwards, myosin weakly binds to actin, release of ADP, P induces strong binding"
+          },
+          {
+            "question": "What happens at the neuromuscular junction synapse that activates skeletal muscle contraction by nervous system excitation?",
+            "goodAnswer": "An action potential stimulates the release of acetylcholine from the axon terminal into the synaptic cleft, which binds sodium channel receptors and initiates another action potential in the sarcomere. ",
+            "wrongAnswer_1": "At the neuromuscular junction, norepinephrine is released into the synaptic cleft and binds to calcium channel receptors on the muscle fiber. This binding initiates a chemical reaction in the muscle fiber which propagates to cause overall skeletal muscle contraction.",
+            "wrongAnswer_2": "At the neuromuscular junction, glutamate is released into the synaptic cleft and binds to magnesium channel receptors on the muscle fiber. This binding process initiates an action potential in the sarcolemma of the muscle cell, resulting in muscle contraction.",
+            "wrongAnswer_3": "The release of dopamine from the axon terminal into the synaptic cleft causes an influx of calcium, resulting in depolarization of the muscle fiber. This depolarization initiates an action potential in the sarcoplasmic reticulum. ",
+            "wrongAnswer_4": "An action potential causes the release of serotonin from the axon terminal into the synaptic cleft, which binds chloride channel receptors and leads to the relaxation of muscle fibers."
+          },
+          {
+            "question": "What is the action of T tubules and sarcoplasmic reticulum in skeletal muscle activation?",
+            "goodAnswer": "T tubules conduct membrane depolarization, helping in signal propagation. Sarcoplasmic reticulum have voltage gated channels that detect membrane depolarization in T tubules and release Ca in response. ",
+            "wrongAnswer_1": "T tubules make up the rigid structural framework within muscle cells, supporting the alignment of myofibrils during contraction. Sarcoplasmic reticulum produces hormones that control the growth and differentiation of muscle fibers over time.",
+            "wrongAnswer_2": "T tubules  have voltage gated channels that detect membrane depolarization in the sarcoplasmic reticulum and release Ca in response. Sarcoplasmic reticulum conduct membrane depolarization, helping in signal propagation. ",
+            "wrongAnswer_3": "T tubules are involved in nutrient transport within muscle cells, ensuring a steady supply of glucose and oxygen. Sarcoplasmic reticulum store proteins that are essential for muscle repair and growth. ",
+            "wrongAnswer_4": "T tubules function to promote membrane repolarization which induces skeletal muscle activation. Sarcoplasmic reticulum stores hydrogen ions which help neutralize the lactic acid produced during muscle activity. "
+          },
+          {
+            "question": "What does the release of Ca from the sarcoplasmic reticulum induce?",
+            "goodAnswer": "TnC binds Ca and induces the release of TnI from actin, which results in the binding of myosin to actin. This induces a power stroke in which the myosin heads pivot and actin filaments are pulled towards the center of the sarcomere. This action shortens the sarcomere and leads to muscle contraction.",
+            "wrongAnswer_1": "The calcium released from the sarcoplasmic reticulum causes Tnl to bind to TnC which prevents the myosin heads from pivoting and the actin filaments from moving. This results in the inhibition of a power stroke and the actin filaments remain stationary. This action maintains the sarcomere length and prevents muscle contraction.",
+            "wrongAnswer_2": "Tnl binds Ca and induces the release of TnC from myosin, which results in the binding of actin to myosin. This induces a power stroke where the actin heads pivot and myosin filaments are pulled towards the center of the sarcomere. This action shortens the sarcomere and leads to muscle contraction",
+            "wrongAnswer_3": "Ca released from the sarcoplasmic reticulum activates TnT, which binds to tropomyosin and promotes the binding of myosin to actin. This activates the power stroke, and the myosin heads pivot while the actin filaments are pushed towards the center of the sarcomere. This action shortens the sarcomere and leads to muscle contraction.",
+            "wrongAnswer_4": "TnC secreted from the sarcoplasmic reticulum induces the binding of tropomyosin to actin, which inhibits the binding of myosin to actin. This forces the myosin heads to remain stationary. As a result, actin filaments are pushed towards the periphery of the sarcomere. This action lengthens the sarcomere and leads to muscle relaxation."
+          }
+        ]
+      },
+      {
+        "title": "Cardiac muscle",
+        "quizzes": [
+          {
+            "question": "What are the tissue features of cardiac muscle?",
+            "goodAnswer": "Striated (same contractile machinery), self-excitatory and electrically coupled, rate of contractions modulated by autonomic nervous system",
+            "wrongAnswer_1": "Striated (same contractile machinery), voluntarily excitable and electrically coupled, rate of contractions modulated by autonomic nervous system",
+            "wrongAnswer_2": "Striated (same contractile machinery), voluntarily excitable and electrically coupled, rate of contractions modulated by the peripheral nervous system",
+            "wrongAnswer_3": "Smooth (same contractile machinery), voluntarily excitable and electrically coupled, rate of contractions modulated by autonomic nervous system",
+            "wrongAnswer_4": "Smooth (same contractile machinery),self-excitatory and electrically coupled, rate of contractions modulated by autonomic nervous system"
+          },
+          {
+            "question": "What are the cell features of cardiac muscle?",
+            "goodAnswer": "1 or 2 centrally placed nuclei, branched fibers with intercalated discs, numerous mitochondria (up to 40% of cell volume) and sarcoplasmic reticulum & T tubules appear as diads at Z lines.",
+            "wrongAnswer_1": "Multiple peripherally placed nuclei, unbranched fibers without intercalated discs, few mitochondria (less than 10% of cell volume) and sarcoplasmic reticulum & T tubules appear as triads at A lines.",
+            "wrongAnswer_2": "Single nucleus located at the edge, straight fibers with no intercalated discs, minimal mitochondria (approximately 5% of cell volume) and sarcoplasmic reticulum & T tubules appear as triads at M lines.",
+            "wrongAnswer_3": "Numerous nuclei distributed along the fibers, unbranched fibers with no intercalated discs, sparse mitochondria (around 15% of cell volume) and sarcoplasmic reticulum & T tubules appear as pentads at H zones.",
+            "wrongAnswer_4": "A single large nucleus at the periphery, cylindrical fibers with smooth junctions, limited mitochondria (up to 20% of cell volume) and sarcoplasmic reticulum & T tubules form hexads at I bands."
+          },
+          {
+            "question": "What is the function of intercalated discs in cardiac tissue?",
+            "goodAnswer": "Intercalated discs facilitate mechanical and electrical connections between individual cardiac muscle cells.",
+            "wrongAnswer_1": "Intercalated discs serve as storage units for calcium ions, which are later released during muscle contraction.",
+            "wrongAnswer_2": "They function as hormone receptors, detecting changes in the levels of various hormones in the bloodstream and regulating cardiac muscle activity accordingly.",
+            "wrongAnswer_3": "Intercalated discs produce ATP, providing energy for muscle contraction.",
+            "wrongAnswer_4": "Intercalated discs act as insulators, ensuring that each muscle fiber contracts independently. "
+          }
+        ]
+      },
+      {
+        "title": "Smooth muscle",
+        "quizzes": [
+          {
+            "question": "What are the characteristics of smooth muscle?",
+            "goodAnswer": "Smooth muscle cells are fusiform non-striated cells with a single single centrally-placed nucleus. They undergo non-voluntary neuroendocrine modulated contraction, and are found in blood vessels, GI, urogenital organ walls and dermis of skin. ",
+            "wrongAnswer_1": "Smooth muscle cells are spherical, striated and contain multiple peripherally placed nuclei. They undergo voluntary contraction modulated by the somatic nervous system. Found in muscles associated with movement and connected to tendons. ",
+            "wrongAnswer_2": "Two types of cells come together to form smooth muscle -- cuboidal and striated. Each cell contains a single, peripherally-located nucleus. These muscle cells contract through direct electrical stimulation and are predominantly present in the spinal cord, pancreas, and lungs.",
+            "wrongAnswer_3": "Smooth muscle consists of groups of irregularly shaped cells with a non-striated appearance. All cells have several nuclei scattered throughout. Muscle contraction is solely hormone-induced. This muscle type is located in the heart, brain, and lymphatic vessels.",
+            "wrongAnswer_4": "Three cell types -- elongated, striated, and nonstriated cells -- come together to form smooth muscle cells. All of them have numerous nuclei located either peripherally or centrally. They contract voluntarily through conscious control and are typically found in the skin, liver, and kidney tissues."
+          },
+          {
+            "question": "What is the ultrastructure of smooth muscle?",
+            "goodAnswer": "Actin and myosin filaments, intermediate filaments of desmin, and vimentin in vascular smooth muscle. Membrane associated and cytoplasmic dense bodies containing α actinin, and a relatively active nucleus",
+            "wrongAnswer_1": "Actin and myosin filaments, intercalated discs with desmosomes, adherens junctions and gap junctions, T tubules, myofibrils, Z lines, and a highly active nucleus.  ",
+            "wrongAnswer_2": "Rigid cytoskeleton composed primarily of microtubules, with desmin and vimentin filaments playing no significant role. Dense bodies are involved in synthesizing proteins rather than anchoring filaments, and the nuclei are inactive.",
+            "wrongAnswer_3": "T-tubules and triads, intermediate filaments that consist of collagen, and absent cytoplasmic dense bodies. Rarely active nuclei with voluntary contraction. ",
+            "wrongAnswer_4": "Cross-striations, multinucleated cells. Controlled voluntarily by the central nervous system. Dense bodies are absent, and actin and myosin filaments are organized in distinct sarcomeres, similar to skeletal muscle."
+          },
+          {
+            "question": "What are the steps, in order, of smooth muscle contraction?",
+            "goodAnswer": "Ca released from SER and complexes with calmodulin, Ca-calmodulin activates myosin light chain kinase, MLCK phosphorylates myosin light chain, myosin unfolds and binds actin, ATP dependent contraction cycle as long as myosin is phosphorylated, myosin dephosphorylation. ",
+            "wrongAnswer_1": "Myosin unfolds and binds actin, Ca released from SER and complexes with calmodulin, Ca-calmodulin activates myosin light chain kinase, MLCK phosphorylates myosin light chain, myosin dephosphorylation, ATP dependent contraction cycle as long as myosin is phosphorylated.",
+            "wrongAnswer_2": "MLCK phosphorylates myosin light chain, Ca released from SER and complexes with calmodulin, ATP dependent contraction cycle as long as myosin is phosphorylated, Ca-calmodulin activates myosin light chain kinase, myosin unfolds and binds actin, myosin dephosphorylation.",
+            "wrongAnswer_3": "Ca-calmodulin activates myosin light chain kinase, MLCK phosphorylates myosin light chain, ATP dependent contraction cycle as long as myosin is phosphorylated, Ca released from SER and complexes with calmodulin, myosin dephosphorylation, myosin unfolds and binds actin.",
+            "wrongAnswer_4": "ATP dependent contraction cycle as long as myosin is phosphorylated, Ca released from SER and complexes with calmodulin, myosin dephosphorylation, Ca-calmodulin activates myosin light chain kinase, MLCK phosphorylates myosin light chain, myosin unfolds and binds actin."
+          }
+        ]
+      }
+    ]
+  }
+}

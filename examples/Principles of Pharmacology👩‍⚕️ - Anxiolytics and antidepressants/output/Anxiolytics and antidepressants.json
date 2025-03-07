@@ -1,0 +1,284 @@
+{
+  "mainTopic": {
+    "title": "Anxiolytics and antidepressants",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Depression: diagnosis and pathophysiology ",
+        "quizzes": [
+          {
+            "question": "What percentage of the population does depression affect and with what common presentation?",
+            "goodAnswer": "5% : low mood, loss of energy, and disinterest in activities",
+            "wrongAnswer_1": "10% : hyperactivity, disinhibition, executive dysfunction",
+            "wrongAnswer_2": "2% : overall hyperactivity",
+            "wrongAnswer_3": "15% : low mood, loss of energy, and disinterest in activities ",
+            "wrongAnswer_4": "20% : hypertension, weight gain, and chronic pain"
+          },
+          {
+            "question": "What hypothesis is the majority of current theories about the mechanism of depression based on?",
+            "goodAnswer": "Amine hypothesis",
+            "wrongAnswer_1": "Dopamine hypothesis",
+            "wrongAnswer_2": "Glutamate hypothesis",
+            "wrongAnswer_3": "GABA hypothesis ",
+            "wrongAnswer_4": "Choline hypothesis"
+          },
+          {
+            "question": "According to the DSM-IV, the diagnosis of depression is made when 5 of the following symptoms are present during a 2 week period:",
+            "goodAnswer": "Depressed mood, diminished interest in activities, weight loss or weight gain, insomnia, loss of energy, psychomotor agitation/retardation, worthlessness/guilt, thoughts about death. ",
+            "wrongAnswer_1": "Inattention, hyperactivity, disinhibition, executive dysfunction, emotional dysregulation, impulsivity, impaired working memory",
+            "wrongAnswer_2": "Hallucinations, delusions, disorganized thinking and behavior, flat or inappropriate affect",
+            "wrongAnswer_3": "Problems with social communication and interaction, and restricted or repetitive behaviors or interests.",
+            "wrongAnswer_4": "Episodes of mania and depression (low mood), distorted sense of well being or self confidence, unusually talkative, needing less sleep.\r\n"
+          },
+          {
+            "question": "What is required for the symptoms to be considered clinically significant in the diagnosis of depression?",
+            "goodAnswer": "They cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.",
+            "wrongAnswer_1": "When the symptoms can be explained by the direct physiological effects of a substance or drug they are taking",
+            "wrongAnswer_2": "A general medical condition such as hypothyroidism can be explained as the cause",
+            "wrongAnswer_3": "They are better accounted for by bereavement.",
+            "wrongAnswer_4": "They are only related to sleep disturbance such as alterations in sleep schedule, decreased amount of sleep, or increased levels of stress impeding sleep."
+          },
+          {
+            "question": "What have studies of postmortem brains revealed about the structural or neurochemical abnormalities in depression?",
+            "goodAnswer": "No consistent structural or neurochemical abnormalities",
+            "wrongAnswer_1": "Significant changes in brain volume",
+            "wrongAnswer_2": "Major abnormalities in neurotransmitter levels",
+            "wrongAnswer_3": "Consistent neurochemical abnormalities in the brain",
+            "wrongAnswer_4": "Consistent structural abnormalities in the brain"
+          },
+          {
+            "question": "To diagnose depression, we must rule out the following possible causes of the depressive symptoms",
+            "goodAnswer": "Direct physiological effect of a substance (Drug or medication) or general medical condition (hypothyroidism) or bereavement",
+            "wrongAnswer_1": "Familial genetic predisposition to depression or difficult family conditions ",
+            "wrongAnswer_2": "Difficult upbringing with socioeconomic and emotional turbulence ",
+            "wrongAnswer_3": "Imaging abnormality of the brain or abnormal blood test results",
+            "wrongAnswer_4": "Sleep disturbance, loss of a job, or major life change in the past few weeks"
+          }
+        ]
+      },
+      {
+        "title": "Classes of Antidepressants and Treatment of Depression",
+        "quizzes": [
+          {
+            "question": "What are the major classes of antidepressants?",
+            "goodAnswer": "Tricyclics and heterocyclics, SSRIs, bupropion, non selective MAO inhibitors, and non pharmacological therapy (ECT, Psychotherapy)",
+            "wrongAnswer_1": "Adrenergic blockers, angiotensin-converting enzyme (ACE) inhibitors ...and calcium channel blockers",
+            "wrongAnswer_2": "Anticholinergics, MAO-B inhibitors, and COMT inhibitors",
+            "wrongAnswer_3": "Acetylcholinesterase inhibitors and NMDAR antagonists",
+            "wrongAnswer_4": "Aminoglycosides, fluoroquinolones, and cephalosporins "
+          },
+          {
+            "question": "What is a common side effect of tricyclic antidepressants as a result of its anticholinergic action, and what is a lethal side effect in overdose?",
+            "goodAnswer": "Somnolence, dry mouth, and urinary retention; Cardiac conduction disturbances: because of this, great care must be taken when these drugs are prescribed for potentially suicidal patients. ",
+            "wrongAnswer_1": "Anxiety and tremor; Liver toxicity: all are primarily metabolized by the liver",
+            "wrongAnswer_2": "Weight gain and moon face; Kidney failure: because of this, great care must be taken when these drugs are prescribed for potentially suicidal patients. ",
+            "wrongAnswer_3": "Tricyclic antidepressants do not have an anticholinergic action; Severe gastrointestinal distress due to the biochemical half life",
+            "wrongAnswer_4": "Hyperactivity and lack of attention; Respiratory depression"
+          },
+          {
+            "question": "What is the mechanism of action of tricyclic and heterocyclic medications?",
+            "goodAnswer": "Blockage of the reuptake of serotonin and/or norepinephrine, with anticholinergic action in many of these drugs",
+            "wrongAnswer_1": "Blockage of GABA receptors, with anticholinergic action in many of these drugs",
+            "wrongAnswer_2": "Blockage of the reuptake of serotonin and/or norepinephrine, without any anticholinergic action ",
+            "wrongAnswer_3": "Decreased norepinephrine and serotonin turnover ",
+            "wrongAnswer_4": "Increased reuptake of serotonin and/or norepinephrine "
+          },
+          {
+            "question": "What is the therapeutic effect of MAOI due to and as a result, what is a serious adverse effect associated with MAOIs when combined with tyramine containing foods?",
+            "goodAnswer": "Enhancement of CNS amine levels, circulatory crisis due to the accumulation of amines ",
+            "wrongAnswer_1": "Blockage of serotonin reuptake, serotonin syndrome due to serotonin accumulation",
+            "wrongAnswer_2": "Enhancement of dopamine reuptake, tardive dyskinesia ",
+            "wrongAnswer_3": "Inhibition of dopamine reuptake, seizures",
+            "wrongAnswer_4": "Decreased norepinephrine turnover, hyperglycemia due to inability of cells to reuptake glucose. "
+          },
+          {
+            "question": "Which class of antidepressants requires careful control to prevent serious adverse effects in real-world use?",
+            "goodAnswer": "Non-selective MAO inhibitors",
+            "wrongAnswer_1": "Tricyclics ",
+            "wrongAnswer_2": "SSRIs",
+            "wrongAnswer_3": "Bupropion ",
+            "wrongAnswer_4": "Benzodiazepine "
+          },
+          {
+            "question": "Which antidepressant class acts by inhibition of presynaptic reuptake of serotonin in central synapses and what are the most common potential adverse effect of the drug class? ",
+            "goodAnswer": "SSRIs, anxiety and tremor",
+            "wrongAnswer_1": "MAOi, severe sedation and weight gain",
+            "wrongAnswer_2": "Tricyclics, anticholinergic side effects ",
+            "wrongAnswer_3": "Bupropion, hypertension and hyperlipidemia",
+            "wrongAnswer_4": "Benzodiazepine, cardiac arrhythmias and pulmonological sequelae"
+          },
+          {
+            "question": "What are the most common tricyclic/heterocyclic medications used in the treatment of depression?",
+            "goodAnswer": "Amitriptyline, desipramine, and trazodone ",
+            "wrongAnswer_1": "Sertraline, citalopram, and paroxetine",
+            "wrongAnswer_2": "Bupropion and benzodiazepine",
+            "wrongAnswer_3": "Benzodiazepine and barbiturates",
+            "wrongAnswer_4": "Midazolam, triazolam, and diazepam "
+          },
+          {
+            "question": "Bupropion is not sedating or anticholinergic, but can sometimes induce which symptoms?",
+            "goodAnswer": "Hallucinations or seizures ",
+            "wrongAnswer_1": "Somnolence, dry mouth, and urinary retention",
+            "wrongAnswer_2": "Anxiety and tremors",
+            "wrongAnswer_3": "Weight gain and moon face ",
+            "wrongAnswer_4": "Bupropion is sedating and anticholinergic"
+          },
+          {
+            "question": "What are some examples of SSRI medications?",
+            "goodAnswer": "Sertraline, citalopram, and paroxetine",
+            "wrongAnswer_1": "Amitriptyline, desipramine, and trazodone ",
+            "wrongAnswer_2": "Bupropion and benzodiazepine",
+            "wrongAnswer_3": "Benzodiazepine and barbiturates",
+            "wrongAnswer_4": "Midazolam, triazolam, and diazepam "
+          },
+          {
+            "question": "What antidepressant drug is also effective in treating tobacco addiction? ",
+            "goodAnswer": "Bupropion",
+            "wrongAnswer_1": "Amitriptyline, desipramine, and trazodone ",
+            "wrongAnswer_2": "SSRIs",
+            "wrongAnswer_3": "Tricyclic antidepressants ",
+            "wrongAnswer_4": "MAO inhibitors"
+          },
+          {
+            "question": "What method is often used to treat severely depressed patients because it can produce rapid improvement as opposed to drugs, which need time to take effect?",
+            "goodAnswer": "Electroconvulsive Therapy (ECT)",
+            "wrongAnswer_1": "Psychotherapy ",
+            "wrongAnswer_2": "Traditional medication ",
+            "wrongAnswer_3": "Herbal supplements ",
+            "wrongAnswer_4": "Cognitive behavioural therapy (CBT)"
+          },
+          {
+            "question": "Because of the unpredictable response of each patient to particular antidepressants, we should do...",
+            "goodAnswer": "Sequential trials of several drugs",
+            "wrongAnswer_1": "Electroconvulsive therapy to start off treatment in all cases",
+            "wrongAnswer_2": "A combination of all the available drugs ",
+            "wrongAnswer_3": "Self treatment with over the counter medication ",
+            "wrongAnswer_4": "Immediate clinical improvement upon therapy initiation"
+          }
+        ]
+      },
+      {
+        "title": "Benzodiazepines and Barbiturates",
+        "quizzes": [
+          {
+            "question": "What is the primary toxicity concern associated with benzodiazepines?",
+            "goodAnswer": "Excessive sedation ",
+            "wrongAnswer_1": "Renal failure ",
+            "wrongAnswer_2": "Liver toxicity ",
+            "wrongAnswer_3": "Neurotoxicity ",
+            "wrongAnswer_4": "Cardiovascular shock "
+          },
+          {
+            "question": "What drug is a benzodiazepine antagonist that blocks the effects of other benzodiazepines?",
+            "goodAnswer": "Flumazenil ",
+            "wrongAnswer_1": "Midazolam ",
+            "wrongAnswer_2": "Ondansetron",
+            "wrongAnswer_3": "Secobarbital ",
+            "wrongAnswer_4": "Thiopental "
+          },
+          {
+            "question": "What channel does benzodiazepine act on and what is the mechanism of action?",
+            "goodAnswer": "GABA, Increases the frequency of channel opening",
+            "wrongAnswer_1": "Serotonin, blocking the receptors",
+            "wrongAnswer_2": "GABA, increasing the duration of channel opening ",
+            "wrongAnswer_3": "Amine, inhibit its synthesis",
+            "wrongAnswer_4": "Potassium, changes the conductance of the receptors"
+          },
+          {
+            "question": "After chronic usage of benzodiazepines, especially short half life agents... what is a concern with withdrawal?",
+            "goodAnswer": "Withdrawal seizures",
+            "wrongAnswer_1": "Hepatotoxicity",
+            "wrongAnswer_2": "Renal failure ",
+            "wrongAnswer_3": "Somnolence ",
+            "wrongAnswer_4": "Fatigue "
+          },
+          {
+            "question": "Benzodiazepines are categorized from midazolam to flurazepam, distinguished primarily by their profiles of what?",
+            "goodAnswer": "Distribution and half life",
+            "wrongAnswer_1": "Which channels they work on ",
+            "wrongAnswer_2": "The year of discovery ",
+            "wrongAnswer_3": "Typical application of the drug and half life ",
+            "wrongAnswer_4": "Toxic side effect profile"
+          },
+          {
+            "question": "What is the mechanism of action of barbiturates on GABA receptors?",
+            "goodAnswer": "Increase the duration of channel opening ",
+            "wrongAnswer_1": "Block GABA receptors ",
+            "wrongAnswer_2": "Inhibit GABA synthesis ",
+            "wrongAnswer_3": "Increase the frequency of channel opening",
+            "wrongAnswer_4": "Change the conductance of the receptor "
+          },
+          {
+            "question": "What is a major toxicity concern associated with barbiturates, especially in overdose, which makes it potentially lethal?",
+            "goodAnswer": "Respiratory depression",
+            "wrongAnswer_1": "Hepatotoxicity ",
+            "wrongAnswer_2": "Hypertension ",
+            "wrongAnswer_3": "Hyperactivity ",
+            "wrongAnswer_4": "Renal failure "
+          },
+          {
+            "question": "Which of the following is an effect of both chronic use of benzodiazepines and barbiturates?",
+            "goodAnswer": "Increased sensitivity to ethanol ",
+            "wrongAnswer_1": "Reduced sensitivity of GABA receptors ",
+            "wrongAnswer_2": "Increased metabolism of drugs ",
+            "wrongAnswer_3": "Increased synthesis of GABA ",
+            "wrongAnswer_4": "Lowered risk of dependence "
+          },
+          {
+            "question": "Which type of sedative is typically used for anxiolytic purposes?",
+            "goodAnswer": "Medium to long acting benzodiazepine",
+            "wrongAnswer_1": "Short acting benzodiazepine ",
+            "wrongAnswer_2": "Short to medium acting benzodiazepine ",
+            "wrongAnswer_3": "Short acting barbiturate ",
+            "wrongAnswer_4": "Oral benzodiazepine "
+          },
+          {
+            "question": "Which type of sedative is typically used for hypnotic purposes?",
+            "goodAnswer": "Short to medium acting benzodiazepine ",
+            "wrongAnswer_1": "Short acting benzodiazepine ",
+            "wrongAnswer_2": "Medium to long acting benzodiazepine ",
+            "wrongAnswer_3": "Short acting barbiturate ",
+            "wrongAnswer_4": "Oral benzodiazepine "
+          },
+          {
+            "question": "For sedative use in surgical procedures, you should give a mixture of...",
+            "goodAnswer": "A short acting benzodiazepine and a short acting barbiturate, IV",
+            "wrongAnswer_1": "A short acting benzodiazepine and a long acting barbiturate, IM",
+            "wrongAnswer_2": "You don't need to give a mixture, it's either benzodiazepine or barbiturate alone, IV",
+            "wrongAnswer_3": "A long acting benzodiazepine and a long acting barbiturate, IV",
+            "wrongAnswer_4": "A long acting benzodiazepine and a long acting barbiturate, IM"
+          }
+        ]
+      },
+      {
+        "title": "Tolerance, cross tolerance, and addiction to sedative drugs ",
+        "quizzes": [
+          {
+            "question": "Chronic use of sedatives like benzodiazepines and barbiturates induces tolerance to which of the following?",
+            "goodAnswer": "To all members of the sedative class used, and cross tolerance to members of the other class",
+            "wrongAnswer_1": "No effect on the members of the sedative class used, and cross tolerance to members of the other class ",
+            "wrongAnswer_2": "To all members of the sedative class used, and no effect on the members of the other class",
+            "wrongAnswer_3": "No effect on the members of the sedative class used or cross tolerance to members of the other class",
+            "wrongAnswer_4": "Effect depends on the patient's liver function and metabolic rate"
+          },
+          {
+            "question": "What effect do both benzodiazepines and barbiturates have on ethanol tolerance?",
+            "goodAnswer": "Both induce tolerance to ethanol ",
+            "wrongAnswer_1": "Have no effect on ethanol tolerance ",
+            "wrongAnswer_2": "Enhances the effect of ethanol without changing the tolerance ",
+            "wrongAnswer_3": "Benzodiazepines induce tolerance, while barbiturates do not ",
+            "wrongAnswer_4": "Benzodiazepines do not induce tolerance, while barbiturates induce tolerance "
+          },
+          {
+            "question": "What are the most common side effects of rapid withdrawal from benzodiazepines or barbiturates?",
+            "goodAnswer": "Anxiety, agitation, and seizures ",
+            "wrongAnswer_1": "Weight gain, hypotension, and fatigue",
+            "wrongAnswer_2": "Enhanced cognitive awareness ",
+            "wrongAnswer_3": "Decreased sensitivity to stress ",
+            "wrongAnswer_4": "Improved sleep and mood"
+          }
+        ]
+      }
+    ]
+  }
+}

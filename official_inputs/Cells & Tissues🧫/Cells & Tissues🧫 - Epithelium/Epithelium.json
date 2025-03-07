@@ -1,0 +1,26 @@
+{
+  "mainTopic": {
+    "title": "Epithelium",
+    "content_info": "The uploaded materials in the PDF files are PowerPoint slides. There are several slides with pictures and diagrams on them, but you can find all the necessary information to form the questions from the slides that have text on them.",
+    "subTopics": [
+      {
+        "title": "Overview and definition of epithelium"
+      },
+      {
+        "title": "Classification of epithelium"
+      },
+      {
+        "title": "Apical cell surface specializations and functions"
+      },
+      {
+        "title": "Specialized and unspecialized epithelial cells"
+      },
+      {
+        "title": "Types of Intercellular junctions and hemidesmosomes"
+      },
+      {
+        "title": "Exocrine and endocrine glands of secretory epithelium"
+      }
+    ]
+  }
+}

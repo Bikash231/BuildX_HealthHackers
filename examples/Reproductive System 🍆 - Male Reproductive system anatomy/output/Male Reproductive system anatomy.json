@@ -1,0 +1,340 @@
+{
+  "mainTopic": {
+    "title": "Male Reproductive system anatomy",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "Testis, Sertoli- and Leydig cells, epididymis, vas deferens, prostate",
+        "quizzes": [
+          {
+            "question": "What is the correct sequence of the sperm's path?",
+            "goodAnswer": "Seminiferous tubules -> rete testis -> epididymis -> vas deferens -> prostate -> ejaculatory duct -> urethra",
+            "wrongAnswer_1": "Rete testis -> seminiferous tubules -> epididymis -> vas deferens -> ejaculatory duct -> prostate -> urethra",
+            "wrongAnswer_2": "Epididymis -> seminiferous tubules -> vas deferens -> prostate -> ejaculatory duct -> urethra",
+            "wrongAnswer_3": "Vas deferens -> seminiferous tubules -> epididymis -> prostate -> urethra -> ejaculatory duct",
+            "wrongAnswer_4": "Prostate -> vas deferens -> seminiferous tubules -> urethra -> epididymis -> ejaculatory duct"
+          },
+          {
+            "question": "At what stage of fetal development do the testes descend from their retroperitoneal position into the scrotum?",
+            "goodAnswer": "Eighth fetal month",
+            "wrongAnswer_1": "Sixth fetal month",
+            "wrongAnswer_2": "Tenth fetal month",
+            "wrongAnswer_3": "Fourth fetal month",
+            "wrongAnswer_4": "Fifth fetal month"
+          },
+          {
+            "question": "What structure is responsible for the countercurrent vascular heat exchange system in the male reproductive system?",
+            "goodAnswer": "Pampiniform plexus",
+            "wrongAnswer_1": "Seminal vesicle",
+            "wrongAnswer_2": "Tunica albuginea",
+            "wrongAnswer_3": "Epididymis",
+            "wrongAnswer_4": "Vas deferens"
+          },
+          {
+            "question": "Which duct system gives rise to male internal genitalia?",
+            "goodAnswer": "Wolffian duct",
+            "wrongAnswer_1": "Mullerian duct",
+            "wrongAnswer_2": "Mesonephric duct",
+            "wrongAnswer_3": "Paramesonephric duct",
+            "wrongAnswer_4": "Nephric duct"
+          },
+          {
+            "question": "What is the primary function of the Mullerian Inhibiting Substance (MIS) in male development?",
+            "goodAnswer": "Cause the regression of the Mullerian ducts",
+            "wrongAnswer_1": "Stimulate sperm production",
+            "wrongAnswer_2": "Promote development of the prostate",
+            "wrongAnswer_3": "Induce testicular descent",
+            "wrongAnswer_4": "Stimulate testosterone production"
+          },
+          {
+            "question": "What are the functions of Sertoli cells in the testis?",
+            "goodAnswer": "Sertoli cells support and nourish germ cells, secrete androgen-binding protein, communicate with other cells through gap junctions, and facilitate the release of mature germ cells; they do not produce testosterone.",
+            "wrongAnswer_1": "Sertoli cells produce testosterone, secrete androgen-binding protein, and facilitate the release of mature germ cells but do not support and nourish germ cells or communicate via gap junctions.",
+            "wrongAnswer_2": "Sertoli cells support and nourish germ cells and secrete androgen-binding protein but neither communicate through gap junctions nor facilitate the release of mature germ cells, and they produce testosterone.",
+            "wrongAnswer_3": "Sertoli cells support germ cells and communicate via gap junctions while facilitating the release of mature germ cells, yet they neither secrete androgen-binding protein nor produce testosterone.",
+            "wrongAnswer_4": "Sertoli cells primarily facilitate the release of mature germ cells and produce testosterone, with limited roles in supporting germ cells, secreting androgen-binding protein, or communicating through gap junctions."
+          },
+          {
+            "question": "What is the role of tight junctions between Sertoli cells in the seminiferous tubules?",
+            "goodAnswer": "They form the blood-testis barrier",
+            "wrongAnswer_1": "They separate the basal and adluminal compartments",
+            "wrongAnswer_2": "They allow the passage of sperm into the bloodstream",
+            "wrongAnswer_3": "They enhance communication between Sertoli cells",
+            "wrongAnswer_4": "They secrete androgen-binding protein"
+          },
+          {
+            "question": "What is the primary function of Leydig cells in the testes?",
+            "goodAnswer": "Production of testosterone",
+            "wrongAnswer_1": "Secretion of androgen binding protein",
+            "wrongAnswer_2": "Nourishment of germ cells",
+            "wrongAnswer_3": "Formation of tight junctions between Sertoli cells",
+            "wrongAnswer_4": "Production of inhibin"
+          },
+          {
+            "question": "What are the functions of the epididymis in the male reproductive system?",
+            "goodAnswer": "The epididymis acts as a conduit for sperm transport, facilitates fluid resorption, serves as a reservoir for sperm (especially in the cauda epididymis), and provides an environment for sperm maturation; it does not produce testosterone.",
+            "wrongAnswer_1": "The epididymis functions as a conduit for sperm transport, aids in fluid resorption, serves as a reservoir for sperm, and produces testosterone instead of supporting sperm maturation.",
+            "wrongAnswer_2": "The epididymis serves as a sperm conduit, supports fluid resorption, produces testosterone, and acts as a reservoir for sperm, but it does not contribute to sperm maturation.",
+            "wrongAnswer_3": "The epididymis is responsible for fluid resorption, sperm maturation, and serving as a sperm reservoir, while also producing testosterone, but it does not function as a conduit for sperm transport.",
+            "wrongAnswer_4": "The epididymis facilitates sperm transport, supports sperm maturation, aids in testosterone production, and serves as a sperm reservoir, yet it does not participate in fluid resorption."
+          },
+          {
+            "question": "What is the primary function of the vas deferens?",
+            "goodAnswer": "Transport of sperm through the scrotum, inguinal canal, and behind the base of the bladder",
+            "wrongAnswer_1": "Production and maturation of sperm within the seminiferous tubules before transporting them to the epididymis",
+            "wrongAnswer_2": "Secretion of androgen binding protein by Sertoli cells to facilitate sperm maturation in the epididymis",
+            "wrongAnswer_3": "Regulation of testosterone levels through direct interaction with Leydig cells for controlling male reproductive function",
+            "wrongAnswer_4": "Absorption of excess fluid and waste products from the spermatic cord to maintain the proper composition of semen"
+          }
+        ]
+      },
+      {
+        "title": "Spermeogenesis, hormonal control of spermeogenesis, sperm physiology",
+        "quizzes": [
+          {
+            "question": "What are the stages of spermatogenesis and what are thec orrect chromosomal complement (ploidy) at each stage?",
+            "goodAnswer": "Spermatogonia: Diploid (2n) → Primary Spermatocytes: Diploid with replicated DNA (2n, 4c) → Secondary Spermatocytes: Haploid (n, 2c) → Spermatids: Haploid (n, 1c)",
+            "wrongAnswer_1": "Spermatogonia: Diploid (2n) → Pre-spermatocytes: Tetraploid (2n, 4c) → Secondary Spermatids: Haploid (n, 2c) → Spermatocytes: Haploid (n, 1c)",
+            "wrongAnswer_2": "Gonocytes: Diploid (2n) → Primary Spermatids: Diploid with duplicated DNA (2n, 4c) → Secondary Spermatocytes: Haploid (n, 2c) → Mature Sperm: Haploid (n, 1c)",
+            "wrongAnswer_3": "Spermatogonia: Diploid (2n) → Primary Spermatocytes: Diploid (2n) → Secondary Spermatocytes: Diploid (2n) → Spermatids: Haploid (n, 1c)",
+            "wrongAnswer_4": "Spermatogonia: Diploid (2n) → Primary Spermatocytes: Diploid (2n, 4c) → Secondary Spermatocytes: Haploid (n, 1c) → Spermatids: Diploid (2n)"
+          },
+          {
+            "question": "What is the main characteristic of morphologically mature sperm (spermatozoa)?",
+            "goodAnswer": "Highly polarized with a condensed nucleus and acrosome",
+            "wrongAnswer_1": "Presence of a large round nucleus with no tail development",
+            "wrongAnswer_2": "A large midpiece filled with cytoplasm, but no tail structure",
+            "wrongAnswer_3": "Absence of mitochondria in the midpiece and a non-polarized structure",
+            "wrongAnswer_4": "A long, undeveloped tail with no defined segments such as neck or end piece"
+          },
+          {
+            "question": "What part of the spermatozoa contains the sheath of mitochondria?",
+            "goodAnswer": "The midpiece of the tail",
+            "wrongAnswer_1": "The neck of the tail, which connects the head to the rest of the sperm",
+            "wrongAnswer_2": "The end piece, which is the tip of the tail",
+            "wrongAnswer_3": "The acrosome, which covers the nucleus of the sperm",
+            "wrongAnswer_4": "The principle piece, which is the longest portion of the tail"
+          },
+          {
+            "question": "During spermatogenesis, which type of germ cell is mitotically active and located in the basement layer of the seminiferous tubules?",
+            "goodAnswer": "Spermatogonia, which are mitotically active cells in the basement layer.",
+            "wrongAnswer_1": "Primary spermatocytes, which are formed from spermatogonia and undergo meiosis.",
+            "wrongAnswer_2": "Secondary spermatocytes, which result from the first meiotic division.",
+            "wrongAnswer_3": "Spermatids, which are haploid cells formed after the second meiotic division.",
+            "wrongAnswer_4": "Spermatozoa, which are mature sperm cells after full differentiation."
+          },
+          {
+            "question": "What is the role of FSH in spermatogenesis?",
+            "goodAnswer": "FSH stimulates Sertoli cells to make protein kinases and protein synthesis.",
+            "wrongAnswer_1": "FSH stimulates Leydig cells to produce testosterone for sperm maturation.",
+            "wrongAnswer_2": "FSH directly promotes spermatogonia to divide and differentiate into primary spermatocytes.",
+            "wrongAnswer_3": "FSH inhibits the release of testosterone from Leydig cells.",
+            "wrongAnswer_4": "FSH regulates the secretion of inhibin to decrease sperm production."
+          },
+          {
+            "question": "What does LH stimulate in the hormonal control of spermatogenesis?",
+            "goodAnswer": "LH stimulates Leydig cells to produce testosterone.",
+            "wrongAnswer_1": "LH stimulates Sertoli cells to synthesize protein kinases for spermatogenesis.",
+            "wrongAnswer_2": "LH directly inhibits sperm production by the seminiferous tubules.",
+            "wrongAnswer_3": "LH increases the release of inhibin from Sertoli cells to regulate FSH.",
+            "wrongAnswer_4": "LH stimulates the release of estradiol from the hypothalamus."
+          },
+          {
+            "question": "How does testosterone regulate the release of LH and GnRH?",
+            "goodAnswer": "Testosterone inhibits LH release from the pituitary and GnRH release from the hypothalamus.",
+            "wrongAnswer_1": "Testosterone stimulates the release of GnRH and LH from the hypothalamus.",
+            "wrongAnswer_2": "Testosterone enhances FSH release to promote spermatogenesis.",
+            "wrongAnswer_3": "Testosterone has no effect on LH or GnRH release from the brain.",
+            "wrongAnswer_4": "Testosterone increases the secretion of inhibin from Sertoli cells."
+          },
+          {
+            "question": "What is the role of estradiol in spermatogenesis?",
+            "goodAnswer": "Estradiol is a more potent inhibitor of LH and FSH.",
+            "wrongAnswer_1": "Estradiol stimulates the release of testosterone from Leydig cells.",
+            "wrongAnswer_2": "Estradiol promotes protein synthesis in Sertoli cells.",
+            "wrongAnswer_3": "Estradiol activates GnRH release from the hypothalamus.",
+            "wrongAnswer_4": "Estradiol enhances spermatogenesis by increasing FSH secretion."
+          },
+          {
+            "question": "What hormone regulates FSH secretion through a negative feedback mechanism?",
+            "goodAnswer": "Inhibin, which is made by Sertoli cells.",
+            "wrongAnswer_1": "Estradiol, which is derived from the conversion of testosterone.",
+            "wrongAnswer_2": "Testosterone, which directly stimulates FSH release from the pituitary.",
+            "wrongAnswer_3": "GnRH, which is released from the hypothalamus to regulate FSH.",
+            "wrongAnswer_4": "LH, which inhibits the release of FSH from the pituitary."
+          },
+          {
+            "question": "What is the first step in sperm fertilization?",
+            "goodAnswer": "Sperm traverse the female genital tract, bind to the ova, and penetrate the zona pellucida.",
+            "wrongAnswer_1": "Sperm undergo capacitation in the seminal vesicles before entering the female reproductive tract.",
+            "wrongAnswer_2": "Sperm release enzymes from the acrosome to directly fertilize the egg immediately after ejaculation.",
+            "wrongAnswer_3": "Sperm gain energy from fructose produced in the prostate gland to enhance motility before reaching the egg.",
+            "wrongAnswer_4": "Sperm are capable of fertilizing an egg directly without passing through the zona pellucida."
+          },
+          {
+            "question": "What is the role of fructose in sperm physiology?",
+            "goodAnswer": "Fructose, produced by the seminal vesicles, serves as an energy substrate for sperm.",
+            "wrongAnswer_1": "Fructose provides nutrients for the sperm to undergo capacitation.",
+            "wrongAnswer_2": "Fructose is used to aid sperm in binding to the egg for fertilization.",
+            "wrongAnswer_3": "Fructose acts as a protective agent against the acidic environment of the female genital tract.",
+            "wrongAnswer_4": "Fructose helps to liquefy the ejaculate to assist in sperm movement."
+          }
+        ]
+      },
+      {
+        "title": "Semen, ejaculate, male infertility evaluation and sperm analysis",
+        "quizzes": [
+          {
+            "question": "Where is most of the fluid in semen produced?",
+            "goodAnswer": "Most of the fluid is produced in the rete testis.",
+            "wrongAnswer_1": "Most of the fluid is produced in the seminal vesicles.",
+            "wrongAnswer_2": "Most of the fluid is produced in the prostate gland.",
+            "wrongAnswer_3": "Most of the fluid is produced in the epididymis.",
+            "wrongAnswer_4": "Most of the fluid is produced in the vas deferens."
+          },
+          {
+            "question": "What is the role of the seminal plasma in semen?",
+            "goodAnswer": "Seminal plasma is a suspension of sperm and fluid from various glands.",
+            "wrongAnswer_1": "Seminal plasma consists only of sperm and is produced by the testes.",
+            "wrongAnswer_2": "Seminal plasma provides energy for sperm during fertilization.",
+            "wrongAnswer_3": "Seminal plasma is responsible for sperm capacitation in the uterus.",
+            "wrongAnswer_4": "Seminal plasma protects sperm from the immune system in the female reproductive tract."
+          },
+          {
+            "question": "How many efferent ducts drain the rete testis into the epididymis?",
+            "goodAnswer": "There are 8-12 efferent ducts from the rete testis to the epididymis.",
+            "wrongAnswer_1": "There are 4-6 efferent ducts from the seminiferous tubules to the epididymis.",
+            "wrongAnswer_2": "There are 10-15 efferent ducts from the mediastinum testes to the epididymis.",
+            "wrongAnswer_3": "There are 15-20 efferent ducts from the epididymis to the vas deferens.",
+            "wrongAnswer_4": "There are 5-8 efferent ducts from the vas deferens to the seminal vesicles."
+          },
+          {
+            "question": "What is the typical volume of an ejaculate?",
+            "goodAnswer": "2-5 cc of semen with 150-200 million sperm.",
+            "wrongAnswer_1": "10-15 cc of semen with 50-100 million sperm.",
+            "wrongAnswer_2": "1-2 cc of semen with 200-300 million sperm.",
+            "wrongAnswer_3": "5-10 cc of semen with 100-150 million sperm.",
+            "wrongAnswer_4": "10-20 cc of semen with 500-600 million sperm."
+          },
+          {
+            "question": "What factors are assessed during the history of a male infertility evaluation?",
+            "goodAnswer": "Prior history of infertility, timing of puberty, genital abnormalities, medications, prior surgery, and chronic illness.",
+            "wrongAnswer_1": "Current dietary habits, exercise routine, and mental health status.",
+            "wrongAnswer_2": "Blood pressure, cholesterol levels, and body weight.",
+            "wrongAnswer_3": "Sleep patterns, stress levels, and history of recreational drug use.",
+            "wrongAnswer_4": "Family medical history, including genetic disorders and autoimmune diseases."
+          },
+          {
+            "question": "What physical exam findings might indicate endocrine abnormalities in a male infertility evaluation?",
+            "goodAnswer": "Gynecomastia, abnormal hair patterns, phallus size, urethral meatus, and size and consistency of the testes.",
+            "wrongAnswer_1": "Abnormal blood pressure, irregular heart rate, and dizziness.",
+            "wrongAnswer_2": "Enlarged lymph nodes, skin rashes, and fatigue.",
+            "wrongAnswer_3": "Obesity, high cholesterol, and irregular glucose levels.",
+            "wrongAnswer_4": "Low back pain, poor posture, and reduced flexibility."
+          },
+          {
+            "question": "What is the normal size of testes in a male infertility evaluation?",
+            "goodAnswer": "4.5 cm in diameter.",
+            "wrongAnswer_1": "3.0 cm in diameter.",
+            "wrongAnswer_2": "5.0 cm in diameter.",
+            "wrongAnswer_3": "6.0 cm in diameter.",
+            "wrongAnswer_4": "2.0 cm in diameter."
+          },
+          {
+            "question": "What is the minimum sperm density required in a semen analysis?",
+            "goodAnswer": "Sperm density should be greater than 20 million/cc, with an average of 50-60 million/cc.",
+            "wrongAnswer_1": "Sperm density should be greater than 10 million/cc, with an average of 30-40 million/cc.",
+            "wrongAnswer_2": "Sperm density should be greater than 100 million/cc, with an average of 120-150 million/cc.",
+            "wrongAnswer_3": "Sperm density should be greater than 5 million/cc, with an average of 10-15 million/cc.",
+            "wrongAnswer_4": "Sperm density should be greater than 2 million/cc, with an average of 5-7 million/cc."
+          },
+          {
+            "question": "What is the minimum motility percentage required in a semen analysis?",
+            "goodAnswer": "Motility should be greater than 60%.",
+            "wrongAnswer_1": "Motility should be greater than 30%.",
+            "wrongAnswer_2": "Motility should be greater than 80%.",
+            "wrongAnswer_3": "Motility should be greater than 90%.",
+            "wrongAnswer_4": "Motility should be greater than 50%."
+          },
+          {
+            "question": "What is the required percentage of normal sperm morphology in a semen analysis?",
+            "goodAnswer": "More than 60% normal forms.",
+            "wrongAnswer_1": "More than 50% normal forms.",
+            "wrongAnswer_2": "More than 80% normal forms.",
+            "wrongAnswer_3": "More than 40% normal forms.",
+            "wrongAnswer_4": "More than 30% normal forms."
+          }
+        ]
+      },
+      {
+        "title": "Erection, ejaculation, Viagra and similar drugs",
+        "quizzes": [
+          {
+            "question": "What controls the emission and expulsion of sperm during ejaculation?",
+            "goodAnswer": "The sympathetic nervous system controls emission and expulsion.",
+            "wrongAnswer_1": "The parasympathetic nervous system controls emission and expulsion.",
+            "wrongAnswer_2": "Voluntary control is responsible for emission and expulsion.",
+            "wrongAnswer_3": "The central nervous system plays no role in emission and expulsion.",
+            "wrongAnswer_4": "The somatic nervous system controls emission and expulsion."
+          },
+          {
+            "question": "What happens during the emission phase of ejaculation?",
+            "goodAnswer": "Contractions of the vas deferens, seminal vesicles, and prostate occur.",
+            "wrongAnswer_1": "Contractions of the bulbocavernosus and bladder neck muscles occur.",
+            "wrongAnswer_2": "Sperm are expelled into the urethra from the testes only.",
+            "wrongAnswer_3": "The bladder neck opens to allow sperm into the bladder.",
+            "wrongAnswer_4": "Seminal vesicles produce the ejaculate during emission."
+          },
+          {
+            "question": "What is the function of the bulbocavernosus muscle during ejaculation?",
+            "goodAnswer": "It contracts to expel semen from the urethra.",
+            "wrongAnswer_1": "It contracts to close the bladder neck during ejaculation.",
+            "wrongAnswer_2": "It relaxes to allow sperm to flow into the bladder.",
+            "wrongAnswer_3": "It initiates sperm production during ejaculation.",
+            "wrongAnswer_4": "It constricts to prevent sperm from exiting the body."
+          },
+          {
+            "question": "How is an erection initiated neurologically?",
+            "goodAnswer": "Erection can be either reflexively or centrally mediated.",
+            "wrongAnswer_1": "Erection is solely initiated by sympathetic nerve activity.",
+            "wrongAnswer_2": "Erection is initiated by voluntary muscle contraction.",
+            "wrongAnswer_3": "Erection is only initiated by direct stimulation of the penis.",
+            "wrongAnswer_4": "Erection is initiated by parasympathetic nerve activity alone."
+          },
+          {
+            "question": "What happens to the erectile bodies during an erection?",
+            "goodAnswer": "Arterial filling increases, leading to venous occlusion of the erectile bodies.",
+            "wrongAnswer_1": "Venous flow increases, leading to a flaccid state.",
+            "wrongAnswer_2": "Arterial flow decreases, causing erectile bodies to shrink.",
+            "wrongAnswer_3": "Erectile bodies become filled with lymphatic fluid, not blood.",
+            "wrongAnswer_4": "Sympathetic tone increases, leading to decreased blood flow."
+          },
+          {
+            "question": "What does the flaccid state of the penis involve?",
+            "goodAnswer": "It involves resting sympathetic tone, contracted muscles, and small-caliber cavernosal arteries.",
+            "wrongAnswer_1": "It involves relaxed sympathetic tone and dilated arteries.",
+            "wrongAnswer_2": "It involves increased blood flow and open venules.",
+            "wrongAnswer_3": "It involves smooth muscle relaxation and large-caliber arteries.",
+            "wrongAnswer_4": "It involves increased venous outflow and arterial constriction."
+          },
+          {
+            "question": "How does Viagra (Sildenafil) enhance sexual function?",
+            "goodAnswer": "It enhances nitric oxide effects by inhibiting PDE5, which increases cGMP and smooth muscle relaxation.",
+            "wrongAnswer_1": "It stimulates direct muscle contraction and enhances blood flow.",
+            "wrongAnswer_2": "It reduces the levels of nitric oxide in the blood vessels.",
+            "wrongAnswer_3": "It works by blocking the release of guanylate cyclase in the corpus cavernosum.",
+            "wrongAnswer_4": "It inhibits PDE3, increasing smooth muscle contraction and reducing blood flow."
+          },
+          {
+            "question": "What is a potential side effect of high doses of Viagra?",
+            "goodAnswer": "Color vision problems due to the effect on PDE6 in the retina.",
+            "wrongAnswer_1": "Dizziness and difficulty breathing due to increased blood pressure.",
+            "wrongAnswer_2": "Nausea and vomiting due to liver enzyme inhibition.",
+            "wrongAnswer_3": "Blurred vision from reduced nitric oxide release in the eyes.",
+            "wrongAnswer_4": "Muscle spasms and weakness due to reduced blood flow to muscles."
+          }
+        ]
+      }
+    ]
+  }
+}

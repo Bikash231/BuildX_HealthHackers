@@ -1,0 +1,206 @@
+{
+  "mainTopic": {
+    "title": "Airways",
+    "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "subTopics": [
+      {
+        "title": "The Nose and its Adjacent Structures",
+        "quizzes": [
+          {
+            "question": "What are the primary functions of the respiratory system?",
+            "goodAnswer": "To provide oxygen to body tissues for cellular respiration, remove carbon dioxide as a waste product, and help maintain acid-base balance.",
+            "wrongAnswer_1": "To regulate blood circulation, store excess oxygen in the lungs, and break down carbon dioxide into nitrogen and water.",
+            "wrongAnswer_2": "To filter toxins from the bloodstream, transport oxygen directly to muscles, and stabilize body temperature.",
+            "wrongAnswer_3": "To produce enzymes for digestion, absorb nutrients from inhaled air, and control the pH of stomach fluids.",
+            "wrongAnswer_4": "To generate red blood cells and to store carbon dioxide for later use."
+          },
+          {
+            "question": "Which structures form the conducting zone of the respiratory system, and what is their common role in breathing?",
+            "goodAnswer": "The nose, pharynx, larynx, trachea, bronchi, and most bronchioles; they provide a passage for air, remove debris and pathogens, and warm and humidify incoming air.",
+            "wrongAnswer_1": "The nasal cavity, sinuses, pharynx, trachea, and terminal bronchioles; they transport air and contribute to gas exchange by filtering oxygen before it reaches the alveoli.",
+            "wrongAnswer_2": "The epiglottis, larynx, bronchioles, and alveolar ducts; they control airflow, direct air into the lungs, and serve as primary sites for oxygen absorption.",
+            "wrongAnswer_3": "The larynx, trachea, bronchial tree, and pulmonary arteries; they regulate airflow, produce mucus, and facilitate limited gas diffusion in the upper respiratory tract.",
+            "wrongAnswer_4": "The nasal cavity, oral cavity, pharynx, trachea, and alveoli; they warm and humidify air, protect against pathogens, and help exchange gases in the upper airways."
+          },
+          {
+            "question": "What are the external regions of the nose and their anatomical locations?",
+            "goodAnswer": "Root → Between the eyebrows; Bridge → Connects the root to the rest of the nose; Dorsum nasi → Length of the nose; Apex → Tip of the nose; Ala → Forms lateral side of the nostrils",
+            "wrongAnswer_1": "Root → Connects the nose to the upper lip; Bridge → Tip of the nose; Dorsum nasi → Space between nostrils; Apex → Cartilage inside the nasal cavity; Ala → Separates the nasal cavities",
+            "wrongAnswer_2": "Root → Forms the base of the nose; Bridge → Includes the nasal bone and soft cartilage; Dorsum nasi → Openings to the nasal cavity; Apex → Forms part of the ethmoid bone; Ala → Structures that separate sinuses",
+            "wrongAnswer_3": "Root → Located in the maxilla; Bridge → Made entirely of cartilage; Dorsum nasi → Area between the upper lip and the philtrum; Apex → Hard bone at the end of the nose; Ala → Connects the nasal cavity to the pharynx",
+            "wrongAnswer_4": "Root → Forms the lower part of the nose; Bridge → Part of the sphenoid bone; Dorsum nasi → Forms part of the nasal septum; Apex → Includes part of the vomer; Ala → Located in the sinuses"
+          },
+          {
+            "question": "Which structures form the nasal septum?",
+            "goodAnswer": "Septal cartilage, perpendicular plate of the ethmoid bone, vomer bone",
+            "wrongAnswer_1": "Maxillary bone, sphenoid bone, palatine bone",
+            "wrongAnswer_2": "Frontal bone, inferior nasal conchae, maxilla",
+            "wrongAnswer_3": "Alar cartilage, lacrimal bone, cribriform plate",
+            "wrongAnswer_4": "Nasal bone, palatine bone, mandible"
+          },
+          {
+            "question": "What are the characteristics of the conchae nasi?",
+            "goodAnswer": "The superior and middle conchae are part of the ethmoid bone, while the inferior conchae are separate bones; they increase surface area, disrupt airflow to filter and warm air, and conserve moisture.",
+            "wrongAnswer_1": "The superior and inferior conchae are part of the maxilla, while the middle concha belongs to the ethmoid bone; they regulate air pressure and prevent excessive nasal turbulence.",
+            "wrongAnswer_2": "All three conchae are separate bones, forming structural ridges that guide airflow directly into the trachea without significant filtration.",
+            "wrongAnswer_3": "The superior and middle conchae belong to the sphenoid bone, while the inferior concha is a projection of the palatine bone; they primarily function to drain sinus secretions into the pharynx.",
+            "wrongAnswer_4": "The nasal conchae are extensions of the frontal bone, designed to maintain the stability of the nasal septum while aiding in temperature regulation."
+          },
+          {
+            "question": "What is the name of the four the paranasal sinuses and what is their function?",
+            "goodAnswer": "Maxillary sinus, frontal sinus, sphenoidal sinus, ethmoidal sinus. They serve to warm and humidify incoming air, produce mucus and lighten the weight of the skull.",
+            "wrongAnswer_1": "Nasal sinus, lacrimal sinus, mandibular sinus, palatine sinus. They serve to regulate nasal pressure, produce enzymes for digestion, and store excess mucus for immune defense.",
+            "wrongAnswer_2": "Inferior sinus, temporal sinus, zygomatic sinus, occipital sinus. They function to filter air directly into the lungs, store oxygen, and maintain blood circulation in the nasal cavity.",
+            "wrongAnswer_3": "Maxillary sinus, sphenoidal sinus, palatine sinus, vomer sinus. They serve to stabilize the nasal septum, control olfactory sensitivity, and assist in vocal resonance.",
+            "wrongAnswer_4": "Frontal sinus, ethmoidal sinus, conchal sinus, mastoid sinus. They primarily function to cool inhaled air, absorb sound waves, and facilitate lymphatic drainage in the nasal cavity."
+          }
+        ]
+      },
+      {
+        "title": "Pharynx",
+        "quizzes": [
+          {
+            "question": "How can the pharynx be accurately described in terms of its structure and anatomical divisions?",
+            "goodAnswer": "The pharynx is a tube formed by skeletal muscle and lined by a mucous membrane; it is divided into the nasopharynx (upper part), oropharynx (middle part), and laryngopharynx (lower part), serving as a passage for air and food.",
+            "wrongAnswer_1": "The pharynx is a tube composed of smooth muscle without a mucous membrane coverage; it is divided into the oropharynx (upper part), nasopharynx (middle part), and esophageopharynx (lower part), all of which function solely in air conduction.",
+            "wrongAnswer_2": "The pharynx is a structure formed by connective tissue and cartilage; it consists of the laryngopharynx (upper part), otopharynx (middle part), and tracheopharynx (lower part), with the laryngopharynx being responsible for filtering air before it reaches the lungs.",
+            "wrongAnswer_3": "The pharynx is a narrow duct made entirely of epithelial tissue; it is divided into the nasopharynx (upper part), esophageopharynx (middle part), and oropharynx (lower part), with the oropharynx serving only as a passage for air.",
+            "wrongAnswer_4": "The pharynx is a muscular passage lined by mucous glands; it is divided into the laryngopharynx (upper part), tracheopharynx (middle part), and oropharynx (lower part), all of which participate equally in digestion and respiration."
+          },
+          {
+            "question": "What is the structure and function of the nasopharynx?",
+            "goodAnswer": "The nasopharynx is flanked by the conchae of the nasal cavity and serves only as an airway. It contains the pharyngeal tonsils, which are lymphoid tissue. Auditory tubes connect each middle ear cavity to the nasopharynx.",
+            "wrongAnswer_1": "The conjoined cavity of the paranasal sinuses is the nasopharynx, which serves as an accessory airway towards the trachea. It contains the palatine tonsils, which filter pathogens, and auditory tubes that open into the oropharynx.",
+            "wrongAnswer_2": "The nasopharynx is a bony canal between the nasal cavity and the trachea and functions only in respiration. It contains lymph nodes that regulate airflow and is connected to the larynx by the auditory tubes.",
+            "wrongAnswer_3": "The nasopharynx is a muscular tube lined with smooth muscle and ciliated epithelium. It houses the pharyngeal tonsils, which primarily produce mucus, and it connects the nasal cavity to the esophagus.",
+            "wrongAnswer_4": "The muscular structure positioned between the laryngopharynx and the trachea is called the nasopharynx. It contains the adenoids, which assist in speech production and food transport. The auditory tubes help prevent nasal infections."
+          },
+          {
+            "question": "How is the oropharynx structured, and what role does it play in the body?",
+            "goodAnswer": "Serving as a passageway for both air and food, the oropharynx is bordered superiorly by the nasopharynx and anteriorly by the oral cavity. The fauces form the opening between the oral cavity and the oropharynx. It contains the palatine and lingual tonsils, which are lymphoid tissues that trap and destroy pathogens.",
+            "wrongAnswer_1": "The oropharynx is a muscular chamber positioned between the nasall cavity and the nasopharynx, serving as a conduit for both respiration and digestion. It is lined with stratified squamous epithelium, which protects against mechanical stress. The fauces, located at its anterior boundary, control the passage of food and air into the next section of the pharynx.",
+            "wrongAnswer_2": "The structure responsible for filtering air before it enters the lungs is the oropharynx. It is bordered superiorly by the esophagus and anteriorly by the larynx. The fauces direct airflow into the nasal cavity, and it contains the pharyngeal and lingual tonsils, which function mainly in mucus production.",
+            "wrongAnswer_3": "The oropharynx transports food from the oral cavity directly to the esophagus. It is lined entirely with pseudostratified ciliated columnar epithelium. The fauces regulate digestion, and it contains only the palatine tonsils, which secrete enzymes to break down ingested particles.",
+            "wrongAnswer_4": "The tube of connective tissue that separates the respiratory and digestive pathways is called the oropharynx. It is bordered laterally by the nasopharynx and inferiorly by the esophagus. The fauces prevent food from entering the larynx, and it contains the lingual tonsil, which facilitate saliva production."
+          },
+          {
+            "question": "How is the laryngopharynx positioned within the pharynx, and what is its function?",
+            "goodAnswer": "The laryngopharynx is inferior to the oropharynx and posterior to the larynx. It serves as a passage for both air and ingested material until the inferior end, where the digestive and respiratory systems diverge. Anteriorly, it opens into the larynx, and posteriorly, it enters the esophagus.",
+            "wrongAnswer_1": "Found above the trachea and behind the nasal cavity, the laryngopharynx can be seen as a continuation of the laryngeal airway. It primarily aids in sound production and contains vocal cords responsible for phonation.",
+            "wrongAnswer_2": "The muscular tube extending from the nasal cavity to the trachea is called the laryngopharynx. It primarily filters incoming air, preventing dust and debris from reaching the lungs, while allowing food to pass freely into the stomach.",
+            "wrongAnswer_3": "The laryngopharynx has a similar role as the esophagus, acting as a junction for air and swallowed substances. It extends downward, allowing food to pass anteriorly into the stomach while guiding air posteriorly into the lungs. This dual-function passage ensures separation of respiratory and digestive pathways.",
+            "wrongAnswer_4": "Incomplete separation of the larynx and the pharynx leads to the laryngopharynx. In these cases, both air and food will enter the trachea. Vocal cords, which are located at the center part of the laryngopharynx, remain intact, allowing proper sound production."
+          }
+        ]
+      },
+      {
+        "title": "Larynx",
+        "quizzes": [
+          {
+            "question": "​What is the general structure and function of the larynx?",
+            "goodAnswer": "Located inferior to the laryngopharynx, the larynx is a cartilaginous structure that connects the pharynx to the trachea and helps regulate the volume of air entering and leaving the lungs. It is formed by several pieces of cartilage.",
+            "wrongAnswer_1": "The larynx is located between the esophagus and the nasal cavity. It's primary function is to help separate solid food from liquids. It is composed of both cartilage and smooth muscle.",
+            "wrongAnswer_2": "The rigid tube positioned between the pharynx and the middle ear is the larynx. It plays a role in both respiration and digestion by controlling the movement of air and food. It is primarily formed by connective tissue with minor cartilaginous support.",
+            "wrongAnswer_3": "The larynx is a passageway that connects the trachea to the lungs It primarily functions as a resonance chamber for voice production rather than air regulation. It is composed of multiple cartilage plates and fibrous tissue.",
+            "wrongAnswer_4": "The larynx is a muscular organ that links the respiratory and digestive systems. It is found at the junction of the laryngopharynx and esophagus and plays a key role in vocalization. Its structure is reinforced by bones but also contains significant vascular networks for air conditioning."
+          },
+          {
+            "question": "Which cartilages form the larynx?",
+            "goodAnswer": "The thyroid cartilage (anterior), epiglottis (superior), and cricoid cartilage (inferior). Three smaller, paired cartilages attach to the epiglottis and the vocal cords and muscle that help move the vocal cords to produce speech.",
+            "wrongAnswer_1": "The thyroid cartilage (superior), epiglottis (posterior), and cricoid cartilage (anterior). Four smaller, paired cartilages attach to the trachea and reinforce airway stability.",
+            "wrongAnswer_2": "The cricoid cartilage (superior), thyroid cartilage (inferior), and epiglottis (anterior). Five smaller, paired cartilages stabilize the esophagus and prevent food from entering the trachea.",
+            "wrongAnswer_3": "Three large cartilage pieces form the major structure of the larynx: the thyroid cartilage (anterior), cricoid cartilage (superior), and epiglottis (medial). Two smaller, paired cartilages regulate airflow but do not contribute to vocal cord movement.",
+            "wrongAnswer_4": "The epiglottis (medial), thyroid cartilage (inferior), and cricoid cartilage (posterior). Three smaller, paired cartilages function exclusively in swallowing and do not attach to the vocal cords."
+          },
+          {
+            "question": "Which laryngeal cartilage and associated characteristic pairing is correct?",
+            "goodAnswer": "thyroid cartilage - largest piece of cartilage, contains the laryngeal prominence\n\ncricoid cartilage - forms an incomplete ring that is thicker anteriorly than posteriorly\n\nepiglottis - attached to the thyroid cartilage, a flexible piece of elastic cartilage that covers the opening of the trachea",
+            "wrongAnswer_1": "epiglottis – attached to the hyoid bone, a dense cartilaginous structure that prevents food from entering the lungs\n\nthyroid cartilage – a single midline structure fused with the trachea\n\ncricoid cartilage – forms an oval-shaped plate with connection to the esophagus",
+            "wrongAnswer_2": "thyroid cartilage – paired structure that forms part of the vocal cords\n\nepiglottis – attached to the arytenoid cartilage, a flexible piece of fibrocartilage that supports respiration\n\ncuneiform cartilage – forms a C-shaped ring that remains open posteriorly",
+            "wrongAnswer_3": "cricoid cartilage – consists of two separate plates that articulate with the tracheal rings\n\nthyroid cartilage – forms the superior border of the larynx and directly supports the hyoid bone\n\narytenoid cartilage – attached to the vocal cords, a small cartilaginous flap that regulates sound production",
+            "wrongAnswer_4": "cuneiform cartilage – the smallest cartilage of the larynx, positioned above the arytenoid cartilages\n\ncricoid cartilage – shaped like a horseshoe, allowing flexibility for vocal fold movement\n\narytenoid cartilage – attached to the thyroid cartilage, a membranous structure that assists in mucus production"
+          },
+          {
+            "question": "What are the characterstics of the glottis?",
+            "goodAnswer": "The glottis is composed of the vestibular folds, the true vocal cords, and the space between these folds. The vestibular folds, also called false vocal cords, are folded sections of mucous membrane. The true vocal cords are white, membranous folds attached by muscle to the thyroid and arytenoid cartilages.",
+            "wrongAnswer_1": "The cartilage that connects the larynx to the trachea is the glottis. It is formed by the epiglottis, vestibular folds, and vocal cords. The vestibular folds are muscular bands that adjust tension in the airway, while the true vocal cords are cartilage-supported structures that alter the pitch of the voice.",
+            "wrongAnswer_2": "The glottis is a structure located between the cricoid and thyroid cartilages and is made up of the vocal cords, vestibular folds, and a surrounding membrane. The vestibular folds play a primary role in closing off the airway, rather than producing sound. The true vocal cords assist in directing airflow into the trachea.",
+            "wrongAnswer_3": "The glottis includes the vestibular folds, the vocal ligaments, and the arytenoid cartilages. The vestibular folds contain ciliated epithelium to filter air before it enters the lungs, while the true vocal cords produce sound by vibrating against the cricoid cartilage.",
+            "wrongAnswer_4": "The opening between the larynx and the pharynx is called the glottis. It contains the vestibular folds, which prevent food from entering the trachea, while the true vocal cords expand and contract to regulate phonation and control the width of the airway ."
+          }
+        ]
+      },
+      {
+        "title": "Trachea",
+        "quizzes": [
+          {
+            "question": "How can the structure of the trachea be described?",
+            "goodAnswer": "The trachea extends from the larynx toward the lungs. It is formed by 16 to 20 stacked, C-shaped pieces of hyaline cartilage that are connected by dense connective tissue. The posterior surface of the trachea is closed by the fibroelastic membrane.",
+            "wrongAnswer_1": "Situated between the pharynx and the bronchi, the trachea consists of 16 to 20 complete rings of elastic cartilage that enclose the airway. Its posterior surface is reinforced with bones, ensuring structural rigidity throughout the breathing process.",
+            "wrongAnswer_2": "Composed of irregular cartilage plates, the trachea extends from the larynx toward the alveoli. These plates are joined by loose connective tissue, and the posterior side features stacked layers of fibrous cartilage that provide additional airway stability.",
+            "wrongAnswer_3": "The trachea runs from the vocal cords toward the bronchi. It consists of 16 to 20 complete rings of hyaline cartilage arranged in a continuous structure. The posterior surface is supported by a thick cartilaginous wall.",
+            "wrongAnswer_4": "The passageway leading to the lower respiratory tract is called the trachea, which contains 16 to 20 horizontally arranged, C-shaped cartilage segments bound by interwoven fibrous tissue. The posterior surface includes a rigid cartilage sheet that maintains airway stability."
+          },
+          {
+            "question": "What are two key structural components of the tracheal wall, and what are their functions?",
+            "goodAnswer": "fibroelastic membrane - allows the trachea to stretch and expand slightly during inhalation and exhalation\n\nrings of cartilage - provide structural support and prevent the trachea from collapsing",
+            "wrongAnswer_1": "smooth muscle layer – contracts and expands to regulate the rate of airflow through the trachea\n\nhyaline cartilage discs – provide partial support but leave the posterior side of the trachea open for esophageal expansion",
+            "wrongAnswer_2": "plates of cartilage – form an incomplete structure that adjusts airway diameter during respiration\n\nfibroelastic membrane – absorbs moisture from inhaled air to regulate humidity in the respiratory tract",
+            "wrongAnswer_3": "bony posterior wall – reinforces the trachea, keeping it rigid and preventing excessive movement\n\nelastic cartilage – provide flexibility, allowing the trachea to fully collapse when needed",
+            "wrongAnswer_4": "loose connective tissue – filters air by trapping particles and pushing debris toward the larynx\n\nrings of cartilage – arranged in a flexible pattern, allowing the trachea to shift position during breathing"
+          }
+        ]
+      },
+      {
+        "title": "Bronchial tree",
+        "quizzes": [
+          {
+            "question": "After leaving the trachea, how do the airways continue branching?",
+            "goodAnswer": "The trachea branches into the right and left primary bronchi. They enter the lungs at the hilum along with blood vessels, lymphatic vessels, and nerves. Rings of cartilage support the structure of the bronchi and prevent their collapse.",
+            "wrongAnswer_1": "Air from the trachea is directed into the right and left primary bronchi, which enter the pleural cavity along with arteries and veins. These bronchi are encased in smooth muscle fibers, which help adjust their diameter and regulate airflow.",
+            "wrongAnswer_2": "The airway divides into superior and inferior bronchi, which carry oxygen directly to the alveoli. These bronchi pass through the diaphragm and are reinforced by loose connective tissue rings, which allow them to expand and contract, regulating airflow into the lungs.",
+            "wrongAnswer_3": "The trachea gives rise to the right and left primary bronchi, which enter the lungs at the mediastinum along with lymphatic ducts and nerve bundles. The bronchi contain irregularly shaped cartilage plates that fully enclose the airway.",
+            "wrongAnswer_4": "From the trachea, air moves into the right and left bronchial trunks, which lead to different lung lobes. These structures contain overlapping cartilage segments and smooth muscle fibres that provide flexibility rather than rigid structural support."
+          },
+          {
+            "question": "What is the structure and function of the bronchial tree?",
+            "goodAnswer": "The collective term used for the multiple-branched bronchi is the bronchial tree. The main function of the bronchi is to provide a passageway for air to move into and out of each lung. In addition, the mucous membrane traps debris and pathogens.",
+            "wrongAnswer_1": "Composed of a single primary bronchus that divides into bronchioles, the bronchial tree filters oxygen before it reaches the lungs. The mucosal lining regulates airflow resistance and controls moisture levels to maintain respiratory balance.",
+            "wrongAnswer_2": "The bronchial tree is made up of rigid bronchial segments that control airflow through muscle contraction. Its main function is to regulate gas exchange between the bronchi and pulmonary capillaries, while the mucous membrane protects against dehydration.",
+            "wrongAnswer_3": "Branching from the trachea into separate airway pathways, each bronchial tree supplies individual lung lobes. Unlike other parts of the respiratory system, its bronchi are lined with fibrous connective tissue rather than a mucous membrane, which allows for structural support.",
+            "wrongAnswer_4": "The bronchial tree is a system of small air passages that branch from the alveolar sacs toward the trachea. It provides structural support for the lungs and assists in warming inhaled air, while its inner lining absorbs excess carbon dioxide before exhalation."
+          },
+          {
+            "question": "How are bronchioles structured, and what is their function?",
+            "goodAnswer": "Bronchioles branch from the tertiary bronchi and continue dividing until they form terminal bronchioles, which lead to the structures of gas exchange. Their muscular walls lack cartilage, allowing them to change the size of the tubing to increase or decrease airflow.",
+            "wrongAnswer_1": "A bronchiole originates from the secondary bronchi and extends into the alveolar sacs. Bronchioles are reinforced with rings of cartilage to maintain their structure and regulate airflow resistance before reaching the gas exchange surfaces.",
+            "wrongAnswer_2": "Bronchioles are small airways that arise from the primary bronchi and connect directly to pulmonary capillaries. Their walls contain both smooth muscle fibers and cartilage, which control air pressure and regulate oxygen and carbon dioxide diffusion into the bloodstream.",
+            "wrongAnswer_3": "Formed by the fusion of multiple tertiary bronchi, bronchioles function as rigid air passages. Their muscular walls are lined with fibrous connective tissue, which prevents airway collapse while directing air toward the alveoli for gas exchange.",
+            "wrongAnswer_4": "A bronchiole arises from the trachea and supplies oxygen directly to the lung lobes. The walls of bronchioles contain both cartilage and mucosal folds that expand and contract in response to airflow demands."
+          }
+        ]
+      },
+      {
+        "title": "Respiratory zone",
+        "quizzes": [
+          {
+            "question": "Which structures form the respiratory zone of the airways, and what are their characteristics?\n",
+            "goodAnswer": "respiratory bronchiole: the smallest type of bronchiole, leads to an alveolar duct\n\nalveolar duct: a tube composed of smooth muscle and connective tissue, opens into a cluster of alveoli\n\nalveolus: small, grape-like sac that is attached to the alveolar duct",
+            "wrongAnswer_1": "respiratory bronchiole: a large airway that branches from the trachea, directing air toward the alveolar sacs\n\nalveolar sac: a rigid passageway lined with hyaline cartilage that maintains airway structure during breathing\n\nalveolus: a thick-walled cavity responsible for storing oxygen before it is absorbed into the bloodstream",
+            "wrongAnswer_2": "lobar bronchiole: a terminal airway that transports air from the alveoli to the trachea during exhalation\n\nalveolar duct: a network of elastic fibers that expands and contracts to regulate airflow into the bronchi\n\nrespiratory bronchus: a flattened sac lined with ciliated epithelium that filters debris before air enters the bloodstream",
+            "wrongAnswer_3": "teminal bronchiole: a section of the airway reinforced by cartilage to prevent collapse during exhalation\n\ntrachea: a muscular structure that contracts rhythmically to push oxygen-rich air into the lungs\n\nalveolus: a fluid-filled sac that acts as a temporary storage chamber for inhaled gases",
+            "wrongAnswer_4": "respiratory bronchiole: a secondary branch of the bronchi that connects directly to the pulmonary capillaries\n\nalveolar sac: a small airway that filters air and removes excess carbon dioxide before reaching the alveoli\n\nprimary bronchi: a large chamber composed of fibrous tissue that prevents the overexpansion of the lungs"
+          },
+          {
+            "question": "What are the charactersitics of the alverolar sac and alveoli?",
+            "goodAnswer": "An alveolar sac is a cluster of many individual alveoli. An alveolus is approximately 200 μm in diameter with elastic walls that allow the alveolus to stretch during air intake. Alveoli are connected to their neighbors by alveolar pores, which help maintain equal air pressure throughout the alveoli.",
+            "wrongAnswer_1": "An alveolus, which is the same as an alveolar sac, consists of a single large air-filled cavity that collects oxygen before it enters the bloodstream. Each alveolus is about 500 μm in diameter, with rigid walls that do not expand. Alveolar pores control how much oxygen is absorbed in different lung regions.",
+            "wrongAnswer_2": "Consisting multiple alveoli, alveolar sacs serve as air reservoirs. An alveolus is approximately 100 μm in diameter and is reinforced with connective tissue to stabilize its shape. Alveoli are connected by alveolar pores, which regulate airflow into the bronchi.",
+            "wrongAnswer_3": "Each alveolar sac is a hollow chamber that temporarily holds air before it reaches the alveoli. The alveoli themselves measure around 300 μm in diameter and have thick muscular walls that actively contract, helping to push air into the bloodstream. Alveolar pores adjust lung volume to accommodate changing respiratory needs.",
+            "wrongAnswer_4": "An alveolar sac is a flexible airway structure that expands and contracts with respiration. An alveolus is approximately 50 μm in diameter with smooth muscle fibers that control airflow resistance. Alveoli are connected by alveolar pores, which function to regulate ventilation between different lung segments."
+          }
+        ]
+      }
+    ]
+  }
+}

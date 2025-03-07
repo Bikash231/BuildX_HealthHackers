@@ -1,0 +1,168 @@
+{
+  "mainTopic": {
+    "title": "Ovarian pathology",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "Types of ovarian tumors",
+        "quizzes": [
+          {
+            "question": "What is the most common histological type of germ cell tumor of the ovary?",
+            "goodAnswer": "Dysgerminoma, which is composed of small uniform cells with clear cytoplasm and vesicular nuclei.",
+            "wrongAnswer_1": "Embryonal carcinoma, which is characterized by solid sheets or cords of anaplastic cells with hyperchromatic nuclei and scant cytoplasm.",
+            "wrongAnswer_2": "Yolk sac tumor, which typically presents with vascular channels, reticular connective tissue, and Schiller-Hematoxylin bodies.",
+            "wrongAnswer_3": "Choriocarcinoma, which consists of syncytial and cytotrophoblastic elements with evidence of invasion.",
+            "wrongAnswer_4": "Teratoma, which is a neoplasm composed of multiple tissues derived from all three germ layers, including ectoderm, mesoderm, and endoderm."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of a dysgerminoma?",
+            "goodAnswer": "Dysgerminoma cells are typically well-differentiated but highly mitotic, leading to rapid growth and frequent metastasis.",
+            "wrongAnswer_1": "Dysgerminoma is the most common malignant germ cell tumor of the ovary and accounts for about 60% of such tumors.",
+            "wrongAnswer_2": "Patients with dysgerminoma often present with symptoms of abdominal distention, pelvic pain, or weight loss.",
+            "wrongAnswer_3": "Diagnosis is usually made by imaging studies such as ultrasound, CT scan, or MRI, which reveal a solid, non-cystic mass in the ovary.",
+            "wrongAnswer_4": "Theca luteinization is frequently associated with dysgerminoma due to the high vascularity of the tumor."
+          },
+          {
+            "question": "How is a borderline papillary cystadenocarcinoma characterized, and what are the consequences of failing to diagnose it?",
+            "goodAnswer": "It is characterized by many papillations on the inner surface and is composed of solid tissue. It invades outside of the ovary, with visible papillations on the surface. Often there are no early signs, and many tumors have metastasized by the time they are diagnosed, typically spreading by \"seeding\" along peritoneal surfaces.",
+            "wrongAnswer_1": "It is characterized by a smooth inner surface with no papillations. It rarely invades the ovarian capsule and is typically diagnosed at an early stage. Due to its slow growth rate, metastatic spread is uncommon.",
+            "wrongAnswer_2": "It is diagnosed only after a routine screening ultrasound in asymptomatic women. It is characterized by a unilocular cyst with a thin wall and clear fluid content. Treatment is not required as it often regresses spontaneously.",
+            "wrongAnswer_3": "It typically presents with severe abdominal pain and a palpable mass. On ultrasound, it shows multiple cystic spaces with irregular margins and solid components. It is highly vascular on Doppler examination.",
+            "wrongAnswer_4": "It is characterized by a single large papilla on the inner surface and does not invade the ovarian capsule. It is diagnosed only after surgical removal of the cyst for unrelated reasons. Follow-up is routine with regular pelvic exams and CA-125 testing."
+          }
+        ]
+      },
+      {
+        "title": "Fibrothecomas, Hemorrhagic Cyst, Ovarian surface epithelial tumors, Serous cystadenoma, Papillary serous cystadenocarcinoma",
+        "quizzes": [
+          {
+            "question": "What is a common intraoperative finding consistent with invasive ovarian malignancy?",
+            "goodAnswer": "Bilateral involvement of the ovaries",
+            "wrongAnswer_1": "Absence of peritoneal washings",
+            "wrongAnswer_2": "Only one ovary is involved",
+            "wrongAnswer_3": "A normal-appearing ovarian capsule",
+            "wrongAnswer_4": "Clear peritoneal fluid with no evidence of cells"
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of a LCC (large cell calcification) in ovarian cancer?",
+            "goodAnswer": "LCCs are typically found in mucinous tumors and are associated with a more aggressive clinical course",
+            "wrongAnswer_1": "LCCs are often asymptomatic and detected incidentally during routine imaging or surgery",
+            "wrongAnswer_2": "LCCs can be visualized on ultrasound as hyperechoic foci within the ovary",
+            "wrongAnswer_3": "LCCs may desquamate into the peritoneal cavity, potentially leading to peritoneal dissemination of cancer cells",
+            "wrongAnswer_4": "LCCs are associated with increased vascularity on Doppler imaging"
+          },
+          {
+            "question": "How is a hemorrhagic cyst in the ovary often diagnosed?",
+            "goodAnswer": "It is diagnosed incidentally during routine imaging or surgery for unrelated reasons.",
+            "wrongAnswer_1": "Patients typically present with severe abdominal pain, leading to the diagnosis.",
+            "wrongAnswer_2": "Hemorrhagic cysts are diagnosed by routine blood tests that detect elevated levels of ovarian hormones.",
+            "wrongAnswer_3": "A history of ovarian surgery is always required to confirm the diagnosis.",
+            "wrongAnswer_4": "It is diagnosed by the characteristic absence of a palpable adnexal mass."
+          },
+          {
+            "question": "What is the most common type of ovarian neoplasm, and what are the most frequent clinical presentations associated with it?",
+            "goodAnswer": "Epithelial tumors are the most common type of ovarian neoplasm, and they frequently present as asymptomatic incidental findings, nonspecific abdominal distention, weight loss, and pelvic pain.",
+            "wrongAnswer_1": "Stromal tumors are the most frequent type of ovarian neoplasm, typically presenting with amenorrhea, irregular uterine bleeding, and fatigue.",
+            "wrongAnswer_2": "Germ cell tumors are the most common ovarian neoplasm, usually diagnosed due to rapid tumor growth, abdominal pain, and backache.",
+            "wrongAnswer_3": "Metastatic tumors account for the majority of ovarian neoplasms, often presenting with multiple, solid nodules in the ovary, ascites, and lymphadenopathy.",
+            "wrongAnswer_4": "Undifferentiated tumors are the most frequent type of ovarian neoplasm, typically diagnosed due to rapidly worsening symptoms like abdominal swelling, fever, and fatigue."
+          },
+          {
+            "question": "When is a second-look procedure typically performed in the treatment of ovarian cancer?",
+            "goodAnswer": "A second-look procedure is typically performed 6 months after initial surgery and chemotherapy, allowing for assessment of response to treatment and detection of residual disease.",
+            "wrongAnswer_1": "A second-look procedure is only performed in Stage I ovarian cancer to confirm the diagnosis before proceeding with systemic therapy.",
+            "wrongAnswer_2": "It is routinely performed immediately after primary surgical cytoreduction to determine the need for adjuvant chemotherapy.",
+            "wrongAnswer_3": "It is used to evaluate the effectiveness of radiation therapy in controlling microscopic disease.",
+            "wrongAnswer_4": "It is recommended only for patients with advanced-stage ovarian cancer who have no evidence of disease on routine imaging."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of a LCC (large cell calcification) in ovarian cancer?",
+            "goodAnswer": "LCCs are typically associated with dysgerminoma and teratoma, not carcinomas",
+            "wrongAnswer_1": "LCCs are often found in mucinous cystadenomas and are not associated with serous tumors",
+            "wrongAnswer_2": "LCCs are small, measuring less than 5 mm, and do not alter the overall size of the ovary",
+            "wrongAnswer_3": "LCCs consist of calcium deposits within the ovarian tumor, making them visible on radiography",
+            "wrongAnswer_4": "LCCs are more common in older women and are rarely found in premenopausal patients"
+          },
+          {
+            "question": "Which of the following statements correctly describes a key characteristic or clinical presentation of a fibrothecoma, hemorrhagic cyst, or papillary serous cystadenocarcinoma?",
+            "goodAnswer": "A papillary serous cystadenocarcinoma is characterized by many papillations on the inner surface, composed of solid tissue, and invades outside the ovary.",
+            "wrongAnswer_1": "Hemorrhagic cysts are always asymptomatic and are only diagnosed incidentally during routine imaging.",
+            "wrongAnswer_2": "Fibrothecomas are typically multicystic and contain multiple solid nodules on their surface.",
+            "wrongAnswer_3": "A papillary serous cystadenocarcinoma is a benign tumor that does not invade surrounding tissues and remains confined to the ovarian capsule.",
+            "wrongAnswer_4": "A hemorrhagic cyst is diagnosed when a patient presents with severe abdominal pain, fever, and leukocytosis, but no adnexal mass is palpable."
+          }
+        ]
+      },
+      {
+        "title": "Key issues, Epidemiology, Associations",
+        "quizzes": [
+          {
+            "question": "What is the most common ovarian neoplasm, and what is the typical finding in papillary serous cystadenocarcinoma?",
+            "goodAnswer": "Epithelial tumors, which account for 70% of ovarian neoplasms, and papillary serous cystadenocarcinomas feature many papillations on the inner surface, composed of solid tissue and invading outside of the ovary.",
+            "wrongAnswer_1": "Stromal tumors, which account for 5-10% of ovarian neoplasms, and papillary serous cystadenocarcinomas feature smooth-walled cysts without solid components.",
+            "wrongAnswer_2": "Germ cell tumors, which account for 15-20% of ovarian neoplasms, and papillary serous cystadenocarcinomas only occur in children and young adults.",
+            "wrongAnswer_3": "Metastatic tumors, which account for approximately 5% of ovarian malignancies, and papillary serous cystadenocarcinomas are always bilateral.",
+            "wrongAnswer_4": "Fibrothecomas, which account for 10% of ovarian tumors, and papillary serous cystadenocarcinomas are characterized by a lack of papillations on the inner surface."
+          },
+          {
+            "question": "Which statement accurately describes the characteristics and clinical presentation of a hemorrhagic cyst?",
+            "goodAnswer": "A hemorrhagic cyst is often a corpus luteum cyst with a dark red-black hemorrhagic zone surrounded by a rim of yellow luteum, representing hemorrhage within a normal corpus luteum. It is commonly found each month and rarely leads to symptoms or complications.",
+            "wrongAnswer_1": "Hemorrhagic cysts are only found in postmenopausal women and are always asymptomatic, as they are small and resolve spontaneously within days. They represent cystic degeneration of ovarian tissue and are not associated with the corpus luteum.",
+            "wrongAnswer_2": "A hemorrhagic cyst typically presents with severe abdominal pain, nausea, and vaginal bleeding. It is diagnosed by routine ultrasound screening and requires immediate surgical intervention to prevent cyst rupture and internal bleeding.",
+            "wrongAnswer_3": "Hemorrhagic cysts are exclusively seen in patients with prior history of ovarian surgery or radiation therapy. They grow rapidly and often cause pelvic organ dysfunction such as urinary frequency and irregular menses. Most cases require long-term observation with serial imaging.",
+            "wrongAnswer_4": "A hemorrhagic cyst is diagnosed when a patient presents with fatigue, weight loss, and irregular menstrual cycles. It typically occurs due to hormonal imbalance and resolves spontaneously within weeks. There is no need for further investigation or treatment."
+          },
+          {
+            "question": "How is Meig's syndrome characterized, and what is its typical presentation?",
+            "goodAnswer": "It is characterized by a benign pelvic tumor (usually an ovarian fibroma), ascites, and a pleural effusion.",
+            "wrongAnswer_1": "It is characterized by a malignant ovarian tumor, ascites, and pleural effusion.",
+            "wrongAnswer_2": "It is characterized by a benign pelvic tumor (usually an ovarian fibroma), ascites, and pleural effusion, but only in postmenopausal women.",
+            "wrongAnswer_3": "It is characterized by a right-sided hydrothorax in association with endometriosis.",
+            "wrongAnswer_4": "It is characterized by a large ovarian tumor, ascites, and pleural effusion, and it always requires immediate surgical intervention."
+          },
+          {
+            "question": "Which statement correctly describes the characteristics and clinical presentation of a fibrothecoma?",
+            "goodAnswer": "Fibrothecomas are benign ovarian tumors with a yellowish appearance due to lipid content in the thecoma component. They can produce estrogen and arise from the ovarian stroma. In about 10% of cases, they are bilateral.",
+            "wrongAnswer_1": "Fibrothecomas are malignant tumors composed of fibrous tissue and necrotic debris, giving them a brownish-black appearance. They typically arise from the ovarian capsule and are always unilateral.",
+            "wrongAnswer_2": "Fibrothecomas produce progesterone, which helps regulate the menstrual cycle and prevent endometrial hyperplasia. They are usually bilateral and often present with abdominal pain and vaginal discharge.",
+            "wrongAnswer_3": "A fibrothecoma is a rare tumor that originates from the fallopian tubes and spreads to the ovary. It has a distinctive reddish hue due to iron accumulation and is associated with anemia.",
+            "wrongAnswer_4": "Fibrothecomas are benign tumors that are asymptomatic and only detected incidentally during routine imaging studies. They do not produce hormones and are unrelated to ovarian stroma."
+          }
+        ]
+      },
+      {
+        "title": "Staging of Ovarian Cancer, Intraoperative findings, Timeline for therapy"
+      },
+      {
+        "title": "Germ Cell Tumors, Classification of Germ Cell Tumors, Teratoma, Complications of Dermoid Cysts, Mixed Germ Cell Tumors, Sex Cord Tumors, Metastatic tumors to ovary",
+        "quizzes": [
+          {
+            "question": "What is the most common clinical presentation of a hemorrhagic cyst in the ovary?",
+            "goodAnswer": "Usually asymptomatic, often diagnosed incidentally",
+            "wrongAnswer_1": "Sudden onset of severe abdominal pain with syncope",
+            "wrongAnswer_2": "Weight loss, fatigue, and persistent nausea",
+            "wrongAnswer_3": "Regular, cyclical pelvic pain that worsens with menstruation",
+            "wrongAnswer_4": "Back pain radiating to the legs with palpable inguinal lymph nodes"
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of papillary serous cystadenocarcinoma?",
+            "goodAnswer": "It tends to grow slowly and is rarely symptomatic in the early stages",
+            "wrongAnswer_1": "It is characterized by many papillations on the inner surface and is composed of solid tissue",
+            "wrongAnswer_2": "It often spreads by \"seeding\" along peritoneal surfaces",
+            "wrongAnswer_3": "It is detected late due to a lack of early signs or symptoms",
+            "wrongAnswer_4": "It can arise from a pre-existing serous cystadenoma"
+          },
+          {
+            "question": "Which type of ovarian tumor is typically diagnosed at an advanced stage due to non-specific symptoms and the asymptomatic nature of early disease?",
+            "goodAnswer": "Epithelial tumors",
+            "wrongAnswer_1": "Stromal tumors",
+            "wrongAnswer_2": "Germ cell tumors",
+            "wrongAnswer_3": "Metastatic tumors",
+            "wrongAnswer_4": "Sex cord tumors"
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

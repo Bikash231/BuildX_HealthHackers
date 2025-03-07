@@ -1,0 +1,394 @@
+{
+  "mainTopic": {
+    "title": "Acute coronary syndromes",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Pathogenesis of ACS",
+        "quizzes": [
+          {
+            "question": "What is the rationale for using calcium channel blockers (non-dihydropyridine) in the treatment of ACS, and what is the primary benefit they provide in this setting?",
+            "goodAnswer": "Non-dihydropyridine calcium channel blockers, such as verapamil or diltiazem, are used to decrease heart rate and cause coronary vasodilation, which helps relieve ischemia. They are often used in conjunction with nitrates and beta-blockers to improve symptoms and reduce the need for more invasive procedures.",
+            "wrongAnswer_1": "Calcium channel blockers (non-dihydropyridine) are contraindicated in the treatment of ACS as they can worsen coronary artery spasms and increase myocardial damage. Beta-blockers are the preferred vasodilator in this setting.",
+            "wrongAnswer_2": "Non-dihydropyridine calcium channel blockers, such as nifedipine or amlodipine, are primarily used to reduce systemic vascular resistance rather than coronary vasodilation. They are often given in high doses to rapidly relieve chest pain in patients with unstable angina.",
+            "wrongAnswer_3": "While calcium channel blockers can help control blood pressure and reduce sympathetic tone, they do not significantly improve coronary blood flow or relieve ischemia. In ACS management, they are rarely indicated and may even increase the risk of complications.",
+            "wrongAnswer_4": "Non-dihydropyridine calcium channel blockers are only effective in patients with documented left ventricular systolic dysfunction. They should not be used in those with preserved ejection fraction or in patients who are undergoing coronary revascularization."
+          },
+          {
+            "question": "In a patient with STEMI, what is the rationale for using thrombolytic therapy, and what is the primary clinical benefit it provides?",
+            "goodAnswer": "Thrombolytic therapy is used to dissolve the thrombus in a coronary artery. It can be considered if PCI is not available within 90 minutes. It carries a risk of major bleeding, stroke, or death.",
+            "wrongAnswer_1": "Thrombolytic therapy is used to prevent coronary thrombosis in high-risk patients. It is superior to PCI in all STEMI patients as it reduces the need for invasive procedures. It has no significant risk of bleeding, stroke, or death.",
+            "wrongAnswer_2": "Thrombolytic therapy works by stabilizing the atherosclerotic plaque and preventing coronary thrombosis. It is recommended for all STEMI patients, regardless of the availability of PCI. It is as safe as routine medical therapy, with no increased risk of bleeding or stroke.",
+            "wrongAnswer_3": "Thrombolytic therapy is only indicated for patients with severe multivessel disease who are not candidates for PCI. It acts by dilating coronary arteries and improving blood flow without dissolving thrombi. It is routinely used as an adjunct to nitrates and beta-blockers in STEMI management.",
+            "wrongAnswer_4": "Thrombolytic therapy is designed to reduce myocardial oxygen demand and improve coronary perfusion. It is a preferred treatment option over PCI in elderly patients. It has been proven to reduce the risk of heart failure and improve long-term survival compared to standard medical therapy alone."
+          },
+          {
+            "question": "Which of the following is NOT a reason why ST-segment elevation (STE) on the ECG in multiple leads suggests a STEMI rather than pericarditis?",
+            "goodAnswer": "STE in multiple leads, especially those without reciprocal changes, is characteristic of STEMI, while pericarditis typically causes diffuse ST elevation with reciprocal changes.",
+            "wrongAnswer_1": "Pericarditis typically causes focal ST elevation in a single lead, while STEMI causes diffuse ST elevation in multiple leads.",
+            "wrongAnswer_2": "Reciprocal changes on the ECG are diagnostic of STEMI, while absent reciprocal changes favor pericarditis.",
+            "wrongAnswer_3": "STEMI is associated with only temporary ST elevation, while pericarditis shows persistent ST elevation over time.",
+            "wrongAnswer_4": "Not applicable. All of the above statements are true and support the diagnosis of STEMI rather than pericarditis."
+          },
+          {
+            "question": "What is the rationale for using nitrates in the treatment of ACS, and what is the primary benefit they provide in this setting?",
+            "goodAnswer": "Nitrates, by causing venodilation, decrease right heart preload and reduce myocardial oxygen demand. They can also cause coronary vasodilation, improving blood flow. In STEMI, they help relieve chest pain and improve hemodynamics.",
+            "wrongAnswer_1": "Nitrates work by constricting coronary arteries, which increases blood flow and relieves chest pain. They are used in STEMI to reduce the risk of developing heart failure.",
+            "wrongAnswer_2": "Nitrate therapy is only effective in patients with a history of hypertension, as it helps control blood pressure and prevent complications from high sympathetic tone. In STEMI, nitrates are used to stabilize cardiac output and prevent arrhythmias.",
+            "wrongAnswer_3": "Nitrates are primarily used to reduce infarct size and prevent reperfusion injury in patients with STEMI. They work by blocking the release of inflammatory mediators, which damage the myocardium.",
+            "wrongAnswer_4": "Nitrates are contraindicated in the management of STEMI as they can worsen coronary spasms and increase myocardial oxygen demand. Instead, beta blockers or calcium channel blockers should be used to control chest pain and improve cardiac function."
+          },
+          {
+            "question": "Which of the following statements correctly describes a key feature that distinguishes unstable angina from NSTEMI and STEMI?",
+            "goodAnswer": "Unstable angina is characterized by chest pain that occurs at rest or with minimal exertion, while NSTEMI and STEMI involve objective evidence of myocardial ischemia on the electrocardiogram (ECG).",
+            "wrongAnswer_1": "Unstable angina is diagnosed when there is ST segment elevation on the ECG, while NSTEMI shows only transient ST segment depression or T wave abnormalities.",
+            "wrongAnswer_2": "Unstable angina always presents with elevated cardiac troponin levels, while NSTEMI and STEMI have normal troponin levels on serial measurements.",
+            "wrongAnswer_3": "Unstable angina is defined as chest pain relieved only by intravenous nitroglycerin, while NSTEMI and STEMI respond to oral medications alone.",
+            "wrongAnswer_4": "Unstable angina and NSTEMI both show evidence of myocardial infarction on echocardiography, while STEMI does not involve any structural damage."
+          },
+          {
+            "question": "In a patient with STEMI, what is the rationale for using thrombolytic therapy, and what is the primary clinical benefit it provides in this setting?",
+            "goodAnswer": "Thrombolytic therapy is used to break down the thrombus in a coronary artery. It provides myocardial reperfusion, opening the vessel to restore blood flow and salvage ischemic myocardium.\n",
+            "wrongAnswer_1": "Thrombolytic therapy is used to prevent further clot formation in coronary arteries. It works by inhibiting platelet aggregation and reducing the risk of re-occlusion after angioplasty.\n",
+            "wrongAnswer_2": "Thrombolytic therapy is designed to dilate coronary arteries and improve blood flow without removing the thrombus. It acts by reducing sympathetic tone and suppressing vascular smooth muscle contraction, which leads to increased myocardial perfusion.\n",
+            "wrongAnswer_3": "Thrombolytic therapy is only effective in patients with a history of multiple previous myocardial infarctions. It helps to dissolve existing thrombi in the coronary arteries and prevent future infarctions by stabilizing atherosclerotic plaques.\n",
+            "wrongAnswer_4": "Thrombolytic therapy is superior to primary PCI in all cases of STEMI, as it provides faster reperfusion and reduces the risk of complications such as heart failure or arrhythmias. It is effective in dissolving thrombi within minutes of administration, leading to immediate relief of chest pain and improved left ventricular function.\n"
+          },
+          {
+            "question": "Why is it crucial to control hypertension and hyperlipidemia in post-ACS patients?",
+            "goodAnswer": "To prevent future coronary events such as reinfarction, stroke, or sudden death.",
+            "wrongAnswer_1": "To reduce the need for antiplatelet therapy in the long term.",
+            "wrongAnswer_2": "To eliminate the risk of developing heart failure after an MI.",
+            "wrongAnswer_3": "To ensure complete normalization of the left ventricular ejection fraction (LVEF).",
+            "wrongAnswer_4": "To prevent the development of pericarditis after a STEMI."
+          }
+        ]
+      },
+      {
+        "title": "Clinical features of ACS",
+        "quizzes": [
+          {
+            "question": "What is the primary method of reperfusion in STEMI when PCI is not available within 90 minutes?",
+            "goodAnswer": "Fibrinolytic therapy (e.g., tPA)",
+            "wrongAnswer_1": "Coronary artery bypass grafting (CABG)",
+            "wrongAnswer_2": "Medical therapy with anti-ischemic drugs only",
+            "wrongAnswer_3": "Immediate surgical intervention for mechanical reperfusion",
+            "wrongAnswer_4": "Conservative management with serial ECG monitoring"
+          },
+          {
+            "question": "Which of the following is NOT a component of the adjunctive therapies used in the management of acute coronary syndromes?",
+            "goodAnswer": "Oral direct thrombin inhibitors, such as dabigatran",
+            "wrongAnswer_1": "Statins to reduce cholesterol and prevent further atherosclerosis",
+            "wrongAnswer_2": "ACE inhibitors to improve contractility and reduce remodeling",
+            "wrongAnswer_3": "Supplemental oxygen to relieve hypoxemia and improve tissue perfusion",
+            "wrongAnswer_4": "Pain control with morphine to reduce sympathetic tone and anxiety"
+          },
+          {
+            "question": "Which of the following is a non-invasive method used in the diagnosis of coronary artery disease?",
+            "goodAnswer": "Exercise electrocardiography (stress test) can detect coronary stenosis by identifying ST segment abnormalities during induced ischemia.",
+            "wrongAnswer_1": "Cardiac catheterization is a non-invasive procedure that provides direct visualization of the coronary arteries.",
+            "wrongAnswer_2": "Coronary angiography, which involves injecting contrast material into the coronary arteries, is a non-invasive technique.",
+            "wrongAnswer_3": "Echocardiography only assesses left ventricular function and cannot detect coronary artery disease.",
+            "wrongAnswer_4": "A CXR can reveal signs of prior myocardial infarction but cannot diagnose coronary artery disease definitively."
+          },
+          {
+            "question": "What are the primary methods of reperfusion in STEMI when PCI is available and not available within 90 minutes, respectively?",
+            "goodAnswer": "Fibrinolytic therapy (e.g., tPA) when PCI is not available within 90 minutes, and primary PCI when it is available within 90 minutes. ",
+            "wrongAnswer_1": "Coronary artery bypass grafting (CABG) when PCI is not available within 90 minutes, and fibrinolytic therapy (e.g., tPA) when it is available within 90 minutes.",
+            "wrongAnswer_2": "Percutaneous transluminal coronary angioplasty (PTCA) when PCI is not available within 90 minutes, and coronary artery bypass grafting (CABG) when it is available within 90 minutes.",
+            "wrongAnswer_3": "Systemic anticoagulation with heparin, followed by platelet inhibition with aspirin when PCI is not available within 90 minutes, and primary PCI when it is available within 90 minutes.",
+            "wrongAnswer_4": "Cardiac surgery followed by long-term monitoring of the patient's condition when PCI is not available within 90 minutes, and primary PCI when it is available within 90 minutes."
+          },
+          {
+            "question": "What are the clinical features of a patient with RV infarction after an inferior STEMI?",
+            "goodAnswer": "Hypotension, because of reduced left ventricular preload, leading to reduced coronary perfusion; and elevated right atrial pressure due to impaired right ventricular emptying.",
+            "wrongAnswer_1": "Hypertension, because of increased left ventricular contractility, leading to higher systemic resistance; and depressed right atrial pressure due to enhanced right ventricular filling.",
+            "wrongAnswer_2": "Regular sinus rhythm, with no significant changes in blood pressure or heart rate, and normal right atrial pressure.",
+            "wrongAnswer_3": "Chest pain radiating to the left arm with diaphoresis and tachycardia, but without hypotension or right atrial pressure elevation.",
+            "wrongAnswer_4": "Absence of symptoms, as RV infarctions are typically asymptomatic in inferior STEMIs."
+          },
+          {
+            "question": "What are the possible consequences of a papillary muscle infarction after an acute myocardial infarction?",
+            "goodAnswer": "Acute mitral regurgitation and pulmonary edema",
+            "wrongAnswer_1": "Coronary artery spasm and reduced myocardial oxygen demand",
+            "wrongAnswer_2": "Left ventricular aneurysm and free wall rupture",
+            "wrongAnswer_3": "Conduction disturbances such as sinus bradycardia or atrial fibrillation",
+            "wrongAnswer_4": "Pericarditis, leading to chest pain and friction rub"
+          },
+          {
+            "question": "How does the extent of myocardial injury in acute coronary syndromes (ACS) depend on the physiological and anatomical factors involved?",
+            "goodAnswer": "The extent of myocardial injury depends on the LV mass perfused by the vessel, the magnitude and duration of flow, oxygen demand, adequacy of collaterals and tissue response to ischemia.",
+            "wrongAnswer_1": "Myocardial injury is solely dependent on the size of the coronary artery affected, as smaller arteries result in more extensive damage.",
+            "wrongAnswer_2": "The duration of symptoms before presentation to the emergency room is the sole determinant of infarct size, with longer durations indicating less severe ischemia.",
+            "wrongAnswer_3": "Only the baseline heart rate and blood pressure are used to estimate the extent of myocardial injury in ACS.",
+            "wrongAnswer_4": "The presence of chest pain determines whether there is myocardial injury. If there is no pain, then no infarction has occurred."
+          },
+          {
+            "question": "Which of the following is a key factor that increases the risk of developing a ventricular aneurysm after a myocardial infarction?",
+            "goodAnswer": "A history of prior coronary artery bypass surgery.",
+            "wrongAnswer_1": "Presence of collateral circulation in the coronary arteries.",
+            "wrongAnswer_2": "Early administration of antithrombotic therapy.",
+            "wrongAnswer_3": "Absence of ST segment elevation on the electrocardiogram.",
+            "wrongAnswer_4": "Patient-reported history of regular exercise and a healthy diet."
+          },
+          {
+            "question": "What are the diagnostic criteria for unstable angina, non-ST elevation myocardial infarction (NSTEMI), and ST elevation myocardial infarction (STEMI) based on electrocardiogram (ECG) findings?",
+            "goodAnswer": "Unstable angina presents with ST depression and/or T wave inversion on ECG and no elevation in serum biomarkers. NSTEMI presents with ST depression and/or T wave inversion and elevated serum biomarkers. STEMI presents with ST elevation (and Q waves later) and elevated serum biomarkers.",
+            "wrongAnswer_1": "Unstable angina presents with ST elevation and/or T wave inversion on ECG and no elevation in serum biomarkers. NSTEMI presents with ST elevation and/or T wave inversion and elevated serum biomarkers. STEMI presents with ST depression (and Q waves later) and elevated serum biomarkers.",
+            "wrongAnswer_2": "Unstable angina presents with ST depression and/or T wave inversion on ECG and elevated LDH levels. NSTEMI presents with ST depression and/or T wave inversion and elevated troponin levels. STEMI presents with ST elevation (and Q waves later) and no significant changes in serum biomarkers.",
+            "wrongAnswer_3": "Unstable angina presents with normal ECG without any changes. NSTEMI presents with only elevated serum biomarkers without any ST-T wave abnormalities. STEMI presents with characteristic chest pain but no ECG findings of ST elevation or depression.",
+            "wrongAnswer_4": "Unstable angina presents with sinus tachycardia and/or atrial fibrillation on ECG. NSTEMI presents with ventricular arrhythmias and/or AV block. STEMI presents with ST elevation (and Q waves later) and no changes in heart rate or rhythm."
+          },
+          {
+            "question": "What are the findings on the electrocardiogram (ECG) in a patient with acute coronary syndromes (ACS), and how do they differ between unstable angina, non-ST elevation myocardial infarction (NSTEMI), and ST elevation myocardial infarction (STEMI)?",
+            "goodAnswer": "Unstable angina presents with ST depression and/or T wave inversion on ECG and no elevation in serum biomarkers. NSTEMI presents with ST depression and/or T wave inversion and elevated serum biomarkers. STEMI presents with ST elevation (and Q waves later) and elevated serum biomarkers.",
+            "wrongAnswer_1": "Unstable angina presents with ST elevation and/or T wave inversion on ECG and no elevation in serum biomarkers. NSTEMI presents with ST elevation and/or T wave inversion and elevated serum biomarkers. STEMI presents with ST depression (and Q waves later) and elevated serum biomarkers.",
+            "wrongAnswer_2": "Unstable angina presents with ST depression and/or T wave inversion on ECG and elevated LDH levels. NSTEMI presents with ST depression and/or T wave inversion and elevated troponin levels. STEMI presents with ST elevation (and Q waves later) and normal serum biomarkers.",
+            "wrongAnswer_3": "Unstable angina presents with ST elevation and/or T wave inversion on ECG and no change in serum biomarkers. NSTEMI presents with ST elevation and/or T wave inversion and no change in serum biomarkers. STEMI presents with ST depression (and R wave progression) and elevated CK-MB levels.",
+            "wrongAnswer_4": "Unstable angina presents with normal sinus rhythm and no changes on the electrocardiogram. NSTEMI presents with sinus bradycardia and/or first-degree AV block. STEMI presents with complete heart block and/or ventricular tachycardia."
+          },
+          {
+            "question": "What are the diagnostic criteria for unstable angina, non-ST elevation myocardial infarction (NSTEMI), and ST elevation myocardial infarction (STEMI) based on electrocardiogram (ECG) findings?",
+            "goodAnswer": "Unstable angina presents with ST depression and/or T wave inversion on ECG and no elevation in serum biomarkers. NSTEMI presents with ST depression and/or T wave inversion and elevated serum biomarkers. STEMI presents with ST elevation (and Q waves later) and elevated serum biomarkers.",
+            "wrongAnswer_1": "Unstable angina presents with ST elevation and/or T wave inversion on ECG and no elevation in serum biomarkers. NSTEMI presents with ST elevation and/or T wave inversion and elevated serum biomarkers. STEMI presents with ST depression (and Q waves later) and elevated serum biomarkers.",
+            "wrongAnswer_2": "Unstable angina presents with ST elevation and/or T wave inversion on ECG or elevated serum biomarkers. NSTEMI presents with ST depression and/or T wave inversion and no elevation in serum biomarkers. STEMI presents with ST elevation (and Q waves later) and elevated serum biomarkers.",
+            "wrongAnswer_3": "Unstable angina presents with ST depression and/or T wave inversion or elevated serum biomarkers. NSTEMI presents with ST elevation and/or T wave inversion and no elevation in serum biomarkers. STEMI presents with ST depression (and Q waves later) and elevated serum biomarkers.",
+            "wrongAnswer_4": "Unstable angina presents with ST elevation, T wave inversion, or elevated serum biomarkers. NSTEMI presents with ST depression, T wave inversion, or elevated serum biomarkers. STEMI presents with ST elevation (and Q waves later) and no elevation in serum biomarkers."
+          }
+        ]
+      },
+      {
+        "title": "Treatment of ACS",
+        "quizzes": [
+          {
+            "question": "What is the primary cause of most (over 90%) coronary thromboses, and what are the key factors involved in its development?",
+            "goodAnswer": "Most coronary thromboses are caused by atherosclerotic plaque disruption, which leads to platelet aggregation and intracoronary thrombus formation. The development of coronary thrombosis begins with endothelial injury, followed by lipid deposition, monocyte/macrophage migration, smooth muscle cell proliferation, and ultimately, thrombus formation with clinical presentation.",
+            "wrongAnswer_1": "Coronary thrombosis is primarily caused by vasculitis, where inflammation of the blood vessels leads to platelet activation and thrombus formation. It begins with systemic immune activation, followed by leukocyte recruitment, and culminates in endothelial damage and thrombus formation.",
+            "wrongAnswer_2": "The majority of coronary thromboses are due to congenital coronary artery anomalies, such as a missing or narrowed coronary artery, which causes turbulent blood flow and leads to platelet aggregation and thrombus formation. In these cases, there is no underlying atherosclerosis involved.",
+            "wrongAnswer_3": "Coronary thrombosis occurs when there is a direct injury to the coronary arteries, such as during open heart surgery or cardiac catheterization. This leads to immediate thrombus formation at the site of injury, causing ischemia or infarction.",
+            "wrongAnswer_4": "The primary cause of coronary thrombosis is hyperlipidemia alone, which leads to the direct deposition of cholesterol in the coronary arteries, resulting in thrombus formation. In this case, there is no need for endothelial injury or platelet activation."
+          },
+          {
+            "question": "Which of the following statements correctly describes the use of medications in the treatment of acute coronary syndromes (ACS)?",
+            "goodAnswer": "Nitroglycerin, beta-blockers, and calcium channel blockers are used to reduce ischemia by decreasing sympathetic drive, heart rate, and blood pressure. Non-dihydropyridine calcium channel blockers should not be given to patients with signs or symptoms of heart failure.",
+            "wrongAnswer_1": "Beta-blockers are contraindicated in all patients with acute coronary syndromes, as they can worsen myocardial ischemia and increase the risk of infarction.",
+            "wrongAnswer_2": "Nitroglycerin should only be administered intravenously, as oral or sublingual forms are ineffective in relieving chest pain and improving coronary blood flow.",
+            "wrongAnswer_3": "Calcium channel blockers, such as diltiazem or verapamil, are superior to beta-blockers in reducing ischemia and improving survival in patients with STEMI.",
+            "wrongAnswer_4": "The use of nitrates is contraindicated in patients with hypertension, as it can cause paradoxical coronary artery spasm and worsen angina symptoms."
+          },
+          {
+            "question": "Which of the following statements correctly describes the role of nitrates in the treatment of acute coronary syndromes (ACS)?",
+            "goodAnswer": "Nitrates, by causing venodilation and coronary vasodilation, reduce ischemia and can be administered sublingually or intravenously in ACS management.",
+            "wrongAnswer_1": "Nitrates are primarily used to prevent coronary thrombosis by inhibiting platelet aggregation.",
+            "wrongAnswer_2": "The primary action of nitrates in ACS is to reduce sympathetic tone and control heart rate, rather than vasodilation.",
+            "wrongAnswer_3": "Nitrates should only be administered intravenously, as sublingual administration is unreliable in emergency settings.",
+            "wrongAnswer_4": "Nitrates are contraindicated in patients with hypertension, as they can worsen blood pressure control."
+          },
+          {
+            "question": "Why is it crucial to control heart rate and blood pressure in patients with acute coronary syndromes (ACS), and how do the following therapies help achieve this balance?",
+            "goodAnswer": "Controlling heart rate and blood pressure is essential to reduce myocardial oxygen demand and prevent ischemia. Salicylates (aspirin) primarily act by inhibiting platelet aggregation, while nitrates primarily act by reducing preload and coronary vasodilation, and beta-blockers primarily act by decreasing sympathetic tone, heart rate, and blood pressure.",
+            "wrongAnswer_1": "Controlling heart rate and blood pressure is essential to reduce myocardial oxygen demand and prevent ischemia. Salicylates (aspirin) primarily act by reducing preload and coronary vasodilation, while nitrates primarily act by inhibiting platelet aggregation, and beta-blockers primarily act by decreasing sympathetic tone, heart rate, and blood pressure.",
+            "wrongAnswer_2": "Controlling heart rate and blood pressure is essential to reduce myocardial oxygen demand and prevent ischemia. Salicylates (aspirin) primarily act by decreasing sympathetic tone, heart rate, and blood pressure, while nitrates primarily act by inhibiting platelet aggregation, and beta-blockers primarily act by reducing preload and coronary vasodilation.",
+            "wrongAnswer_3": "Controlling heart rate and blood pressure is essential to reduce myocardial oxygen demand and prevent ischemia. Salicylates (aspirin) primarily act by decreasing sympathetic tone, heart rate, and blood pressure, while nitrates primarily act by reducing preload and coronary vasodilation, and beta-blockers primarily act by inhibiting platelet aggregation.",
+            "wrongAnswer_4": "Controlling heart rate and blood pressure is essential to reduce myocardial oxygen demand and prevent ischemia. Salicylates (aspirin) primarily act by inhibiting platelet aggregation, while nitrates primarily act by decreasing sympathetic tone, heart rate, and blood pressure, and beta-blockers primarily act by reducing preload and coronary vasodilation."
+          },
+          {
+            "question": "How does the clinical presentation of a RV MI differ from a typical STEMI, and what are the diagnostic findings on ECG?",
+            "goodAnswer": "RV MI is often associated with inferior STEMI and presents with hypotension due to impaired RV contractility. The ECG shows ST elevation in leads II, III, aVF, with reciprocal changes in V1-V2. In contrast, ST elevation in leads V1-V3 suggests LBBB or left ventricular apical infarction.",
+            "wrongAnswer_1": "RV MI presents with only minor ST-T wave changes in the inferior leads, while LBBB shows consistent ST elevation in leads V1-V3 with no reciprocal changes. It is diagnosed by clinical presentation alone, as echocardiography is not helpful in the early stages.",
+            "wrongAnswer_2": "A RV MI typically causes severe chest pain radiating to the left arm and jaw, while a typical STEMI presents with only mild discomfort. The ECG shows ST depression in leads II, III, aVF, with reciprocal changes in V4-V6. In contrast, ST depression in leads V1-V3 suggests right ventricular hypertrophy.",
+            "wrongAnswer_3": "RV MI is characterized by ST elevation in leads I, aVL, V4-V6, while LBBB shows only T wave inversions in leads II, III, aVF. It is treated with immediate coronary angiography and PCI, as nitrates and beta blockers are contraindicated in RV MI.",
+            "wrongAnswer_4": "A RV MI usually occurs in the absence of other coronary artery disease and presents with only minor symptoms. The ECG shows only T wave inversions in leads II, III, aVF, with no significant changes in the precordial leads. In contrast, ST elevation in leads V1-V3 suggests only temporary ischemia and resolves spontaneously."
+          },
+          {
+            "question": "Which of the following statements correctly describes the use of thrombolytic therapy in acute STEMI?",
+            "goodAnswer": "Thrombolytic therapy is indicated when emergent PCI is not available within 90 minutes of presentation, and it carries a higher risk of intracranial hemorrhage compared to PCI.",
+            "wrongAnswer_1": "Thrombolytic therapy is only effective in patients with non-STEMI, as STEMI requires immediate revascularization with PCI.",
+            "wrongAnswer_2": "It is always preferable to use thrombolytic therapy over primary PCI, as it is associated with fewer complications.",
+            "wrongAnswer_3": "STEMI patients who receive thrombolytic therapy do not need routine anticoagulation with heparin, as the thrombolytic agents themselves provide sufficient antithrombotic coverage.",
+            "wrongAnswer_4": "Thrombolytic therapy is contraindicated in patients with a history of ischemic stroke or transient ischemic attack (TIA), as the risk of bleeding outweighs the potential benefit in these cases."
+          },
+          {
+            "question": "How does the treatment of STEMI evolve over time, and what are the key considerations at each stage?",
+            "goodAnswer": "Initial therapy includes supplemental oxygen, nitroglycerin, aspirin, and a beta-blocker. If PCI is available within 90 minutes, it is the preferred reperfusion method. Otherwise, fibrinolytic therapy should be administered. All patients should receive a statin and ACE inhibitor if indicated.",
+            "wrongAnswer_1": "The initial therapy in STEMI is to immediately start thrombolytic drugs without assessing the availability of PCI. Nitroglycerin and aspirin can be withheld until after reperfusion therapy. Beta-blockers are contraindicated in STEMI due to the risk of bradycardia. All patients should receive a statin, but ACE inhibitors are only indicated in patients with known left ventricular dysfunction.",
+            "wrongAnswer_2": "Oxygen and nitrates should be avoided in STEMI patients, as they can worsen coronary perfusion. If PCI is not available within 2 hours, fibrinolytic therapy is still preferred over other treatment options. All patients should receive intravenous heparin rather than subcutaneous administration. Statins are not recommended in STEMI, as they do not provide any benefit in reducing reinfarction or mortality.",
+            "wrongAnswer_3": "The first line therapy in STEMI is to immediately start a beta-blocker, followed by nitroglycerin and aspirin. PCI is only recommended if thrombolytic therapy fails to improve symptoms. All patients should receive warfarin for stroke prevention, and ACE inhibitors are contraindicated in STEMI. Statins should be withheld until after coronary angiography.",
+            "wrongAnswer_4": "Initial management of STEMI involves giving nitrates and aspirin, but beta-blockers should be avoided due to their potential side effects. If PCI is not available within 12 hours, thrombolytic therapy is no longer recommended. All patients should receive subcutaneous heparin rather than intravenous administration. Statins are only beneficial in patients with hypertension, and ACE inhibitors are not routinely indicated in STEMI."
+          },
+          {
+            "question": "How does the treatment of STEMI evolve over time, and what are the key considerations at each stage?",
+            "goodAnswer": "In STEMI, the initial focus is on controlling chest pain and limiting infarct size with nitrates, aspirin, and morphine. Next, reperfusion is achieved either by PCI (if available within 90 minutes) or fibrinolytic therapy. Ongoing therapy includes IV heparin, beta-blockers, and ACE inhibitors. Later, when the patient is stabilized, chronic medications such as oral aspirin, beta-blockers, ACE inhibitors, and statins are added to prevent secondary events.",
+            "wrongAnswer_1": "STEMI treatment starts with reperfusion therapy followed by pain control with nitrates and aspirin. If PCI is not available within 90 minutes, fibrinolytic therapy should be used. Ongoing therapy includes IV heparin, beta-blockers, and calcium channel blockers. Later, oral aspirin, beta-blockers, and digoxin are added to prevent reinfarction.",
+            "wrongAnswer_2": "The initial step in STEMI management is to administer oxygen, nitrates, and calcium channel blockers to relieve chest pain and reduce infarct size. Reperfusion is achieved by immediate coronary artery bypass grafting (CABG). Ongoing therapy includes IV heparin, beta-blockers, and calcium channel blockers. Later, oral aspirin, beta-blockers, and diuretics are added to prevent heart failure.",
+            "wrongAnswer_3": "STEMI treatment begins with pain control using nitrates and calcium channel blockers. If PCI is available within 120 minutes, it should be performed. Otherwise, coronary artery bypass grafting (CABG) is indicated. Ongoing therapy includes IV heparin, beta-blockers, and digoxin. Later, oral aspirin, beta-blockers, and thiazide diuretics are added to reduce infarct size.",
+            "wrongAnswer_4": "The first step in STEMI management is to administer oxygen, nitrates, and furosemide. Reperfusion is achieved by immediate coronary artery bypass grafting (CABG). Ongoing therapy includes IV heparin, calcium channel blockers, and digoxin. Later, oral aspirin, beta-blockers, and thiazide diuretics are added to prevent reinfarction."
+          },
+          {
+            "question": "Which of the following statements correctly describes the role of nitrates in the treatment of acute coronary syndromes (ACS)?",
+            "goodAnswer": "Nitrates, given intravenously or sublingually, help reduce ischemia by causing venodilation and coronary vasodilation, leading to a decrease in preload and afterload on the heart.",
+            "wrongAnswer_1": "Nitrates primarily act by constricting coronary arteries, which reduces myocardial oxygen demand and relieves chest pain.",
+            "wrongAnswer_2": "Nitroglycerin, when administered intravenously, causes vasoconstriction, which increases blood pressure and improves cardiac output in patients with acute coronary syndromes.",
+            "wrongAnswer_3": "Nitrates are only effective in relieving pain and have no impact on improving coronary perfusion or preventing reinfarction.",
+            "wrongAnswer_4": "Nitrates should be avoided in patients with acute coronary syndromes because they increase the risk of developing heart failure and arrhythmias."
+          },
+          {
+            "question": "In the context of acute coronary syndromes (ACS), what is the rationale for using beta-blockers, and how do they contribute to patient management?",
+            "goodAnswer": "Beta-blockers, such as metoprolol or temsilate, are used in ACS to decrease sympathetic tone, heart rate, and blood pressure, while also reducing myocardial oxygen demand. They help prevent tachyarrhythmias and reduce the risk of reinfarction, infarct expansion, and ventricular remodelling.",
+            "wrongAnswer_1": "Beta-blockers are used to increase heart rate and enhance contractility, which improves coronary perfusion and reduces chest pain. They also help prevent bradycardia and heart block, making them safe for all patients with ACS.",
+            "wrongAnswer_2": "While nitrates primarily reduce preload and afterload, beta-blockers increase sympathetic activity and enhance myocardial oxygen supply, leading to a reduction in ischemia and improved coronary flow.",
+            "wrongAnswer_3": "In patients with acute coronary syndromes (ACS), beta-blockers should be avoided as they can worsen bradycardia, induce bronchospasm, and increase the risk of developing ventricular tachycardia.",
+            "wrongAnswer_4": "While effective in reducing infarct size, beta-blockers have no impact on reperfusion strategies such as PCI or thrombolytic therapy and do not alter the risk of developing cardiogenic shock."
+          }
+        ]
+      },
+      {
+        "title": "Complications",
+        "quizzes": [
+          {
+            "question": "What is the primary method of reperfusion in STEMI, and what are the primary clinical features of RV infarction?",
+            "goodAnswer": "Percutaneous coronary intervention (PCI) or thrombolysis; the electrocardiogram (ECG) will show ST segment elevation in leads III, aVF, V4R-V6R, with possible right bundle branch block. Right ventricular infarction is often asymptomatic or may cause severe hypotension due to impaired filling of the left ventricle. It can lead to fatal cardiogenic shock. RV MI is diagnosed by electrocardiogram (ECG) showing ST segment elevation in leads III, aVF, V4R-V6R, with possible right bundle branch block.",
+            "wrongAnswer_1": "Thrombolysis is the only reperfusion method in STEMI, and RV infarction is diagnosed by echocardiography, not electrocardiogram (ECG). Right ventricular infarction is always symptomatic and causes chest pain radiating to the jaw or left arm. It leads to an LBBB pattern on ECG and causes an inferior wall MI. RV MI is diagnosed by a history of previous myocardial infarction.",
+            "wrongAnswer_2": "Coronary artery bypass grafting (CABG) is the preferred method in all STEMI patients, and electrocardiogram (ECG) will show ST segment depression in leads II, III, aVF, with possible left axis deviation. Right ventricular infarction is commonly found in patients with history of hypertension only and does not cause hypotension. It can lead to atrial fibrillation. RV MI is diagnosed by a lack of ST segment elevation on serial ECGs.",
+            "wrongAnswer_3": "Percutaneous coronary intervention (PCI) or thrombolysis; the electrocardiogram (ECG) will show T wave inversions in leads V1-V3, with possible left anterior descending coronary artery occlusion. Right ventricular infarction is diagnosed by a decrease in heart rate. It can cause pain relief upon standing up. RV MI is diagnosed by a lack of ST segment elevation on echocardiogram.",
+            "wrongAnswer_4": "Coronary artery bypass grafting (CABG) or thrombolysis; the electrocardiogram (ECG) will show ST segment elevation in leads I, II, aVL, with possible left ventricular hypertrophy. Right ventricular infarction is diagnosed by auscultation of a heart murmur. It can lead to increased cardiac output. RV MI is diagnosed by a normal echocardiogram."
+          },
+          {
+            "question": "Which of the following statements correctly describes the use of nitrates, beta blockers, and calcium channel blockers in the treatment of ACS, and what is the primary concern with using calcium channel blockers in this context?",
+            "goodAnswer": "Nitrates are used to reduce ischemia through venodilation and coronary vasodilation, while beta blockers reduce sympathetic drive, heart rate, blood pressure, and oxygen demand. Calcium channel blockers can also reduce heart rate and cause vasodilation, but they should be avoided in patients with heart failure because they can worsen myocardial contractility, leading to worsening heart failure symptoms.",
+            "wrongAnswer_1": "Nitrates are used to reduce sympathetic drive, and beta blockers reduce ischemia through venodilation and coronary vasodilation, while calcium channel blockers should be avoided because they can cause hypertension and lead to worsening heart failure symptoms.",
+            "wrongAnswer_2": "Nitrates and beta blockers both reduce heart rate and cause vasodilation, while calcium channel blockers should be avoided because they increase sympathetic activity and can worsen myocardial contractility, leading to chest pain and tachycardia.",
+            "wrongAnswer_3": "Nitrates, beta blockers, and calcium channel blockers all function by reducing sympathetic drive and causing coronary vasodilation, and none of them should be used in patients with heart failure because they can lead to worsening ischemia and increased risk of complications.",
+            "wrongAnswer_4": "Nitrates and calcium channel blockers are used to reduce ischemia, while beta blockers reduce sympathetic drive and heart rate. Calcium channel blockers should be avoided in patients with hypertension because they can cause vasospasm and lead to a significant decrease in blood pressure."
+          },
+          {
+            "question": "What are the most common mechanical complications of acute myocardial infarction (AMI), and what is the primary consequence of a ventricular septal defect in this context?",
+            "goodAnswer": "The most common mechanical complications of AMI are recurrent ischemia/reinfarction, arrhythmias, myocardial dysfunction, and mechanical complications such as RV infarction, papillary muscle infarction, free wall rupture, ventricular septal defect, or true ventricular aneurysm. A ventricular septal defect leads to left-to-right shunting, causing an increase in pulmonary blood flow, which may result in pulmonary hypertension and edema.",
+            "wrongAnswer_1": "The most common mechanical complications of AMI are pericarditis, heart block, or asymptomatic infarction. A ventricular septal defect leads to right-to-left shunting, which means oxygenated blood is bypassing the lungs, causing systemic hypoxemia and organ damage.",
+            "wrongAnswer_2": "Mechanical complications of AMI include only STEMI and NSTEMI, with no mention of specific examples like RV infarction or ventricular septal defect. A ventricular septal defect leads to a balanced blood flow between the ventricles, so there is no significant impact on pulmonary circulation or oxygen levels.",
+            "wrongAnswer_3": "The most common mechanical complications of AMI are hypertension, hyperlipidemia, and obesity. A ventricular septal defect causes a decrease in left ventricular stroke volume, leading to chest pain and dizziness but no pulmonary symptoms.",
+            "wrongAnswer_4": "Mechanical complications of AMI include only asymptomatic infarctions and conduction disturbances. A ventricular septal defect leads to an increase in coronary blood flow, which helps to relieve ischemic symptoms and improve myocardial perfusion."
+          },
+          {
+            "question": "Which of the following correctly identifies a key diagnostic feature of silent ischemia, a primary reason for performing coronary angiography in a patient with NSTEMI, and a contraindication to the use of thrombolytic therapy in STEMI?",
+            "goodAnswer": "A flat or declining EF on echocardiogram, recurrent angina despite medical therapy, history of prior ischemic stroke",
+            "wrongAnswer_1": "ST segment elevation on electrocardiogram, chest pain relieved by rest or nitrates, history of coronary artery bypass surgery",
+            "wrongAnswer_2": "T wave inversion on electrocardiogram, persistent symptoms despite optimal medical therapy, history of systemic lupus erythematosus",
+            "wrongAnswer_3": "History of hypertension, inability to control pain with morphine, history of chronic obstructive pulmonary disease",
+            "wrongAnswer_4": "Presence of collateral vessels on echocardiogram, suspicion of coronary thrombosis, history of atrial fibrillation"
+          },
+          {
+            "question": "How is the severity of myocardial injury in acute coronary syndromes (ACS) determined, and what are the key factors that influence the extent of damage?",
+            "goodAnswer": "The severity of myocardial injury is determined by the amount of LV mass perfused by the affected vessel, the magnitude and duration of flow reduction, the oxygen demand of the affected tissue, the adequacy of collateral circulation, and the tissue response to ischemia.",
+            "wrongAnswer_1": "Myocardial injury severity is assessed by the patient's symptoms, such as chest pain and dyspnea, rather than objective measurements.",
+            "wrongAnswer_2": "It is determined solely by the size of the infarct, which can be accurately predicted by routine electrocardiography (ECG).",
+            "wrongAnswer_3": "A history of hypertension, diabetes, or smoking is the primary factor determining the extent of myocardial injury in ACS.",
+            "wrongAnswer_4": "It is measured by the level of troponin T or I in the blood, as these enzymes are released only from damaged myocardium and remain stable over time."
+          },
+          {
+            "question": "What are the possible clinical manifestations of a silent myocardial infarction, and what noninvasive test can be used to detect it?",
+            "goodAnswer": "A silent MI may manifest as asymptomatic ST-T wave changes on routine ECG. It can be detected by a positive exercise or thallium stress test.",
+            "wrongAnswer_1": "Silent MIs always present with chest pain but may go undetected on routine ECG. Stress echocardiography is used to confirm the diagnosis.",
+            "wrongAnswer_2": "Patients with silent MIs typically have a history of multiple previous infarctions, and the only way to detect it is through cardiac catheterization.",
+            "wrongAnswer_3": "Silent MIs are diagnosed by the presence of elevated cardiac enzymes, as ECG changes are normal in these cases. A dobutamine stress test is the gold standard for confirmation.",
+            "wrongAnswer_4": "It is characterized by classic angina symptoms with normal coronary angiograms. It is detected by a negative stress test, indicating no perfusion abnormalities."
+          },
+          {
+            "question": "In the context of acute coronary syndromes (ACS), which of the following correctly identifies the key diagnostic features of unstable angina, NSTEMI, and STEMI on electrocardiography (ECG)?",
+            "goodAnswer": "Unstable angina typically presents with ST depression or T wave inversion, NSTEMI is characterized by ST depression or T wave inversion with positive cardiac biomarkers, and STEMI shows ST elevation with possible reciprocal changes on the electrocardiogram.",
+            "wrongAnswer_1": "Unstable angina shows ST elevation, NSTEMI has normal ECG findings, and STEMI presents with ST depression or T wave inversion with negative cardiac biomarkers.",
+            "wrongAnswer_2": "Unstable angina has no ECG abnormalities, NSTEMI shows ST elevation with possible reciprocal changes, and STEMI is characterized by ST depression or T wave inversion with positive cardiac biomarkers.",
+            "wrongAnswer_3": "Unstable angina and NSTEMI both present with ST elevation, while STEMI shows only T wave inversions without ST segment changes.",
+            "wrongAnswer_4": "Unstable angina, NSTEMI, and STEMI all have the same ECG pattern, which is characterized by only T wave inversions without ST segment changes."
+          }
+        ]
+      },
+      {
+        "title": "Post ACS risk stratification",
+        "quizzes": [
+          {
+            "question": "What is the primary reason why right ventricular infarction (RVMI), which is common in inferior MIs, is clinically significant?",
+            "goodAnswer": "RVMI leads to hypotension and increased right atrial pressure, which can worsen perfusion to the left ventricle and cause systemic hypoperfusion.",
+            "wrongAnswer_1": "RVMI always requires immediate revascularization to prevent fatal arrhythmias, while other infarctions can be managed conservatively.",
+            "wrongAnswer_2": "RVMI is asymptomatic in most cases, making it difficult to diagnose and increasing the risk of long-term complications such as heart failure.",
+            "wrongAnswer_3": "It is a myth that RVMI is common in inferior MIs; in reality, it occurs only after successful coronary artery bypass grafting (CABG).",
+            "wrongAnswer_4": "The clinical significance of RVMI lies in its ability to cause direct damage to the left ventricle, leading to severe left ventricular dysfunction."
+          },
+          {
+            "question": "What is the clinical significance of the R wave in lead V4 being less than 12 mm (0.5 mV) in a patient with chest pain and suspected coronary artery disease?",
+            "goodAnswer": "It suggests diffuse LV disease rather than STEMI",
+            "wrongAnswer_1": "It indicates a need for immediate reperfusion therapy, such as PCI or thrombolysis",
+            "wrongAnswer_2": "It suggests a normal electrocardiogram with no evidence of ischemia",
+            "wrongAnswer_3": "It means the patient is at low risk for adverse events and can be safely discharged",
+            "wrongAnswer_4": "It suggests a history of prior myocardial infarction with subsequent left ventricular remodeling"
+          },
+          {
+            "question": "What is the primary treatment for a patient with STEMI (ST-elevation myocardial infarction)?",
+            "goodAnswer": "In STEMI, immediate reperfusion by either emergent PCI (Percutaneous Coronary Intervention) if available within 90 minutes or fibrinolytic therapy (e.g., tPA) if PCI is not rapidly available.",
+            "wrongAnswer_1": "Administering long-term low-dose aspirin for secondary prevention of platelet aggregation in all STEMI patients, as it has no effect on mortality or reinfarction.",
+            "wrongAnswer_2": "Immediately starting intravenous nitroglycerin to reduce sympathetic tone and heart rate, as nitrates have been proven to decrease mortality in STEMI patients.",
+            "wrongAnswer_3": "Performing coronary artery bypass surgery (CABG) as the first-line treatment for all STEMI patients to ensure complete revascularization.",
+            "wrongAnswer_4": "Prescribing oral beta-blockers only after symptoms have stabilized, as they are not effective when given acutely and can worsen hypotension."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of a true ventricular aneurysm after acute myocardial infarction (MI)?",
+            "goodAnswer": "It is always fatal and requires immediate surgical intervention",
+            "wrongAnswer_1": "It is a dyskinetic anterior wall motion abnormality on echocardiography",
+            "wrongAnswer_2": "It can lead to clot formation, congestive heart failure, or arrhythmias",
+            "wrongAnswer_3": "It is more likely in patients with STEMI who did not undergo reperfusion",
+            "wrongAnswer_4": "It is diagnosed by finding a persistent systolic bulge on left ventriculography"
+          },
+          {
+            "question": "What is the clinical utility of measuring the T wave in the precordial leads (V1-V6) in a patient with suspected acute coronary syndrome (ACS)?",
+            "goodAnswer": "A flat or inverted T wave in leads V1-V3 with reciprocal ST segment elevation in leads II, III, aVF can help identify left ventricular apical hyperkinesis. It indicates a possible proximal LAD occlusion with subsequent apical left ventricular contraction.",
+            "wrongAnswer_1": "T wave analysis in precordial leads is not helpful in diagnosing ACS, as T wave changes are non-specific and can be influenced by numerous factors such as ventricular hypertrophy, conduction disturbances, or medication effects.",
+            "wrongAnswer_2": "A flat or inverted T wave in leads V4-V6 with reciprocal ST segment elevation in leads I, aVL, can help identify right ventricular apical hyperkinesis. It indicates a possible proximal right coronary artery occlusion with subsequent apical right ventricular contraction.",
+            "wrongAnswer_3": "T wave inversion in leads V1-V3 is diagnostic of hyperacute ischemia and mandates immediate coronary angiography in all patients, regardless of other clinical findings or electrocardiogram (ECG) parameters.",
+            "wrongAnswer_4": "A flat or inverted T wave in leads II, III, aVF with reciprocal ST segment elevation in leads V1-V3 can help identify right ventricular apical hyperkinesis. It indicates a possible proximal left coronary artery occlusion with subsequent apical right ventricular contraction."
+          },
+          {
+            "question": "Which of the following statements correctly describes the clinical presentation and diagnosis of acute myocardial infarction (AMI)?",
+            "goodAnswer": "Patients with AMI typically present with prolonged \"crushing\" chest pain, often accompanied by sympathetic responses such as sweating and tachycardia. The diagnosis is made by history and physical examination, EKG changes, and serum marker analysis.",
+            "wrongAnswer_1": "AMI is characterized by a sudden onset of severe pain that resolves within minutes, and the diagnosis is made solely on clinical presentation without the need for laboratory testing.",
+            "wrongAnswer_2": "Acute myocardial infarction is diagnosed by auscultation alone, as the characteristic S3 gallop sound is pathognomonic for ischemic heart disease.",
+            "wrongAnswer_3": "Patients with AMI will always have a classic \"crushing\" chest pain radiating to the left arm, and the diagnosis is made by electrocardiogram (ECG) showing only T-wave inversions with no ST-segment elevation.",
+            "wrongAnswer_4": "A history of chest pain that is unchanged over the past few weeks, coupled with normal cardiac enzymes, excludes the diagnosis of AMI. In such cases, alternative diagnoses like musculoskeletal pain or anxiety should be considered."
+          },
+          {
+            "question": "What are the diagnostic criteria for STEMI (ST-elevation myocardial infarction) on electrocardiography (ECG)?",
+            "goodAnswer": "ST elevation in two or more contiguous leads, with the exception of leads aVR and V1. Infarct-related artery can be identified by reciprocal changes in the electrocardiogram. Patients with left bundle branch block should undergo emergent cardiac catheterization, as the electrocardiogram cannot reliably rule out STEMI in these cases.",
+            "wrongAnswer_1": "ST depression in two or more leads, especially in leads II, III, aVF, V4-V6. Reciprocal changes in the electrocardiogram can help identify the infarct-related artery. Left bundle branch block should be treated with immediate coronary angiography to confirm or exclude STEMI.",
+            "wrongAnswer_2": "T wave inversions in multiple leads, including leads I, aVL, V5-V6. Reciprocal changes in the electrocardiogram should be ignored in STEMI. Patients with right bundle branch block can safely be discharged without further evaluation, as this pattern is often benign.",
+            "wrongAnswer_3": "ST elevation in only one lead, especially in leads I, aVL, V1-V3. Reciprocal changes in the electrocardiogram are not helpful in STEMI. Patients with complete heart block should undergo emergent cardiac catheterization, as the electrocardiogram cannot reliably rule out STEMI in these cases.",
+            "wrongAnswer_4": "Presence of a left ventricular aneurysm, which is diagnosed by echocardiography. Infarct-related artery can be identified by assessing wall motion abnormalities on echocardiogram. Patients with atrial fibrillation should be treated with immediate coronary angiography, as atrial fibrillation can cause ST elevation in any lead."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of a true ventricular aneurysm after acute myocardial infarction (MI)?",
+            "goodAnswer": "It is always associated with a previous history of documented MI",
+            "wrongAnswer_1": "It is a focal akinetic area on echocardiography",
+            "wrongAnswer_2": "It can lead to ventricular septal defect",
+            "wrongAnswer_3": "It may contain thrombus that can embolize",
+            "wrongAnswer_4": "It causes LV remodeling over time"
+          },
+          {
+            "question": "Why is it crucial to control hypertension and cholesterol levels in patients with acute coronary syndromes (ACS) according to the 2012 STEMI guidelines?",
+            "goodAnswer": "To reduce the risk of recurrent ischemia, infarct expansion, and mechanical complications.",
+            "wrongAnswer_1": "To prevent the development of cardiogenic shock due to myocardial stunning.",
+            "wrongAnswer_2": "To ensure rapid clearance of cardiac biomarkers from the bloodstream.",
+            "wrongAnswer_3": "To facilitate the selection between invasive and conservative treatment strategies.",
+            "wrongAnswer_4": "To monitor the effectiveness of antiplatelet therapy in preventing thrombus formation."
+          },
+          {
+            "question": "What are the diagnostic criteria for STEMI (ST-elevation myocardial infarction) on electrocardiography (ECG)?",
+            "goodAnswer": "In STEMI, there is ST elevation in two or more contiguous leads, with the exception of leads aVR and V1-V2. Infarct-related artery occlusion leads to reciprocal changes in electrocardiography (ECG). For example, in a left anterior descending coronary artery occlusion, there will be reciprocal ST depression in leads II, III, aVF. In a right coronary artery occlusion, there will be reciprocal ST depression in leads I, aVL, V5, V6. In a left circumflex coronary artery occlusion, there will be reciprocal ST depression in leads I, aVL, V5, V6. Additionally, the R wave in lead V4 should be greater than 12 mm (0.5 mV) to exclude other conditions like left bundle branch block or voltage overload.",
+            "wrongAnswer_1": "STEMI is diagnosed when there is ST depression in two or more leads, excluding leads aVL and V3-V5. The infarct-related artery occlusion causes reciprocal changes in electrocardiography (ECG). For example, in a left anterior descending coronary artery occlusion, there will be reciprocal ST elevation in leads II, III, aVF. In a right coronary artery occlusion, there will be reciprocal ST elevation in leads I, aVL, V5, V6. In a left circumflex coronary artery occlusion, there will be reciprocal ST elevation in leads I, aVL, V5, V6. Additionally, the R wave in lead V4 should be less than 12 mm (0.5 mV) to confirm STEMI.",
+            "wrongAnswer_2": "In STEMI, there is T wave inversion in two or more leads, including leads aVR and V1-V2, but excluding leads I, II, aVL, V5, V6. T wave inversion in leads I, II, aVL, V5, V6 indicates normal coronary artery perfusion. R wave in lead V4 should be less than 12 mm (0.5 mV) to diagnose STEMI.",
+            "wrongAnswer_3": "STEMI is diagnosed when there is QRS widening in more than one lead, and the R wave in lead V4 is greater than 12 mm (0.5 mV). Reciprocal changes in electrocardiography (ECG) can occur in any of the leads without necessarily indicating an infarct-related artery occlusion.",
+            "wrongAnswer_4": "In STEMI, there should be ST elevation in leads II, III, aVF only. ST elevation in leads I, aVL, V5, V6, or V1-V2 does not confirm STEMI. The R wave in lead V4 should be less than 12 mm (0.5 mV) to rule out STEMI."
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

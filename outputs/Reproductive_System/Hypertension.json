@@ -1,0 +1,458 @@
+{
+  "mainTopic": {
+    "title": "Hypertension",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "Classification",
+        "quizzes": [
+          {
+            "question": "What is the primary concern with using sodium nitroprusside as an antihypertensive agent in pregnant women?",
+            "goodAnswer": "Cumulative dose toxicity of cyanide and thiocyanate",
+            "wrongAnswer_1": "Risk of developing hypertension in the fetus",
+            "wrongAnswer_2": "Reduced effectiveness in pregnant women",
+            "wrongAnswer_3": "Tachycardia, headache, flushing, and angina",
+            "wrongAnswer_4": "Sodium nitroprusside is safe for all trimesters"
+          },
+          {
+            "question": "Which of the following is NOT a parenteral antihypertensive agent used in the management of hypertension during pregnancy?",
+            "goodAnswer": "Amiloride",
+            "wrongAnswer_1": "Hydralazine",
+            "wrongAnswer_2": "Labetalol",
+            "wrongAnswer_3": "Sodium Nitroprusside",
+            "wrongAnswer_4": "Nicardipine"
+          },
+          {
+            "question": "Which of the following is NOT a parenteral antihypertensive agent used in the management of hypertension during pregnancy?",
+            "goodAnswer": "Amiloride, a thiazide diuretic, is not a parenteral agent and is typically oral.",
+            "wrongAnswer_1": "Hydralazine, labetalol, sodium nitroprusside, and nicardipine are all parenteral antihypertensive agents used in pregnancy.",
+            "wrongAnswer_2": "Tachycardia, headache, flushing, and angina are side effects of hydralazine, not labetalol.",
+            "wrongAnswer_3": "The maintenance dose of magnesium sulfate is 2 g per hour to keep serum levels at 4-8 mEq/L.",
+            "wrongAnswer_4": "Seizure prophylaxis in preeclampsia is achieved with intravenous or intramuscular magnesium sulfate."
+          },
+          {
+            "question": "Which antihypertensive agents are typically used in the management of hypertension during pregnancy, and what are their respective characteristics?",
+            "goodAnswer": "Hydralazine, Labetalol, and sodium nitroprusside are commonly used. Hydralazine and labetalol are administered intravenously, with a rapid onset (10-20 minutes for hydralazine, 5-10 minutes for labetalol) and a duration of 3-6 hours. Sodium nitroprusside has an immediate effect with a duration of 1-2 minutes.",
+            "wrongAnswer_1": "The most common antihypertensive agents are furosemide, terbutaline, and clonidine, with oral administration being the standard route. Furosemide and terbutaline have a rapid onset (5-10 minutes), while clonidine takes 1-2 hours for full effect, with a duration of 4-8 hours.",
+            "wrongAnswer_2": "In pregnancy, we use enalapril, lisinopril, and propranolol as intravenous medications. Enalapril and lisinopril act within 30-60 minutes, lasting 6-12 hours, while propranolol has a delayed onset (1-2 hours) with a duration of 3-4 hours.",
+            "wrongAnswer_3": "The standard antihypertensive drugs are amiloride, spironolactone, and terazosin, all of which are given intravenously. Amiloride and spironolactone act within 10-15 minutes, lasting 4-6 hours, while terazosin takes 1-2 hours for full effect, with a duration of 3-5 hours.",
+            "wrongAnswer_4": "We typically use diltiazem, verapamil, and metoclopramide in pregnancy. Diltiazem and verapamil are administered orally, with a rapid onset (5-10 minutes) and a duration of 2-4 hours. Metoclopramide takes 15-20 minutes to act, with a duration of 4-6 hours."
+          },
+          {
+            "question": "Which of the following statements correctly describes the use of magnesium sulfate in pregnancy hypertension management?",
+            "goodAnswer": "It is used for seizure prophylaxis and can be administered intravenously or intramuscularly.",
+            "wrongAnswer_1": "Magnesium sulfate is primarily used to treat hypertension, not seizures.",
+            "wrongAnswer_2": "The intravenous loading dose is 10 g, and the maintenance dose is 5 g per hour.",
+            "wrongAnswer_3": "It is only effective when given intravenously, not intramuscularly.",
+            "wrongAnswer_4": "Magnesium sulfate should never be used in pregnancy hypertension management due to its high toxicity."
+          },
+          {
+            "question": "Which antihypertensive medication is associated with a loading dose of 4-6 g intravenously over 15-20 minutes, followed by a maintenance dose of 2 g per hour, with a target therapeutic level of 4-8 mEq/L?",
+            "goodAnswer": "Magnesium Sulfate",
+            "wrongAnswer_1": "Hydralazine",
+            "wrongAnswer_2": "Labetalol",
+            "wrongAnswer_3": "Sodium Nitroprusside",
+            "wrongAnswer_4": "Methyldopa"
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of severe preeclampsia, as defined by blood pressure and proteinuria levels?",
+            "goodAnswer": "A 24-hour urine test revealing 300 mg of proteinuria",
+            "wrongAnswer_1": "A blood pressure reading of 160/110 mmHg",
+            "wrongAnswer_2": "Oliguria, with less than 500 ml of urine output in 24 hours",
+            "wrongAnswer_3": "Evidence of fetal growth restriction on ultrasound",
+            "wrongAnswer_4": "Thrombocytopenia, with a platelet count below 150,000/mm\u00b3"
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of severe preeclampsia, as defined by blood pressure and proteinuria levels?",
+            "goodAnswer": "A blood pressure of 140/90 mmHg",
+            "wrongAnswer_1": "A blood pressure of 160/110 mmHg",
+            "wrongAnswer_2": "5 grams of proteinuria in 24 hours",
+            "wrongAnswer_3": "Oliguria with less than 500 ml of urine output in 24 hours",
+            "wrongAnswer_4": "Thrombocytopenia with a platelet count below 100,000/mm\u00b3"
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of severe preeclampsia, as defined by blood pressure and proteinuria levels?",
+            "goodAnswer": "A blood pressure of 140/90 on two occasions, six hours apart",
+            "wrongAnswer_1": "A blood pressure of 160/110 on at least one measurement",
+            "wrongAnswer_2": "5 grams of proteinuria in 24 hours",
+            "wrongAnswer_3": "Oliguria with less than 500 ml of urine output in 24 hours",
+            "wrongAnswer_4": "Cerebral or visual disturbances, such as headache or blurred vision"
+          },
+          {
+            "question": "Which of the following is NOT a parenteral antihypertensive agent used in the management of hypertension during pregnancy?",
+            "goodAnswer": "Amlodipine",
+            "wrongAnswer_1": "Hydralazine",
+            "wrongAnswer_2": "Labetalol",
+            "wrongAnswer_3": "Sodium Nitroprusside",
+            "wrongAnswer_4": "Nicardipine"
+          },
+          {
+            "question": "Which of the following is a key consideration in accurate blood pressure measurement?",
+            "goodAnswer": "Using the Korotkoff V sound for measurement",
+            "wrongAnswer_1": "Taking the measurement while the patient is standing",
+            "wrongAnswer_2": "Using the first Korotkoff sound as the systolic pressure",
+            "wrongAnswer_3": "Lowering the arm below the level of the heart",
+            "wrongAnswer_4": "Repeating the measurement every 15 minutes without waiting for stabilization"
+          },
+          {
+            "question": "Which of the following is a key consideration in accurate blood pressure measurement?",
+            "goodAnswer": "Using the Korotkoff V sound for measurement",
+            "wrongAnswer_1": "Relying solely on the IVth sound if the Vth sound is absent",
+            "wrongAnswer_2": "Using the lower set of values in serial readings",
+            "wrongAnswer_3": "Measuring blood pressure in a standing position",
+            "wrongAnswer_4": "Deflating the cuff until the radial pulse returns"
+          },
+          {
+            "question": "Which of the following is NOT a parenteral antihypertensive agent used in the management of hypertension during pregnancy?",
+            "goodAnswer": "Trandolapine",
+            "wrongAnswer_1": "Hydralazine",
+            "wrongAnswer_2": "Labetalol",
+            "wrongAnswer_3": "Sodium nitroprusside",
+            "wrongAnswer_4": "Nicardpine"
+          },
+          {
+            "question": "Which of the following is NOT a parenteral antihypertensive agent used in the management of hypertension during pregnancy?",
+            "goodAnswer": "Metoprolol",
+            "wrongAnswer_1": "Hydralazine",
+            "wrongAnswer_2": "Labetalol",
+            "wrongAnswer_3": "Sodium Nitroprusside",
+            "wrongAnswer_4": "Nicardipine"
+          }
+        ]
+      },
+      {
+        "title": "Preeclampsia",
+        "quizzes": [
+          {
+            "question": "What is the primary method of antihypertensive therapy in pregnancy, and what are the key considerations for its use?",
+            "goodAnswer": "The mainstay of antihypertensive therapy in pregnancy is to reduce the mean arterial pressure by 15-20%, while monitoring fetal and maternal status. Therapy should be individualized, and oral medications are preferred whenever possible. Parenteral agents are used for rapid control or if oral medications are ineffective.",
+            "wrongAnswer_1": "Antihypertensive therapy in pregnancy focuses on rapidly lowering blood pressure to pre-pregnancy levels. All pregnant women should receive a standardized treatment regimen, and intravenous medications are the preferred method of administration.",
+            "wrongAnswer_2": "The primary goal of antihypertensive therapy is to completely eliminate hypertension symptoms. All pregnant women should receive routine treatment with beta-blockers, as they are the safest class of medications during pregnancy.",
+            "wrongAnswer_3": "The mainstay of antihypertensive therapy is to prevent all complications by immediately initiating high-dose corticosteroids. Oral medications should be avoided, and intravenous therapy is always superior for controlling blood pressure.",
+            "wrongAnswer_4": "Antihypertensive drugs should be used only in emergencies, as they all pose significant risks to the fetus. All pregnant women should receive a single, universal treatment regimen. Tachycardia is a common side effect of all antihypertensive medications."
+          },
+          {
+            "question": "Which of the following is NOT a parenteral antihypertensive agent used in pregnancy?",
+            "goodAnswer": "Captopril, as it can cause severe hypotension and fetal injury.",
+            "wrongAnswer_1": "Hydralazine, which is administered intravenously and has a rapid onset of action.",
+            "wrongAnswer_2": "Labetalol, which is a beta-antagonist with additional alpha-antagonist properties.",
+            "wrongAnswer_3": "Sodium Nitroprusside, which acts directly on vascular smooth muscle to induce vasodilation.",
+            "wrongAnswer_4": "Nicardipine, which is a calcium channel blocker that is effective in controlling blood pressure."
+          },
+          {
+            "question": "Which of the following is NOT a key principle of blood pressure measurement in pregnant women?",
+            "goodAnswer": "A relative BP change of 30 mmHg systolic or 15 mmHg diastolic is used to diagnose hypertension",
+            "wrongAnswer_1": "The Korotkoff Vth sound should be used for diastolic pressure",
+            "wrongAnswer_2": "If the Vth sound is absent, document the IVth sound as the diastolic pressure",
+            "wrongAnswer_3": "Use the higher reading if serial measurements vary",
+            "wrongAnswer_4": "Patients should be in a comfortable, seated position"
+          },
+          {
+            "question": "Which of the following is NOT a parenteral antihypertensive agent used in pregnancy?",
+            "goodAnswer": "Nicardipine, used for immediate onset and lasting 1-2 minutes",
+            "wrongAnswer_1": "Labetalol, which has an onset in 5-10 minutes and lasts 3-6 hours",
+            "wrongAnswer_2": "Hydralazine, with an onset in 10-20 minutes and a duration of 3-6 hours",
+            "wrongAnswer_3": "Sodium Nitroprusside, used for seizure prophylaxis and in the treatment of eclampsia",
+            "wrongAnswer_4": "Magnesium Sulfate, used to treat hypertension-induced spasms and seizures"
+          },
+          {
+            "question": "Which of the following is a key clinical predictor of eclampsia, highlighting that some women may not present with classic signs of hypertension, proteinuria, or edema, but rather with other symptoms?",
+            "goodAnswer": "A history of grand mal seizures before pregnancy",
+            "wrongAnswer_1": "History of chronic hypertension",
+            "wrongAnswer_2": "Family history of preeclampsia",
+            "wrongAnswer_3": "Obesity and lack of exercise",
+            "wrongAnswer_4": "Previous preterm delivery"
+          },
+          {
+            "question": "Which of the following is NOT a key clinical predictor of eclampsia, highlighting that some women may not present with classic signs: edema is absent in about 32%, hypertension in about 23%, and proteinuria in about 19% of eclamptic patients?",
+            "goodAnswer": "Epigastric pain, headaches, and visual disturbances",
+            "wrongAnswer_1": "Seizures, hyperlipidemia, and weight loss",
+            "wrongAnswer_2": "Absent edema, hypertension, and proteinuria",
+            "wrongAnswer_3": "Tachycardia, nausea, and diarrhea",
+            "wrongAnswer_4": "Right upper quadrant tenderness, fetal growth restriction, or thrombocytopenia"
+          },
+          {
+            "question": "Which of the following is NOT a parenteral antihypertensive agent used in pregnancy?",
+            "goodAnswer": "Nicorandil",
+            "wrongAnswer_1": "Hydralazine",
+            "wrongAnswer_2": "Labetalol",
+            "wrongAnswer_3": "Sodium Nitroprusside",
+            "wrongAnswer_4": "Nicardipine"
+          },
+          {
+            "question": "Which of the following is a key clinical predictor of eclampsia, highlighting that some women may not present with classic signs of hypertension, proteinuria, or edema, but rather with other symptoms?",
+            "goodAnswer": "Headaches, visual disturbances, and epigastric pain",
+            "wrongAnswer_1": "Absence of hypertension, proteinuria, or edema, making it difficult to diagnose preeclampsia",
+            "wrongAnswer_2": "History of gestational hypertension in a previous pregnancy",
+            "wrongAnswer_3": "Presence of severe anemia and thrombocytopenia",
+            "wrongAnswer_4": "Inability to gain weight due to poor dietary intake"
+          },
+          {
+            "question": "How is the loading dose of magnesium sulfate administered, and what is the subsequent maintenance regimen?",
+            "goodAnswer": "Intravenous loading dose of 4-6 g in 100 mL over 15-20 minutes, followed by a maintenance dose of 2 g per hour, targeting 4-8 mEq/L",
+            "wrongAnswer_1": "Oral loading dose of 2-4 g, followed by a maintenance dose of 1 g every 12 hours, monitoring serum magnesium levels every 6 hours",
+            "wrongAnswer_2": "Intravenous loading dose of 8-10 g over 30 minutes, followed by a maintenance infusion of 5 g per hour, adjusting the rate based on blood pressure response",
+            "wrongAnswer_3": "Subcutaneous injection of 1-2 g every 4 hours, with a maximum daily dose of 10 g, used only for mild cases of preeclampsia",
+            "wrongAnswer_4": "Intravenous bolus of 10-15 g followed by a continuous infusion of 10 g per hour, titrating the dose based on fetal heart rate monitoring"
+          },
+          {
+            "question": "Why is it important to use the Korotkoff Vth sound for diastolic pressure in pregnant women?",
+            "goodAnswer": "Using the Vth sound ensures accurate measurement by detecting the point at which the radial artery opens and closes with each heartbeat, providing a reliable indication of diastolic pressure.",
+            "wrongAnswer_1": "The Vth sound represents the complete cessation of blood flow in the radial artery, which is the true indicator of diastolic pressure in all patients, including pregnant women.",
+            "wrongAnswer_2": "While the Vth sound is used in general population, it is not applicable in pregnant women, as their vascular tone is naturally higher, requiring alternative methods for diastolic pressure assessment.",
+            "wrongAnswer_3": "Using the Vth sound can lead to overestimation of diastolic pressure in pregnant women, as it often occurs before the radial artery fully opens, resulting in an inaccurate representation of blood flow.",
+            "wrongAnswer_4": "The Vth sound only applies to patients with hypertension and is not relevant in routine blood pressure checks in pregnant women, as it may introduce unnecessary variability in measurements."
+          },
+          {
+            "question": "Which of the following is a key clinical predictor of eclampsia, highlighting that some women may not present with classic signs of hypertension, proteinuria, or edema, but rather with other symptoms?",
+            "goodAnswer": "Headaches, visual disturbances, and epigastric pain",
+            "wrongAnswer_1": "Regularity of fetal movements, fundal height, and amniotic fluid volume",
+            "wrongAnswer_2": "Absence of hypertension, proteinuria, or edema in the history",
+            "wrongAnswer_3": "Tachycardia, headache, and flushing after medication administration",
+            "wrongAnswer_4": "Thrombocytopenia, impaired liver function, or right upper quadrant tenderness"
+          },
+          {
+            "question": "Which of the following is NOT a parenteral antihypertensive agent used in pregnancy?",
+            "goodAnswer": "Nicardipine",
+            "wrongAnswer_1": "Hydralazine",
+            "wrongAnswer_2": "Labetalol",
+            "wrongAnswer_3": "Sodium Nitroprusside",
+            "wrongAnswer_4": "Magnesium Sulfate"
+          },
+          {
+            "question": "How is the loading dose of magnesium sulfate administered, and what is the subsequent maintenance regimen?",
+            "goodAnswer": "Intravenous loading dose of 4-6 g in 100 mL over 15-20 minutes. Maintenance dose of 2 g per hour, targeting 4-8 mEq/L.",
+            "wrongAnswer_1": "Oral loading dose of 2-4 g in 50 mL over 10-15 minutes. Maintenance dose of 1 g every 12 hours, monitoring for therapeutic levels.",
+            "wrongAnswer_2": "Intravenous loading dose of 8-10 g in 200 mL over 30-40 minutes. Maintenance dose of 5 g per hour, adjusting based on clinical response.",
+            "wrongAnswer_3": "Subcutaneous injection of 2-4 g in 50 mL over 10-15 minutes. Maintenance dose of 1 g every 8 hours, with a maximum of 10 g per day.",
+            "wrongAnswer_4": "Intravenous loading dose of 10-12 g in 250 mL over 45-60 minutes. Maintenance dose of 3 g per hour, with a target range of 2-5 mEq/L."
+          },
+          {
+            "question": "Which of the following is a key clinical predictor of eclampsia, highlighting that some women may not present with classic signs of hypertension, proteinuria, or edema, but rather with other symptoms?",
+            "goodAnswer": "Headache, visual disturbances, and epigastric pain",
+            "wrongAnswer_1": "Regularity of fetal movements, fundal height, and amniotic fluid volume",
+            "wrongAnswer_2": "Absence of hypertension, proteinuria, or edema in the patient's history",
+            "wrongAnswer_3": "History of preeclampsia in a previous pregnancy",
+            "wrongAnswer_4": "Normalization of blood pressure after starting antihypertensive therapy"
+          }
+        ]
+      },
+      {
+        "title": "Blood pressure measurement",
+        "quizzes": [
+          {
+            "question": "What are the most common parenteral antihypertensive medications used in pregnancy, and what are their respective primary side effects?",
+            "goodAnswer": "Hydralazine (Tachycardia, Headache, flushing, angina), Labetalol (Scalp tingling, vomiting, heart block), Sodium Nitroprusside (N/V, thiocyanate toxicity), Nicardipine (Tachycardia, headaches, phlebitis).",
+            "wrongAnswer_1": "Enalapril (Agranulocytosis, renal failure), Indomethacin (Premature closure of ductus arteriosus), Spironolactone (Hyperkalemia, gynecomastia), Amiloride (Hyperkalemia, headache), Metoprolol (Bradycardia, conduction disturbances).",
+            "wrongAnswer_2": "Hydralazine (Bronchospasm, hyperkalemia), Labetalol (Hypertension, chest pain), Sodium Nitroprusside (Thrombocytopenia, seizures), Nicardipine (Phlebitis, weight gain), Lisinopril (Teratogenic, fetal growth restriction).",
+            "wrongAnswer_3": "Tachycardia (Hydralazine, labetalol, nitroprusside, nicardipine), Headache (Hydralazine, labetalol, nitroprusside), Flushing (Hydralazine, labetalol), Angina (Hydralazine, labetalol), Timolol (Scalp tingling, vomiting, heart block).",
+            "wrongAnswer_4": "Amiloride (Tachycardia, headache), Lisinopril (Scalp tingling, vomiting, heart block), Indomethacin (N/V, cardiac arrest), Metoprolol (Thiocyanate toxicity), Nicardipine (Phlebitis, long half life). "
+          },
+          {
+            "question": "Which of the following statements is true about the use of magnesium sulfate in pregnancy?",
+            "goodAnswer": "It is used for seizure prophylaxis in preeclampsia and eclampsia\u200b",
+            "wrongAnswer_1": "It is contraindicated in severe preeclampsia as it can worsen hypertension",
+            "wrongAnswer_2": "It is used to treat fetal growth restriction by direct vascular dilation",
+            "wrongAnswer_3": "It is only effective when administered intramuscularly, not intravenously",
+            "wrongAnswer_4": "It should be used routinely in all pregnancies to prevent preterm labor"
+          },
+          {
+            "question": "How is hypertension diagnosed in pregnancy, and what are the hypertension-associated complications that can occur?",
+            "goodAnswer": "It is diagnosed by measuring blood pressure accurately and repeated high blood pressure measurements. Hypertension-associated complications include preeclampsia, eclampsia, stroke, heart failure, and chronic kidney disease.",
+            "wrongAnswer_1": "Hypertension is diagnosed by routine urinalysis, and the associated complications include diabetes, autoimmune diseases, and infertility.",
+            "wrongAnswer_2": "A single high blood pressure reading confirms hypertension, and the complications include pneumonia, skin infections, and gastrointestinal disorders.",
+            "wrongAnswer_3": "Hypertension is only diagnosed after excluding other medical conditions, and associated complications are always asymptomatic.",
+            "wrongAnswer_4": "All pregnant women are routinely screened for hypertension, and the only complication is a slight decrease in fetal growth."
+          },
+          {
+            "question": "Which of the following is NOT a criterion for severe preeclampsia?",
+            "goodAnswer": "A history of hypertension before pregnancy",
+            "wrongAnswer_1": "Blood pressure of 160/110 mmHg",
+            "wrongAnswer_2": "5 gm of proteinuria in 24 hrs",
+            "wrongAnswer_3": "Oliguria or <500 ml in 24 hrs",
+            "wrongAnswer_4": "Thrombocytopenia (platelet count less than 100,000/mm3)"
+          },
+          {
+            "question": "Why is it important to use the Korotkoff V sound when measuring blood pressure in pregnancy?",
+            "goodAnswer": "The Korotkoff V sound represents the true diastolic pressure in most pregnant women.",
+            "wrongAnswer_1": "Using the V sound helps to avoid complications such as white coat hypertension.",
+            "wrongAnswer_2": "It ensures that the blood pressure reading is accurate in all patients, regardless of pregnancy status.",
+            "wrongAnswer_3": "The V sound represents the systolic pressure, not the diastolic pressure.",
+            "wrongAnswer_4": "It is only used when other methods of blood pressure measurement have failed."
+          },
+          {
+            "question": "How is hypertension diagnosed in pregnancy, and what are the hypertension-associated complications that can occur?",
+            "goodAnswer": "It is diagnosed by measuring blood pressure accurately and can lead to complications such as preeclampsia, eclampsia, chronic hypertension, and superimposed preeclampsia. Hypertension in pregnancy is defined as a systolic blood pressure of 140 mmHg or more, or a diastolic blood pressure of 90 mmHg or more, on at least two occasions, at least six hours apart.",
+            "wrongAnswer_1": "Hypertension is diagnosed by routine urinalysis, and the associated complications include anemia, preterm delivery, and autoimmune disease. Hypertension in pregnancy is defined as a systolic blood pressure of 130 mmHg or more, or a diastolic blood pressure of 80 mmHg or more, on at least two occasions, at least four hours apart.",
+            "wrongAnswer_2": "It is diagnosed by checking for proteinuria, and the hypertension-associated complications can include pancreatitis, pulmonary embolism, and temporal lobe seizures. Hypertension in pregnancy is defined as a systolic blood pressure of 150 mmHg or more, or a diastolic blood pressure of 100 mmHg or more, on at least two occasions, at least 12 hours apart.",
+            "wrongAnswer_3": "A single high blood pressure reading confirms the diagnosis, and the major complications are hyperlipidemia, hypothyroidism, and migraine headaches. Hypertension in pregnancy is defined as a systolic blood pressure of 120 mmHg or more, or a diastolic blood pressure of 70 mmHg or more, on at least two occasions, at least three hours apart.",
+            "wrongAnswer_4": "Only a doctor can diagnose hypertension, and the hypertension-associated complications include infertility, pancreatitis, and chronic fatigue syndrome. Hypertension in pregnancy is defined as a systolic blood pressure of 160 mmHg or more, or a diastolic blood pressure of 110 mmHg or more, on at least two occasions, at least 10 hours apart."
+          },
+          {
+            "question": "Which of the following is NOT a criterion for severe preeclampsia?",
+            "goodAnswer": "A history of hypertension before pregnancy",
+            "wrongAnswer_1": "Blood pressure of 160/110 mmHg",
+            "wrongAnswer_2": "5 gm of proteinuria in 24 hrs",
+            "wrongAnswer_3": "Oliguria or <500 ml in 24 hrs",
+            "wrongAnswer_4": "Thrombocytopenia (platelet count less than 100,000/mm3)"
+          },
+          {
+            "question": "Which of the following is NOT a criterion for severe preeclampsia?",
+            "goodAnswer": "A history of hypertension before pregnancy",
+            "wrongAnswer_1": "Blood pressure of 160/110 mmHg",
+            "wrongAnswer_2": "5 gm of proteinuria in 24 hrs",
+            "wrongAnswer_3": "Oliguria or <500 ml in 24 hrs",
+            "wrongAnswer_4": "Thrombocytopenia (platelet count less than 100,000/mm3)"
+          },
+          {
+            "question": "Which of the following is NOT a criterion for severe preeclampsia?",
+            "goodAnswer": "A history of hypertension before pregnancy",
+            "wrongAnswer_1": "Blood pressure of 160/110 mmHg",
+            "wrongAnswer_2": "At least 5 grams of proteinuria in 24 hours",
+            "wrongAnswer_3": "Oliguria with less than 500 ml in 24 hours",
+            "wrongAnswer_4": "Thrombocytopenia with a platelet count below 100,000/mm3"
+          },
+          {
+            "question": "Which of the following is NOT a criterion for severe preeclampsia?",
+            "goodAnswer": "A history of gestational hypertension in a previous pregnancy",
+            "wrongAnswer_1": "Blood pressure of 160/110 mmHg",
+            "wrongAnswer_2": "At least 5 grams of proteinuria in 24 hours",
+            "wrongAnswer_3": "Oliguria with less than 500 ml in 24 hours",
+            "wrongAnswer_4": "Thrombocytopenia with a platelet count below 100,000/mm3"
+          },
+          {
+            "question": "Which of the following is NOT a criterion for severe preeclampsia?",
+            "goodAnswer": "A history of hypertension before pregnancy",
+            "wrongAnswer_1": "Blood pressure of 160/110 mmHg",
+            "wrongAnswer_2": "5 gm of proteinuria in 24 hrs",
+            "wrongAnswer_3": "Oliguria or <500 ml in 24 hrs",
+            "wrongAnswer_4": "Thrombocytopenia (platelet count less than 100,000/mm3)"
+          }
+        ]
+      },
+      {
+        "title": "Trophoblastic invasion",
+        "quizzes": [
+          {
+            "question": "What is the correct therapeutic approach for hypertension in pregnancy?",
+            "goodAnswer": "Accurate diagnosis, strict blood pressure control, and delivery at the appropriate gestational age.",
+            "wrongAnswer_1": "Immediate surgical intervention to relieve hypertension and stabilize the fetus.",
+            "wrongAnswer_2": "Routine use of high-dose corticosteroids to suppress immune response and reduce vascular resistance.",
+            "wrongAnswer_3": "Inferior vena cava occlusion to prevent venous thromboembolism and control blood flow.",
+            "wrongAnswer_4": "Long-term application of non-steroidal anti-inflammatory drugs (NSAIDs) to alleviate hypertension-induced symptoms."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of severe preeclampsia?",
+            "goodAnswer": "A blood pressure of 140/90 after 20 weeks of gestation with no other signs of pathology",
+            "wrongAnswer_1": "One or more of the following: BP 160/110, 5gm of proteinuria in 24 hours, oliguria (less than 500 ml in 24 hours), cerebral or visual disturbances, pulmonary edema or cyanosis, RUQ tenderness, fetal growth restriction, thrombocytopenia, or impaired liver function",
+            "wrongAnswer_2": "Generalized vasospasm leading to end-organ damage such as strokes, renal failure, or seizures",
+            "wrongAnswer_3": "The need for immediate delivery due to the risk of maternal and fetal complications",
+            "wrongAnswer_4": "The presence of hypertension with proteinuria after 20 weeks of gestation"
+          },
+          {
+            "question": "How is the dosage of antihypertensive medications generally adjusted in pregnancy?",
+            "goodAnswer": "The lowest effective dose should be used, and it should be adjusted according to the clinical response and blood pressure readings.",
+            "wrongAnswer_1": "Antihypertensive medications should be used at full therapeutic doses to ensure rapid control of hypertension.",
+            "wrongAnswer_2": "Dosage adjustments are not necessary as long as the mother's blood pressure is stable.",
+            "wrongAnswer_3": "All pregnant women should receive routine maintenance doses of antihypertensive drugs.",
+            "wrongAnswer_4": "It is safe to increase the dosage of all antihypertensive medications by 50% every 24 hours until blood pressure is fully controlled."
+          },
+          {
+            "question": "Which antihypertensive medication is known to cause headache, flushing, and tachycardia as side effects?",
+            "goodAnswer": "Hydralazine",
+            "wrongAnswer_1": "Labetalol",
+            "wrongAnswer_2": "Sodium Nitroprusside",
+            "wrongAnswer_3": "Nicardpine",
+            "wrongAnswer_4": "Magnesium Sulfate"
+          },
+          {
+            "question": "Which of the following is NOT a side effect of the antihypertensive medication hydralazine?",
+            "goodAnswer": "Heart block",
+            "wrongAnswer_1": "Tachycardia",
+            "wrongAnswer_2": "Headache",
+            "wrongAnswer_3": "Flushing",
+            "wrongAnswer_4": "Angina"
+          },
+          {
+            "question": "Which of the following antihypertensive medications is known to cause thrombocytopenia as a side effect?",
+            "goodAnswer": "Labetalol",
+            "wrongAnswer_1": "Hydralazine",
+            "wrongAnswer_2": "Sodium Nitroprusside",
+            "wrongAnswer_3": "Nicardipine",
+            "wrongAnswer_4": "Metoprolol"
+          },
+          {
+            "question": "Which antihypertensive medication is typically administered as a loading dose of 4-6 g in 100 ml over 15-20 minutes, followed by a maintenance dose of 2 g per hour to maintain a therapeutic serum level of 4-8 mEq/L?",
+            "goodAnswer": "Magnesium Sulfate",
+            "wrongAnswer_1": "Labetalol",
+            "wrongAnswer_2": "Hydralazine",
+            "wrongAnswer_3": "Sodium Nitroprusside",
+            "wrongAnswer_4": "Nicardipine"
+          },
+          {
+            "question": "Which of the following antihypertensive medications is typically administered as a loading dose of 4-6 g in 100 ml over 15-20 minutes, followed by a maintenance dose of 2 g per hour to maintain a therapeutic serum level of 4-8 mEq/L?",
+            "goodAnswer": "Magnesium Sulfate",
+            "wrongAnswer_1": "Hydralazine",
+            "wrongAnswer_2": "Labetalol",
+            "wrongAnswer_3": "Sodium Nitroprusside",
+            "wrongAnswer_4": "Nicardipine"
+          },
+          {
+            "question": "Which of the following is NOT a side effect of the antihypertensive medication hydralazine?",
+            "goodAnswer": "Scalp tingling, vomiting, heart block",
+            "wrongAnswer_1": "Tachycardia, headache, flushing, angina",
+            "wrongAnswer_2": "Bronchospasm, dizziness, fatigue, hypokalemia",
+            "wrongAnswer_3": "Hypertension, chest pain, syncope, confusion",
+            "wrongAnswer_4": "Oliguria, thrombocytopenia, seizures, coma"
+          },
+          {
+            "question": "Which of the following is the correct therapeutic approach for hypertension in pregnancy?",
+            "goodAnswer": "Accurate diagnosis, individualized therapy, and protecting both the mother and fetus from the adverse effects of hypertension.",
+            "wrongAnswer_1": "Routine screening of all pregnant women for hypertension, followed by universal treatment with low-dose aspirin.",
+            "wrongAnswer_2": "Immediate delivery as soon as hypertension is diagnosed to prevent complications.",
+            "wrongAnswer_3": "Treating all pregnant women with hypertension by following standardized protocols without individualizing therapy.",
+            "wrongAnswer_4": "Using high-risk medications without considering fetal safety in all cases of hypertension."
+          }
+        ]
+      },
+      {
+        "title": "Treatment",
+        "quizzes": [
+          {
+            "question": "What is the only effective method to definitively rule out the presence of trophoblast invasion in the blood vessels of the myometrium?",
+            "goodAnswer": "Open surgical biopsy of the uterine wall",
+            "wrongAnswer_1": "Ultrasound imaging of the uterine arteries",
+            "wrongAnswer_2": "Blood test for angiogenic factors like VEGF",
+            "wrongAnswer_3": "MRI scan of the uterus to visualize vascular invasion",
+            "wrongAnswer_4": "Clinical assessment of hypertension and proteinuria"
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of magnesium sulfate use in eclampsia?",
+            "goodAnswer": "It can be administered intravenously or intramuscularly, with a loading dose followed by maintenance infusions to prevent seizures",
+            "wrongAnswer_1": "It is indicated for seizure prophylaxis in preeclampsia and for the treatment of eclampsia",
+            "wrongAnswer_2": "Therapeutic levels of magnesium sulfate are: 4-6 mg/dL, with toxic levels being 7-8 mg/dL",
+            "wrongAnswer_3": "Signs of magnesium toxicity include hyporeflexia, somnolence, and urinary retention",
+            "wrongAnswer_4": "Magnesium sulfate helps reduce blood pressure and prevent seizures by blocking calcium channels"
+          },
+          {
+            "question": "How is the V-wave in venous blood flow described?",
+            "goodAnswer": "The V-wave represents the backflow of blood into the inferior vena cava during ventricular systole.",
+            "wrongAnswer_1": "The V-wave indicates the closure of the tricuspid valve and precedes the A-wave.",
+            "wrongAnswer_2": "It represents the forward flow of blood into the right atrium during ventricular diastole.",
+            "wrongAnswer_3": "It occurs due to the contraction of the right atrium and precedes the A-wave.",
+            "wrongAnswer_4": "It is a reflection of the opening of the tricuspid valve during ventricular systole."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of the clinical presentation of preeclampsia?",
+            "goodAnswer": "Preeclampsia is diagnosed when there is hypertension with proteinuria, and it's asymptomatic until delivery",
+            "wrongAnswer_1": "It is characterized by hypertension with proteinuria, and the severity of the disease can range from mild to severe",
+            "wrongAnswer_2": "Risk factors include nulliparity, age greater than 40, African American race, family history, chronic renal disease, chronic hypertension, antiphospholipid syndrome, diabetes mellitus, twin gestation, high body mass index, and the Angiotensinogen gene T235 Homozygous or Heterozygous",
+            "wrongAnswer_3": "In severe cases, it can lead to complications such as seizures (eclampsia), stroke, or pulmonary edema",
+            "wrongAnswer_4": "It is more common in women with prior history of hypertension or vascular disease"
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

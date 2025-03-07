@@ -1,0 +1,213 @@
+{
+  "mainTopic": {
+    "title": "Aortic stenosis",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Etiology, Pathophysiology",
+        "quizzes": [
+          {
+            "question": "What is the primary consequence of aortic stenosis on the left ventricle, and what are the associated clinical findings?",
+            "goodAnswer": "Aortic stenosis leads to left ventricular pressure overload, resulting in a harsh systolic ejection murmur, weak and delayed carotid pulse, and eventually causing dyspnea, angina pectoris, and syncope.",
+            "wrongAnswer_1": "Aortic stenosis weakens the left ventricle, leading to a soft diastolic murmur, rapid pulse, and symptoms of fatigue, weight loss, and frequent urination.",
+            "wrongAnswer_2": "Aortic stenosis causes right ventricular dilation, leading to a mid-systolic ejection murmur, irregular pulse, and signs of anemia, skin rash, and kidney failure.",
+            "wrongAnswer_3": "Aortic stenosis results in atrial fibrillation, leading to a rumbling diastolic murmur, irregular pulse, and symptoms of dizziness, chest pain, and vision problems.",
+            "wrongAnswer_4": "Aortic stenosis leads to a silent asymptomatic course without any clinical findings or changes in the character of the heart sounds or pulse."
+          },
+          {
+            "question": "In a patient with aortic stenosis, what is the primary finding on chest radiography, and how does it reflect the severity of the stenosis?",
+            "goodAnswer": "Cardiomegaly and pulmonary artery dilation",
+            "wrongAnswer_1": "Left ventricular aneurysm and thrombus formation",
+            "wrongAnswer_2": "Pericardial effusion and coronary artery occlusion",
+            "wrongAnswer_3": "Right ventricular hypertrophy and atrial septal defect",
+            "wrongAnswer_4": "Aortic dissection and aneurysm formation"
+          },
+          {
+            "question": "What is the primary method of aortic valve area measurement, and what are the indications for surgical aortic valve replacement in asymptomatic patients with aortic stenosis?",
+            "goodAnswer": "Echocardiography; severe aortic valve gradient, evidence of left ventricular dysfunction, or development of chest pain or dyspnea with minimal exertion",
+            "wrongAnswer_1": "Cardiac catheterization; aortic valve area is less than 1 cm, presence of a systolic ejection murmur, or history of syncope",
+            "wrongAnswer_2": "Electrocardiography; conduction abnormalities, left atrial enlargement, or signs of ventricular hypertrophy",
+            "wrongAnswer_3": "Exercise stress testing; inability to increase cardiac output with exercise, development of angina, or a paradoxical pulse",
+            "wrongAnswer_4": "Chest radiography; cardiomegaly, pulmonary congestion, or aortic dissection"
+          },
+          {
+            "question": "How is the severity of aortic stenosis determined, and what are the corresponding aortic valve areas for mild, moderate, and severe stenosis?",
+            "goodAnswer": "Aortic stenosis is classified by the aortic valve area: Severe stenosis is defined as a valve area \u2264 1.0 cm\u00b2, moderate stenosis as 1.0 \u2013 1.4 cm\u00b2, and mild stenosis as > 1.5 cm\u00b2.",
+            "wrongAnswer_1": "Aortic stenosis is classified by the aortic valve area: Severe stenosis is defined as a valve area \u2264 0.5 cm\u00b2, moderate stenosis as 0.5 \u2013 1.0 cm\u00b2, and mild stenosis as > 1.0 cm\u00b2.",
+            "wrongAnswer_2": "Aortic stenosis is classified by the aortic valve area: Severe stenosis is defined as a valve area \u2264 2.0 cm\u00b2, moderate stenosis as 2.0 \u2013 2.4 cm\u00b2, and mild stenosis as > 2.5 cm\u00b2.",
+            "wrongAnswer_3": "Aortic stenosis is classified by the aortic valve area: Severe stenosis is defined as a valve area \u2264 1.5 cm\u00b2, moderate stenosis as 1.5 \u2013 1.9 cm\u00b2, and mild stenosis as > 2.0 cm\u00b2.",
+            "wrongAnswer_4": "Aortic stenosis is classified by the aortic valve area: Severe stenosis is defined as a valve area \u2264 0.8 cm\u00b2, moderate stenosis as 0.8 \u2013 1.2 cm\u00b2, and mild stenosis as > 1.3 cm\u00b2."
+          },
+          {
+            "question": "How is the severity of aortic stenosis determined, and what are the corresponding aortic valve areas for mild, moderate, and severe stenosis?",
+            "goodAnswer": "The severity of aortic stenosis is determined by the aortic valve area: Severe stenosis is defined as a valve area \u2264 1.0 cm\u00b2, moderate stenosis as 1.0 \u2013 1.4 cm\u00b2, and mild stenosis as > 1.5 cm\u00b2.",
+            "wrongAnswer_1": "The severity of aortic stenosis is determined by the aortic valve area: Severe stenosis is defined as a valve area > 1.5 cm\u00b2, moderate stenosis as 1.0 \u2013 1.4 cm\u00b2, and mild stenosis as \u2264 1.0 cm\u00b2.",
+            "wrongAnswer_2": "The severity of aortic stenosis is determined by the aortic valve area: Severe stenosis is defined as a valve area \u2264 1.0 cm\u00b2, moderate stenosis as > 1.5 cm\u00b2, and mild stenosis as 1.0 \u2013 1.4 cm\u00b2.",
+            "wrongAnswer_3": "The severity of aortic stenosis is determined by the aortic valve area: Severe stenosis is defined as a valve area 1.0 \u2013 1.4 cm\u00b2, moderate stenosis as \u2264 1.0 cm\u00b2, and mild stenosis as > 1.5 cm\u00b2.",
+            "wrongAnswer_4": "The severity of aortic stenosis is determined by the aortic valve area: Severe stenosis is defined as a valve area > 1.5 cm\u00b2, moderate stenosis as \u2264 1.0 cm\u00b2, and mild stenosis as 1.0 \u2013 1.4 cm\u00b2."
+          },
+          {
+            "question": "What is the classic triad of symptoms in patients with significant aortic stenosis, and what is the key physical exam finding that supports the diagnosis?",
+            "goodAnswer": "Dyspnea, angina pectoris, and syncope; weak and delayed carotid pulse (parvus et tardus).",
+            "wrongAnswer_1": "Chest pain, dizziness, and fatigue; bounding and rapid carotid pulse.",
+            "wrongAnswer_2": "Shortness of breath, palpitations, and irregular pulse; absent or diminished carotid pulse.",
+            "wrongAnswer_3": "Angina, dyspnea, and syncope; forceful and rapid carotid pulse.",
+            "wrongAnswer_4": "Fatigue, weight loss, and paroxysmal dyspnea; irregularly timed carotid pulse."
+          }
+        ]
+      },
+      {
+        "title": "Clinical features",
+        "quizzes": [
+          {
+            "question": "What is the primary echocardiographic finding in parasternal long axis view of a patient with aortic stenosis?",
+            "goodAnswer": "Thickened aortic leaflets with reduced mobility",
+            "wrongAnswer_1": "Left ventricular hypertrophy with reduced ejection fraction",
+            "wrongAnswer_2": "Aortic dissection with blood flow turbulence",
+            "wrongAnswer_3": "Left atrial enlargement with reduced left atrial emptying",
+            "wrongAnswer_4": "Coronary artery disease with narrowed coronary arteries"
+          },
+          {
+            "question": "How is the severity of aortic stenosis determined, and what are the key echocardiographic findings in each stage?",
+            "goodAnswer": "Aortic stenosis is graded by valve area: Severe is defined as \u2264 1.0 cm\u00b2, Moderate is 1.0 \u2013 1.4 cm\u00b2, and Mild is > 1.5 cm\u00b2. Key echocardiographic findings include leaflet thickening, calcification, and reduced mobility, along with left ventricular hypertrophy and an increased valve gradient with decreased valve area.",
+            "wrongAnswer_1": "Severity is determined by the presence or absence of chest pain, with key findings including a paradoxical pulse, carotid bruits, and mid-systolic click. Valve area measurement is not essential for diagnosis in this method.",
+            "wrongAnswer_2": "We use the patient's history of dyspnea, angina, and syncope to grade aortic stenosis. Echocardiography is not necessary for initial assessment, and cardiac catheterization should always be performed to confirm the diagnosis.",
+            "wrongAnswer_3": "Severity is determined by the absence of symptoms, with normal left ventricular size and function on echocardiography. Aortic stenosis is only considered significant if there is evidence of reduced valve mobility and ventricular dilation.",
+            "wrongAnswer_4": "Grading is based on the intensity of the systolic murmur. Findings on echocardiography should include normal valve leaflets, absence of ventricular hypertrophy, and a steady blood flow across the aortic valve."
+          },
+          {
+            "question": "Which of the following statements accurately describes the characteristics of a parvus et tardus pulse in aortic stenosis?",
+            "goodAnswer": "It is a weak and delayed carotid pulse due to reduced stroke volume and slower ejection\u200b",
+            "wrongAnswer_1": "It indicates increased cardiac output and faster ejection rate\u200b",
+            "wrongAnswer_2": "It is a full and bounding pulse with rapid rise and early peak\u200b",
+            "wrongAnswer_3": "It occurs due to increased left ventricular contractility in aortic stenosis\u200b",
+            "wrongAnswer_4": "It is diagnostic only in younger patients with mild aortic stenosis\u200b"
+          },
+          {
+            "question": "What is the fundamental principle behind the continuity equation used in echocardiography for aortic stenosis?",
+            "goodAnswer": "The principle is that blood flow is continuous, so the volume of blood per unit time is constant at any level along the blood vessel. This means that the velocity of blood flow is inversely proportional to the cross-sectional area of the vessel lumen.",
+            "wrongAnswer_1": "The continuity equation states that blood flow is discontinuous, meaning that the volume of blood per unit time varies at different levels within the aorta. This leads to an overestimation of aortic valve area.",
+            "wrongAnswer_2": "It utilizes the Doppler effect to measure the frequency shift of red blood cells flowing through the aortic valve, which allows for direct calculation of aortic valve area without considering the cross-sectional area of the aorta.",
+            "wrongAnswer_3": "The principle is based on the conservation of mass, which states that the total mass of blood flowing through the aortic valve remains constant over time. However, it does not take into account the velocity of blood flow.",
+            "wrongAnswer_4": "It uses the Bernoulli equation to estimate aortic valve area by measuring the pressure difference between the left ventricle and the aorta. This method is more accurate than traditional echocardiography."
+          },
+          {
+            "question": "What are the echocardiographic findings in aortic stenosis, and what is the significance of each finding?",
+            "goodAnswer": "Echocardiography reveals thickened and calcified aortic leaflets with reduced mobility, left ventricular hypertrophy, and an increased valve gradient with decreased valve area.",
+            "wrongAnswer_1": "Aortic stenosis is diagnosed by finding a dilated aorta, atrial fibrillation, and increased left ventricular ejection fraction.",
+            "wrongAnswer_2": "In echocardiography, aortic stenosis shows signs of valve regurgitation, right ventricular hypertrophy, and a decreased valve gradient with increased valve area.",
+            "wrongAnswer_3": "Left ventricular hypokinesis, open aortic root, and absence of a systolic murmur are the key echocardiographic findings in aortic stenosis.",
+            "wrongAnswer_4": "Parasternal long axis view will show thickened aortic leaflets with increased mobility, right ventricular hypertrophy, and a decreased valve gradient with increased valve area."
+          },
+          {
+            "question": "When auscultating the heart of a patient with aortic stenosis, what is the typical characteristic of the second heart sound (S2) due to the thickened aortic leaflets?",
+            "goodAnswer": "S2 is widely split and the second part is weakened",
+            "wrongAnswer_1": "S2 is single and loud due to the thickened leaflets",
+            "wrongAnswer_2": "S2 is widely split and the second part is strengthened",
+            "wrongAnswer_3": "S2 is narrowly split and the first part is weakened",
+            "wrongAnswer_4": "S2 is unchanged compared to normal individuals"
+          },
+          {
+            "question": "In the echocardiographic assessment of aortic stenosis, what does a parasternal long axis view reveal about the anatomy of the disease?",
+            "goodAnswer": "It shows the aortic valve from the left ventricle to the ascending aorta, allowing visualization of the leaflets\u200b",
+            "wrongAnswer_1": "It provides a clear view of the right ventricle and its contraction pattern in relation to aortic flow",
+            "wrongAnswer_2": "It is used to measure the exact size of the left atrium to assess for dilation",
+            "wrongAnswer_3": "It helps determine the blood flow velocity in the inferior vena cava, which is diagnostic for aortic stenosis",
+            "wrongAnswer_4": "It allows for direct measurement of coronary artery blood flow to rule out other cardiovascular diseases"
+          }
+        ]
+      },
+      {
+        "title": "Diagnostic testing, Differential diagnosis",
+        "quizzes": [
+          {
+            "question": "What is the classic triad of symptoms in patients with significant aortic stenosis, and what is the key physical exam finding upon palpation of the carotid artery?",
+            "goodAnswer": "Dyspnea, angina pectoris, and syncope; parvus et tardus pulse",
+            "wrongAnswer_1": "Chest pain, dizziness, and fatigue; bisferiens pulse",
+            "wrongAnswer_2": "Shortness of breath, palpitations, and hypertension; bounding et celeris pulse",
+            "wrongAnswer_3": "Angina, dyspnea, and syncope; absent pulse",
+            "wrongAnswer_4": "Fatigue, weight loss, and paroxysmal nocturnal dyspnea; regular et fortis pulse"
+          },
+          {
+            "question": "How is the severity of aortic stenosis determined, and what are the common findings on chest radiography, electrocardiography (ECG), and echocardiography?",
+            "goodAnswer": "The severity of aortic stenosis is determined by measuring the aortic valve area. Chest radiography may show signs of cardiomegaly or pulmonary congestion. ECG often demonstrates LV hypertrophy with or without repolarization abnormalities. Echocardiography allows for visualization of the aortic valve, assessment of LV size and function, and Doppler evaluation to measure the aortic valve gradient and calculate the aortic valve area.",
+            "wrongAnswer_1": "The severity of aortic stenosis is determined by auscultation of the heart sounds. Chest radiography should always reveal a normal aortic valve. ECG typically demonstrates only minor changes in repolarization without any significant findings. Echocardiography is not helpful in visualizing the aortic valve or assessing ventricular function in aortic stenosis.",
+            "wrongAnswer_2": "Aortic stenosis severity is determined by the patient's symptoms. Chest radiography is not useful in diagnosing aortic stenosis. Electrocardiography (ECG) should only be used to rule out other cardiac conditions. Echocardiography is primarily used to assess coronary artery disease rather than aortic valve stenosis.",
+            "wrongAnswer_3": "The severity of aortic stenosis is determined by the patient's age. Chest radiography is used to evaluate the size of the left ventricle. ECG helps determine the need for surgery. Echocardiography is contraindicated in aortic stenosis as it cannot accurately assess valve function.",
+            "wrongAnswer_4": "Aortic stenosis severity is measured by the intensity of chest pain. Chest radiography is only helpful in identifying pulmonary embolism. Electrocardiography (ECG) is used to diagnose heart attacks. Echocardiography is a noninvasive test that helps assess blood pressure rather than aortic stenosis."
+          },
+          {
+            "question": "What are the common clinical features, diagnostic test results, and differential diagnoses associated with aortic stenosis?",
+            "goodAnswer": "Clinical features: dyspnea, angina pectoris, syncope; Diagnostic tests: chest radiography may show signs of cardiomegaly or pulmonary congestion, electrocardiography (ECG) often demonstrates LV hypertrophy (LVH) with or without repolarization abnormalities, echocardiography is used to visualize the aortic valve and assess LV function; Differential diagnoses: pulmonic stenosis, hypertrophic obstructive cardiomyopathy (HOCM), mitral regurgitation, ventricular septal defect (VSD), tricuspid regurgitation.",
+            "wrongAnswer_1": "Clinical features: dyspnea, chest pain, dizziness; Diagnostic tests: chest radiography is not helpful in diagnosing AS, electrocardiography (ECG) always shows normal ventricular function, echocardiography is used to measure coronary blood flow and assess heart rate variability; Differential diagnoses: coronary artery disease, hypertension, anemia.",
+            "wrongAnswer_2": "Clinical features: fatigue, weight loss, history of stroke; Diagnostic tests: chest radiography will show a normal aortic valve, electrocardiography (ECG) rules out LV hypertrophy, echocardiography cannot be used to measure aortic valve gradient; Differential diagnoses: thyroid disease, diabetes mellitus, multiple sclerosis.",
+            "wrongAnswer_3": "Clinical features: headache, blurred vision, irregular heartbeat; Diagnostic tests: only cardiac catheterization is needed to diagnose AS, electrocardiography (ECG) is not helpful in assessing ventricular function, echocardiography is used to evaluate right ventricular size and function; Differential diagnoses: migraine, hypertension, atrial fibrillation.",
+            "wrongAnswer_4": "Clinical features: fever, night sweats, unexplained weight loss; Diagnostic tests: routine blood tests are sufficient to diagnose AS, electrocardiography (ECG) shows only minor conduction abnormalities, echocardiography is used to assess the size of the left atrium; Differential diagnoses: bacterial endocarditis, systemic lupus erythematosus, sarcoidosis."
+          },
+          {
+            "question": "In a patient with chest pain, dyspnea, and syncope, what is the likely diagnosis, and how is the severity of aortic stenosis determined echocardiographically?",
+            "goodAnswer": "Aortic stenosis, and the severity is determined by measuring the valve area with a range of \u2264 1.0 cm2 for severe, 1.0 to 1.4 cm2 for moderate, and > 1.5 cm2 for mild stenosis.",
+            "wrongAnswer_1": "Coronary artery disease, and the severity is determined by the number of narrowed coronary arteries.",
+            "wrongAnswer_2": "Hypertrophic cardiomyopathy, and the severity is determined by the thickness of the left ventricular septum.",
+            "wrongAnswer_3": "Mitral regurgitation, and the severity is determined by the size of the left ventricle.",
+            "wrongAnswer_4": "Pulmonary embolism, and the severity is determined by the extent of the embolus in the pulmonary arteries."
+          },
+          {
+            "question": "What is the classic triad of symptoms in patients with significant AS, and what is the key physical exam finding upon palpation of the carotid artery?",
+            "goodAnswer": "Dyspnea, angina pectoris, and syncope; parvus et tardus pulse.",
+            "wrongAnswer_1": "Chest pain, dizziness, and fatigue; bisferiens pulse.",
+            "wrongAnswer_2": "Shortness of breath, palpitations, and weight loss; bounding pulse.",
+            "wrongAnswer_3": "Angina, dyspnea, and syncope; Corrigan\u2019s pulse.",
+            "wrongAnswer_4": "Tricuspid regurgitation, ventricular septal defect, and mitral regurgitation; diminished peripheral pulses."
+          }
+        ]
+      },
+      {
+        "title": "Managemnet",
+        "quizzes": [
+          {
+            "question": "What is the typical echocardiographic finding in aortic stenosis, and what are the implications of a bicuspid aortic valve in this context?",
+            "goodAnswer": "Aortic stenosis is typically diagnosed by finding a parvus et tardus pulse in the carotid artery, and echocardiography reveals a thickened, calcified, and less mobile aortic valve. A bicuspid aortic valve can predispose individuals to aortic stenosis later in life.",
+            "wrongAnswer_1": "Aortic stenosis is diagnosed by auscultation alone, and echocardiography is not necessary. A bicuspid aortic valve does not have any clinical significance in the context of aortic stenosis.",
+            "wrongAnswer_2": "A parvus et tardus pulse is characteristic of mitral regurgitation, not aortic stenosis. A bicuspid aortic valve always leads to symptomatic aortic stenosis in the first two decades of life.",
+            "wrongAnswer_3": "Echocardiography shows normal aortic valve mobility in aortic stenosis, and a bicuspid aortic valve protects against aortic stenosis by providing more surface area for blood flow.",
+            "wrongAnswer_4": "The triad of dyspnea, angina, and syncope is sufficient to diagnose aortic stenosis, and further testing like echocardiography is unnecessary. A bicuspid aortic valve only rarely leads to aortic stenosis and has no significant implication in most cases."
+          },
+          {
+            "question": "In which clinical scenario is a Ross procedure typically indicated, and what are the key advantages of this technique?",
+            "goodAnswer": "In younger patients with severe symptomatic aortic stenosis, a Ross procedure can be performed. It involves replacing the aortic valve with the patient's own pulmonary valve and using a homograft for pulmonary valve replacement. This procedure avoids long-term anticoagulation as with mechanical valves and reduces the risk of thromboembolic complications.",
+            "wrongAnswer_1": "A Ross procedure is recommended for elderly patients with asymptomatic aortic stenosis to prevent future complications. It involves replacing the aortic valve with a cadaveric valve and does not require regular blood thinners.",
+            "wrongAnswer_2": "The Ross procedure is indicated when transcatheter aortic valve implantation (TAVI) is contraindicated due to severe valve sclerosis. It involves placing a stent inside the aortic valve to open up the narrowed area, allowing blood flow to improve.",
+            "wrongAnswer_3": "In patients with severe symptomatic aortic stenosis who are not candidates for open-heart surgery, a Ross procedure can be done. It uses a balloon catheter to dilate the aortic valve, breaking down calcifications and improving blood flow.",
+            "wrongAnswer_4": "The Ross procedure is only used for patients with congenital bicuspid aortic valve disease. It utilizes a porcine valve to replace the aortic valve and requires lifelong anticoagulation to prevent thrombosis."
+          },
+          {
+            "question": "What is the primary method for definitive treatment of severe symptomatic aortic stenosis, and what are the two main types of valve replacement options available?",
+            "goodAnswer": "Aortic valve replacement; surgical aortic valve replacement (SAVR), transcatheter aortic valve implantation (TAVI)",
+            "wrongAnswer_1": "Open heart surgery; mechanical aortic valve, surgical aortic valve replacement (TAVI), transcatheter aortic valve implantation (SAVR)",
+            "wrongAnswer_2": "Percutaneous coronary intervention; direct aortic valve replacement (TAVI), surgical aortic valve implantation (SAVR)",
+            "wrongAnswer_3": "Coronary artery bypass grafting; open aortic valve replacement (TAVI), minimally invasive aortic valve implantation (SAVR)",
+            "wrongAnswer_4": "Heart transplantation; temporary aortic valve replacement, permanent aortic valve implantation"
+          },
+          {
+            "question": "How is the severity of aortic stenosis (AS) classified based on echocardiography, and what are the characteristics of each severity category?",
+            "goodAnswer": "Aortic stenosis is classified into severe, moderate, and mild forms based on the aortic valve area. Severe AS has a valve area \u2264 1.0 cm\u00b2, moderate AS is between 1.0 and 1.4 cm\u00b2, and mild AS is > 1.5 cm\u00b2.",
+            "wrongAnswer_1": "The severity of AS is determined by the left ventricular ejection fraction (LVEF). Severe AS has an LVEF \u2264 40%, moderate AS is between 40 and 60%, and mild AS is > 60%.",
+            "wrongAnswer_2": "The classification of AS severity is based on the peak systolic velocity across the aortic valve. Severe AS has a velocity > 4 m/s, moderate AS is between 2 and 4 m/s, and mild AS is < 2 m/s.",
+            "wrongAnswer_3": "Aortic stenosis is categorized into severe, moderate, and mild forms based on the size of the left ventricle. Severe AS has a left ventricular end-systolic diameter > 5.0 cm, moderate AS is between 4.0 and 5.0 cm, and mild AS is < 4.0 cm.",
+            "wrongAnswer_4": "The severity of AS is assessed by measuring the time interval between the opening and closing of the aortic valve. Severe AS has a time interval > 0.1 seconds, moderate AS is between 0.05 and 0.1 seconds, and mild AS is < 0.05 seconds."
+          },
+          {
+            "question": "When is a surgical aortic valve replacement (SAVR) indicated in the management of aortic stenosis?",
+            "goodAnswer": "It is indicated in patients with severe symptomatic aortic stenosis, including dyspnea, angina, or syncope.",
+            "wrongAnswer_1": "It is indicated in all patients diagnosed with aortic stenosis, regardless of symptoms or severity.",
+            "wrongAnswer_2": "It is only indicated in elderly patients due to the high risks associated with the procedure.",
+            "wrongAnswer_3": "It is recommended for asymptomatic individuals with moderate aortic stenosis to prevent future complications.",
+            "wrongAnswer_4": "It is typically performed as a first-line treatment for all forms of valvular heart disease, including mitral regurgitation and hypertrophic cardiomyopathy."
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

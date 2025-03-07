@@ -1,0 +1,294 @@
+{
+  "mainTopic": {
+    "title": "Aortic regurgitation",
+    "content_info": "The materials for the topics can be found in the uploaded pdf files. The informations about the different topics listed on the ppt pages are sometimes limited and do not contain the necessary amount of content because of it's dense format, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes.",
+    "subTopics": [
+      {
+        "title": "Etiology, Pathophysiology",
+        "quizzes": [
+          {
+            "question": "In a patient with severe aortic regurgitation, what is the primary hemodynamic consequence of the backflow of blood from the aorta into the left ventricle during diastole?",
+            "goodAnswer": "Left ventricular volume overload",
+            "wrongAnswer_1": "Right atrial enlargement",
+            "wrongAnswer_2": "Aortic dissection",
+            "wrongAnswer_3": "Coronary artery thrombosis",
+            "wrongAnswer_4": "Pulmonary embolism"
+          },
+          {
+            "question": "What are the possible findings on chest x-ray, electrocardiography (ECG), and echocardiography in a patient with aortic regurgitation?",
+            "goodAnswer": "Chest x-ray: cardiomegaly, specifically left ventricular enlargement. ECG: left ventricular hypertrophy or other abnormalities. Echocardiography: visualization of the aortic valve, severity of regurgitation, and evaluation of left ventricular size and function.",
+            "wrongAnswer_1": "Chest x-ray: normal aortic valve size and shape. ECG: right ventricular hypertrophy. Echocardiography: inability to assess aortic valve function, only right ventricular size and function can be evaluated.",
+            "wrongAnswer_2": "Chest x-ray: signs of pulmonary embolism. ECG: atrial fibrillation. Echocardiography: evidence of a stenotic aortic valve, but no information about regurgitation or ventricular function.",
+            "wrongAnswer_3": "Chest x-ray: clear lung fields with no abnormalities. ECG: sinus bradycardia. Echocardiography: visualization of the mitral valve instead of the aortic valve.",
+            "wrongAnswer_4": "Chest x-ray: small left ventricle. ECG: right bundle branch block. Echocardiography: inability to perform due to excessive bone density on the image."
+          },
+          {
+            "question": "What are the characteristics of the arterial pulse in aortic regurgitation, and what do they indicate about the severity of the condition?",
+            "goodAnswer": "The characteristic findings are: bounding pulses with a rapid upstroke and a collapsing, low diastolic pressure. This indicates the severity of aortic regurgitation.",
+            "wrongAnswer_1": "Aortic regurgitation causes a slow, sustained rise in pressure, with a rounded systolic peak and a gradual diastolic decline. The slower the decline, the more severe the aortic regurgitation.",
+            "wrongAnswer_2": "In aortic regurgitation, the pulse will be regular with a consistent amplitude and timing. This is because the aortic valve is opening and closing normally, and there is no backflow of blood into the left ventricle.",
+            "wrongAnswer_3": "The arterial pulse in aortic regurgitation shows a narrow pulse pressure, meaning the difference between systolic and diastolic pressure is small. This indicates minimal valve incompetence and a healthy aorta.",
+            "wrongAnswer_4": "Aortic regurgitation leads to a consistent, forceful pulse with no significant changes over time. This is because the left ventricle is able to fully compensate for the backflow of blood, and the aortic valve is functioning normally."
+          },
+          {
+            "question": "In the echocardiographic assessment of aortic regurgitation, what does a hyperkinetic left ventricle with an ejection fraction of 70% indicate?",
+            "goodAnswer": "It suggests preserved systolic function with an increased stroke volume due to the regurgitation.",
+            "wrongAnswer_1": "It indicates severe left ventricular dysfunction with a reduced ejection fraction.",
+            "wrongAnswer_2": "It means the left ventricle is dilated but with no evidence of ischemia.",
+            "wrongAnswer_3": "It suggests the patient is asymptomatic and does not require treatment.",
+            "wrongAnswer_4": "It shows only minor aortic regurgitation with no significant impact on ventricular function."
+          },
+          {
+            "question": "In the pathophysiology of aortic regurgitation, what is the hemodynamic consequence of a regurgitant orifice area that exceeds 3 cm2?",
+            "goodAnswer": "It leads to a rapid development of left ventricular dysfunction",
+            "wrongAnswer_1": "It indicates a need for immediate surgical intervention",
+            "wrongAnswer_2": "It causes a significant increase in coronary perfusion pressure",
+            "wrongAnswer_3": "It results in a compensatory rise in right ventricular stroke volume",
+            "wrongAnswer_4": "It leads to spontaneous closure of the aortic valve"
+          },
+          {
+            "question": "In the differential diagnosis of aortic regurgitation, what clinical findings would help distinguish between the different etiologies of valve dysfunction?",
+            "goodAnswer": "A history of rheumatic fever makes valve dysfunction due to rheumatic heart disease more likely. A wide pulse pressure with a bounding radial pulse suggests AR. Holosystolic murmur at the left sternal border indicates mitral regurgitation. Findings suggestive of right-sided heart failure, such as lower extremity edema, would point towards tricuspid regurgitation. A continuous to-and-fro murmur over the second left intercostal space suggests patent ductus arteriosus.",
+            "wrongAnswer_1": "The presence of chest pain means coronary artery disease rather than aortic regurgitation. A regular heart rate with no palpitations indicates a normal conduction system. Sinus bradycardia on ECG excludes the possibility of valve dysfunction. Left ventricular hypertrophy on echocardiogram suggests mitral stenosis rather than aortic regurgitation. A mid-systolic click heard best at the apex is characteristic of mitral valve prolapse.",
+            "wrongAnswer_2": "A history of hyperlipidemia increases the likelihood of hypercholesterolemia. A non-palpable pulse in the radial artery suggests complete aortic occlusion. A harsh systolic murmur at the right sternal border indicates pulmonic stenosis. Findings compatible with normal left ventricular function exclude the need for further investigation. A mid-systolic click heard best at the apex means bicuspid aortic valve disease.",
+            "wrongAnswer_3": "The absence of fever eliminates the possibility of infective endocarditis. A weak peripheral pulse with cold extremities suggests severe anemia rather than AR. Aortic stenosis presents with a crescendo-decrescendo systolic murmur at the right sternal border. Left atrial enlargement on echocardiogram is diagnostic of mitral regurgitation. Aortic root dilatation on imaging excludes valve dysfunction and indicates a normal aortic valve.",
+            "wrongAnswer_4": "Regular aspirin therapy prevents thromboembolic phenomena associated with valve dysfunction. Feeling lightheaded upon standing is common and does not necessarily indicate AR. A soft, low-frequency murmur over the third left intercostal space suggests pericardial friction rub. Left ventricular dilation with an ejection fraction of 80% indicates good contractile function. A history of thyroid disease explains wide pulse pressure without evidence of aortic regurgitation.",
+            "wrongAnswer_5": "The presence of anemia causes a bounding radial pulse. Feeling fatigued after exercise is nonspecific and does not necessarily indicate valvular heart disease. Aortic regurgitation is always accompanied by a thrill on palpation. Left ventricular hypertrophy on ECG means chronic pressure overload rather than volume overload. Aortic valve replacement is the only treatment for symptomatic AR."
+          },
+          {
+            "question": "What are the key differential diagnoses for aortic regurgitation, and how do their clinical presentations differ?",
+            "goodAnswer": "Aortic regurgitation must be differentiated from mitral stenosis, pulmonic regurgitation, and patent ductus arteriosus. Mitral stenosis presents with dyspnea on exertion, fatigue, and sometimes chest pain. It also features a laterally displaced apical impulse and a mid-systolic click. In contrast, pulmonic regurgitation typically causes minimal symptoms as long as the pressure gradient between the aorta and right ventricle remains small. A parasternal heave and a high-pitched, early diastolic murmur over the left 2nd intercostal space are characteristic. Patent ductus arteriosus leads to continuous machinery-like murmurs, bounding pulses, and sometimes congestive heart failure. The severity of the murmur changes with position and respiration.",
+            "wrongAnswer_1": "The differential diagnoses for aortic regurgitation include mitral stenosis, pulmonic stenosis, and tricuspid regurgitation. Mitral stenosis presents with right ventricular hypertrophy, and its murmur is decrescendo diastolic over the left 2nd intercostal space. In contrast, pulmonic stenosis typically causes syncope, chest pain, and a crescendo-decrescendo systolic murmur over the left 2nd intercostal space. Patent ductus arteriosus leads to a lateral displacement of the apical impulse and a mid-systolic click.",
+            "wrongAnswer_2": "Aortic regurgitation can be differentiated from mitral regurgitation, tricuspid regurgitation, and right ventricular hypertrophy. Mitral regurgitation features a holosystolic murmur at the cardiac apex, while tricuspid regurgitation presents with a systolic murmur over the xiphoid process. Right ventricular hypertrophy causes a parasternal heave and a high-pitched, early diastolic murmur over the left 2nd intercostal space.",
+            "wrongAnswer_3": "The key differential diagnoses include aortic regurgitation, left ventricular hypertrophy, and aortic stenosis. Left ventricular hypertrophy presents with dyspnea on exertion, fatigue, and sometimes chest pain. It also features a laterally displaced apical impulse and a mid-systolic click. In contrast, aortic stenosis will have a crescendo-decrescendo systolic murmur over the right 2nd intercostal space and may lead to angina or syncope.",
+            "wrongAnswer_4": "Aortic regurgitation should be differentiated from mitral regurgitation, pulmonic stenosis, and right bundle branch block. Mitral regurgitation typically causes a bounding pulse and wide pulse pressure. Right bundle branch block leads to a wide QRS complex and may have a baseline echocardiogram that shows normal left ventricular function. In contrast, pulmonic stenosis will have a parasternal heave and a high-pitched, early diastolic murmur over the left 2nd intercostal space."
+          },
+          {
+            "question": "In the echocardiographic assessment of aortic regurgitation, what does a hyperkinetic left ventricle with an ejection fraction of 70% indicate?",
+            "goodAnswer": "The left ventricle is contracting forcefully with a high stroke volume",
+            "wrongAnswer_1": "The left ventricle is dilated with poor contractility and a low ejection fraction",
+            "wrongAnswer_2": "There is no significant blood flow from the left ventricle to the aorta",
+            "wrongAnswer_3": "The aortic valve is open all the time, resulting in continuous blood flow into the ventricle",
+            "wrongAnswer_4": "The patient is in complete heart failure with no ventricular function"
+          },
+          {
+            "question": "In the echocardiographic assessment of aortic regurgitation, what does a hyperkinetic left ventricle with an ejection fraction of 70% indicate?",
+            "goodAnswer": "It indicates preserved systolic function despite aortic regurgitation",
+            "wrongAnswer_1": "It indicates heart failure as the ventricle is hypertrophied",
+            "wrongAnswer_2": "It means the aortic valve is narrowed, causing reduced stroke volume",
+            "wrongAnswer_3": "It implies the left ventricle is dilated but with reduced contractility",
+            "wrongAnswer_4": "It indicates a need for immediate surgical intervention"
+          },
+          {
+            "question": "How does the severity of aortic regurgitation (AR), as determined by echocardiography, influence the clinical presentation and management decisions?",
+            "goodAnswer": "In asymptomatic patients, echocardiography can detect AR, and if it is mild, no specific therapy is required. However, regular follow-up is essential. Symptomatic AR, especially with left ventricular dysfunction, necessitates surgical intervention. The decision to operate depends on the severity of AR, the presence of symptoms, and the extent of left ventricular dysfunction.",
+            "wrongAnswer_1": "All asymptomatic patients with aortic regurgitation require immediate surgical therapy to prevent complications. Symptomatic AR, especially with preserved left ventricular function, can be managed medically with medications such as beta-blockers and diuretics. The severity of AR alone, without considering symptoms or ventricular dysfunction, is not sufficient to warrant surgical intervention.",
+            "wrongAnswer_2": "Echocardiography is not reliable in diagnosing aortic regurgitation, and cardiac catheterization should always be performed for definitive assessment. Symptomatic patients with AR should undergo noninvasive therapy, including lifestyle modifications and drug therapy, before considering surgery. Surgical intervention is only indicated when medical therapy fails to improve symptoms or stabilize left ventricular function.",
+            "wrongAnswer_3": "The severity of aortic regurgitation is determined by the patient's age and the absence or presence of chest pain. Asymptomatic individuals with any degree of AR require regular echocardiographic surveillance but do not need surgical intervention. Symptomatic AR can be managed conservatively with exercise restriction and dietary modifications.",
+            "wrongAnswer_4": "Echocardiography helps us understand the anatomy of the aortic valve but cannot assess the severity of regurgitation. In asymptomatic patients with aortic regurgitation, immediate surgical therapy is required to prevent long-term complications. Symptomatic AR necessitates a non-invasive approach, including medication and lifestyle changes, as surgery is too risky in such cases."
+          }
+        ]
+      },
+      {
+        "title": "Clinical features",
+        "quizzes": [
+          {
+            "question": "What is the primary reason why a laterally displaced and downwards dynamic, enlarged LV apex impulse is detected on physical exam in aortic regurgitation?",
+            "goodAnswer": "It is due to the increased left ventricular stroke volume and pressure.",
+            "wrongAnswer_1": "It is caused by a smaller stroke volume and lower pressure in the left ventricle.",
+            "wrongAnswer_2": "It indicates a normal finding and does not suggest aortic regurgitation.",
+            "wrongAnswer_3": "It means there is a decreased rate of left ventricular ejection.",
+            "wrongAnswer_4": "It shows that the aortic valve is functioning correctly."
+          },
+          {
+            "question": "How is the severity of aortic regurgitation determined?",
+            "goodAnswer": "The severity is determined by the area of the regurgitant orifice.",
+            "wrongAnswer_1": "It is determined by the patient's symptoms, such as chest pain or dyspnea.",
+            "wrongAnswer_2": "The age of the patient is a key factor in severity assessment.",
+            "wrongAnswer_3": "A higher stroke volume means less severe aortic regurgitation.",
+            "wrongAnswer_4": "It is determined by the results of a chest x-ray, which shows cardiomegaly and aortic dilation."
+          },
+          {
+            "question": "What are the possible findings on chest x-ray in aortic regurgitation?",
+            "goodAnswer": "Cardiomegaly, aortic dilation, elevated left ventricular end-systolic and end-diastolic diameters",
+            "wrongAnswer_1": "Enlarged left atrium, bicuspid aortic valve, and a stenotic aortic valve",
+            "wrongAnswer_2": "Right ventricular hypertrophy, pulmonary artery stenosis, and inferior vena cava obstruction",
+            "wrongAnswer_3": "Aortic dissection, coronary artery disease, and myocardial infarction",
+            "wrongAnswer_4": "Left atrial enlargement, mitral valve prolapse, and rheumatic heart disease"
+          },
+          {
+            "question": "What is the primary reason why a laterally displaced and downwards dynamic, enlarged LV apex impulse is detected on physical exam in aortic regurgitation?",
+            "goodAnswer": "A laterally displaced and downwards dynamic, enlarged LV apex impulse is detected due to the left ventricle being enlarged from the volume overload of aortic regurgitation.",
+            "wrongAnswer_1": "It is caused by a smaller sized left ventricle which leads to a more laterally displaced apex impulse.",
+            "wrongAnswer_2": "It is caused by a right ventricular enlargement due to pulmonary regurgitation.",
+            "wrongAnswer_3": "It is caused by a laterally displaced and downwards dynamic, enlarged LV apex impulse due to mitral regurgitation.",
+            "wrongAnswer_4": "It is caused by a laterally displaced and downwards dynamic, enlarged LV apex impulse due to aortic stenosis."
+          },
+          {
+            "question": "Which of the following is NOT a differential diagnosis for aortic regurgitation?",
+            "goodAnswer": "Patent ductus arteriosus",
+            "wrongAnswer_1": "Pulmonic stenosis",
+            "wrongAnswer_2": "Coronary artery disease",
+            "wrongAnswer_3": "Left bundle branch block",
+            "wrongAnswer_4": "Myocardial infarction"
+          },
+          {
+            "question": "In which of the following conditions is aortic regurgitation ALWAYS symptomatic?",
+            "goodAnswer": "Aortic dissection with AR",
+            "wrongAnswer_1": "Bicuspid aortic valve with mild AR",
+            "wrongAnswer_2": "Rheumatic heart disease with trace AR",
+            "wrongAnswer_3": "Annular ectasia with asymptomatic AR on echocardiography",
+            "wrongAnswer_4": "Marfan syndrome with only a soft diastolic murmur"
+          },
+          {
+            "question": "In which of the following situations is surgical therapy indicated in the management of aortic regurgitation?",
+            "goodAnswer": "Symptomatic patients with evidence of LV dysfunction or a dilated left ventricle",
+            "wrongAnswer_1": "All patients with diagnosed aortic regurgitation, regardless of symptoms or LV function",
+            "wrongAnswer_2": "Patients with asymptomatic AR and a normal left ventricle",
+            "wrongAnswer_3": "Only when the patient has a history of infective endocarditis",
+            "wrongAnswer_4": "In every case, as surgical therapy is always superior to medical therapy for AR"
+          },
+          {
+            "question": "Why is the functional assessment of patients with aortic regurgitation important?",
+            "goodAnswer": "Functional assessment helps determine the need for surgery, as asymptomatic patients with severe AR may not require immediate intervention. It also allows the clinician to understand the impact of AR on daily activities and the need for medical therapy to manage symptoms.",
+            "wrongAnswer_1": "Functional assessment is only important in acute aortic regurgitation and does not influence surgical decisions in chronic cases.",
+            "wrongAnswer_2": "A functional assessment is done to diagnose aortic regurgitation and does not play a role in treatment planning.",
+            "wrongAnswer_3": "All patients with aortic regurgitation, regardless of functional status, should undergo immediate surgical therapy.",
+            "wrongAnswer_4": "Functional assessment is used to predict the exact timing of aortic valve closure after surgery."
+          },
+          {
+            "question": "What are the possible findings on chest x-ray in aortic regurgitation?",
+            "goodAnswer": "Cardiomegaly, aortic dilation, and pulmonary congestion",
+            "wrongAnswer_1": "Hyperacute T waves, ST segment depression, and inverted U waves",
+            "wrongAnswer_2": "Occlusion of the coronary arteries, multiple ventricular aneurysms, and complete heart block",
+            "wrongAnswer_3": "Right ventricular hypertrophy, inferior vena cava obstruction, and pericardial effusion",
+            "wrongAnswer_4": "Left atrial enlargement, right ventricular hypertrophy, and a normal aortic arch"
+          }
+        ]
+      },
+      {
+        "title": "Diagnostic testing, Differential diagnosis",
+        "quizzes": [
+          {
+            "question": "What is the dominant hemodynamic consequence of aortic regurgitation, and what is the critical severity determinant of aortic regurgitation?",
+            "goodAnswer": "Left ventricular volume overload; area of the regurgitant orifice",
+            "wrongAnswer_1": "Pulmonary artery pressure overload; size of the left ventricle",
+            "wrongAnswer_2": "Right ventricular dilation; severity of chest pain",
+            "wrongAnswer_3": "Cardiac arrest; history of hypertension",
+            "wrongAnswer_4": "Coronary artery disease; age of the patient"
+          },
+          {
+            "question": "How does the severity of aortic regurgitation (AR) influence the auscultatory findings, and what are the key echocardiographic features of AR?",
+            "goodAnswer": "More severe AR will result in a louder and earlier diastolic decrescendo murmur. Echocardiography reveals the severity of AR, LV size, and function. Widening of the left ventricular (LV) cavity, apical LV displacement, and dynamic changes in the LV size with the cardiac cycle are characteristic.",
+            "wrongAnswer_1": "More severe AR will result in a softer and later diastolic decrescendo murmur. Echocardiography helps us understand the anatomy of the aortic valve but cannot assess LV function in this context. Widening of the right ventricular (RV) cavity, apical RV displacement, and dynamic changes in the RV size with the cardiac cycle are characteristic.",
+            "wrongAnswer_2": "The auscultatory findings in AR are independent of its severity, and echocardiography is not reliable in diagnosing AR. Symptomatic relief in AR only occurs when the regurgitant jet velocity exceeds 5 m/s, and LV cavity narrowing is a characteristic finding.",
+            "wrongAnswer_3": "More severe AR will result in a systolic crescendo-decrescendo murmur rather than a diastolic murmur. Echocardiography is only useful for measuring aortic valve size, not LV function. Widening of the right atrium, inferior vena cava displacement, and static changes in the LV size with the cardiac cycle are characteristic.",
+            "wrongAnswer_4": "Auscultation reveals a mid-systolic murmur in AR, and echocardiography helps us understand the blood flow across the aortic valve but cannot assess LV size or function. Widening of the left ventricle, apical LV displacement, and dynamic changes in the LV size with the cardiac cycle are characteristic."
+          },
+          {
+            "question": "What are the characteristic findings on chest radiography, electrocardiography, and echocardiography in a patient with aortic regurgitation, and what is the clinical significance of each finding?",
+            "goodAnswer": "Chest radiography may show cardiac enlargement due to left ventricular dilatation. Electrocardiography can reveal signs of left ventricular hypertrophy, such as elevated ST segments in the left precordial leads. Echocardiography is crucial for assessing the severity of AR and LV function, showing the degree of aortic root dilatation and valve dysfunction.",
+            "wrongAnswer_1": "Chest radiography will always be normal, as aortic regurgitation is primarily a functional abnormality. Electrocardiography should not be used to diagnose aortic regurgitation, as it only provides indirect evidence of LV hypertrophy. Echocardiography is unnecessary in asymptomatic patients with mild AR.",
+            "wrongAnswer_2": "Findings on chest radiography include right ventricular enlargement, while electrocardiography shows atrial fibrillation. Echocardiography is used to measure the size of the aortic root, but it cannot assess LV function in this context.",
+            "wrongAnswer_3": "Aortic regurgitation does not cause cardiac enlargement, so chest radiography will be normal. Electrocardiography can only detect severe LV hypertrophy, and echocardiography is not necessary for initial diagnosis; auscultation alone is sufficient.",
+            "wrongAnswer_4": "Chest radiography is used to assess pulmonary artery pressure, while electrocardiography reveals signs of right ventricular hypertrophy. Echocardiography is only helpful in diagnosing mitral regurgitation, not aortic regurgitation."
+          }
+        ]
+      },
+      {
+        "title": "Managemnet",
+        "quizzes": [
+          {
+            "question": "What is the primary hemodynamic consequence of aortic regurgitation, and what happens as the severity of regurgitation increases?",
+            "goodAnswer": "Left ventricular volume overload; the end-diastolic volume and stroke volume increase, leading to dilation and hypertrophy of the left ventricle",
+            "wrongAnswer_1": "Right ventricular volume overload; the end-diastolic volume and stroke volume decrease, leading to dilation and hypertrophy of the right ventricle",
+            "wrongAnswer_2": "Left ventricular volume preservation; the end-diastolic volume and stroke volume remain unchanged, resulting in no dilation or hypertrophy of the left ventricle",
+            "wrongAnswer_3": "Increased blood flow to the lungs, leading to pulmonary hypertension and right ventricular failure",
+            "wrongAnswer_4": "Aortic regurgitation has no hemodynamic consequence as the backflow has no effect on the left ventricle"
+          },
+          {
+            "question": "In which clinical scenario is aortic regurgitation asymptomatic because the left ventricle is able to dilate and remodel in response to the backflow?",
+            "goodAnswer": "Chronic asymptomatic AR",
+            "wrongAnswer_1": "Acute severe AR",
+            "wrongAnswer_2": "AR with severe LV systolic dysfunction",
+            "wrongAnswer_3": "AR with associated coronary artery disease",
+            "wrongAnswer_4": "AR with history of previous myocardial infarction"
+          },
+          {
+            "question": "What are the characteristic findings on chest X-ray, electrocardiography (ECG), and echocardiography in a patient with aortic regurgitation?",
+            "goodAnswer": "Chest X-ray: Widened aortic root, double density, convexity just below the aortic knob; ECG: Left ventricular hypertrophy; echocardiography: Aortic valve dysfunction, left ventricular dilation, and stroke volume",
+            "wrongAnswer_1": "Chest X-ray: Widened aortic root, double density, convexity just below the aortic knob; ECG: Right ventricular hypertrophy; echocardiography: Aortic valve dysfunction, right ventricular dilation, and stroke volume",
+            "wrongAnswer_2": "Chest X-ray: Widened aortic root, triple density, convexity just below the aortic knob; ECG: Left ventricular hypertrophy; echocardiography: Aortic valve dysfunction, right ventricular dilation, and stroke volume",
+            "wrongAnswer_3": "Chest X-ray: Widened aortic root, double density, convexity just below the aortic knob; ECG: Right ventricular hypertrophy; echocardiography: Mitral valve dysfunction, left ventricular dilation, and stroke volume",
+            "wrongAnswer_4": "Chest X-ray: Widened aortic root, double density, convexity just below the aortic knob; echocardiography: Aortic valve dysfunction, left ventricular dilation, and stroke volume; ECG: Left ventricular hypertrophy"
+          },
+          {
+            "question": "How is the severity of aortic regurgitation (AR) determined, and what is the rationale behind choosing surgical therapy in its management?",
+            "goodAnswer": "The severity is determined by the size of the regurgitant orifice, which can be assessed non-invasively by echocardiography. Surgical therapy is indicated when there is evidence of left ventricular dysfunction, symptoms related to AR, or the presence of a paravalvular leak after aortic valve replacement.",
+            "wrongAnswer_1": "The severity is determined by the presence or absence of chest pain, dyspnea, or palpitations. Surgical therapy is recommended only when the patient is experiencing severe fatigue or weight loss.",
+            "wrongAnswer_2": "It is determined by measuring the stroke volume on cardiac catheterization. Surgical therapy is mandatory in all cases of AR to prevent complications such as heart failure or stroke.",
+            "wrongAnswer_3": "The severity is determined by the degree of aortic root dilation, which can be visualized on chest X-ray. Surgical therapy is indicated only when the aortic root diameter is greater than 4 cm.",
+            "wrongAnswer_4": "It is determined by the presence of a systolic murmur on auscultation. Surgical therapy should be performed routinely in all patients diagnosed with AR to ensure complete valve closure."
+          },
+          {
+            "question": "How is the severity of aortic regurgitation (AR) assessed, and what are the implications of a smaller vs. larger regurgitant orifice?",
+            "goodAnswer": "The severity of AR is determined by the size of the regurgitant orifice. A smaller orifice means less backflow and thus, fewer symptoms. In contrast, a larger orifice leads to more significant backflow, resulting in heart failure. End-diastolic volume and stroke volume will increase, leading to dilation and hypertrophy of the left ventricle.",
+            "wrongAnswer_1": "The severity of AR is determined by the size of the regurgitant orifice. A smaller orifice means more backflow and thus, more significant symptoms. In contrast, a larger orifice leads to less backflow and resulting in no changes in the left ventricle.",
+            "wrongAnswer_2": "The severity of AR is assessed by measuring the aortic valve closing rate. A faster closure rate indicates less regurgitation, while a slower rate suggests more significant backflow. Stroke volume will decrease, leading to dilation and hypertrophy of the right ventricle.",
+            "wrongAnswer_3": "Aortic regurgitation severity is determined by the patient's symptoms. If they are asymptomatic, it means the regurgitation is minimal. However, if they have chest pain, dyspnea, or fatigue, it indicates severe AR. In all cases, the left ventricular end-diastolic volume will remain unchanged.",
+            "wrongAnswer_4": "The severity of AR is evaluated by assessing the left ventricular ejection fraction (LVEF). An LVEF below 50% means severe AR, while an LVEF above 60% indicates minimal regurgitation. In this case, stroke volume will decrease, leading to dilation and hypertrophy of the left atrium."
+          },
+          {
+            "question": "Why is the mortality rate much lower in patients with chronic asymptomatic AR compared to those with acute AR?",
+            "goodAnswer": "In acute AR, the left ventricle is suddenly overwhelmed by the backflow, leading to immediate congestion. In chronic AR, the ventricle has time to dilate and hypertrophy, allowing it to compensate for the volume overload.",
+            "wrongAnswer_1": "Acute AR always presents with chest pain, while chronic AR does not, making it clinically silent.",
+            "wrongAnswer_2": "Patients with acute AR typically have a history of rheumatic fever, while those with chronic AR have normal aortic valves.",
+            "wrongAnswer_3": "Aortic root dilation occurs only in acute AR and not in chronic AR. Therefore, the mortality rate is lower because the valve is still competent in most cases.",
+            "wrongAnswer_4": "The diagnosis of acute AR is made by echocardiography, while chronic AR is diagnosed by electrocardiography. This difference in diagnostic methods leads to a lower mortality rate in chronic AR."
+          },
+          {
+            "question": "What is the primary hemodynamic consequence of aortic regurgitation, and what happens as the severity of regurgitation increases?",
+            "goodAnswer": "Left ventricular (LV) volume overload; the end-diastolic volume and stroke volume will increase, leading to dilation and hypertrophy of the LV.",
+            "wrongAnswer_1": "Right ventricular (RV) volume overload; the end-diastolic volume and stroke volume will decrease, leading to dilation and hypertrophy of the RV.",
+            "wrongAnswer_2": "Left ventricular (LV) pressure overload; the end-systolic volume and stroke volume will increase, leading to dilation and hypertrophy of the LV.",
+            "wrongAnswer_3": "Aortic regurgitation will cause a direct decrease in coronary perfusion pressure, leading to myocardial ischemia.",
+            "wrongAnswer_4": "It causes an increase in the ejection fraction and a reduction in left ventricular dimensions."
+          },
+          {
+            "question": "Which of the following statements correctly describes the differential diagnosis of aortic regurgitation?",
+            "goodAnswer": "Aortic regurgitation can be differentiated from mitral stenosis by the presence of a mid-systolic click, while pulmonic regurgitation features a proto-systolic murmur that radiates to the neck and back.",
+            "wrongAnswer_1": "Differential diagnosis of aortic regurgitation includes mitral regurgitation, pulmonic stenosis, and tricuspid insufficiency, all of which present with similar symptoms and auscultatory findings.",
+            "wrongAnswer_2": "Aortic regurgitation is characterized by a holosystolic murmur at the left sternal border, which helps differentiate it from mitral stenosis, pulmonic regurgitation, and patent ductus arteriosus.",
+            "wrongAnswer_3": "The differential diagnosis of aortic regurgitation includes endocarditis, myocarditis, and pericarditis, as they all cause inflammation in the heart, leading to valve dysfunction.",
+            "wrongAnswer_4": "In differentiating aortic regurgitation from other valve diseases, we should look for evidence of right ventricular hypertrophy on electrocardiography, as this is only seen in aortic regurgitation and not in mitral stenosis, pulmonic regurgitation, or patent ductus arteriosus."
+          },
+          {
+            "question": "What is the most common cause of aortic regurgitation diagnosed in adults, and what are the possible consequences of untreated AR on the left ventricle?",
+            "goodAnswer": "The most common cause is bicuspid aortic valve, and untreated AR can lead to left ventricular dilation, hypertrophy, and eventually heart failure.",
+            "wrongAnswer_1": "Rheumatic heart disease is the most frequent cause, leading to valve stenosis, reduced stroke volume, and left ventricular thrombosis.",
+            "wrongAnswer_2": "Aortic root dilatation due to Marfan syndrome is the primary cause, resulting in right ventricular hypertrophy, reduced cardiac output, and complete heart block.",
+            "wrongAnswer_3": "Endocarditis is the most common cause, leading to direct destruction of the aortic valve, causing severe chest pain and immediate heart failure.",
+            "wrongAnswer_4": "Congenital aortic regurgitation is the only cause, and it typically presents in childhood with shortness of breath, fatigue, and irregular pulses, but the left ventricle remains unchanged."
+          },
+          {
+            "question": "Which of the following is NOT a consequence of left ventricular (LV) volume overload in aortic regurgitation?",
+            "goodAnswer": "Increased ejection fraction",
+            "wrongAnswer_1": "End-diastolic volume and stroke volume increase",
+            "wrongAnswer_2": "Dilation and hypertrophy of the LV",
+            "wrongAnswer_3": "Lowered diastolic blood pressure",
+            "wrongAnswer_4": "Heart failure due to diastolic burden"
+          },
+          {
+            "question": "In which clinical scenario is aortic regurgitation asymptomatic because the left ventricle is able to dilate and remodel in response to the backflow?",
+            "goodAnswer": "In chronic asymptomatic AR, the LV dilates and adapts to the regurgitant volume.",
+            "wrongAnswer_1": "Aortic regurgitation is always symptomatic, as the backflow immediately causes dyspnea and chest pain.",
+            "wrongAnswer_2": "In acute AR, the LV cannot dilate rapidly enough, leading to rapid onset of symptoms.",
+            "wrongAnswer_3": "Symptomatic aortic regurgitation occurs only in older adults with long-standing hypertension.",
+            "wrongAnswer_4": "Echocardiography can detect all cases of aortic regurgitation, regardless of the severity or the presence of symptoms."
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

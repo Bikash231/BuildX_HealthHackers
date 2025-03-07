@@ -1,0 +1,29 @@
+{
+  "mainTopic": {
+    "title": "Immunosuppression for solid organ transplantation",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Overview and history of solid organ and bone marrow transplantation"
+      },
+      {
+        "title": "Benefits and risks of immunosuppression"
+      },
+      {
+        "title": "Types of organ graft rejection"
+      },
+      {
+        "title": "Graft rejection and GVHD after bone marrow transplantation"
+      },
+      {
+        "title": "Molecular basis of immune response and immunosuppression"
+      },
+      {
+        "title": "Types of immunosuppressive agents and sites of action"
+      },
+      {
+        "title": "Relationship between immunosuppressive drugs and cancer chemotherapy"
+      }
+    ]
+  }
+}

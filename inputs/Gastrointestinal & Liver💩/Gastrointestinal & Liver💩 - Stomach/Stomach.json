@@ -1,0 +1,20 @@
+{
+  "mainTopic": {
+    "title": "Stomach",
+    "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descripitions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+    "subTopics": [
+      {
+        "title": "Functions of stomach"
+      },
+      {
+        "title": "Structure of gastric gland"
+      },
+      {
+        "title": "Secretion"
+      },
+      {
+        "title": "Regulation and motility"
+      }
+    ]
+  }
+}

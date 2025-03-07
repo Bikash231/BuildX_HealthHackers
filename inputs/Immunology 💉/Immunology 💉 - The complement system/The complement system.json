@@ -1,0 +1,26 @@
+{
+  "mainTopic": {
+    "title": "The complement system",
+    "content_info": "",
+    "subTopics": [
+      {
+        "title": "Function and molecules of the complement system"
+      },
+      {
+        "title": "Complement pathways - classical pathway"
+      },
+      {
+        "title": "Complement pathways - lectin pathway"
+      },
+      {
+        "title": "Complement pathways - alternative pathway"
+      },
+      {
+        "title": "Killing mechanism of the complement system"
+      },
+      {
+        "title": "Complement deficiencies"
+      }
+    ]
+  }
+}

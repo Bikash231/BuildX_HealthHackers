@@ -1,0 +1,17 @@
+{
+  "mainTopic": {
+    "title": "Nitric Oxide",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Overview of nitric oxide"
+      },
+      {
+        "title": "Nitric Oxide inhalation in ARDS"
+      },
+      {
+        "title": "Nitric Oxide inhalation in neonatal respiratory failure"
+      }
+    ]
+  }
+}

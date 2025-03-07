@@ -1,0 +1,20 @@
+{
+  "mainTopic": {
+    "title": "Vasoactive Drugs for hypertension",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Overview of Hypertension"
+      },
+      {
+        "title": "Pharmacotherapy of hypertension based on the four possible mechanisms of hypertension"
+      },
+      {
+        "title": "Major anti hypertensive drug classes and treatment protocol of hypertension"
+      },
+      {
+        "title": "Antihypertensive drugs and their effects outside of hypertension"
+      }
+    ]
+  }
+}

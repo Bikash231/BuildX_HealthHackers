@@ -1,0 +1,23 @@
+{
+  "mainTopic": {
+    "title": "Accessory digestive organs",
+    "content_info": "The content includes both anatomical and phiysyologcal information, however in each subtopic we only need the anatomical information to be turned into revision questions",
+    "subTopics": [
+      {
+        "title": "The salivary glands"
+      },
+      {
+        "title": "The liver"
+      },
+      {
+        "title": "The pancreas"
+      },
+      {
+        "title": "The gallbladder"
+      },
+      {
+        "title": "The peritoneum"
+      }
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "mainTopic": {
+    "title": "Oral Cavity and Salivary Glands",
+    "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descripitions, and the student notes which are not only more detailed but cover more topics than the lectures. ",
+    "subTopics": [
+      {
+        "title": "Mucosa of the Oral Cavity",
+        "quizzes": [
+          {
+            "question": "Which part of the oral cavity has lining mucosa, masticatory mucosa and specialized mucosa and what are the characteristics of their epithelium and submucosa?",
+            "goodAnswer": "Lining mucosa:  lip, cheek, floor of mouth, soft palate, ventral surface of tongue has non-keratinized epithelium and salivary glands can be found in the submucosa; Masticatory mucosa: gingiva and hard palate has keratinized or parakeratinized epithelium with an absent submucosa; Specialized mucosa: dorsal surface of the tounge",
+            "wrongAnswer_1": "Lining mucosa covers the dorsal surface of the tongue, masticatory mucosa is found on the soft palate, and specialized mucosa is only present on the ventral surface of the tongue",
+            "wrongAnswer_2": "Masticatory mucosa has non-keratinized epithelium, while lining mucosa is always keratinized and does not contain salivary glands in the submucosa",
+            "wrongAnswer_3": "Specialized mucosa is found in the gingiva, and lining mucosa is found on the dorsal tongue surface with a keratinized epithelium",
+            "wrongAnswer_4": "The entire oral cavity is covered by keratinized epithelium, and submucosa is present in all types of mucosa"
+          },
+          {
+            "question": "What characterises the mucosa of the different papillae?",
+            "goodAnswer": "Filiform papillae:  keratinized epithelium; Fungiform papillae: non-keratinized epithelium; Circumvallate papillae: non-keratinized epithelium with associated taste buds and von Ebner’s salivary glands ",
+            "wrongAnswer_1": "Filiform papillae have non-keratinized epithelium, while fungiform papillae are keratinized",
+            "wrongAnswer_2": "Circumvallate papillae lack taste buds and have keratinized epithelium",
+            "wrongAnswer_3": "Fungiform papillae are associated with von Ebner’s glands and contain keratinized epithelium",
+            "wrongAnswer_4": "All papillae are keratinized and contain taste buds"
+          },
+          {
+            "question": "What characterises the tissue covering the three sides of the lip?",
+            "goodAnswer": "Oral mucosa: nonkeratinized epithelium, labial salivary glands in submucosa; Vermillion border (zone): Dilated venules and veins, submucosa lacks salivary glands; Skin: hair follicles, sebaceous glands, sweat glands ",
+            "wrongAnswer_1": "Oral mucosa contains keratinized epithelium, and the vermillion border has salivary glands",
+            "wrongAnswer_2": "Gingival mucosa contains parakeratinized epithelium, and the vermillion border has salivary glands with no bloodvessels in the submucosa",
+            "wrongAnswer_3": "The skin side of the lip has non-keratinized epithelium with no glands, while the oral mucosa contains sebaceous glands",
+            "wrongAnswer_4": "The vermillion border has a thick layer of keratinized epithelium and contains minor salivary glands"
+          },
+          {
+            "question": "What are the specialized structures found on the dorsal surface of the tongue and which ones contain tastebuds?",
+            "goodAnswer": "Papilli: the ones that contain tastebuds: fungiform, foliate, and circumvallate papillae​, and the filiform papillae doesn't contain tastebuds",
+            "wrongAnswer_1": "Filiform papillae contain taste buds, while fungiform papillae do not",
+            "wrongAnswer_2": "Circumvallate papillae are absent in humans, and only filiform and foliate papillae contain taste buds",
+            "wrongAnswer_3": "Fungiform papillae are responsible for mechanical processing, and taste buds are only found on the ventral tongue",
+            "wrongAnswer_4": "All papillae on the tongue contain taste buds, including filiform papillae"
+          },
+          {
+            "question": "Which papillae are rudimentary in humans?",
+            "goodAnswer": "Foliate papillae​",
+            "wrongAnswer_1": "Filiform papillae",
+            "wrongAnswer_2": "Fungiform papillae",
+            "wrongAnswer_3": "Circumvallate papillae",
+            "wrongAnswer_4": "All papillae are well-developed in humans"
+          },
+          {
+            "question": "What is the role of keratinization in the oral mucosa?",
+            "goodAnswer": "Keratinization provides mechanical protection in areas subject to friction, such as the gingiva and hard palate​. Non-keratinized epithelium is found in the lining mucosa and is more flexible, while keratinized epithelium is in masticatory mucosa and provides greater protection​",
+            "wrongAnswer_1": "Keratinization occurs only in lining mucosa and helps with saliva production",
+            "wrongAnswer_2": "Keratinization makes all mucosa waterproof, preventing water loss in the oral cavity",
+            "wrongAnswer_3": "All areas of the oral cavity are keratinized, providing uniform protection",
+            "wrongAnswer_4": "Keratinization is absent in masticatory mucosa and is only found in the specialized mucosa"
+          },
+          {
+            "question": "Why is the submucosa absent in masticatory mucosa?",
+            "goodAnswer": "The mucosa is tightly bound to the underlying bone, which provides firm support​",
+            "wrongAnswer_1": "The submucosa is present in all types of mucosa, including masticatory mucosa",
+            "wrongAnswer_2": "Masticatory mucosa lacks a submucosa because it is loosely attached to muscles",
+            "wrongAnswer_3": "The submucosa is absent in all mucosal types, not just masticatory mucosa",
+            "wrongAnswer_4": "Masticatory mucosa does not require a submucosa because it produces saliva amd doesn't provide any mechanical stability"
+          },
+          {
+            "question": "What is the primary function of the mucosa in the oral cavity?",
+            "goodAnswer": "Protection, sensation, and secretion​",
+            "wrongAnswer_1": "The primary function is digestion and absorption",
+            "wrongAnswer_2": "The mucosa is primarily responsible for immune response",
+            "wrongAnswer_3": "Its main role is to store nutrients and water",
+            "wrongAnswer_4": "It plays no functional role other than structural support"
+          },
+          {
+            "question": "What is the function of von Ebner’s glands?",
+            "goodAnswer": "They secrete serous fluid that helps wash away food particles from taste buds​",
+            "wrongAnswer_1": "They produce mucus for lubrication",
+            "wrongAnswer_2": "They are responsible for producing amylase to aid digestion",
+            "wrongAnswer_3": "They do not contribute to saliva secretion but help in immune defense",
+            "wrongAnswer_4": "They are present in the lining mucosa and aid in keratinization"
+          }
+        ]
+      },
+      {
+        "title": "Histology  of Teeth",
+        "quizzes": [
+          {
+            "question": "What components make up a tooth?",
+            "goodAnswer": "Dentin, enamel, cementum",
+            "wrongAnswer_1": "Pulp, keratin, adipose tissues",
+            "wrongAnswer_2": "Bone, tendon, cartilage",
+            "wrongAnswer_3": "Cementum, epidermis, marrow",
+            "wrongAnswer_4": "Dentin, bone, tendon"
+          },
+          {
+            "question": "What is the hardest substance in the human body and what is it's main mineral component?",
+            "goodAnswer": "Enamel, and Hydroxyapatite (calcium phosphate)​",
+            "wrongAnswer_1": "Dentin, and Calcium carbonate",
+            "wrongAnswer_2": "Bone, and Hydroxyapatite (magnesium phosphate)",
+            "wrongAnswer_3": "Cementum, and Fluorapatite",
+            "wrongAnswer_4": "Enamel, and Collagen fibers"
+          },
+          {
+            "question": "Which cells are responsible for the formation of enamel and which are responsible for dentin production?",
+            "goodAnswer": "Enamel: ameloblasts, Dentin: odontoblasts",
+            "wrongAnswer_1": "Enamel: Odontoblasts, Dentin: Cementocytes",
+            "wrongAnswer_2": "Enamel: Cementoblasts, Dentin: Ameloblasts",
+            "wrongAnswer_3": "Enamel: Fibroblasts, Dentin: Osteoblasts",
+            "wrongAnswer_4": "Enamel: Chondrocytes, Dentin: Osteoclasts"
+          },
+          {
+            "question": "What is dentin composed of?",
+            "goodAnswer": "It is primarily composed of hydroxyapatite and collagen",
+            "wrongAnswer_1": "It is composed of fluoride and calcium carbonate",
+            "wrongAnswer_2": "It is primarily made of keratin and elastic fibers",
+            "wrongAnswer_3": "It contains only hydroxyapatite, without organic components",
+            "wrongAnswer_4": "It is mainly composed of glycoproteins and calcium sulfate"
+          },
+          {
+            "question": "How does tooth erosion occur and what are the consequences of enamel loss?",
+            "goodAnswer": "It occurs due to acid exposure and mechanical wear​. Increased tooth sensitivity and risk of decay​",
+            "wrongAnswer_1": "Tooth erosion occurs due to excess saliva production, leading to harder enamel",
+            "wrongAnswer_2": "Enamel loss results in stronger teeth and improved resistance to decay",
+            "wrongAnswer_3": "Mechanical wear alone does not cause erosion, as enamel regenerates over time",
+            "wrongAnswer_4": "Enamel loss only affects the color of the teeth and does not contribute to sensitivity or decay"
+          },
+          {
+            "question": "What is the difference between cellular and acellular cementum?",
+            "goodAnswer": "Cellular cementum contains living cells (cementocytes), while acellular cementum does not​",
+            "wrongAnswer_1": "Both cellular and acellular cementum contain cementocytes",
+            "wrongAnswer_2": "Acellular cementum has living cells, while cellular cementum does not",
+            "wrongAnswer_3": "Cellular cementum is found only in the crown, while acellular cementum is found in the root",
+            "wrongAnswer_4": "Not every tooth has cementum, while every tooth has acellular cementum"
+          }
+        ]
+      },
+      {
+        "title": "Histology of Salivary Glands",
+        "quizzes": [
+          {
+            "question": "What are the three major salivary glands?",
+            "goodAnswer": "Parotid, Submandibular and Sublingual salivary glands",
+            "wrongAnswer_1": "Lingual, Buccal and Oral salivary glands",
+            "wrongAnswer_2": "Submandibular, Buccal and Sublingual salivary glands",
+            "wrongAnswer_3": "Palatine, Parotid and Oral salivary glands",
+            "wrongAnswer_4": "Sublingual, Lingual and Temporal salivary glands"
+          },
+          {
+            "question": "What parts does the functional and the structural unit of the salivary gland have?",
+            "goodAnswer": "Acinus, Intercalated duct, Striated duct",
+            "wrongAnswer_1": "Lobule, capillary loop, excretory vacuole",
+            "wrongAnswer_2": "Epithelium, basement membrane, goblet cell",
+            "wrongAnswer_3": "Cortex, trabeculae, lymphatic sinus",
+            "wrongAnswer_4": "Follicle, medullary duct, secretory vesicle"
+          },
+          {
+            "question": "What are the main components of acinar cells and what type of epithelium lines the salivary ducts?",
+            "goodAnswer": "Serous or mucous-producing cells​ make up the acinus and the ducts are lined by cuboidal to columnar epithelium​",
+            "wrongAnswer_1": "Acinar cells are made up of only keratinocytes, and salivary ducts are lined with stratified squamous epithelium",
+            "wrongAnswer_2": "Only mucous cells are found in acini, and ducts are lined with simple squamous epithelium",
+            "wrongAnswer_3": "Serous acini produce thick mucus, and ducts are lined with pseudostratified epithelium",
+            "wrongAnswer_4": "Myoepithelial cells form the acinus, and ducts are lined with transitional epithelium"
+          },
+          {
+            "question": "What is the role of intercalated and striated ducts in salivary glands?",
+            "goodAnswer": "Intercalated ducts mainly transport saliva from acini and modify its composition​, while striated ducts reabsorb sodium and secrete potassium and bicarbonate​",
+            "wrongAnswer_1": "Intercalated ducts are responsible for secreting enzymes, while striated ducts store saliva",
+            "wrongAnswer_2": "Striated ducts only transport saliva and do not modify its composition",
+            "wrongAnswer_3": "Intercalated ducts reabsorb sodium, while striated ducts transport saliva to the bloodstream",
+            "wrongAnswer_4": "Both intercalated and striated ducts store saliva before secretion"
+          },
+          {
+            "question": "Which contractile cell type surrounds the acini of salivary glands and helps expel saliva?",
+            "goodAnswer": "Myoepithelial cell",
+            "wrongAnswer_1": "Goblet cell",
+            "wrongAnswer_2": "Acinar cell",
+            "wrongAnswer_3": "Fibroblast",
+            "wrongAnswer_4": "Chondrocyte"
+          },
+          {
+            "question": "How do mucous and serous acini differ in function?",
+            "goodAnswer": "Serous acini produce watery enzyme-rich fluid, while mucous acini produce thick mucus​",
+            "wrongAnswer_1": "Mucous acini produce watery secretions, while serous acini produce thick mucus",
+            "wrongAnswer_2": "Both mucous and serous acini secrete only enzymes, not fluids",
+            "wrongAnswer_3": "Serous acini produce mucus, while mucous acini produce amylase-rich fluid",
+            "wrongAnswer_4": "Serous acini function only in the parotid gland, while mucous acini function only in the submandibular gland"
+          },
+          {
+            "question": "Which salivary gland is mostly serous?",
+            "goodAnswer": "Parotid gland",
+            "wrongAnswer_1": "Submandibular gland",
+            "wrongAnswer_2": "Sublingual gland",
+            "wrongAnswer_3": "Lindual gland",
+            "wrongAnswer_4": "Palatine gland"
+          }
+        ]
+      },
+      {
+        "title": "Mechanism and Regulation of Saliva Secretion",
+        "quizzes": [
+          {
+            "question": "Which cranial nerves are involved in salivary gland innervation?",
+            "goodAnswer": "Cranial nerves V (trigeminal), VII (facial), and IX (glossopharyngeal)​",
+            "wrongAnswer_1": "Cranial nerves III (oculomotor), V (trigeminal), and X (vagus).",
+            "wrongAnswer_2": "Cranial nerves IV (trochlear), VII (facial), and XII (hypoglossal).",
+            "wrongAnswer_3": "Cranial nerves VI (abducens), VIII (vestibulocochlear), and X (vagus).",
+            "wrongAnswer_4": "Only cranial nerve X (vagus) controls all salivary gland innervation."
+          },
+          {
+            "question": "What happens to saliva as it moves through the duct system?",
+            "goodAnswer": "It becomes hypotonic due to sodium and chloride reabsorption while potassium and bicarbonate are secreted​",
+            "wrongAnswer_1": "Saliva becomes isotonic as it moves through the ducts",
+            "wrongAnswer_2": "Potassium and chloride are reabsorbed, while sodium and bicarbonate are secreted",
+            "wrongAnswer_3": "Saliva remains unchanged as it passes through the ducts",
+            "wrongAnswer_4": "Water is reabsorbed, making saliva hypertonic"
+          },
+          {
+            "question": "What is the daily production volume of saliva and how does the flow rate of saliva affect its composition and what is the consequence of prolonged reduced saliva production?",
+            "goodAnswer": "About 1,000 mL (1 liter) per day​. At low flow rates, saliva is more hypotonic; at high flow rates, it becomes closer to plasma composition​. A prolonged reduction in saliva production means an increased risk of infections, dental cavities, and discomfort​",
+            "wrongAnswer_1": "Saliva production is 2-3 liters per day, and the composition remains constant at all flow rates",
+            "wrongAnswer_2": "At low flow rates, saliva is hypertonic, and at high flow rates, it becomes more hypotonic",
+            "wrongAnswer_3": "Saliva production does not affect oral health, as other fluids compensate for its absence",
+            "wrongAnswer_4": "A prolonged reduction in saliva leads to an increase in bacterial growth but does not affect dental health"
+          },
+          {
+            "question": "What is the difference between minor and major salivary glands and which produces the most saliva at rest?",
+            "goodAnswer": "Major glands (parotid, submandibular, sublingual) produce most of the saliva, while minor glands contribute small amounts mainly for mucosal hydration​ and the submandibular gland​ produces the most saliva at rest",
+            "wrongAnswer_1": "Minor glands, while being smaller in size, produce more saliva than major glands",
+            "wrongAnswer_2": "The Major glands are mostly serous and the minor glands are mucous, the parotid gland produces the most saliva at rest",
+            "wrongAnswer_3": "The difference between major and minor salivary glands is their size, and the sublingual gland is the largest and produces the most saliva.",
+            "wrongAnswer_4": "Major salivary glands do not contribute to mucosal hydration, only secrete enzymes, and the Sublingual gland produces the most saliva at rest"
+          },
+          {
+            "question": "How does the sympathetic and the parasympathetic nervous system influence saliva production?",
+            "goodAnswer": "The sympathetic response reduces the overall volume but increases protein content, making saliva thicker through beta-adrenergic receptors​,while the parasympathetic nervous system increases saliva flow through acetylcholine release, stimulating serous secretion​",
+            "wrongAnswer_1": "The sympathetic system increases watery saliva production, while the parasympathetic system reduces saliva secretion",
+            "wrongAnswer_2": "Both systems decrease saliva production under normal conditions",
+            "wrongAnswer_3": "Parasympathetic stimulation causes thick mucus secretion, and the sympathetic nervous system inhibits the synthesis of enzymes",
+            "wrongAnswer_4": "The sympathetic system has no effect on saliva production, but the parasympathetic nervous system increases the rate of saliva production"
+          },
+          {
+            "question": "What are the primary functions of saliva in digestion?",
+            "goodAnswer": "Lubrication, starch digestion, and taste facilitation​",
+            "wrongAnswer_1": "Saliva functions only to moisten food with no digestive role",
+            "wrongAnswer_2": "Saliva mainly absorbs nutrients from food",
+            "wrongAnswer_3": "Saliva helps in fat digestion but not starch digestion",
+            "wrongAnswer_4": "Saliva neutralizes stomach acids but has no role in taste perception"
+          },
+          {
+            "question": "What is the role of kallikrein in blood flow to salivary glands?",
+            "goodAnswer": "It produces bradykinin, a vasodilator that increases blood flow during secretion​",
+            "wrongAnswer_1": "It constricts blood vessels to prevent excess saliva production",
+            "wrongAnswer_2": "It increases sodium levels in saliva but has no effect on blood flow",
+            "wrongAnswer_3": "It produces epinephrine, which reduces blood supply to the glands",
+            "wrongAnswer_4": "It regulates only the minor salivary glands and does not affect major glands"
+          },
+          {
+            "question": "What is the primary function of the sublingual gland?",
+            "goodAnswer": "It mainly secretes mucus to lubricate the oral cavity​",
+            "wrongAnswer_1": "It produces only serous secretions",
+            "wrongAnswer_2": "It is responsible for the majority of enzyme secretion in the mouth",
+            "wrongAnswer_3": "It produces the most saliva during rest",
+            "wrongAnswer_4": "It has no function in saliva production"
+          },
+          {
+            "question": "What is xerostomia, and what are its causes? ",
+            "goodAnswer": "Xerostomia (dry mouth) is caused by medications (anicholinergic drugs), radiation therapy, or autoimmune diseases like Sjögren’s syndrome​",
+            "wrongAnswer_1": "Xerostomia means excess digestion, and it is caused by excessive saliva production",
+            "wrongAnswer_2": "It is a genetic disorder with no known environmental causes",
+            "wrongAnswer_3": "It's an autoimmune disease that occurs only in elderly patients and has no known treatment",
+            "wrongAnswer_4": "It's diagnostic signs that is caused by high water intake and increased saliva production"
+          },
+          {
+            "question": "What factors stimulate saliva production?",
+            "goodAnswer": "Taste, smell, and chewing activate the salivatory nuclei​",
+            "wrongAnswer_1": "Sleep, fear, and fatigue increase saliva production",
+            "wrongAnswer_2": "Saliva secretion is only controlled by hormones, not external stimuli",
+            "wrongAnswer_3": "Chewing decreases saliva production to prevent excessive fluid loss",
+            "wrongAnswer_4": "Hearing and vision are the primary factors in stimulating saliva secretion"
+          },
+          {
+            "question": "How does sleep affect saliva secretion?",
+            "goodAnswer": "Saliva production decreases significantly during sleep​",
+            "wrongAnswer_1": "Saliva production remains constant during sleep",
+            "wrongAnswer_2": "Sleep increases saliva flow to protect the mouth from bacteria",
+            "wrongAnswer_3": "Salivary glands shut down completely during sleep",
+            "wrongAnswer_4": "Saliva becomes hypertonic during sleep due to high water absorption"
+          },
+          {
+            "question": "What role does aldosterone play in saliva composition?",
+            "goodAnswer": "It decreases sodium and increases potassium concentration in saliva​",
+            "wrongAnswer_1": "It increases sodium and decreases potassium concentration",
+            "wrongAnswer_2": "It regulates only water content, not ion concentration",
+            "wrongAnswer_3": "It prevents saliva secretion by acting on the nervous system",
+            "wrongAnswer_4": "It reduces bicarbonate levels to make saliva acidic"
+          },
+          {
+            "question": "What role do oral mechanoreceptors play in saliva secretion?",
+            "goodAnswer": "They detect chewing movements and stimulate saliva production via the nervous system​",
+            "wrongAnswer_1": "They detect taste and directly trigger salivary gland secretion without nervous system involvement",
+            "wrongAnswer_2": "Mechanoreceptors only respond to temperature changes, not chewing movements",
+            "wrongAnswer_3": "They inhibit saliva production to prevent excessive fluid loss during eating",
+            "wrongAnswer_4": "They are responsible for detecting pain but do not influence saliva secretion"
+          },
+          {
+            "question": "How does saliva assist in taste perception?",
+            "goodAnswer": "It dissolves food particles, allowing taste buds to detect flavors​",
+            "wrongAnswer_1": "Saliva prevents taste perception by coating the taste buds",
+            "wrongAnswer_2": "Taste buds detect flavors independently, and saliva plays no role in the process",
+            "wrongAnswer_3": "Saliva only lubricates food and does not interact with taste receptors",
+            "wrongAnswer_4": "Saliva alters the chemical structure of food, making it tasteless"
+          },
+          {
+            "question": "How does dehydration affect saliva production?",
+            "goodAnswer": "It reduces saliva flow, leading to dry mouth​",
+            "wrongAnswer_1": "Dehydration increases saliva production to compensate for fluid loss",
+            "wrongAnswer_2": "Saliva production remains constant regardless of hydration levels",
+            "wrongAnswer_3": "Dehydration makes saliva more watery to aid in swallowing",
+            "wrongAnswer_4": "Saliva flow increases during dehydration to maintain oral pH balance"
+          }
+        ]
+      },
+      {
+        "title": "Components of Saliva",
+        "quizzes": [
+          {
+            "question": "What are the main components of saliva?",
+            "goodAnswer": "Water, bicarbonate, potassium, sodium, chloride, glycoproteins (mucus), enzymes (amylase), and antibacterial compounds (lysozyme, lactoferrin, IgA)​",
+            "wrongAnswer_1": "Saliva contains only water and enzymes, with no minerals or antibacterial components",
+            "wrongAnswer_2": "The primary component of saliva is glucose, which provides energy for oral bacteria",
+            "wrongAnswer_3": "Saliva consists of hydrochloric acid, which helps break down food in the mouth",
+            "wrongAnswer_4": "Saliva is primarily composed of fats and proteins rather than water and electrolytes"
+          },
+          {
+            "question": "What is the function of bicarbonate in saliva?",
+            "goodAnswer": "It neutralizes acids in food and stomach regurgitation​",
+            "wrongAnswer_1": "Bicarbonate acidifies saliva to aid in digestion",
+            "wrongAnswer_2": "It enhances the absorption of sugars in the mouth",
+            "wrongAnswer_3": "Bicarbonate functions solely as a lubricant and has no role in acid neutralization",
+            "wrongAnswer_4": "It is responsible for breaking down proteins in food"
+          },
+          {
+            "question": "What type of enzyme is salivary amylase what is its role in digestion?",
+            "goodAnswer": "A hydrolase enzyme that breaks down starch by cleaving α-1,4 glycosidic bonds​",
+            "wrongAnswer_1": "Salivary amylase is a protease that digests proteins",
+            "wrongAnswer_2": "It is a lipase enzyme responsible for fat digestion",
+            "wrongAnswer_3": "Salivary amylase breaks down cellulose instead of starch",
+            "wrongAnswer_4": "It functions as an acid that dissolves food particles"
+          },
+          {
+            "question": "How does saliva contribute to oral hygiene?",
+            "goodAnswer": "It contains antibacterial compounds like lysozyme, lactoferrin, and IgA, which prevent bacterial growth and bad breath​",
+            "wrongAnswer_1": "Saliva promotes bacterial growth to aid digestion",
+            "wrongAnswer_2": "It contains only water and has no antibacterial properties",
+            "wrongAnswer_3": "Saliva neutralizes bacteria by increasing glucose concentration",
+            "wrongAnswer_4": "Its primary function is taste perception, with no role in hygiene"
+          }
+        ]
+      }
+    ]
+  }
+}

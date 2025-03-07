@@ -1,0 +1,245 @@
+{
+  "mainTopic": {
+    "title": "Vasoactive Drugs for hypertension",
+    "content_info": "The lecture handouts come with a lot of detailed information that is sufficient to cover the whole topic",
+    "subTopics": [
+      {
+        "title": "Overview of Hypertension",
+        "quizzes": [
+          {
+            "question": "What are the effects of diuretics on blood pressure and volume, and how do they impact cardiac output and peripheral resistance?",
+            "goodAnswer": "Diuretics lower blood pressure by decreasing intravascular volume, which reduces venous return and stroke volume. This leads to a lower cardiac output and, consequently, lower systolic and diastolic blood pressure. Since the stroke volume is reduced, total peripheral resistance remains unchanged.",
+            "wrongAnswer_1": "Diuretics increase blood pressure by retaining sodium and water, leading to higher venous return and a larger stroke volume. This results in increased cardiac output and higher systolic and diastolic blood pressure. Since the stroke volume is increased, total peripheral resistance remains unchanged.",
+            "wrongAnswer_2": "Diuretics lower blood pressure by directly dilating arteries, which decreases peripheral resistance while maintaining cardiac output. This leads to a higher stroke volume and therefore, total peripheral resistance decreases, resulting in lower systolic and diastolic blood pressure.",
+            "wrongAnswer_3": "Diuretics work by blocking renin release, which prevents the activation of the renin-angiotensin-aldosterone system. This leads to reduced vasoconstriction and increased sodium excretion, resulting in lower blood pressure. Cardiac output remains unchanged as the stroke volume is unaffected.",
+            "wrongAnswer_4": "Diuretics act by selectively reducing heart rate while maintaining normal blood volume and stroke volume. This leads to a decrease in cardiac output and total peripheral resistance, resulting in lower systolic and diastolic blood pressure."
+          },
+          {
+            "question": "Which class of medications includes clonidine and act to reduce overall sympathetic tone, decreasing venous tone and return in the body?",
+            "goodAnswer": "Central Sympatholytics",
+            "wrongAnswer_1": "Beta-blockers",
+            "wrongAnswer_2": "Calcium Channel Blockers",
+            "wrongAnswer_3": "Direct Arterial Vasodilators",
+            "wrongAnswer_4": "ACE Inhibitors"
+          },
+          {
+            "question": "What is the effect of high effective arterial elastance (Ea) on the hemodynamic profile of an individual?",
+            "goodAnswer": "High effective arterial elastance (Ea) means that the resistance is too high or the compliance is too low, leading to hypertension. It is often associated with arterial stiffness in older individuals.",
+            "wrongAnswer_1": "High effective arterial elastance (Ea) means that the compliance is too high or the resistance is too low, resulting in lower blood pressure and improved perfusion.",
+            "wrongAnswer_2": "Effective arterial elastance (Ea) refers to the ability of the left ventricle to eject blood into the aorta and is not related to hypertension.",
+            "wrongAnswer_3": "High effective arterial elastance (Ea) indicates that the heart is pumping too much blood, leading to increased venous return and higher LVEDV.",
+            "wrongAnswer_4": "Arterial elastance is only relevant in young individuals and does not play a role in hypertension among older adults."
+          },
+          {
+            "question": "In the context of antihypertensive therapy, what are the primary actions and clinical uses of beta-blockers in managing hypertension, and what are the associated metabolic side effects?",
+            "goodAnswer": "Beta-blockers decrease heart rate, reduce renin release, and lower blood pressure by blocking beta-adrenergic receptors. They are often used in hypertension, especially those with tachycardia or history of myocardial infarction. However, they can worsen hyperlipidemia and glucose intolerance.",
+            "wrongAnswer_1": "Beta-blockers increase cardiac contractility, reducing ventricular remodeling and improving coronary perfusion. They are particularly useful in patients with hypertension and low baseline heart rate. Common side effects include hyperkalemia and weight loss.",
+            "wrongAnswer_2": "Beta-blockers block alpha-adrenergic receptors, leading to widespread vasodilation and a reduction in systemic vascular resistance. They are typically prescribed for hypertension, especially those with a history of stroke. Major side effects include hyperlipidemia and renal failure.",
+            "wrongAnswer_3": "Beta-blockers suppress aldosterone secretion, resulting in sodium retention and worsening hypertension. They are rarely used in clinical practice due to their high incidence of adverse events. Common side effects include hyperglycemia and hypokalemia.",
+            "wrongAnswer_4": "Beta-blockers act by inhibiting angiotensin-converting enzyme (ACE), thereby preventing angiotensin II formation and subsequent vasoconstriction. They are effective in treating hypertension, especially those with concurrent diabetes. Long-term use is associated with bronchodilation and improved lipid profiles."
+          },
+          {
+            "question": "How does effective arterial elastance (Ea) influence the required cardiac output and stroke volume needed to maintain blood flow?",
+            "goodAnswer": "Effective arterial elastance (Ea) represents the stiffness of the entire arterial system. A higher Ea means more rigid arteries, leading to a higher required cardiac output and stroke volume to maintain blood flow. It is often associated with aging.",
+            "wrongAnswer_1": "Effective arterial elastance (Ea) is the total resistance of the left ventricle to ejection, meaning it gets easier to pump blood into the aorta as effective arterial elastance increases.",
+            "wrongAnswer_2": "Arterial elastance has no direct correlation with cardiac output or stroke volume, as these parameters are regulated solely by venous tone and sympathetic activity.",
+            "wrongAnswer_3": "High effective arterial elastance indicates that the arteries are compliant, leading to a lower required cardiac output and stroke volume. It is typically seen in young individuals with healthy vascular systems.",
+            "wrongAnswer_4": "Effective arterial elastance is measured by assessing the rate of sympathetic tone in response to changing blood pressure levels. It does not depend on the rigidity of arteries but rather on the overall vascular tone in the body."
+          },
+          {
+            "question": "Which diuretic is commonly used as part of the initial antihypertensive treatment plan, and what sympatholytic drug is typically paired with it?",
+            "goodAnswer": "The thiazide diuretic, hydrochlorothiazide, is often used in conjunction with a beta-blocker such as metoprolol or atenolol.",
+            "wrongAnswer_1": "Furosemide, a loop diuretic, is typically combined with minoxidil, a direct arterial vasodilator, to control blood pressure.",
+            "wrongAnswer_2": "Spironolactone, a potassium-sparing diuretic, is often used in conjunction with terazosin, an alpha-1 blocker, to manage hypertension.",
+            "wrongAnswer_3": "Amiloride is typically paired with diltiazem, a calcium channel blocker, to prevent excessive potassium loss while reducing arterial tone.",
+            "wrongAnswer_4": "Thiazide diuretics are generally combined with sodium nitroprusside, a potent IV vasodilator, for rapid blood pressure reduction in hypertensive emergencies."
+          },
+          {
+            "question": "Which group of medications includes direct arterial vasodilators like minoxidil and hydralazine, which are used in hypertension management?",
+            "goodAnswer": "The group of medications that includes direct arterial vasodilators like minoxidil and hydralazine is called 'Arterial Dilators'. These medications act by reducing arterial tone (Ea). Other examples of arterial dilators include calcium channel blockers, ACE inhibitors, ARBs, potassium channel openers, and nitric oxide donors.",
+            "wrongAnswer_1": "The group of medications that includes direct arterial vasodilators like minoxidil and hydralazine is called 'Central Sympatholytics'. They act by reducing sympathetic tone, which in turn decreases venous tone and reduces venous return in the body.",
+            "wrongAnswer_2": "The group of medications that includes direct arterial vasodilators like minoxidil and hydralazine is called 'Negative Inotropes'. These medications reduce left ventricular systolic performance (ESPVR) by blocking beta receptors or calcium channels, thereby decreasing cardiac contractility.",
+            "wrongAnswer_3": "The group of medications that includes direct arterial vasodilators like minoxidil and hydralazine is called 'Diuretics'. They act by reducing blood volume and left ventricular end-diastolic volume (LVEDV) by increasing sodium and chloride excretion, ultimately lowering blood pressure.",
+            "wrongAnswer_4": "The group of medications that includes direct arterial vasodilators like minoxidil and hydralazine is called 'Alpha-1 Blockers'. These medications block alpha-1 receptors, preventing sympathetic stimulation of vascular smooth muscle contraction and leading to vasodilation."
+          },
+          {
+            "question": "Which of the following statements correctly describes a key characteristic or application of vasodilators used in antihypertensive therapy?",
+            "goodAnswer": "Direct arterial vasodilators like minoxidil and hydralazine are generally reserved for patients with refractory hypertension because they can cause significant side effects such as hyperkalemia, sodium and water retention, and worsening of renal function.",
+            "wrongAnswer_1": "Vasodilators such as calcium channel blockers, ACE inhibitors, and ARBs act by reducing venous tone, which leads to a decrease in left ventricular end diastolic volume and reduces the overall sympathetic tone in the body.",
+            "wrongAnswer_2": "Nitroglycerin, a nitric oxide donor, is typically used as a second-line therapy for hypertension because it has a low risk of causing headache, dizziness, and worsening renal function compared to other vasodilators.",
+            "wrongAnswer_3": "Calcium channel blockers, while effective in lowering blood pressure, are only active in the morning and need to be administered every 8 hours for sustained effect. Therefore, they are rarely used in hypertension management.",
+            "wrongAnswer_4": "All vasodilators, including beta-blockers, are equally effective in reducing arterial tone, and their choice depends solely on the patient's symptoms and comorbidities without significant pharmacological differences between the drug classes."
+          },
+          {
+            "question": "Which of the following is NOT a direct arterial vasodilator used in hypertension management?",
+            "goodAnswer": "Thiazide diuretics, beta-blockers, and ACE inhibitors",
+            "wrongAnswer_1": "Minoxidil, hydralazine, and nitroprusside",
+            "wrongAnswer_2": "Amlodipine, diltiazem, and verapamil",
+            "wrongAnswer_3": "Prazosin, terazosin, and doxazosin",
+            "wrongAnswer_4": "Losartan, valsartan, and candesartan"
+          }
+        ]
+      },
+      {
+        "title": "Pharmacotherapy of hypertension based on the four possible mechanisms of hypertension",
+        "quizzes": [
+          {
+            "question": "Which class of medications is contraindicated in bilateral renal artery stenosis, and why?",
+            "goodAnswer": "ACE inhibitors and ARBs, because they can cause a significant drop in blood pressure to the kidneys, leading to worsening renal function.",
+            "wrongAnswer_1": "Calcium channel blockers, because they can cause sodium retention, leading to worsening hypertension in patients with renal artery stenosis.",
+            "wrongAnswer_2": "Beta-blockers, because they can reduce renal perfusion by decreasing cardiac output, potentially causing acute kidney injury.",
+            "wrongAnswer_3": "Thiazide diuretics, because they can directly damage renal arteries, leading to increased stenosis and reduced filtration.",
+            "wrongAnswer_4": "Sympatholytics, because they increase sympathetic tone, resulting in higher blood pressure and worsening of renal artery stenosis."
+          },
+          {
+            "question": "What are the primary concerns associated with using beta-blockers in patients with diabetes, and what is the rationale behind these concerns?",
+            "goodAnswer": "Beta-blockers can mask the signs and symptoms of hypoglycemia, making it difficult to detect low blood sugar. Additionally, they can contribute to hyperglycemia by reducing the release of insulin from beta cells in the pancreas.",
+            "wrongAnswer_1": "Beta-blockers can cause severe hypotension, leading to diabetic shock and making it impossible to administer insulin effectively.",
+            "wrongAnswer_2": "They inhibit the production of glucagon, which is essential for raising blood sugar levels when glucose is low.",
+            "wrongAnswer_3": "Using beta-blockers will lead to a dramatic increase in the half-life of all types of insulin, making it impossible to control blood sugar levels accurately.",
+            "wrongAnswer_4": "They can induce hyperkalemia, increasing the risk of diabetic ketoacidosis and making insulin therapy less effective."
+          },
+          {
+            "question": "What vasodilator drug is administered intravenously, causing arteriolar and venous dilation by breaking down into nitric oxide, and what is its primary clinical use in hypertension management?",
+            "goodAnswer": "Sodium nitroprusside is used to control severe hypertension by reducing arterial resistance and venous return, making it useful in hypertensive emergencies.",
+            "wrongAnswer_1": "Hydralazine, a direct arterial vasodilator, is administered intravenously to reduce blood pressure in patients with essential hypertension.",
+            "wrongAnswer_2": "Amlodipine, a calcium channel blocker, is typically used chronically rather than intravenously, and it acts primarily by blocking L-type calcium channels in vascular smooth muscle.",
+            "wrongAnswer_3": "Nitroglycerin is a potent venous dilator used primarily for the treatment of chest pain (angina) rather than hypertension.",
+            "wrongAnswer_4": "Minoxidil, while effective in lowering blood pressure, is rarely used due to its side effects, including hyperkalemia and weight gain, making it a last-line therapy."
+          },
+          {
+            "question": "Which group of medications includes drugs like propranolol, metoprolol, and atenolol, and what is their primary mechanism of action in lowering blood pressure?",
+            "goodAnswer": "Beta-adrenergic blockers (e.g., propranolol, metoprolol, atenolol) decrease heart rate and contractility, reducing cardiac output and ultimately lowering blood pressure.",
+            "wrongAnswer_1": "Thiazide diuretics, such as hydrochlorothiazide and chlorthalidone, act by blocking sodium reabsorption in the distal tubule, leading to increased sodium excretion and reduced blood volume.",
+            "wrongAnswer_2": "Calcium channel blockers (e.g., verapamil, diltiazem, nifedipine) block calcium channels in vascular smooth muscle, causing arterial vasodilation and reducing peripheral resistance.",
+            "wrongAnswer_3": "Alpha-1 adrenergic blockers (e.g., prazosin, terazosin, doxazosin) inhibit sympathetic vasoconstriction, leading to reduced blood pressure and improved perfusion.",
+            "wrongAnswer_4": "Direct arterial vasodilators, such as minoxidil and hydralazine, act directly on vascular smooth muscle to induce vasodilation, increasing blood flow and reducing hypertension."
+          }
+        ]
+      },
+      {
+        "title": "Major anti hypertensive drug classes and treatment protocol of hypertension",
+        "quizzes": [
+          {
+            "question": "What are the effects of thiazide diuretics on glucose and lipid metabolism?",
+            "goodAnswer": "They can worsen glucose tolerance by reducing the sensitivity of pancreatic beta cells to glucose and increase triglyceride levels while decreasing HDL cholesterol, leading to hyperlipidemia.",
+            "wrongAnswer_1": "They enhance insulin sensitivity, leading to improved glucose control in diabetic patients.",
+            "wrongAnswer_2": "They increase the synthesis of HDL cholesterol while reducing triglyceride levels, resulting in a favorable lipid profile.",
+            "wrongAnswer_3": "They have no significant effect on glucose or lipid metabolism and do not alter metabolic parameters.",
+            "wrongAnswer_4": "They cause a decrease in LDL cholesterol while increasing triglyceride levels, leading to a higher risk of cardiovascular disease."
+          },
+          {
+            "question": "How do beta-blockers affect the clinical presentation of asymptomatic left ventricular hypertrophy (LVH)?",
+            "goodAnswer": "Beta-blockers can help reduce LVH by decreasing heart rate and contractility, leading to lower oxygen demand and improved symptoms.",
+            "wrongAnswer_1": "Beta-blockers increase heart rate and contractility, worsening LVH and causing chest pain.",
+            "wrongAnswer_2": "They enhance sympathetic tone, leading to increased myocardial oxygen demand and worsening LVH.",
+            "wrongAnswer_3": "Beta-blockers induce vasodilation, reducing ventricular workload and causing a paradoxical increase in LVH.",
+            "wrongAnswer_4": "They stimulate the renin-angiotensin system, resulting in fluid retention and worsening LVH over time."
+          },
+          {
+            "question": "Which class of medications includes drugs like propranolol, metoprolol, and atenolol, and what is their primary mechanism of action in treating hypertension?",
+            "goodAnswer": "Beta-blockers; they reduce sympathetic tone by blocking beta-adrenergic receptors, leading to decreased heart rate and contractility, which lowers blood pressure.",
+            "wrongAnswer_1": "ACE inhibitors, which block the conversion of angiotensin I to angiotensin II, reducing vascular resistance and sodium reabsorption in the kidneys.",
+            "wrongAnswer_2": "Calcium channel blockers, which block calcium channels in vascular smooth muscle and the heart, resulting in vasodilation and reduced contractility.",
+            "wrongAnswer_3": "Diuretics, which increase sodium and chloride excretion in the urine, leading to a reduction in blood volume and lowering of blood pressure.",
+            "wrongAnswer_4": "Alpha-blockers; they block alpha-adrenergic receptors, preventing vasoconstriction and reducing sympathetic activity in vascular smooth muscle."
+          },
+          {
+            "question": "Which class of medications includes drugs like propranolol, metoprolol, and atenolol, and what is their primary mechanism of action in treating hypertension?",
+            "goodAnswer": "Beta-blockers (propranolol, metoprolol, atenolol) decrease heart rate and contractility, reducing cardiac output and lowering blood pressure.",
+            "wrongAnswer_1": "Calcium channel blockers (propranolol, metoprolol, atenolol) inhibit calcium influx into vascular smooth muscle cells, causing vasodilation and lowering blood pressure.",
+            "wrongAnswer_2": "ACE inhibitors (propranolol, metoprolol, atenolol) block the conversion of angiotensin I to angiotensin II, reducing systemic vasoconstriction and aldosterone release.",
+            "wrongAnswer_3": "Diuretics (propranolol, metoprolol, atenolol) work by increasing sodium and chloride excretion in the distal tubule, leading to a decrease in blood volume and lowering of blood pressure.",
+            "wrongAnswer_4": "Alpha-blockers (propranolol, metoprolol, atenolol) block post-synaptic alpha receptors, preventing sympathetic vasoconstriction and helping to reduce blood pressure."
+          },
+          {
+            "question": "Which vasodilator, often used in hypertensive emergencies, acts by breaking down into nitric oxide, causing arteriolar and venous dilation?",
+            "goodAnswer": "Sodium nitroprusside",
+            "wrongAnswer_1": "Hydralazine",
+            "wrongAnswer_2": "Minoxidil",
+            "wrongAnswer_3": "Terazosin",
+            "wrongAnswer_4": "Clonidine"
+          },
+          {
+            "question": "Which drug class, when used chronically, can lead to hyperuricemia due to its effect on uric acid metabolism?",
+            "goodAnswer": "Thiazide diuretics, by blocking sodium reabsorption in the distal tubule, also reduce uric acid reabsorption, leading to hyperuricemia.",
+            "wrongAnswer_1": "Beta-blockers primarily affect cardiac contractility and do not influence uric acid metabolism.",
+            "wrongAnswer_2": "Calcium channel blockers act by vasodilation and do not have a known effect on uric acid metabolism in chronic use.",
+            "wrongAnswer_3": "ACE inhibitors work by blocking angiotensin conversion and do not affect uric acid metabolism.",
+            "wrongAnswer_4": "Angiotensin receptor blockers (ARB's) block angiotensin II receptors but do not influence uric acid metabolism."
+          },
+          {
+            "question": "Which vasodilator, often used in hypertensive emergencies, acts by breaking down into nitric oxide, causing arteriolar and venous dilation?",
+            "goodAnswer": "Sodium nitroprusside",
+            "wrongAnswer_1": "Hydralazine",
+            "wrongAnswer_2": "Minoxidil",
+            "wrongAnswer_3": "Amlodipine",
+            "wrongAnswer_4": "Terazosin"
+          },
+          {
+            "question": "Which group of medications includes drugs like propranolol, metoprolol, and atenolol, and what is their primary mechanism of action in treating hypertension?",
+            "goodAnswer": "Beta-adrenergic blockers; they decrease sympathetic activity, leading to vasodilation and reduced cardiac output.",
+            "wrongAnswer_1": "Calcium channel blockers; they block calcium channels in vascular smooth muscle, causing vasodilation.",
+            "wrongAnswer_2": "Angiotensin-converting enzyme (ACE) inhibitors; they prevent the conversion of angiotensin I to angiotensin II, reducing vasoconstriction.",
+            "wrongAnswer_3": "Alpha-adrenergic blockers; they antagonize alpha receptors, leading to vasodilation and reducing sympathetic tone.",
+            "wrongAnswer_4": "Diuretics; they reduce blood volume by increasing sodium and chloride excretion, lowering blood pressure."
+          },
+          {
+            "question": "Which medication class requires careful dose titration in patients with renal artery stenosis, as it can worsen hypertension by blocking the effects of renin?",
+            "goodAnswer": "Diuretics",
+            "wrongAnswer_1": "Beta-blockers",
+            "wrongAnswer_2": "Calcium channel blockers",
+            "wrongAnswer_3": "ACE inhibitors",
+            "wrongAnswer_4": "Alpha-blockers"
+          },
+          {
+            "question": "Which class of medications includes drugs like propranolol, metoprolol, and atenolol, and what is their primary mechanism of action in treating hypertension?",
+            "goodAnswer": "Beta-blockers; they decrease heart rate and contractility, reducing cardiac output and lowering blood pressure",
+            "wrongAnswer_1": "Calcium channel blockers; they block calcium channels in vascular smooth muscle, leading to vasodilation and reducing peripheral resistance",
+            "wrongAnswer_2": "ACE inhibitors; they prevent the conversion of angiotensin I to angiotensin II, reducing vascular tone and sodium retention",
+            "wrongAnswer_3": "Diuretics; they increase sodium and chloride excretion, reducing blood volume and lowering cardiac output",
+            "wrongAnswer_4": "Alpha-blockers; they block alpha-adrenergic receptors, preventing sympathetic vasoconstriction and reducing blood pressure"
+          }
+        ]
+      },
+      {
+        "title": "Antihypertensive drugs and their effects outside of hypertension",
+        "quizzes": [
+          {
+            "question": "What are the effects of beta-blockers on different medical conditions?",
+            "goodAnswer": "In diabetes, beta-blockers can mask hypoglycemia and impair glucagon secretion. In coronary artery disease, they reduce myocardial oxygen demand and prevent reflex tachycardia after vagal maneuvers. In congestive heart failure, they decrease heart rate and improve contractility. However, they can worsen heart block or cause bronchospasm in patients with asthma or COPD.",
+            "wrongAnswer_1": "Beta-blockers increase insulin sensitivity in diabetic patients, making them more responsive to glucose regulation.",
+            "wrongAnswer_2": "In coronary artery disease, beta-blockers increase myocardial oxygen demand and induce reflex tachycardia after vagal maneuvers.",
+            "wrongAnswer_3": "In congestive heart failure, beta-blockers increase heart rate and worsen contractility, leading to a higher risk of complications.",
+            "wrongAnswer_4": "Beta-blockers are safe to use in all patients, regardless of whether they have asthma, COPD, or a history of heart block, as they do not affect bronchospasm or cardiac conduction."
+          },
+          {
+            "question": "Which class of medications includes minoxidil and hydralazine as members?",
+            "goodAnswer": "Direct arterial vasodilators",
+            "wrongAnswer_1": "Beta-blockers",
+            "wrongAnswer_2": "Thiazide diuretics",
+            "wrongAnswer_3": "Calcium channel blockers",
+            "wrongAnswer_4": "ACE inhibitors"
+          },
+          {
+            "question": "What are the primary methods of action of the following antihypertensive drug classes: diuretics, sympatholytics, vasodilators, and renin-angiotensin system (RAS) blockers, and what are examples of drugs within each class?",
+            "goodAnswer": "Diuretics promote sodium and chloride excretion to reduce blood volume; examples are furosemide, thiazide, and spironolactone. Sympatholytics either block beta-adrenergic receptors (propranolol, metoprolol) or alpha-1 adrenergic receptors (prazosin, terazosin) to decrease vascular tone and heart rate. Vasodilators such as calcium channel blockers (verapamil, diltiazem, nifedipine) block L-type calcium channels, while direct arterial vasodilators like minoxidil and hydralazine reduce vascular resistance. Renin-angiotensin system (RAS) blockers include ACE inhibitors (captopril, enalapril) which prevent angiotensin II formation, and ARBs (losartan, valsartan) which block its receptors.",
+            "wrongAnswer_1": "Diuretics promote potassium retention and reduce sodium excretion; examples are furosemide, thiazide, and spironolactone. Sympatholytics either block alpha-adrenergic receptors (propranolol, metoprolol) or beta-adrenergic receptors (prazosin, terazosin) to decrease vascular tone and heart rate. Vasodilators such as calcium channel blockers (verapamil, diltiazem, nifedipine) block T-type calcium channels, while direct arterial vasodilators like nitroglycerin and adenosine have no clinical use in hypertension. Renin-angiotensin system (RAS) blockers include ACE inhibitors (amiloride, triamterene), which stimulate angiotensin II production, and ARBs (enalapril, lisinopril), which prevent its binding to receptors.",
+            "wrongAnswer_2": "Diuretics inhibit sodium excretion and promote potassium reabsorption; examples are furosemide, thiazide, and spironolactone. Sympatholytics either block beta-adrenergic receptors (clonidine, terazosin) or alpha-1 adrenergic blockers (propranolol, metoprolol) to increase sympathetic tone. Vasodilators such as calcium channel blockers (verapamil, diltiazem, nifedipine) block sodium channels, while direct arterial vasodilators like nitroglycerin and hydralazine have no effect on blood pressure. Renin-angiotensin system (RAS) blockers include ACE inhibitors (losartan, valsartan), which stimulate angiotensin II production, and ARBs (captopril, enalapril), which block its receptors.",
+            "wrongAnswer_3": "Diuretics promote chloride reabsorption and reduce sodium excretion; examples are furosemide, thiazide, and spironolactone. Sympatholytics either block alpha-adrenergic receptors (propranolol, metoprolol) or beta-adrenergic blockers (prazosin, terazosin) to decrease vascular tone and heart rate. Vasodilators such as calcium channel blockers (verapamil, diltiazem, nifedipine) block L-type calcium channels, while direct arterial vasodilators like nitroglycerin and hydralazine have no effect on blood pressure. Renin-angiotensin system (RAS) blockers include ACE inhibitors (losartan, valsartan), which block angiotensin II receptors, and ARBs (captopril, enalapril), which prevent its synthesis.",
+            "wrongAnswer_4": "Diuretics promote sodium and chloride excretion to reduce blood volume; examples are furosemide, thiazide, and spironolactone. Sympatholytics either block beta-adrenergic receptors (propranolol, metoprolol) or alpha-1 adrenergic blockers (prazosin, terazosin) to decrease vascular tone and heart rate. Vasodilators such as calcium channel blockers (nitroglycerin, hydralazine), while direct arterial vasodilators like verapamil and diltiazem, reduce vascular resistance. Renin-angiotensin system (RAS) blockers include ACE inhibitors (captopril, enalapril), which prevent angiotensin II formation, and ARBs (nitroglycerin, hydralazine) which block its receptors."
+          },
+          {
+            "question": "Which of the following antihypertensive drug classes includes medications like propranolol, metoprolol, and atenolol, which decrease heart rate and contractility, and in chronic use, also decrease peripheral resistance?",
+            "goodAnswer": "Beta-blockers",
+            "wrongAnswer_1": "Calcium channel blockers",
+            "wrongAnswer_2": "Direct arterial vasodilators",
+            "wrongAnswer_3": "Thiazide diuretics",
+            "wrongAnswer_4": "Alpha-1 adrenergic blockers"
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

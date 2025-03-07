@@ -1,0 +1,277 @@
+{
+  "mainTopic": {
+    "title": "Fibroids",
+    "content_info": "The uploaded materials in the PDF files are sometimes in outline form, not as continuous text, therefore it does not include every information but serves as a great foundation to form the questions and provide focus on core content, however additional background knowledge is needed to create quality revision quizzes. Some subtopics of certain topics do not follow each other in order.",
+    "subTopics": [
+      {
+        "title": "General characteristics",
+        "quizzes": [
+          {
+            "question": "What is the most common diagnostic method for fibroids, and what is the primary surgical therapy for symptomatic leiomyomas?",
+            "goodAnswer": "Ultrasonography is the most common diagnostic method, and hysterectomy is the primary surgical therapy for symptomatic leiomyomas.",
+            "wrongAnswer_1": "Magnetic resonance imaging (MRI) is the most common diagnostic method, and oophorectomy is the primary surgical therapy for symptomatic leiomyomas.",
+            "wrongAnswer_2": "Computed tomography (CT) scan is the most common diagnostic method, and cystectomy is the primary surgical therapy for symptomatic leiomyomas.",
+            "wrongAnswer_3": "Positron emission tomography (PET) scan is the most common diagnostic method, and endometrial ablation is the primary surgical therapy for symptomatic leiomyomas.",
+            "wrongAnswer_4": "Manual examination is the most common diagnostic method, and chemotherapy is the primary surgical therapy for symptomatic leiomyomas."
+          },
+          {
+            "question": "What is the most commonly used diagnostic method for fibroids, and what is the primary surgical therapy for symptomatic leiomyomas?",
+            "goodAnswer": "Ultrasonography is the most common diagnostic method, and hysterectomy is the primary surgical therapy for symptomatic leiomyomas.",
+            "wrongAnswer_1": "Magnetic resonance imaging (MRI) is the most common diagnostic method, and myomectomy is the primary surgical therapy for symptomatic leiomyomas.",
+            "wrongAnswer_2": "Bimanual examination is the most common diagnostic method, and embolization is the primary surgical therapy for symptomatic leiomyomas.",
+            "wrongAnswer_3": "Ultrasonography is the most common diagnostic method, and oophorectomy is the primary surgical therapy for symptomatic leiomyomas.",
+            "wrongAnswer_4": "Computed tomography (CT) scan is the most common diagnostic method, and hysterectomy is the primary surgical therapy for symptomatic leiomyomas."
+          },
+          {
+            "question": "What factors contribute to the development of uterine fibroids, and what is the most common clinical presentation of fibroids in women?",
+            "goodAnswer": "Fibroids develop due to the influence of estrogen and progesterone, as well as growth factors like transforming growth factor-s and fibroblast growth factor. The most common clinical presentation is asymptomatic, with many women unaware of their condition.",
+            "wrongAnswer_1": "Uterine fibroids are caused by an excess of androgenic hormones, leading to the development of multiple uterine tumors. The most common clinical presentation is severe abdominal pain requiring immediate medical attention.",
+            "wrongAnswer_2": "Fibroids develop due to a deficiency in estrogen and progesterone, resulting in uterine smooth muscle hyperplasia. The most common clinical presentation is irregular vaginal discharge without any other symptoms.",
+            "wrongAnswer_3": "The primary cause of uterine fibroids is a genetic predisposition alone, independent of hormonal factors. The majority of women with fibroids will present with significant lower extremity swelling and dizziness.",
+            "wrongAnswer_4": "Fibroids are caused by bacterial infections that damage the uterine lining, leading to tumor formation. The most common clinical presentation is fever and fatigue rather than pelvic pain or abnormal bleeding."
+          },
+          {
+            "question": "What is the most common diagnostic method for fibroids, and what is a primary surgical therapy in this case?",
+            "goodAnswer": "Ultrasonography; hysterectomy",
+            "wrongAnswer_1": "Clinical assessment; hormone therapy",
+            "wrongAnswer_2": "Magnetic resonance imaging (MRI); chemotherapy",
+            "wrongAnswer_3": "Blood test; radiation therapy",
+            "wrongAnswer_4": "Biopsy; uterine artery embolization"
+          },
+          {
+            "question": "What is the most commonly used diagnostic method for uterine fibroids, and what is the primary surgical therapy for symptomatic leiomyomas?",
+            "goodAnswer": "Ultrasonography is the most commonly used diagnostic method, and hysterectomy is the primary surgical therapy for symptomatic leiomyomas.",
+            "wrongAnswer_1": "Magnetic resonance imaging (MRI) is the most commonly used diagnostic method, and myomectomy is the primary surgical therapy for symptomatic leiomyomas.",
+            "wrongAnswer_2": "Bimanual examination is the most commonly used diagnostic method, and embolization is the primary surgical therapy for symptomatic leiomyomas.",
+            "wrongAnswer_3": "Ultrasonography is the most commonly used diagnostic method, but only in cases of advanced symptomatic leiomyomas, as other methods are more accurate in early stages.",
+            "wrongAnswer_4": "Computerized tomography (CT) scan is the most commonly used diagnostic method, and open surgical resection is the primary surgical therapy for symptomatic leiomyomas."
+          },
+          {
+            "question": "What is the most common diagnostic method for uterine fibroids, and what is a primary therapy in this case?",
+            "goodAnswer": "Ultrasonography; hysterectomy",
+            "wrongAnswer_1": "Clinical examination; embolization",
+            "wrongAnswer_2": "MRI; chemotherapy",
+            "wrongAnswer_3": "Blood test; radiation therapy",
+            "wrongAnswer_4": "Laparoscopy; hormone therapy"
+          },
+          {
+            "question": "What are the most common clinical findings and the primary treatment approach for women diagnosed with uterine fibroids?",
+            "goodAnswer": "Abnormal vaginal bleeding, abdominal pain, and pressure symptoms; hysterectomy for large or symptomatic fibroids",
+            "wrongAnswer_1": "Amenorrhea, infertility, and hyperlipidemia; chemotherapy to shrink fibroids and prevent growth",
+            "wrongAnswer_2": "Fatigue, weight loss, and irregular menses; antibiotics to treat the uterine infection causing fibroids",
+            "wrongAnswer_3": "Enlarged lymph nodes, chest pain, and dizziness; radiation therapy to target fibroids and prevent metastasis",
+            "wrongAnswer_4": "Shortness of breath, blurred vision, and headaches; hormone therapy to regulate estrogen levels and reduce symptoms"
+          },
+          {
+            "question": "What are the most common clinical findings and the primary treatment approach for women diagnosed with uterine fibroids?",
+            "goodAnswer": "Abnormal vaginal bleeding, pain, and pressure symptoms; surgery (primarily hysterectomy) when diagnosed with symptomatic leiomyomas.",
+            "wrongAnswer_1": "Abdominal distention, fatigue, and weight loss; chemotherapy to shrink fibroids and prevent growth.",
+            "wrongAnswer_2": "Hyperlipidemia, hypertension, and irregular periods; lifestyle modifications (diet and exercise) to manage uterine fibroids.",
+            "wrongAnswer_3": "Chest pain, shortness of breath, and dizziness; immediate cardiac catheterization to rule out coronary artery disease.",
+            "wrongAnswer_4": "Headache, blurred vision, and balance problems; oral contraceptives to regulate hormone levels and reduce fibroid size."
+          },
+          {
+            "question": "What is the most common diagnostic method for fibroids, and what is a primary therapy in this case?",
+            "goodAnswer": "Ultrasonography is the most common diagnostic method, and hysterectomy is a primary therapy for patients with large or symptomatic leiomyomas.",
+            "wrongAnswer_1": "Magnetic resonance imaging (MRI) is the most common diagnostic method, and embolization is a primary therapy for symptomatic leiomyomas.",
+            "wrongAnswer_2": "Bimanual examination is the most common diagnostic method, and myomectomy is a primary therapy for patients with large or symptomatic leiomyomas.",
+            "wrongAnswer_3": "Ultrasonography is the most common diagnostic method, but only in the case of pedunculated submucosal leiomyomas; otherwise, a laparoscopy is required for accurate assessment, and ultimately, embolization is the primary therapy.",
+            "wrongAnswer_4": "Computed tomography (CT) scan is the most common diagnostic method, and GnRH agonists are used as the primary therapy to shrink fibroids before surgery."
+          }
+        ]
+      },
+      {
+        "title": "Location, Incidence & etiology, development of fibroids",
+        "quizzes": [
+          {
+            "question": "What is the most common therapy for women with symptomatic fibroids, and what is the most frequent surgical procedure performed in this context?",
+            "goodAnswer": "Surgery is the most common therapy, and hysterectomy is the most frequent surgical procedure.",
+            "wrongAnswer_1": "Radiotherapy is the most common therapy, and endometrial ablation is the most frequent surgical procedure.",
+            "wrongAnswer_2": "Medical therapy is the most common approach, and oophorectomy is the most frequent surgical procedure.",
+            "wrongAnswer_3": "Conservative management is preferred, and uterine artery embolization is the most frequent procedure.",
+            "wrongAnswer_4": "Chemotherapy is used, and total abdominal hysterectomy is the most frequent surgery."
+          },
+          {
+            "question": "What makes up the majority of clinically apparent fibroids, and what is the most common clinical manifestation of symptomatic fibroids?",
+            "goodAnswer": "Clinically apparent fibroids are, in the vast majority, leiomyomas, and the most common symptom is menorrhagia due to the vascularity of the tumors and the altered endometrial architecture.",
+            "wrongAnswer_1": "Fibroids are predominantly adenomyomas, vascular tumors that cause irregular vaginal discharge rather than menorrhagia.",
+            "wrongAnswer_2": "The majority of clinically apparent tumors are carcinoid tumors, and the most common symptom is abdominal pain due to pressure on the nerves.",
+            "wrongAnswer_3": "Most pelvic tumors in women are teratomas, which rarely cause symptoms but are diagnosed incidentally on routine imaging.",
+            "wrongAnswer_4": "Symptomatic fibroids are usually caused by lymphoma, leading to weight loss and fatigue rather than abnormal bleeding."
+          },
+          {
+            "question": "What is the most common therapy for women with symptomatic fibroids, and what is the most frequent surgical procedure performed in this context?",
+            "goodAnswer": "Surgery; hysterectomy",
+            "wrongAnswer_1": "Hormone therapy; uterine artery embolization",
+            "wrongAnswer_2": "Radiation therapy; oophorectomy",
+            "wrongAnswer_3": "Drug therapy; endometrial ablation",
+            "wrongAnswer_4": "Traditional Chinese medicine; vaginal mesh repair"
+          }
+        ]
+      },
+      {
+        "title": "Diagnosis",
+        "quizzes": [
+          {
+            "question": "What is the most frequent surgical therapy for large or symptomatic leiomyomas, and what is the mechanism of action of GnRH agonists in treating fibroids?",
+            "goodAnswer": "Hysterectomy; they induce a hypoestrogenic, pseudomenopausal state, leading to fibroid shrinkage by reducing estrogen levels.",
+            "wrongAnswer_1": "Oophorectomy; they block the production of progesterone, causing direct apoptosis of fibroids.",
+            "wrongAnswer_2": "Uterine artery embolization; it selectively targets the uterine arteries to shrink fibroids by inducing thrombosis.",
+            "wrongAnswer_3": "Selective estrogen receptor modulators; they act by selectively binding to estrogen receptors in fibroids, leading to their shrinkage.",
+            "wrongAnswer_4": "Laparoscopic assisted vaginal hysterectomy; they minimize blood loss and shorten recovery time compared to open hysterectomy, making it superior in treating uterine fibroids."
+          },
+          {
+            "question": "What are the most frequent surgical therapy and the mechanism of action of GnRH agonists in treating fibroids?",
+            "goodAnswer": "The most frequent surgical therapy is hysterectomy, and GnRH agonists, like Lupron, induce a hypoestrogenic, pseudomenopausal state, leading to fibroid shrinkage by reducing estrogen levels.",
+            "wrongAnswer_1": "The most frequent surgical therapy is oophorectomy, and GnRH agonists increase estrogen production, stimulating fibroid growth.",
+            "wrongAnswer_2": "The most frequent surgical therapy is radiation therapy, and GnRH agonists block progesterone receptors, leading to fibroid shrinkage.",
+            "wrongAnswer_3": "The most frequent surgical therapy is chemotherapy, and GnRH agonists directly kill smooth muscle cells, causing fibroid regression.",
+            "wrongAnswer_4": "The most frequent surgical therapy is laparoscopy, and GnRH agonists enhance vascular supply to the uterus, resulting in fibroid growth."
+          },
+          {
+            "question": "What is the most common diagnostic method for fibroids, and what are the characteristics of a bimanual examination in this context?",
+            "goodAnswer": "Ultrasonography is the most common diagnostic method, and a bimanual examination reveals an enlarged, mobile, and irregular uterus that can be palpated abdominally above the symphysis.",
+            "wrongAnswer_1": "Magnetic resonance imaging (MRI) is the most common diagnostic method, and a bimanual examination reveals a contracted, firm, and smooth uterus that is difficult to palpate abdominally.",
+            "wrongAnswer_2": "Computed tomography (CT) scan is the most common diagnostic method, and a bimanual examination reveals a normal-sized, fixed, and symmetric uterus that cannot be palpated above the symphysis.",
+            "wrongAnswer_3": "Pathological inspection is the most common diagnostic method, and a bimanual examination confirms the diagnosis by identifying irregular vascular patterns in the uterine muscle.",
+            "wrongAnswer_4": "Ultrasonography is the most common diagnostic method, but it cannot detect submucous fibroids. A bimanual examination reveals a small, hard, and non-mobile mass high in the pelvis."
+          },
+          {
+            "question": "What factors influence the clinical growth rate of uterine leiomyomas?",
+            "goodAnswer": "Estrogen and progesterone stimulation, transforming growth factor-\u03b2, basic fibroblast growth factor, and somatic mutations of genes like HMGI-C.",
+            "wrongAnswer_1": "Uterine leiomyomas grow at a constant rate regardless of hormonal influence or growth factor exposure.",
+            "wrongAnswer_2": "Only genetic mutations in ER alpha and ER beta receptors determine growth rate, while hormones have no significant effect.",
+            "wrongAnswer_3": "Basal metabolic rate, age, and race of the individual, rather than hormonal factors or growth factors, determine the growth rate of uterine leiomyomas.",
+            "wrongAnswer_4": "Ultrasound examinations have shown that uterine leiomyomas shrink at a predictable rate over time due to the body's natural immune response."
+          },
+          {
+            "question": "What are the findings of a bimanual examination in a patient with uterine fibroids, and what is the role of magnetic resonance imaging (MRI) in diagnosing fibroids?",
+            "goodAnswer": "The uterus will be enlarged, mobile, and irregular. MRI can aid in distinguishing leiomyomas from adenomyomas and leiomyosarcomas based on electron spin characteristics. ",
+            "wrongAnswer_1": "The cervix will be stenosed, and the uterus will be fixed. MRI is used to detect endometrial polyps and guide uterine artery embolization.",
+            "wrongAnswer_2": "The uterus will be small and firm. MRI helps to differentiate between fibroids and ovarian cysts by evaluating blood flow patterns.",
+            "wrongAnswer_3": "A bimanual examination is not helpful in diagnosing uterine fibroids. MRI is the primary method for detecting uterine tumors, including fibroids, adenomyomas, and leiomyosarcomas.",
+            "wrongAnswer_4": "The uterus will be normal size, smooth, and regular. MRI is not necessary as it only provides information about muscle structure, not tumor presence or characteristics."
+          },
+          {
+            "question": "What is the most frequent surgical therapy for large or symptomatic leiomyomas, and what are the effects of estrogen and progesterone on fibroid growth?",
+            "goodAnswer": "Hysterectomy is the most frequent surgical therapy for large or symptomatic leiomyomas. Estrogen and progesterone stimulate growth in most but not all leiomyomas.",
+            "wrongAnswer_1": "Myomectomy is the most frequent surgical therapy for large or symptomatic leiomyomas. Estrogen and progesterone inhibit growth in most but not all leiomyomas.",
+            "wrongAnswer_2": "Embolization is the most frequent surgical therapy for large or symptomatic leiomyomas. Estrogen and progesterone have no effect on leiomyoma growth.",
+            "wrongAnswer_3": "Radiation therapy is the most frequent surgical therapy for large or symptomatic leiomyomas. Estrogen and progesterone cause rapid regression of leiomyomas.",
+            "wrongAnswer_4": "Chemotherapy is the most frequent surgical therapy for large or symptomatic leiomyomas. Estrogen and progesterone induce apoptosis in leiomyomas."
+          },
+          {
+            "question": "What are the characteristics of a bimanual examination in a patient with uterine fibroids, and what is the role of magnetic resonance imaging (MRI) in diagnosing fibroids?",
+            "goodAnswer": "A bimanual examination may reveal an enlarged, mobile, and irregular uterus. MRI can aid in distinguishing leiomyomas from adenomyomas and leiomyosarcomas based on electron spin characteristics.",
+            "wrongAnswer_1": "A bimanual examination will show a contracted, rigid, and smooth uterus. MRI is used to detect only the size and number of fibroids, not their composition or differentiation from other tumors.",
+            "wrongAnswer_2": "A bimanual examination should always be supplemented with abdominal ultrasonography before proceeding with further diagnostic tests. MRI is primarily used to assess blood flow within the uterine fibroids rather than to distinguish them from other uterine conditions.",
+            "wrongAnswer_3": "A bimanual examination will reveal a normal-sized, regular uterus. MRI is not helpful in diagnosing leiomyomas and should be avoided due to its high radiation exposure.",
+            "wrongAnswer_4": "A bimanual examination is sufficient to fully diagnose uterine fibroids without needing further imaging. MRI is only used to measure the exact dimensions of the uterine cavity rather than to identify the characteristics of uterine tumors."
+          },
+          {
+            "question": "What are the possible clinical findings associated with uterine leiomyomas, and which method can be used to visualize and embolize fibroids, causing infarction and potentially reducing bleeding and size?",
+            "goodAnswer": "Discharge, vaginal bleeding, pain, and pressure; Subtraction angiography",
+            "wrongAnswer_1": "Amenorrhea, infertility, and pelvic pain; Open surgical biopsy",
+            "wrongAnswer_2": "Regular menstrual cycles, reduced uterine size, and improved blood flow; Laparoscopy",
+            "wrongAnswer_3": "Increased estrogen production, leading to rapid growth; Ultrasound guidance",
+            "wrongAnswer_4": "Abdominal distention, weight loss, and fatigue; Magnetic resonance imaging (MRI)"
+          },
+          {
+            "question": "What is a common method used to embolize uterine fibroids, and what happens to the fibroids after embolization?",
+            "goodAnswer": "Subtraction angiography can visualize and embolize uterine fibroids, causing infarction and potentially reducing bleeding and size.",
+            "wrongAnswer_1": "Open surgery is used to embolize uterine fibroids, causing fibrosis and potentially increasing blood supply to the fibroids.",
+            "wrongAnswer_2": "Ultrasonography can visualize and embolize uterine fibroids, causing necrosis and potentially increasing menorrhagia.",
+            "wrongAnswer_3": "MRI is used to embolize uterine fibroids, causing calcification and potentially reducing the need for surgery.",
+            "wrongAnswer_4": "A bimanual examination can detect and embolize uterine fibroids, causing regression and potentially stopping vaginal discharge."
+          },
+          {
+            "question": "What are the possible clinical findings associated with uterine leiomyomas, and which method can be used to visualize and embolize fibroids, causing infarction and potentially reducing bleeding and size?",
+            "goodAnswer": "Discharge, vaginal bleeding, pain, and pressure; Subtraction angiography",
+            "wrongAnswer_1": "Amenorrhea, infertility, and abdominal distension; Open biopsy",
+            "wrongAnswer_2": "Weight gain, fatigue, and dizziness; Ultrasound guidance",
+            "wrongAnswer_3": "Regular menstrual cycles with no pain or discharge; Chemotherapy",
+            "wrongAnswer_4": "Increased libido, enhanced fertility, and reduced risk of infection; Natural remedies"
+          },
+          {
+            "question": "What is the most frequent surgical therapy for large or symptomatic leiomyomas, and what is the mechanism of action of GnRH agonists in treating fibroids?",
+            "goodAnswer": "Hysterectomy is the most frequent surgical therapy for large or symptomatic leiomyomas, and GnRH agonists like Lupron induce a hypoestrogenic, pseudomenopausal state, leading to fibroid shrinkage by reducing estrogen levels.",
+            "wrongAnswer_1": "Myomectomy is the most frequent surgical therapy for large or symptomatic leiomyomas, and GnRH agonists like Danazol induce a hyperestrogenic state, leading to fibroid growth by increasing estrogen levels.",
+            "wrongAnswer_2": "Subtraction angiography is the most frequent surgical therapy for large or symptomatic leiomyomas, and GnRH agonists like Zoladex induce a hypoestrogenic, pseudomenopausal state, leading to fibroid shrinkage by increasing progesterone levels.",
+            "wrongAnswer_3": "Uterine artery embolization is the most frequent surgical therapy for large or symptomatic leiomyomas, and GnRH agonists like Lupron induce a hyperestrogenic state, leading to fibroid growth by decreasing progesterone levels.",
+            "wrongAnswer_4": "Laparoscopic ovarian cystectomy is the most frequent surgical therapy for large or symptomatic leiomyomas, and GnRH agonists like Zoladex induce a hypoestrogenic, pseudomenopausal state, leading to fibroid shrinkage by blocking estrogen receptors."
+          },
+          {
+            "question": "What are the possible clinical findings associated with uterine leiomyomas, and which method can be used to visualize and embolize fibroids, causing infarction and potentially reducing bleeding and size?",
+            "goodAnswer": "Discharge, vaginal bleeding, pain, and pressure; Subtraction angiography",
+            "wrongAnswer_1": "Amenorrhea, infertility, and pelvic pain; Open surgical biopsy",
+            "wrongAnswer_2": "Weight gain, fatigue, and dizziness; Ultrasound guidance",
+            "wrongAnswer_3": "Regular menstrual cycles, reduced uterine size, and improved blood flow; Magnetic resonance imaging (MRI)",
+            "wrongAnswer_4": "Increased estrogen levels, leading to more rapid fibroid growth; Laparoscopy"
+          }
+        ]
+      },
+      {
+        "title": "Therapy",
+        "quizzes": [
+          {
+            "question": "What is the most common method for diagnosing fibroids, and what happens when submucosal fibroids are present?",
+            "goodAnswer": "Ultrasonography is the most common method, and submucosal fibroids can be missed on traditional ultrasonography.",
+            "wrongAnswer_1": "Magnetic resonance imaging (MRI) is the most common method, and submucosal fibroids can be missed on traditional ultrasonography.",
+            "wrongAnswer_2": "Ultrasonography is the most common method, but it always accurately detects all types of fibroids, including submucosal fibroids.",
+            "wrongAnswer_3": "A bimanual examination is the most common method, and it reliably detects submucosal fibroids.",
+            "wrongAnswer_4": "Computerized tomography (CT) scan is used to diagnose fibroids, and it shows that submucosal fibroids cause significant symptoms in all cases."
+          },
+          {
+            "question": "What is the most accurate method to distinguish leiomyomas from adenomyomas and leiomyosarcomas based on electron spin characteristics, and what happens to the uterine size with the use of androgenic agents?",
+            "goodAnswer": "Magnetic resonance imaging (MRI) can often distinguish leiomyomas from adenomyomas and leiomyosarcomas based on electron spin characteristics. Androgenic agents like Danazol and Gestrinone can reduce uterine size by lowering estrogen levels, which in turn reduces the stimulation of fibroids.",
+            "wrongAnswer_1": "Ultrasonography (USG) can often distinguish leiomyomas from adenomyomas and leiomyosarcomas based on acoustic impedance. Estrogenic agents like ethinyl estradiol and conjugated estrogens can increase uterine size, leading to further growth of fibroids.",
+            "wrongAnswer_2": "Positron emission tomography (PET) can often distinguish leiomyomas from adenomyomas and leiomyosarcomas based on metabolic activity. Androgenic agents, while they lower estrogen levels, actually increase uterine size by stimulating progesterone receptors.",
+            "wrongAnswer_3": "A bimanual examination is accurate in distinguishing leiomyomas from adenomyomas and leiomyosarcomas. Oral contraceptives with progestins alone (without estrogen) can shrink fibroids by inducing a hypoestrogenic state.",
+            "wrongAnswer_4": "Computerized tomography (CT) scan can often distinguish leiomyomas from adenomyomas and leiomyosarcomas based on tissue density. Androgenic agents work by directly inhibiting the growth of smooth muscle cells, rather than through estrogen modulation."
+          },
+          {
+            "question": "What is the primary therapy for patients with large or symptomatic leiomyomas, and what is the most common indication for hysterectomy in the United States, accounting for more than 175,000 procedures yearly?",
+            "goodAnswer": "Surgery; diagnosis of leiomyoma",
+            "wrongAnswer_1": "Radiotherapy; diagnosis of endometrial hyperplasia",
+            "wrongAnswer_2": "Hormone therapy; diagnosis of ovarian cancer",
+            "wrongAnswer_3": "Chemotherapy; diagnosis of cervical dysplasia",
+            "wrongAnswer_4": "Clinical observation; diagnosis of uterine prolapse"
+          },
+          {
+            "question": "What makes up the majority of the uterine tumors diagnosed in women, and what are the characteristics of such tumors?",
+            "goodAnswer": "Leiomyomas, also known as fibroids, are the most common uterine tumor diagnosed in women. They are benign smooth muscle tumors that can occur anywhere in the uterus, including the myometrium, submucosa, or serosa. Intramural fibroids grow within the myometrium, subserosal fibroids project outward into the peritoneal cavity, and submucosal fibroids bulge into the endometrial cavity. Rarely, these tumors can grow into the cervix or the broad ligament.",
+            "wrongAnswer_1": "Adenomyosis, a condition where endometrial tissue grows inside the uterine wall, is the most common uterine tumor diagnosed in women. It causes irregular bleeding, pain, and pressure symptoms. Adenomyosis can be diagnosed by ultrasound or MRI and is treated with hormonal therapy or surgery.",
+            "wrongAnswer_2": "Endometriomas, which are cystic lesions filled with thick brown fluid, are the most common uterine tumor diagnosed in women. They arise from endometriosis, a disorder where endometrial tissue grows outside the uterus. These tumors are often found in the ovaries and can cause pain during menstruation or intercourse.",
+            "wrongAnswer_3": "Juvenile myometrial hypertrophy, a non-neoplastic growth of uterine smooth muscle, is the most common uterine tumor diagnosed in women. It typically occurs in premenopausal women and resolves spontaneously. It is diagnosed by ultrasound and does not require treatment unless it causes severe symptoms.",
+            "wrongAnswer_4": "Cervical polyps, which are small, finger-like projections of tissue from the uterine cervix, are the most common uterine tumor diagnosed in women. They are usually benign and often asymptomatic. They can be removed surgically if they cause symptoms such as abnormal bleeding or discharge."
+          },
+          {
+            "question": "What is the most common therapy for women with symptomatic fibroids, and what are the characteristics of this therapy compared to other treatment options?",
+            "goodAnswer": "Surgery is the most common therapy, with hysterectomy being a definitive treatment that eliminates symptoms and the risk of future complications. It is typically performed when women are no longer interested in pregnancy. While myomectomy preserves fertility, it carries a risk of recurrence and may require additional surgery.",
+            "wrongAnswer_1": "Hormonal therapy with GnRH agonists is the most common treatment, as it induces a hypoestrogenic state and shrinks fibroids without surgical intervention. It is effective in reducing symptoms and can be used in premenopausal women who wish to preserve fertility.",
+            "wrongAnswer_2": "Estrogen supplementation is the mainstay of treatment, as it suppresses the growth of fibroids by regulating hormone levels in the uterine tissue. It helps to control bleeding and reduces the risk of developing new lesions, making it suitable for long-term management.",
+            "wrongAnswer_3": "Traditional chemotherapy is the most common therapy, as it targets the rapidly dividing cells of the fibroid tumor. It works by killing the mutated cells and shrinking the fibroid over time. This method is used when other treatment options are not feasible or when the fibroids are very large.",
+            "wrongAnswer_4": "Regular aspirin therapy is effective in managing symptomatic fibroids by preventing blood clots and reducing uterine inflammation. It helps to control irregular bleeding and can be used as an alternative to surgery in certain cases."
+          },
+          {
+            "question": "What is the most accurate method to distinguish leiomyomas from adenomyomas and leiomyosarcomas based on electron spin characteristics, and what happens to the uterine size with the use of androgenic agents?",
+            "goodAnswer": "Magnetic resonance imaging (MRI) can often distinguish leiomyomas from adenomyomas and leiomyosarcomas based on electron spin characteristics. Androgenic agents like Danazol and Gestrinone can suppress estrogen production, leading to uterine shrinkage.",
+            "wrongAnswer_1": "Ultrasonography is the most accurate method to distinguish leiomyomas from adenomyomas and leiomyosarcomas based on electron spin characteristics. Androgenic agents like Danazol and Gestrinone can stimulate estrogen production, leading to uterine growth.",
+            "wrongAnswer_2": "Magnetic resonance imaging (MRI) can often distinguish leiomyomas from adenomyomas and leiomyosarcomas based on electron spin characteristics. Estrogen therapy (Premarin), rather than androgenic agents, is used to suppress uterine growth and induce a hypoestrogenic state.",
+            "wrongAnswer_3": "Ultrasonography, not MRI, is used to distinguish leiomyomas from adenomyomas and leiomyosarcomas based on electron spin characteristics. Androgenic agents like Danazol and Gestrinone can often cause uterine enlargement due to increased androgen levels.",
+            "wrongAnswer_4": "Magnetic resonance imaging (MRI) can often distinguish leiomyomas from adenomyomas and leiomyosarcomas based on electron spin characteristics. The use of androgenic agents like Danazol and Gestrinone does not affect uterine size and has no impact on estrogen production."
+          },
+          {
+            "question": "What is the primary therapy for patients with large or symptomatic leiomyomas, and what is the most common indication for hysterectomy in the United States, accounting for more than 175,000 procedures yearly?",
+            "goodAnswer": "Surgery; diagnosis of leiomyoma",
+            "wrongAnswer_1": "Hormone therapy; endometrial hyperplasia",
+            "wrongAnswer_2": "Radiation therapy; uterine prolapse",
+            "wrongAnswer_3": " Chemotherapy; diagnosis of ovarian cancer",
+            "wrongAnswer_4": "Manual removal; diagnosis of cervical stenosis"
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}

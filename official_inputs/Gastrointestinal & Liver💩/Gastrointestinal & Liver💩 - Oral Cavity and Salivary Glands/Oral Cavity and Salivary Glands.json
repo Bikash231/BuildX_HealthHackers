@@ -1,0 +1,23 @@
+{
+  "mainTopic": {
+    "title": "Oral Cavity and Salivary Glands",
+    "content_info": "While the lectures are good for getting an idea of the structure of the course, the slides mostly contain images and diagrams, so to get more detailed information it is best to look through the lecture handouts, which follow the structure of the lecture only with more detailed descripitions, and the student notes which are not only more detailed but cover more topics than the lectures.",
+    "subTopics": [
+      {
+        "title": "Mucosa of the Oral Cavity"
+      },
+      {
+        "title": "Histology of Teeth"
+      },
+      {
+        "title": "Histology of Salivary Glands"
+      },
+      {
+        "title": "Mechanism and Regulation of Saliva Secretion"
+      },
+      {
+        "title": "Components of Saliva"
+      }
+    ]
+  }
+}

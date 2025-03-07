@@ -1,0 +1,280 @@
+{
+  "mainTopic": {
+    "title": "VDJ recombination",
+    "content_info": "",
+    "subTopics": [
+      {
+        "title": "Genes and cells involved in VDJ recombionation",
+        "quizzes": [
+          {
+            "question": "What is the primary function of the pre-B cell receptor (pre-CR) in the development of B lymphocytes?",
+            "goodAnswer": "The pre-BCR signals for the cessation of immunoglobulin gene rearrangement and promotes the survival of those clones that have successfully assembled a functional mu heavy chain while eliminating those with unproductive rearrangements.",
+            "wrongAnswer_1": "The pre-BCR induces the direct activation of downstream signaling pathways, leading to immediate IgM production on the B cell surface.",
+            "wrongAnswer_2": "It serves to neutralize pathogens by binding to antigens on the surface of invading microorganisms, initiating an immune response.",
+            "wrongAnswer_3": "It triggers the automatic differentiation of B cells into plasma cells, allowing them to produce high levels of antibodies.",
+            "wrongAnswer_4": "The pre-BCR functions to downregulate the expression of IL-7 receptor, making B cells independent of IL-7 signaling for survival."
+          },
+          {
+            "question": "How does the process of isotype switching in B cells alter the effector functions of antibodies while maintaining antigen specificity?",
+            "goodAnswer": "Isotype switching changes the constant region of the heavy chain, altering effector functions such as complement activation or binding to different immune cells, while the antigen-binding site (V region) remains unchanged, preserving specificity.",
+            "wrongAnswer_1": "Isotype switching induces de novo generation of a new VDJ recombination process, leading to changes in both antigen specificity and effector functions of antibodies.",
+            "wrongAnswer_2": "It involves a complete resynthesis of the heavy chain, resulting in both effector function and antigen specificity alterations.",
+            "wrongAnswer_3": "Isotype switching only occurs in T cells and does not affect B cells or antibody functions.",
+            "wrongAnswer_4": "It alters the V region of the antibody, causing a shift in antigen specificity but leaving effector functions unchanged."
+          },
+          {
+            "question": "Which of the following is NOT a mechanism by which VDJ recombination generates diversity in antibody repertoires?",
+            "goodAnswer": "Random pairing of different heavy and light chains during B cell development",
+            "wrongAnswer_1": "N region addition by TdT at junctions between gene segments",
+            "wrongAnswer_2": "Combinatorial diversity due to various V, D, and J segment combinations",
+            "wrongAnswer_3": "Germline diversity from multiple V, D, and J gene segments",
+            "wrongAnswer_4": "Imprecise joining of gene segments leading to amino acid changes"
+          },
+          {
+            "question": "What happens to the chances of a productive rearrangement of the immunoglobulin genes as the number of D to J attempts increases?",
+            "goodAnswer": "The more attempts at D to J joining, the higher the chance of a productive rearrangement because it increases the odds of correctly aligning the gene segments for proper recombination.",
+            "wrongAnswer_1": "The number of D to J attempts does not influence the productivity of rearrangement as each attempt is independent and does not affect others.",
+            "wrongAnswer_2": "Increasing D to J attempts leads to a lower chance of productive rearrangement because it raises the probability of random, unproductive alignments.",
+            "wrongAnswer_3": "The productivity of D to J rearrangement is solely dependent on the accuracy of RAG enzymes and is not affected by the number of attempts.",
+            "wrongAnswer_4": "More attempts at D to J joining will always result in productive rearrangements as the process is tightly regulated to ensure successful heavy chain assembly in all cases."
+          },
+          {
+            "question": "Why is it impossible for a B cell to express both IgM and IgG at the same time?",
+            "goodAnswer": "A B cell can only express IgM and IgD until it undergoes class switch recombination, which occurs after activation by antigen.",
+            "wrongAnswer_1": "B cells always express IgM, IgG, and IgA simultaneously to maintain immune surveillance.",
+            "wrongAnswer_2": "Co-expression of IgM and IgG is possible through genetic mutations in the antibody genes.",
+            "wrongAnswer_3": "IgG is expressed only in T cells, not B cells, and is responsible for cell-mediated immunity.",
+            "wrongAnswer_4": "IgM and IgG are produced by different cell types: IgM by macrophages and IgG by neutrophils."
+          },
+          {
+            "question": "What happens to the chances of a productive rearrangement of the immunoglobulin genes as the number of D to J attempts increases?",
+            "goodAnswer": "The more D to J rearrangements, the higher the chance of a productive rearrangement because it increases the probability of correctly joining the segments in frame.",
+            "wrongAnswer_1": "The outcome of D to J rearrangements is independent of the number of attempts, as each attempt has a fixed probability of success.",
+            "wrongAnswer_2": "Increasing D to J rearrangements leads to a lower chance of productive rearrangement because it raises the likelihood of introducing frameshift mutations.",
+            "wrongAnswer_3": "The probability of productive D to J rearrangement remains constant regardless of the number of attempts, as each attempt is independent.",
+            "wrongAnswer_4": "As more D to J rearrangements occur, the chances of productive rearrangement decrease because the available D and J segments become depleted."
+          },
+          {
+            "question": "Which statement correctly describes the effect of N region addition in VDJ recombination?",
+            "goodAnswer": "N region addition, mediated by TdT, occurs at the junctions between V, D, and J segments and increases the diversity of amino acids at these junctions, which alters antigen binding. ",
+            "wrongAnswer_1": "N region addition refers to the process of adding a non-templated nucleotide to the constant region of the heavy chain, which determines the isotype of the antibody. ",
+            "wrongAnswer_2": "N region addition only occurs in T cell development, not B cell development, and is responsible for generating diversity in the TCR repertoire. ",
+            "wrongAnswer_3": "N region addition ensures that all antibodies have the same amino acid sequence at the antigen-binding sites, which standardizes their binding affinity. ",
+            "wrongAnswer_4": "N region addition is a process by which a specific nucleotide sequence is added to the V gene segment of the light chain, altering the isotype of the antibody. "
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of allelic exclusion in VDJ recombination?",
+            "goodAnswer": "Allelic exclusion ensures that each B cell expresses only one heavy chain and one light chain by halting recombination after a successful rearrangement. It does not require functional heavy and light chains to turn off the recombination machinery, and it does not involve the deletion of unrearranged alleles.",
+            "wrongAnswer_1": "Allelic exclusion ensures that each B cell expresses only one heavy chain and one light chain, meaning it does not express both paternal and maternal alleles. This is achieved by turning off the recombination machinery after a successful rearrangement and deleting unrearranged alleles.",
+            "wrongAnswer_2": "Allelic exclusion is the process of selecting the allele that will be rearranged first, either the maternal or paternal chromosome. It occurs before heavy chain DJ rearrangement and is designed to promote diversity by allowing multiple functional antibodies to be expressed on a single B cell.",
+            "wrongAnswer_3": "It ensures that all B cells express the same heavy and light chains by synchronizing recombination between the two chromosomes. It requires only one functional chain (either heavy or light) to turn off recombination machinery, and it involves adding non-templated nucleotides at the junctions between gene segments.",
+            "wrongAnswer_4": "It guarantees the expression of both the paternal and maternal alleles of the immunoglobulin genes. This is accomplished by continuously activating the recombination machinery until all alleles are successfully rearranged, and it involves adding templated nucleotides at the junctions between gene segments."
+          },
+          {
+            "question": "What is the molecular basis for the differential expression of membrane-bound versus secreted forms of immunoglobulins?",
+            "goodAnswer": "Differential RNA splicing allows B cells to express either membrane-bound or secreted forms of IgM. In the secreted form, the exon encoding the transmembrane domain is absent from the mRNA, while it is present in the membrane-bound form.",
+            "wrongAnswer_1": "Differential gene transcription, where only certain B cell clones have genes for secreted or membrane forms of IgM, while others do not.",
+            "wrongAnswer_2": "Secretion is determined by the specific VDJ recombination event that occurs in each individual B cell, with some VDJ combinations yielding secreted forms and others yielding membrane-bound forms.",
+            "wrongAnswer_3": "Isotype switching from IgM to IgG, IgA, or IgE alters the effector function of the antibody and determines whether it is secreted or membrane-bound. Until switching, all B cells express only membrane-bound IgM.",
+            "wrongAnswer_4": "Different B cell subsets are pre-programmed during development to produce either secreted or membrane forms of immunoglobulins. Some B cell subsets always produce secreted forms, while others always produce membrane-bound forms."
+          },
+          {
+            "question": "Which of the following is a characteristic of the pre-B cell receptor (pre-CR) function in B cell development?",
+            "goodAnswer": "The pre-CR signals for the cessation of D to J and V to DJ rearrangements in the same B cell, preventing further rearrangements on both chromosomes.",
+            "wrongAnswer_1": "The pre-CR induces the immediate expression of all immunoglobulin isotypes (IgM, IgG, IgA, IgE, and IgD) on the B cell surface.",
+            "wrongAnswer_2": "The pre-CR triggers the release of antibodies from B cells before they reach maturity, allowing for immediate immune responses.",
+            "wrongAnswer_3": "The pre-CR ensures that all B cells, even those without successful VDJ recombination, will survive and differentiate into plasma cells.",
+            "wrongAnswer_4": "The pre-CR acts as a receptor for antigen binding before the B cell expresses membrane-bound IgM and IgD, allowing it to initiate an immune response."
+          },
+          {
+            "question": "Which of the following is NOT a characteristic of allelic exclusion in VDJ recombination?",
+            "goodAnswer": "Allelic exclusion prevents only the heavy chain from being expressed on the B cell surface until all the possibilities of VDJ recombination have been exhausted. It does not apply to the light chain.",
+            "wrongAnswer_1": "Allelic exclusion ensures that each B cell expresses only one heavy chain and one light chain by silencing other gene rearrangements once a functional chain is made.",
+            "wrongAnswer_2": "If the initial VDJ rearrangement is unsuccessful, allelic exclusion allows for multiple attempts at gene rearrangements until a functional chain is produced.",
+            "wrongAnswer_3": "Allelic exclusion is a tightly regulated process that occurs only in B cells and follows a specific order of gene rearrangements. It is halted once a functional heavy and light chain protein is expressed.",
+            "wrongAnswer_4": "Altered forms of allelic exclusion are associated with autoimmune diseases due to the expression of multiple antibody specificities by individual B cells."
+          },
+          {
+            "question": "What are the two main forms of diversity generated by T cell selection in the thymus?",
+            "goodAnswer": "MHC-restricted TCR diversity and central tolerance to self antigens",
+            "wrongAnswer_1": "Antigen-independent TCR diversity and peripheral tolerance to foreign antigens",
+            "wrongAnswer_2": "T cell activation and memory formation in secondary lymphoid organs",
+            "wrongAnswer_3": "Cytokine production and chemotaxis in response to pathogen exposure",
+            "wrongAnswer_4": "Positive selection for TCR signaling and negative selection for TCR antagonism"
+          },
+          {
+            "question": "What are the key features of the pre-B cell receptor (pre-CR) function in B cell development?",
+            "goodAnswer": "The pre-CR, composed of the surrogate light chain, the functionally rearranged heavy chain, and invariant proteins, ensures the productive rearrangement of the immunoglobulin genes. It signals the arrest of further D to J and V to DJ rearrangements. It induces the proliferation of the lymphoblast. It is expressed only in pre-B cells and is downregulated upon successful light chain rearrangement.",
+            "wrongAnswer_1": "The pre-CR is composed of a fully functional heavy and light chain, and it signals for immediate isotype switching to IgG. It induces the apoptosis of lymphoblasts to eliminate cells with unproductive rearrangements. It is expressed in all stages of B cell development, including pro-B cells and mature B cells. It is upregulated upon successful light chain rearrangement.",
+            "wrongAnswer_2": "The pre-CR includes the surrogate light chain, but it does not play a role in arresting D to J or V to DJ rearrangements. It induces differentiation into T cells instead of B cells. It is expressed only in T cells and is downregulated upon successful heavy chain rearrangement.",
+            "wrongAnswer_3": "The pre-CR is composed of a fully functional heavy and light chain and signals for immediate differentiation into plasma cells. It induces the proliferation of macrophages. It is expressed in all immune cells, including T cells and macrophages. It is upregulated upon unsuccessful light chain rearrangement.",
+            "wrongAnswer_4": "The pre-CR is a complex of only surrogate light chains and invariant proteins, without the need for a productively rearranged heavy chain. It stimulates the production of cytokines. It is expressed in all stages of B cell development, including pro-B cells and mature B cells. It is upregulated upon successful heavy chain rearrangement."
+          }
+        ]
+      },
+      {
+        "title": "Isotype switching in B cells",
+        "quizzes": [
+          {
+            "question": "What are the consequences of a non-productive rearrangement during VDJ recombination, and how does it affect the fate of the lymphocyte?",
+            "goodAnswer": "If the rearrangement results in a non-productive sequence, the TCR or BCR signaling is absent, leading to apoptosis of the lymphocyte. This ensures that only lymphocytes with a functional antigen receptor survive.",
+            "wrongAnswer_1": "Non-productive rearrangements induce the immediate activation of remaining TCR genes for another recombination attempt, as long as there are gene segments available in other TCR loci.",
+            "wrongAnswer_2": "Apoptosis occurs only if all TCR chains undergo non-productive rearrangements, meaning every single VDJ recombination in both alpha and beta chains must be invalid.",
+            "wrongAnswer_3": "Non-productive rearrangements lead to the direct differentiation of T cells into regulatory T cells (Tregs), which control immune responses by suppressing autoimmune reactions.",
+            "wrongAnswer_4": "Lymphocytes with non-productive rearrangements will remain in the bone marrow until all TCR genes have been attempted for recombination; they do not undergo apoptosis but rather remain as precursors."
+          },
+          {
+            "question": "Which of the following statements correctly describes the process of isotype switching in B cells?",
+            "goodAnswer": "Mature B cells first express the membrane form of IgM, and later, the secreted form of IgM, with the same idiotype, or heavy chain variable region. Changes in membrane mu, secreted mu, and membrane delta expression are mediated by RNA splicing.",
+            "wrongAnswer_1": "Isotype switching allows B cells to change their TCR affinity for different antigens, ensuring immune responses adapt to various pathogens.",
+            "wrongAnswer_2": "During isotype switching, T follicular helper cells (Tfh) induce naive B cells to undergo class switch recombination, leading to a direct change in secreted immunoglobulin isotypes without affecting membrane expression.",
+            "wrongAnswer_3": "Isotype switching occurs when different B cell clones independently undergo somatic hypermutation, resulting in various heavy chain variable region sequences and subsequent changes in isotype expression.",
+            "wrongAnswer_4": "Mature B cells initially produce secreted IgG, which then switches to IgM upon repeated antigen exposure. This ensures sustained immune memory by maintaining high-affinity antibodies in serum."
+          },
+          {
+            "question": "Why are the majority of VDJ recombination events non-productive, and what happens to lymphocytes undergoing such events?",
+            "goodAnswer": "A majority of VDJ recombination events are non-productive because of random joining of gene segments. This leads to frame-shift mutations or the introduction of stop codons. Lymphocytes undergoing non-productive rearrangements fail to express functional receptors and undergo apoptosis.",
+            "wrongAnswer_1": "Most VDJ recombination events are productive, meaning they successfully generate functional antigen receptors. Non-productive rearrangements occur rarely and do not affect lymphocyte survival but rather lead to isotype switching.",
+            "wrongAnswer_2": "Non-productive rearrangements occur due to the inability of the lymphocytes to complete DNA rearrangement. These lymphocytes will try again in a few days. Only after multiple attempts of productive rearrangements will they undergo apoptosis.",
+            "wrongAnswer_3": "Non-productive VDJ recombination leads to the expression of only the IgM receptor and does not affect the fate of the lymphocytes. Instead, it ensures that only cells with functional receptors undergo isotype switching.",
+            "wrongAnswer_4": "While many recombination events are non-productive, these lymphocytes do not undergo apoptosis. They continue to proliferate and differentiate into memory B cells, albeit without producing functional antibodies."
+          },
+          {
+            "question": "What happens to the majority of lymphocytes undergoing non-productive VDJ recombination events?",
+            "goodAnswer": "They undergo apoptosis due to the lack of a functional antigen receptor.",
+            "wrongAnswer_1": "They differentiate into regulatory T cells to maintain immune tolerance.",
+            "wrongAnswer_2": "They proceed with productive recombination in other gene segments.",
+            "wrongAnswer_3": "They become anergic and remain in the bone marrow.",
+            "wrongAnswer_4": "They differentiate into macrophages to engulf pathogens directly."
+          },
+          {
+            "question": "What happens to the heavy chain constant region gene during isotype switching, and how does this switching occur mechanistically?",
+            "goodAnswer": "Isotype switching occurs in secondary lymphoid organs after activation. It involves the direct switching of the heavy chain constant region gene by a process called class switch recombination (CSR). This switching is induced by cytokines, and the IgM-positive B cell can differentiate into IgG-, IgA-, or IgE-producing plasma cells.",
+            "wrongAnswer_1": "The heavy chain constant region gene undergoes random mutations during isotype switching. This mutation-driven switching occurs in the bone marrow before B cell activation. It allows IgM-positive B cells to differentiate into various isotypes independently of cytokine signals.",
+            "wrongAnswer_2": "Isotype switching involves the deletion of all downstream constant region genes. This results in a permanent loss of the ability to produce certain antibody types. For example, switching from IgM to IgG leads to the inability to produce IgA or IgE.",
+            "wrongAnswer_3": "The constant region genes are switched by a process called signal joint formation, which occurs in the thymus. This switching is regulated by T cell activation, and the IgM-positive B cell can only differentiate into IgG-producing cells.",
+            "wrongAnswer_4": "Isotype switching requires the production of new mRNA transcripts for each heavy chain constant region gene. This occurs through alternative splicing of pre-mRNA, leading to the regulated expression of different isotypes without changing the DNA sequence."
+          },
+          {
+            "question": "What are the key differences between membrane-bound and secreted forms of antibodies, and how does their production relate to isotype switching?",
+            "goodAnswer": "Membrane-bound antibodies lack the C-terminal tail and transmembrane region, while secreted antibodies possess these features. Isotype switching alters the heavy chain constant region but does not change the idiotype or variable region of the antibody.",
+            "wrongAnswer_1": "Secreted antibodies lack the C-terminal tail and transmembrane region, while membrane-bound antibodies possess these features. Isotype switching alters the idiotype but does not change the heavy chain constant region or variable region of the antibody.",
+            "wrongAnswer_2": "Membrane-bound antibodies have a longer C-terminal tail compared to secreted antibodies. Isotype switching only occurs in T cells and does not involve changes in the heavy chain constant region.",
+            "wrongAnswer_3": "Isotype switching causes a complete change in the idiotype, including both the heavy chain constant region and variable region. Both membrane-bound and secreted antibodies have the same C-terminal tail and transmembrane region.",
+            "wrongAnswer_4": "Membrane-bound antibodies are produced through direct translation of mRNA without any post-translational modifications. Isotype switching involves only T cells and does not occur in B cells."
+          },
+          {
+            "question": "How are changes in membrane mu, secreted mu, and membrane delta expression in mature B cells mediated?",
+            "goodAnswer": "They are mediated by RNA splicing.",
+            "wrongAnswer_1": "They are mediated by DNA recombination of the constant region genes.",
+            "wrongAnswer_2": "They are driven by T cell activation and cytokine signaling.",
+            "wrongAnswer_3": "They occur due to increased transcription of the delta chain gene.",
+            "wrongAnswer_4": "They are controlled by changes in the variable region of the heavy chain."
+          },
+          {
+            "question": "What happens to the heavy chain constant region gene during isotype switching, and how does this switching occur mechanistically?",
+            "goodAnswer": "Isotype switching does not involve changing the heavy chain variable region gene, but rather the constant region gene. This occurs by differential RNA processing of the primary transcript, leading to the expression of different heavy chain constant region genes.",
+            "wrongAnswer_1": "Isotype switching involves changing the heavy chain variable region gene to modify the antigen binding site of the antibody.",
+            "wrongAnswer_2": "The constant region gene is replaced entirely with a new gene during isotype switching.",
+            "wrongAnswer_3": "Isotype switching is mediated by DNA editing of the constant region gene to produce different forms of antibodies.",
+            "wrongAnswer_4": "Heavy chain constant region genes are all expressed simultaneously in mature B cells, and switching occurs by simultaneous translation of multiple transcripts."
+          }
+        ]
+      },
+      {
+        "title": "The MHC complex",
+        "quizzes": [
+          {
+            "question": "What is the function of TdT (terminal deoxynucleotidyl transferase) in VDJ recombination, and how does it contribute to junctional diversity?",
+            "goodAnswer": "TdT randomly adds non-template-driven nucleotides (N regions) at the junctions between V, D, and J segments during recombination. This addition of N regions increases the diversity of amino acids at the CDR3 loop of the immunoglobulin, which is part of the antigen-binding site.",
+            "wrongAnswer_1": "TdT removes excess nucleotides from the gene segments before forming the complete VDJ transcript, ensuring a consistent amino acid sequence at the antigen-binding site and maintaining specificity across all B cells.",
+            "wrongAnswer_2": "TdT is responsible for selecting which V, D, and J segments will be used in recombination, ensuring that only the most appropriate segments are chosen for different B cell clones.",
+            "wrongAnswer_3": "TdT induces isotype switching by adding nucleotides to the constant region of the heavy chain, allowing B cells to produce different antibody classes.",
+            "wrongAnswer_4": "TdT promotes the binding of transcription factors to the enhanceosome, which then activates the heavy chain locus and initiates VDJ recombination."
+          },
+          {
+            "question": "Which of the following statements correctly describes the process of isotype switching in B cells?",
+            "goodAnswer": "Isotype switching occurs when a naive B cell differentiates into a memory B cell, allowing the antibody to switch its effector function while maintaining antigen specificity by changing the constant region of the heavy chain. ",
+            "wrongAnswer_1": "Isotype switching takes place in T helper cells, where the TCR undergoes a change in constant region while keeping the variable region the same, which allows for different T cell subsets to recognize a wider range of antigens.",
+            "wrongAnswer_2": "Isotype switching in B cells involves the direct modification of DNA sequence in the heavy chain locus to alter the isotype, resulting in a permanent change in antibody function.",
+            "wrongAnswer_3": "Only IgM and IgD isotypes can undergo isotype switching, as they are the only ones expressed on the surface of naive B cells, and switching to other isotypes requires additional antigen exposure and cytokine signaling.",
+            "wrongAnswer_4": "Isotype switching is initiated by helper T cells, which directly induce changes in the B cell heavy chain genes by secreting specific transcription factors that control isotype switching in the bone marrow."
+          },
+          {
+            "question": "What are the key consequences of successful and unsuccessful VDJ recombination in the development of B cells?",
+            "goodAnswer": "Successful VDJ recombination on both heavy and light chains leads to the expression of functional IgM and results in the differentiation of a mature B cell. Unsuccessful recombination on the heavy chain will result in the inability to express a functional BCR and leads to apoptosis. If the light chain fails to rearrange successfully, the cell will try rearranging the lambda locus. Only if both kappa and lambda fail will the B cell undergo apoptosis.",
+            "wrongAnswer_1": "Unsuccessful VDJ recombination on the heavy chain leads to the expression of a non-functional BCR and results in the differentiation of a mature B cell. Successful VDJ recombination on both heavy and light chains will result in the inability to express IgM and leads to apoptosis. If the light chain fails to rearrange successfully, the cell will undergo apoptosis without attempting the lambda locus.",
+            "wrongAnswer_2": "Successful VDJ recombination on both heavy and light chains leads to the expression of functional IgM but prevents further differentiation into a mature B cell. Unsuccessful recombination on the heavy chain will cause temporary cell cycle arrest, allowing for another attempt at VDJ recombination. If the light chain fails to rearrange successfully, the cell will automatically undergo isotype switching.",
+            "wrongAnswer_3": "Unsuccessful VDJ recombination on the heavy chain leads to the immediate differentiation of a mature B cell, albeit with reduced immune function. Successful VDJ recombination on both heavy and light chains will result in the expression of IgD before IgM. If the light chain fails to rearrange successfully, the cell will attempt to switch to T cell development.",
+            "wrongAnswer_4": "Successful VDJ recombination on the heavy chain and unsuccessful recombination on the light chain leads to the differentiation of plasma cells. Unsuccessful recombination on the heavy chain results in the direct production of cytokines. If the light chain fails to rearrange successfully, the cell will automatically undergo apoptosis without attempting the lambda locus."
+          },
+          {
+            "question": "Why is it crucial for a pre-B cell to successfully complete both heavy and light chain VDJ recombination, and what happens if it fails at either step?",
+            "goodAnswer": "A pre-B cell must successfully complete both heavy and light chain VDJ recombination to progress in development. Successful heavy chain recombination leads to the expression of functional IgM and allows for further light chain rearrangement. If the heavy chain rearrangement fails, the cell undergoes apoptosis. Similarly, failure to successfully rearrange the light chain will result in the cell attempting to rearrange the lambda loci. Only if both succeed does it become an immature B cell that can express IgM on its surface.",
+            "wrongAnswer_1": "It is not mandatory for a pre-B cell to successfully complete both heavy and light chain VDJ recombination. If the heavy chain rearrangement fails, the cell will automatically attempt light chain recombination without undergoing apoptosis. Similarly, failing to successfully rearrange the light chain will cause the B cell to undergo isotype switching instead of attempting lambda locus rearrangement. Only if both heavy and light chain rearrangements fail will the cell die.",
+            "wrongAnswer_2": "A pre-B cell must successfully complete both heavy and light chain VDJ recombination. Successful heavy chain recombination leads to the immediate expression of both IgM and IgD on the cell surface, while successful light chain recombination allows for further heavy chain rearrangement. If the heavy chain rearrangement fails, the cell will undergo isotype switching. Similarly, failure to successfully rearrange the light chain will cause the cell to automatically pass into the T cell lineage.",
+            "wrongAnswer_3": "It is not essential for a pre-B cell to complete both heavy and light chain VDJ recombination. If the heavy chain rearrangement fails, the cell will automatically attempt kappa light chain rearrangement before lambda. Likewise, failing to successfully rearrange the light chain will cause the B cell to undergo clonal expansion instead of attempting further VDJ recombination. Only if both succeed does it become an immature B cell.",
+            "wrongAnswer_4": "Successful heavy chain recombination leads to the expression of functional IgD, which then triggers the light chain rearrangement process. If the heavy chain rearrangement fails, the cell will differentiate into a plasma cell. Similarly, failure to successfully rearrange the light chain will result in the cell undergoing cell cycle arrest. Only if both succeed does it become an immature B cell that can express IgM on its surface."
+          },
+          {
+            "question": "What are the essential steps involved in the process of isotype switching in B cells?",
+            "goodAnswer": "B cells initially express IgM and IgD through differential RNA splicing. Once activated, they undergo isotype switching, which involves changing the constant region of the heavy chain while maintaining the same variable region. This process is mediated by RNA splicing rather than DNA alteration, making it reversible.",
+            "wrongAnswer_1": "Isotype switching occurs when T cells are activated, allowing them to switch between different subtypes of T cell receptors (TCR) and acquire new effector functions. This process involves changing the constant region of the TCR, which enhances the T cell's ability to recognize a wider range of antigens.",
+            "wrongAnswer_2": "Mature B cells simultaneously express all antibody isotypes (IgM, IgD, IgG, IgA, and IgE) on their cell surface. When activated, they undergo isotype switching, which involves randomly selecting a new heavy chain constant region from the available options. This process ensures that the B cell can produce any isotype immediately without further differentiation.",
+            "wrongAnswer_3": "Isotype switching is initiated by direct antigen binding to the B cell receptor (BCR). This binding triggers a signal transduction cascade that leads to the deletion of unwanted heavy chain constant regions from the genome. As a result, the B cell can only produce a single isotype, which is determined by the antigen encountered.",
+            "wrongAnswer_4": "Before activation, all B cells express only IgM on their surface. To undergo isotype switching, they must first encounter an antigen and successfully complete VDJ recombination for both heavy and light chains. Once this occurs, they can then proceed to change the constant region of the antibody by deleting the existing mu (\u03bc) gene and inserting a new constant region from the available options."
+          },
+          {
+            "question": "Which of the following is NOT a consequence of incomplete or unsuccessful VDJ recombination in the development of B cells?",
+            "goodAnswer": "Leads to the expansion of a clone of lymphocytes with the same antigen specificity",
+            "wrongAnswer_1": "Results in the elimination of the B cell through apoptosis",
+            "wrongAnswer_2": "Contributes to the generation of a diverse antibody repertoire",
+            "wrongAnswer_3": "Causes the accumulation of non-functional B cells in the bone marrow",
+            "wrongAnswer_4": "Leads to the development of autoimmune diseases due to the presence of self-reactive B cells"
+          },
+          {
+            "question": "Which statement correctly describes the molecular basis of isotype switching in B cells?",
+            "goodAnswer": "Isotype switching occurs through an RNA-mediated process. Initially, all B cells express IgM and IgD due to differential splicing of the same primary transcript. When a B cell undergoes activation, it changes its isotype by undergoing a sequential DNA rearrangement process, leading to the expression of IgG, IgA, or IgE. This results in antibodies with different effector functions while maintaining the same antigen specificity.",
+            "wrongAnswer_1": "Isotype switching requires a T cell-independent activation of B cells, as it involves direct antigen binding to the IgM/IgD receptors, inducing a conformational change that leads to isotype switching. This process does not require cytokines or costimulatory signals from T cells.",
+            "wrongAnswer_2": "Isotype switching is initiated by random mutations in the constant region of the heavy chain gene. These mutations lead to changes in the amino acid sequence, resulting in different effector functions. This isotype switching process is independent of T cell interactions or cytokine signaling.",
+            "wrongAnswer_3": "Isotype switching involves a direct change in the DNA sequence of the heavy chain gene. This permanent alteration in the genetic code leads to the production of antibodies with different isotypes. Unlike RNA splicing, DNA modification makes isotype switching irreversible.",
+            "wrongAnswer_4": "Isotype switching requires only the presence of IL-2, which directly stimulates B cells to undergo heavy chain isotype switching. Other cytokines, such as IL-4 or IFN-\u03b3, do not play a role in this process. Therefore, only the detection of IL-2 can confirm whether a B cell has undergone isotype switching."
+          },
+          {
+            "question": "How does the process of isotype switching affect the antigen specificity of an antibody, and what remains unchanged in the antibody after switching?",
+            "goodAnswer": "Isotype switching does not alter antigen specificity; it only changes the effector functions of the antibody while retaining the same variable region, which is responsible for antigen binding.",
+            "wrongAnswer_1": "Isotype switching causes a change in antigen specificity by modifying the variable region of the antibody to recognize different epitopes.",
+            "wrongAnswer_2": "It alters the antigen specificity of an antibody by changing the VDJ joined regions, resulting in binding to different antigens.",
+            "wrongAnswer_3": "Isotype switching involves switching the constant region of the antibody, which directly affects antigen recognition and determines the cell's ability to bind to different antigens.",
+            "wrongAnswer_4": "The process of isotype switching leads to a complete change in antigen specificity by modifying the light chain of the antibody, resulting in the acquisition of new antigen binding properties."
+          },
+          {
+            "question": "Which of the following statements correctly describes the process of isotype switching in B cells?",
+            "goodAnswer": "Isotype switching changes the constant region of the heavy chain while maintaining the same variable region, allowing the antibody to acquire new effector functions while retaining its antigen specificity.",
+            "wrongAnswer_1": "Isotype switching involves altering the variable region of the heavy chain to recognize different antigens, while the constant region remains unchanged.",
+            "wrongAnswer_2": "It allows B cells to express both IgM and IgD simultaneously on their surface through differential RNA splicing, but it does not involve changes in the heavy chain constant region.",
+            "wrongAnswer_3": "Isotype switching only occurs in T cells and is responsible for generating different TCR isoforms, while B cells undergo a separate process for antibody class switching.",
+            "wrongAnswer_4": "It involves switching the light chain constant region while keeping the heavy chain constant, which allows the antibody to bind to different cell surface receptors with the same antigen specificity."
+          },
+          {
+            "question": "Which statement correctly describes the process of isotype switching in B cells?",
+            "goodAnswer": "Isotype switching changes the heavy chain constant region, allowing the antibody to switch between IgM/D and IgG/A/E, which alters its effector functions while antigen specificity remains unchanged.",
+            "wrongAnswer_1": "Isotype switching involves altering the variable region of the heavy chain to recognize different antigens, while the constant region remains the same.",
+            "wrongAnswer_2": "It causes a switch from membrane-bound IgM/D to secreted IgG/A/E, but the antigen specificity of the B cell remains unchanged. This switching process is induced by T cell independent antigens.",
+            "wrongAnswer_3": "Isotype switching can occur in all immune cells, including T cells, and it allows the cells to produce different types of cytokines for various immune responses.",
+            "wrongAnswer_4": "It refers to the process of switching from heavy chain to light chain production in B cell development, which occurs before the cell can respond to antigens and undergo isotype switching. It is T cell independent."
+          },
+          {
+            "question": "Which statement correctly describes the process of isotype switching in B cells?",
+            "goodAnswer": "Isotype switching occurs in mature B cells after they have been activated by an antigen, leading to a change in the heavy chain constant region while retaining the same variable region, which means the antigen specificity remains unchanged.",
+            "wrongAnswer_1": "Isotype switching involves changing the variable region of the heavy chain to recognize different antigens, making it a process of antigen-driven affinity maturation.",
+            "wrongAnswer_2": "During isotype switching, the constant region of the heavy chain is replaced, resulting in a complete loss of antigen specificity, allowing the B cell to bind to new antigens.",
+            "wrongAnswer_3": "Mature B cells can undergo isotype switching before T cell activation, leading to changes in the heavy chain constant region, which enhances the survival of B cells in the bone marrow.",
+            "wrongAnswer_4": "Isotype switching occurs when the VDJ recombination process is repeated in mature B cells, leading to a new combination of heavy chain constant regions, resulting in different effector functions and antigen specificity."
+          }
+        ]
+      }
+    ],
+    "team_name": "Health Hackers"
+  }
+}
